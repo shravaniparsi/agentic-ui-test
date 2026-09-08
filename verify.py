@@ -12,7 +12,7 @@ import argparse
 import json
 import time
 from pathlib import Path
-from typing import Optional
+from typing import Optional, Union
 
 from tqdm import tqdm
 
@@ -42,9 +42,9 @@ def verify_single(
     model_cfg: dict,
     condition: str,
     task_text: str,
-    actual_screenshot: str | Path,
+    actual_screenshot: Union[str, Path],
     text_reference: Optional[str] = None,
-    reference_screenshot: Optional[str | Path] = None,
+    reference_screenshot: Optional[Union[str, Path]] = None,
 ) -> dict:
     """Run a single verification call."""
     system, user = build_prompt(condition, task_text, text_reference)
@@ -66,7 +66,7 @@ def verify_single(
     return result
 
 
-def load_dataset(path: str | Path) -> list[dict]:
+def load_dataset(path: Union[str, Path]) -> list[dict]:
     """Load a JSONL dataset."""
     items = []
     with open(path) as f:
@@ -107,7 +107,7 @@ def load_completed(result_path: Path) -> set[str]:
 def run_batch(
     model_name: str,
     condition: str,
-    dataset_path: str | Path,
+    dataset_path: Union[str, Path],
     dry_run: bool = False,
 ) -> dict:
     """

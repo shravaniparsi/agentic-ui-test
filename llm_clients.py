@@ -11,7 +11,7 @@ import base64
 import json
 import time
 from pathlib import Path
-from typing import Optional
+from typing import Optional, Union
 
 import requests
 import urllib3
@@ -31,12 +31,12 @@ from config import (
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
-def _encode_image(image_path: str | Path) -> str:
+def _encode_image(image_path: Union[str, Path]) -> str:
     with open(image_path, "rb") as f:
         return base64.b64encode(f.read()).decode("utf-8")
 
 
-def _detect_media_type(image_path: str | Path) -> str:
+def _detect_media_type(image_path: Union[str, Path]) -> str:
     suffix = Path(image_path).suffix.lower()
     return {
         ".png": "image/png",
@@ -108,8 +108,8 @@ def _parse_response(raw_text: str) -> dict:
 def _build_multimodal_messages(
     system_prompt: str,
     user_prompt: str,
-    actual_screenshot: str | Path,
-    reference_screenshot: Optional[str | Path] = None,
+    actual_screenshot: Union[str, Path],
+    reference_screenshot: Optional[Union[str, Path]] = None,
 ) -> list[dict]:
     """Build OpenAI-format multimodal messages (shared by both backends)."""
     user_content = []
@@ -153,8 +153,8 @@ class OpenAIDirectClient:
         api_version: str,
         system_prompt: str,
         user_prompt: str,
-        actual_screenshot: str | Path,
-        reference_screenshot: Optional[str | Path] = None,
+        actual_screenshot: Union[str, Path],
+        reference_screenshot: Optional[Union[str, Path]] = None,
         supports_temperature: bool = True,
     ) -> dict:
         messages = _build_multimodal_messages(
@@ -234,8 +234,8 @@ class AnthropicDirectClient:
     def _build_anthropic_content(
         self,
         user_prompt: str,
-        actual_screenshot: str | Path,
-        reference_screenshot: Optional[str | Path] = None,
+        actual_screenshot: Union[str, Path],
+        reference_screenshot: Optional[Union[str, Path]] = None,
     ) -> list[dict]:
         """Build Anthropic-format content blocks (images use source.type=base64)."""
         content = []
@@ -266,8 +266,8 @@ class AnthropicDirectClient:
         api_version: str,
         system_prompt: str,
         user_prompt: str,
-        actual_screenshot: str | Path,
-        reference_screenshot: Optional[str | Path] = None,
+        actual_screenshot: Union[str, Path],
+        reference_screenshot: Optional[Union[str, Path]] = None,
         supports_temperature: bool = True,
     ) -> dict:
         content = self._build_anthropic_content(
@@ -357,8 +357,8 @@ class GatewayClient:
         api_version: str,
         system_prompt: str,
         user_prompt: str,
-        actual_screenshot: str | Path,
-        reference_screenshot: Optional[str | Path] = None,
+        actual_screenshot: Union[str, Path],
+        reference_screenshot: Optional[Union[str, Path]] = None,
         supports_temperature: bool = True,
     ) -> dict:
         messages = _build_multimodal_messages(
@@ -475,8 +475,8 @@ class GatewayAnthropicClient:
     def _build_anthropic_content(
         self,
         user_prompt: str,
-        actual_screenshot: str | Path,
-        reference_screenshot: Optional[str | Path] = None,
+        actual_screenshot: Union[str, Path],
+        reference_screenshot: Optional[Union[str, Path]] = None,
     ) -> list[dict]:
         content = []
         if reference_screenshot:
@@ -506,8 +506,8 @@ class GatewayAnthropicClient:
         api_version: str,
         system_prompt: str,
         user_prompt: str,
-        actual_screenshot: str | Path,
-        reference_screenshot: Optional[str | Path] = None,
+        actual_screenshot: Union[str, Path],
+        reference_screenshot: Optional[Union[str, Path]] = None,
         supports_temperature: bool = True,
     ) -> dict:
         content = self._build_anthropic_content(
@@ -623,8 +623,8 @@ class GatewayGeminiClient:
     def _build_gemini_parts(
         self,
         user_prompt: str,
-        actual_screenshot: str | Path,
-        reference_screenshot: Optional[str | Path] = None,
+        actual_screenshot: Union[str, Path],
+        reference_screenshot: Optional[Union[str, Path]] = None,
     ) -> list[dict]:
         """Build Gemini-format parts list (inline_data for images, text for prompt)."""
         parts = []
@@ -651,8 +651,8 @@ class GatewayGeminiClient:
         api_version: str,
         system_prompt: str,
         user_prompt: str,
-        actual_screenshot: str | Path,
-        reference_screenshot: Optional[str | Path] = None,
+        actual_screenshot: Union[str, Path],
+        reference_screenshot: Optional[Union[str, Path]] = None,
         supports_temperature: bool = True,
     ) -> dict:
         parts = self._build_gemini_parts(

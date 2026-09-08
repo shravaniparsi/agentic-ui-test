@@ -72,7 +72,7 @@ def cmd_sample(args):
     print("Now run: python3 scripts/collect_human_baseline.py label --in", out_path, "--out results/human-rater_A.jsonl --rater-id <id>")
 
 
-def _prompt_label(prompt: str) -> Optional[str]:
+def _prompt_label(prompt: str) -> str | None:
     while True:
         s = input(prompt).strip().upper()
         if s in ("S", "SUCCESS"):

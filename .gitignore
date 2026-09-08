@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Environment
+.env
+venv/
+.venv/
+
+# Data (large files, not committed)
+data/screenshots/
+data/references/
+data/human_trajectories/
+data/verification_dataset_textref_variants.jsonl
+data/iaa_sample.jsonl
+data/iaa_labels_A.jsonl
+data/iaa_labels_B.jsonl
+data/verification_dataset_xref.jsonl
+
+# Results (regeneratable)
+results/
+
+# Figures (regeneratable)
+figures/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
