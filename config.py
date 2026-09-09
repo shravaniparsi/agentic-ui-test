@@ -16,6 +16,7 @@ REFERENCES_DIR = DATA_DIR / "references"
 # Direct API keys (preferred — more reliable, no VPN needed)
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 # WLM LLM Gateway (fallback for models without a direct key)
 GATEWAY_OPENAI_URL = "https://REDACTED-INTERNAL-GATEWAY/v1/openai"
@@ -60,7 +61,7 @@ MODELS = {
     },
     "gemini-2.5-flash": {
         "provider": "gemini",
-        "model_id": "gemini-2.5-flash-image@001",
+        "model_id": "gemini-3.5-flash-lite",
         "model_version": "001",
         "api_version": "v1beta",
         "supports_temperature": True,
