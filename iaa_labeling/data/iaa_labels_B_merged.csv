@@ -1,0 +1,101 @@
+instance_id,label,task_text,domain
+vwa_shopping_397,failed,Buy the item on the page with a banana theme.,shopping
+vwa_classifieds_218,failed,Show me the most expensive collectible historical USA coin that is under $2000.,classifieds
+vwa_classifieds_121,failed,Navigate to the item on this page whose image consists solely of text.,classifieds
+vwa_reddit_182,failed,I am a student at the school in the image. Can you make a post asking for the best Indian food in the forum for the city my school is in and navigate to it?,reddit
+vwa_reddit_145,failed,Leave a comment in this post with the text as the trading loss of the OP in euros.,reddit
+vwa_reddit_119,failed,What is the birth year of the guy holding the goblet? Answer using the Wikipedia site in the second tab.,reddit
+vwa_classifieds_37,failed,Find all listings for this exact item on OSClass and compare its price to the cheapest listing on OneStopMarket. Return the link of the cheapest item on both sites.,classifieds
+vwa_classifieds_208,partial,"Identify the insect in the picture. Leave a comment with the title ""Questions"" and text containing the insect's identity, with the purpose of confirming with the seller.",classifieds
+vwa_shopping_431,failed,Help me find all items between $10 and $20 that look like the image below and put them in my cart.,shopping
+vwa_shopping_3,failed,"I am doing a market survey for one stop market, show me the most expensive red controller from ""PS4 accessories"" category",shopping
+vwa_classifieds_189,failed,Navigate to the item on the page where Mario is in the image.,classifieds
+vwa_shopping_346,failed,Prepend the country code of the country shown in the image to the phone number of my account profile.,shopping
+vwa_shopping_159,failed,Add something like what the person is covered with in a similar color to my wish list.,shopping
+vwa_classifieds_128,failed,Tell me the jersey numbers (in digits) in the image of this listing.,classifieds
+vwa_classifieds_126,failed,"Find me the most recently listed item in the ""Books"" category that references the person in the image.",classifieds
+vwa_classifieds_197,failed,"Navigate to the cheapest boat in the ""Boats"" category from Pennsylvania that has red highlights and is at least 30,000 dollars.",classifieds
+vwa_reddit_114,partial,"Navigate to the second most active post with a picture across f/washingtondc, f/vermont and f/nyc. What is in the picture?",reddit
+vwa_reddit_129,partial,Subscribe to the forum which is most likely to include discussions related to the image.,reddit
+vwa_shopping_251,failed,"I have a dozen wedding guests, can you order enough of the (non-alcoholic) white wine in the first row so each can get their own?",shopping
+vwa_shopping_357,failed,I want socks that are green. Can you find an image address of green socks from this page?,shopping
+vwa_classifieds_123,failed,Navigate to the item on this page which matches the color of the object being used by the person in the given image.,classifieds
+vwa_shopping_317,failed,Tell me the price of the 18 oz beer.,shopping
+vwa_classifieds_94,failed,Find the animal on this page that has someone riding it in the image.,classifieds
+vwa_shopping_65,failed,Tell me the price of the blue one in the first row.,shopping
+vwa_shopping_406,failed,Buy the cereal with a beach volleyball player on the packaging.,shopping
+vwa_shopping_46,partial,Add the red one in the second row of this page to my shopping cart.,shopping
+vwa_shopping_85,failed,Add the product that looks like an animal from my open tabs to the shopping cart,shopping
+vwa_shopping_156,failed,Find me a printer of the same brand as the product in this picture. It needs to be white and have at least 11 reviews with an average rating greater than 4.,shopping
+vwa_reddit_116,partial,Navigate to the most commented post of all time (with a picture) across f/aww and f/dataisbeautiful. Does the picture contain an animal (yes/no)?,reddit
+vwa_shopping_188,failed,Add the least expensive car that can hold 4 people to my shopping cart.,shopping
+vwa_shopping_345,failed,Prepend the country code of South Korea to the phone number of my account profile.,shopping
+vwa_reddit_185,failed,"Can you make a post in the /f/gaming forum titled 'Should I buy this? I can get a 25% discount', add the full sized version of the image on the shopping page most related to the wikipedia page? Finally, navigate to the comments section of it.",reddit
+vwa_classifieds_103,failed,"Explore the ""Arts + crafts"" category, and find the most recently listed item portraying the person in this image.",classifieds
+vwa_classifieds_57,failed,"Add a comment on the two most recently posted blue bikes between $100-150 with the title ""Interested in your bike"" and text ""Is it still available?"".",classifieds
+vwa_shopping_456,failed,Add to my cart a wig that looks most like this but with longer hair that is between $50 and $100.,shopping
+vwa_shopping_82,failed,Add the product that is darker in color from my open tabs to the shopping cart,shopping
+vwa_reddit_60,failed,What is the ISBN of the genre fiction book that takes OP the longest time to read in 2022? Answer using the information from the Wikipedia site in the second tab.,reddit
+vwa_shopping_55,failed,Add the first one in the second row to my wish list.,shopping
+vwa_classifieds_53,failed,"Search for ""gnome"" and find the item that would make the best gift for someone who goes to this school.",classifieds
+vwa_reddit_111,failed,Create a post for each of the following image in the most related forum.,reddit
+vwa_reddit_57,failed,"What is the sum of the area, in sq km, of the top two countries that has the most uniformly dense transportation network? Answer using the information from the Wikipedia site in the second tab.",reddit
+vwa_shopping_9,failed,"Show me the first item in the second row in the ""chairs"" search results by descending price.",shopping
+vwa_classifieds_195,failed,"Navigate to the most expensive yellow motorcycle in the ""Motorcycles"" category that costs at least 25,000 dollars.",classifieds
+vwa_shopping_109,partial,Can you add these items to the comparison page?,shopping
+vwa_classifieds_201,failed,Show me the latest listing of a snare drum with a black and red color scheme.,classifieds
+vwa_reddit_81,failed,Upvote all the posts that have a picture which contains cat on this page.,reddit
+vwa_reddit_64,failed,What are the colors of the flag used in the country that is the third largest producer of cherries in year 2012?,reddit
+vwa_shopping_359,failed,Buy the snacks with horses on the packaging (in any size).,shopping
+vwa_reddit_169,failed,Can you repost the image on this page that would fit best in f/sports with the same title and text as the original post and take me to the comments section of the post?,reddit
+vwa_classifieds_141,failed,"I recall seeing this exact item on the site, help me find the most recent post of it. I recall it was in the Farm + garden section.",classifieds
+vwa_shopping_200,failed,How much does the cheese with the orange rind weigh (in pounds)?,shopping
+vwa_shopping_285,failed,"I want to eat this food, but I am vegan. Can you order the closest thing to this from the ""Meat Substitutes"" category that fits my dietary requirements?",shopping
+vwa_classifieds_23,failed,How many miles does the second car in the third row have?,classifieds
+vwa_shopping_103,failed,"This looks fun and I'd like to buy this system too, can you add one to my wishlist?",shopping
+vwa_classifieds_180,failed,"Find the most recently listed coffee maker with a touch screen. Add a 5 star rating with title ""Great item"" and text ""Would recommend!"".",classifieds
+vwa_shopping_307,failed,Show me the product page of the 1.6 oz net weight ice cream.,shopping
+vwa_reddit_200,failed,Can you take me to the post on this page that is most related to the picture on this page?,reddit
+vwa_shopping_386,failed,"Can you buy the incorrectly labeled Bud Light in the ""Alcoholic Beverages"" category?",shopping
+vwa_shopping_374,failed,"Buy me a phone case (from the ""Basic Cases"" category) with a Barbie theme between 12-14 dollars.",shopping
+vwa_reddit_84,failed,Downvote the posts in odd row and upvote the posts in even row but skip the one with a fox icon.,reddit
+vwa_shopping_334,failed,Purchase the exact item shown in the image.,shopping
+vwa_classifieds_88,failed,"Find the most expensive red vehicle in the ""Cars + trucks"" category from Virginia with trees in the background of its image.",classifieds
+vwa_classifieds_171,failed,"Navigate to the oldest listing in the ""Cell phones"" category which has a hot pink screen in the image.",classifieds
+vwa_classifieds_144,failed,"I recall seeing this exact item of pillows in the Household section on the site, add a comment on its listing with the title ""Commentary"" and text ""How funky..."".",classifieds
+vwa_shopping_417,failed,"Buy the cheapest deoderant from the ""Deodorants & Antiperspirants"" category with the phrase 'killer' on the packaging.",shopping
+vwa_reddit_123,failed,"Find me a post in /f/wallstreetbets that illustrates the Amazon revenue in Q3 FY22, and tell me the revenue of the online store in Q3 FY22 (in billions).",reddit
+vwa_reddit_197,failed,Can you take me to the comments section of the most commented post (of all time) in f/food where the food is vegetarian?,reddit
+vwa_classifieds_181,failed,"Navigate to the most expensive item in the ""Video gaming"" category with the same item from the image.",classifieds
+vwa_shopping_75,failed,Add the first product in the second row to my wish list.,shopping
+vwa_classifieds_207,failed,Show me the cheapest headphones from the classifieds site that matches the color scheme of the item on OneStopMarket.,classifieds
+vwa_shopping_457,failed,Add to my cart a poster set that looks like this but is pink and not more than $7 more expensive.,shopping
+vwa_shopping_462,failed,Find a zebra-striped version of these heels from the same brand with the same pyramid shaped base. Add it to my shopping cart.,shopping
+vwa_shopping_195,failed,How much is the shoe with black pants in the picture on this page?,shopping
+vwa_shopping_393,failed,Buy the item on the page with Toys R Us on the packaging.,shopping
+vwa_reddit_88,failed,Upvote all the posts that do not contain headphones on this page.,reddit
+vwa_classifieds_6,failed,Return the links of the 3 most recent motorcycles within $1000 to $2000 that are not orange.,classifieds
+vwa_reddit_94,partial,Is there snow in the picture from the hottest post in f/EarthPorn?,reddit
+vwa_reddit_76,failed,"How much money does the person have? Downvote the post and create a comment with the following format: ""This is a <amount of money (in digits only)> bill from <country>."" (not including the double inverted commas), replacing <amount of money> with the actual amount of money the person has and <country> with the country that issue the bill.",reddit
+vwa_reddit_106,partial,Subscribe to a forum that contains the following picture.,reddit
+vwa_reddit_173,failed,Can you post a comment on the post with an 👽 in it with the text 'Scary!'?,reddit
+vwa_shopping_404,failed,Buy the snacks on the page with a basketball player on the packaging.,shopping
+vwa_classifieds_173,failed,"For the item on this page with a website address in the image, tell me the address.",classifieds
+vwa_shopping_363,partial,"Given the image, buy the shorts which contain the same object in the image on its design.",shopping
+vwa_shopping_424,failed,"Please add the cheapest anime poster (from the ""Posters & Print"" category) to my shopping cart",shopping
+vwa_classifieds_68,failed,Find the cheapest Tiger Woods video game item where the person on the cover has a red shirt.,classifieds
+vwa_shopping_282,failed,Can you order the shoes on this page that I would most likely wear if I was in the image?,shopping
+vwa_shopping_92,partial,Add something like the blue one to my shopping cart.,shopping
+vwa_classifieds_60,failed,Find the most expensive video game item where I can roleplay the situation in the image.,classifieds
+vwa_shopping_204,failed,Can you return an image url from an item on this page showing how someone might touch their toes in the gray tank top?,shopping
+vwa_shopping_108,partial,Add something like what the man is wearing to my wish list.,shopping
+vwa_reddit_176,failed,Can you comment on the food from the country in the image and about 🍜 saying 'Sooo tasty!'?,reddit
+vwa_shopping_398,failed,"Given the image, buy the item on this page (in any style) which contain the same object in the image on its design.",shopping
+vwa_shopping_311,failed,"Tell me the price of the item in the fourth row, second column.",shopping
+vwa_reddit_115,partial,"Navigate to the most controversial post of all time (with a picture) across f/Paterson, f/WaterburyCT and f/monitor. What operating system is the person using (windows/ubuntu/arch/macos)?",reddit
+vwa_reddit_46,failed,What is the 2022 total nominal GDP of the area that produces most sugarcane in the year of 2021? (in billion)? Answer using the information from the Wikipedia site in the second tab.,reddit
+vwa_classifieds_155,failed,"Explore the ""Computers"" category, and find the oldest listed item whose image shows a Microsoft Windows background.",classifieds
+vwa_reddit_124,failed,"Find me a post in /f/dataisbeautiful that illustrates the Microsoft revenue in 1985, and tell me the revenue of the whole company in 1985 (in billions).",reddit
+vwa_shopping_80,failed,What is the price range for products in the last row?,shopping
+vwa_reddit_35,failed,Navigate to the comments section of the latest image post in the /f/washingtondc subreddit that contains trees.,reddit
+vwa_shopping_136,failed,Return an image link of an image showing how this item looks like from above.,shopping

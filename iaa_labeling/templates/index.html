@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IAA Labeling — Failure Type Classification</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #1a1a2e; color: #e0e0e0; height: 100vh; overflow: hidden; }
+        .layout { display: flex; height: 100vh; }
+        .sidebar { width: 280px; min-width: 280px; background: #16213e; padding: 20px; display: flex; flex-direction: column; border-right: 2px solid #0f3460; }
+        .sidebar h1 { font-size: 16px; color: #00d9ff; margin-bottom: 5px; }
+        .sidebar .subtitle { font-size: 12px; color: #636e72; margin-bottom: 15px; }
+        .progress-bar { width: 100%; height: 8px; background: #0f3460; border-radius: 4px; overflow: hidden; margin-bottom: 5px; }
+        .progress-fill { height: 100%; background: #00d9ff; transition: width 0.3s; }
+        .progress-text { font-size: 12px; color: #00d9ff; margin-bottom: 15px; }
+        .task-box { flex: 1; overflow-y: auto; margin-bottom: 15px; }
+        .domain-badge { display: inline-block; padding: 3px 10px; background: #533483; border-radius: 10px; font-size: 11px; margin-bottom: 8px; }
+        .task-text { font-size: 13px; line-height: 1.5; padding: 10px; background: #0f3460; border-radius: 6px; }
+        .legend { display: flex; flex-direction: column; gap: 6px; margin-bottom: 15px; padding: 10px; background: #0f3460; border-radius: 6px; }
+        .legend-item { display: flex; align-items: center; gap: 8px; font-size: 12px; }
+        .legend-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+        .btn { width: 100%; padding: 16px; border: none; border-radius: 8px; font-size: 14px; font-weight: 600; cursor: pointer; transition: all 0.15s; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; }
+        .btn:hover { transform: scale(1.02); box-shadow: 0 4px 15px rgba(0,0,0,0.3); }
+        .btn:active { transform: scale(0.98); }
+        .btn-obvious { background: #e17055; color: white; }
+        .btn-obvious:hover { background: #d63031; }
+        .btn-deceptive { background: #6c5ce7; color: white; }
+        .btn-deceptive:hover { background: #5f27cd; }
+        .btn-partial { background: #fdcb6e; color: #2d3436; }
+        .btn-partial:hover { background: #f39c12; }
+        .btn:disabled { opacity: 0.4; cursor: not-allowed; transform: none; }
+        .shortcut { font-size: 10px; opacity: 0.7; margin-top: 3px; }
+        .main { flex: 1; display: flex; align-items: center; justify-content: center; padding: 20px; overflow: auto; }
+        .main img { max-width: 100%; max-height: 100%; border-radius: 8px; border: 2px solid #0f3460; object-fit: contain; }
+        .done-message { text-align: center; padding: 60px 20px; }
+        .done-message h2 { color: #00b894; font-size: 28px; margin-bottom: 15px; }
+        .done-message p { font-size: 16px; color: #b2bec3; }
+    </style>
+</head>
+<body>
+    <div class="layout">
+        <div class="sidebar">
+            <h1>IAA Labeling</h1>
+            <div class="subtitle">Failure Type Classification</div>
+
+            <div class="progress-text">{{ completed }} / {{ total }}</div>
+            <div class="progress-bar">
+                <div class="progress-fill" style="width: {{ (completed / total * 100) if total > 0 else 0 }}%"></div>
+            </div>
+
+            {% if current %}
+            <div class="task-box">
+                <span class="domain-badge">{{ current.domain }}</span>
+                <div class="task-text">{{ current.task_text }}</div>
+            </div>
+
+            <div class="legend">
+                <div class="legend-item"><div class="legend-dot" style="background: #e17055;"></div> <strong>Failed</strong> — Task clearly not done</div>
+                <div class="legend-item"><div class="legend-dot" style="background: #fdcb6e;"></div> <strong>Partial</strong> — Some progress made</div>
+            </div>
+
+            <button class="btn btn-obvious" onclick="setLabel('failed')">
+                FAILED <div class="shortcut">Press 1</div>
+            </button>
+            <button class="btn btn-partial" onclick="setLabel('partial')">
+                PARTIAL <div class="shortcut">Press 2</div>
+            </button>
+
+            {% else %}
+            <div class="done-message">
+                <h2>All Done!</h2>
+                <p>Labeled all {{ total }} instances.</p>
+                <p style="margin-top: 10px; font-size: 12px;">Saved to: <code>iaa_labels.csv</code></p>
+            </div>
+            {% endif %}
+        </div>
+
+        <div class="main">
+            {% if current %}
+            <img src="/screenshot/{{ current.instance_id }}" alt="Screenshot">
+            {% endif %}
+        </div>
+    </div>
+
+    <script>
+        const instanceId = "{{ current.instance_id if current else '' }}";
+
+        function setLabel(label) {
+            if (!instanceId) return;
+            document.querySelectorAll('.btn').forEach(b => b.disabled = true);
+
+            fetch('/label', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ instance_id: instanceId, label: label })
+            })
+            .then(r => r.json())
+            .then(() => setTimeout(() => location.reload(), 150));
+        }
+
+        document.addEventListener('keydown', function(e) {
+            if (e.key === '1') setLabel('failed');
+            if (e.key === '2') setLabel('partial');
+        });
+    </script>
+</body>
+</html>
