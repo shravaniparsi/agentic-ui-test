@@ -9,6 +9,7 @@ The correct client is selected based on the model's "provider" field in config.
 """
 import base64
 import json
+import os
 import time
 from pathlib import Path
 from typing import Optional, Union
@@ -19,6 +20,7 @@ import urllib3
 from config import (
     OPENAI_API_KEY,
     ANTHROPIC_API_KEY,
+    GEMINI_API_KEY,
     GATEWAY_OPENAI_URL,
     GATEWAY_ANTHROPIC_URL,
     GATEWAY_GEMINI_URL,
@@ -608,17 +610,17 @@ class GatewayAnthropicClient:
                 time.sleep(2 ** attempt)
 
 
-class GatewayGeminiClient:
-    """Client that calls Gemini models through the WLM LLM Gateway's Vertex-style endpoint."""
+class GeminiDirectClient:
+    """Client that calls Gemini models directly through Google's API."""
 
     def __init__(self):
         self.session = requests.Session()
+        self.api_key = os.getenv("GEMINI_API_KEY")
+        if not self.api_key:
+            raise ValueError("GEMINI_API_KEY not found in environment")
         self.session.headers.update({
             "Content-Type": "application/json",
-            "x-goog-api-key": GATEWAY_KEY,
-            **GATEWAY_HEADERS,
         })
-        self.session.verify = False
 
     def _build_gemini_parts(
         self,
@@ -669,7 +671,7 @@ class GatewayGeminiClient:
         if supports_temperature:
             payload["generation_config"]["temperature"] = 0.01
 
-        url = f"{GATEWAY_GEMINI_URL}/{model_id}:generateContent"
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_id}:generateContent?key={self.api_key}"
 
         for attempt in range(MAX_RETRIES):
             try:
@@ -707,12 +709,49 @@ class GatewayGeminiClient:
                     }
                 time.sleep(2 ** attempt)
 
+    def generate_text(
+        self,
+        model_id: str,
+        model_version: str,
+        api_version: str,
+        prompt: str,
+        temperature: float = 0.01,
+        max_tokens: int = 512,
+        supports_temperature: bool = True,
+    ) -> str:
+        payload = {
+            "contents": [{"role": "user", "parts": [{"text": prompt}]}],
+            "generation_config": {
+                "max_output_tokens": max_tokens,
+            },
+        }
+        if supports_temperature:
+            payload["generation_config"]["temperature"] = temperature
+
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_id}:generateContent?key={self.api_key}"
+
+        for attempt in range(MAX_RETRIES):
+            try:
+                resp = self.session.post(url, json=payload, timeout=REQUEST_TIMEOUT)
+                resp.raise_for_status()
+                data = resp.json()
+                for candidate in data.get("candidates", []):
+                    for part in candidate.get("content", {}).get("parts", []):
+                        if "text" in part:
+                            return part["text"].strip()
+                return ""
+            except Exception as e:
+                if attempt == MAX_RETRIES - 1:
+                    raise
+                time.sleep(2 ** attempt)
+
 
 def get_client(provider: str = "openai"):
     """Return the appropriate client based on the model's provider field.
 
     Priority for OpenAI models: direct API key > gateway.
     Priority for Anthropic models: direct API key > gateway (Anthropic endpoint).
+    Priority for Gemini models: direct API key > gateway (Gemini Vertex-format).
     Gateway provider: always uses the WLM gateway (OpenAI-format endpoint).
     """
     if provider == "gateway":
@@ -720,6 +759,9 @@ def get_client(provider: str = "openai"):
         return GatewayClient()
 
     if provider == "gemini":
+        if GEMINI_API_KEY:
+            print("[LLM Client] Using Gemini API directly")
+            return GeminiDirectClient()
         print("[LLM Client] Using WLM LLM Gateway (Gemini Vertex-format)")
         return GatewayGeminiClient()
 
