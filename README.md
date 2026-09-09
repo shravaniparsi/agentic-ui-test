@@ -15,7 +15,7 @@ python verify.py --model gpt-4.1 --condition B --dataset data/verification_datas
 ```
 ├── config.py                  # Model configs, API keys, paths
 ├── verify.py                  # Core verification runner
-├── llm_clients.py             # OpenAI, Anthropic, Gateway clients
+├── llm_clients.py             # OpenAI, Anthropic, Gemini clients
 ├── requirements.txt
 ├── .env.example
 ├── data/

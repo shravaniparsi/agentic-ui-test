@@ -14,7 +14,6 @@ Copy `.env.example` to `.env` and fill in:
 
 - `OPENAI_API_KEY` — for GPT-4.1, GPT-4.1 Mini, GPT-4.1 Nano
 - `ANTHROPIC_API_KEY` — for Claude Sonnet 4
-- `REDACTED_GATEWAY_KEY` — fallback for Gemini via Walmart LLM Gateway
 
 ## Data Preparation
 

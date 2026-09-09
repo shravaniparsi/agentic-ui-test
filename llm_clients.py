@@ -1,8 +1,8 @@
 """
-LLM client supporting three backends:
+LLM client supporting direct API backends:
   1. Direct OpenAI API (set OPENAI_API_KEY in .env)
   2. Direct Anthropic API (set ANTHROPIC_API_KEY in .env)
-  3. WLM LLM Gateway (fallback — set REDACTED_GATEWAY_KEY in .env)
+  3. Direct Gemini API (set GEMINI_API_KEY in .env)
 
 All backends share the same interface so verify.py doesn't need to change.
 The correct client is selected based on the model's "provider" field in config.
@@ -21,11 +21,6 @@ from config import (
     OPENAI_API_KEY,
     ANTHROPIC_API_KEY,
     GEMINI_API_KEY,
-    GATEWAY_OPENAI_URL,
-    GATEWAY_ANTHROPIC_URL,
-    GATEWAY_GEMINI_URL,
-    GATEWAY_KEY,
-    GATEWAY_HEADERS,
     MAX_RETRIES,
     REQUEST_TIMEOUT,
 )
@@ -747,34 +742,15 @@ class GeminiDirectClient:
 
 
 def get_client(provider: str = "openai"):
-    """Return the appropriate client based on the model's provider field.
-
-    Priority for OpenAI models: direct API key > gateway.
-    Priority for Anthropic models: direct API key > gateway (Anthropic endpoint).
-    Priority for Gemini models: direct API key > gateway (Gemini Vertex-format).
-    Gateway provider: always uses the WLM gateway (OpenAI-format endpoint).
-    """
-    if provider == "gateway":
-        print("[LLM Client] Using WLM LLM Gateway (OpenAI-format)")
-        return GatewayClient()
-
+    """Return the appropriate client based on the model's provider field."""
     if provider == "gemini":
-        if GEMINI_API_KEY:
-            print("[LLM Client] Using Gemini API directly")
-            return GeminiDirectClient()
-        print("[LLM Client] Using WLM LLM Gateway (Gemini Vertex-format)")
-        return GatewayGeminiClient()
+        print("[LLM Client] Using Gemini API directly")
+        return GeminiDirectClient()
 
     if provider == "anthropic":
-        if ANTHROPIC_API_KEY:
-            print("[LLM Client] Using Anthropic API directly")
-            return AnthropicDirectClient()
-        print("[LLM Client] Using WLM LLM Gateway (Anthropic /v1/messages)")
-        return GatewayAnthropicClient()
+        print("[LLM Client] Using Anthropic API directly")
+        return AnthropicDirectClient()
 
     # Default: openai provider
-    if OPENAI_API_KEY:
-        print("[LLM Client] Using OpenAI API directly")
-        return OpenAIDirectClient()
-    print("[LLM Client] Using WLM LLM Gateway (OpenAI)")
-    return GatewayClient()
+    print("[LLM Client] Using OpenAI API directly")
+    return OpenAIDirectClient()

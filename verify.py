@@ -1,6 +1,6 @@
 """
 Core verification function and batch runner.
-Supports OpenAI, Anthropic (direct API), and WLM LLM Gateway backends.
+Supports OpenAI, Anthropic, and Gemini direct API backends.
 
 Usage:
     python verify.py --model gpt-4.1 --condition A --dataset data/verification_dataset.jsonl
