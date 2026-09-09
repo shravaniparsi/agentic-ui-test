@@ -7,12 +7,17 @@ Generates Annotator B labels for inter-annotator agreement study.
 import argparse
 import csv
 import json
+import os
 import sys
 import time
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
+
+# Load .env file
+from dotenv import load_dotenv
+load_dotenv(ROOT / ".env")
 
 SCREENSHOTS_DIR = ROOT / "data" / "screenshots"
 

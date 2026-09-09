@@ -1,0 +1,22 @@
+3-Category IAA Results
+=====================
+Annotators: Claude Sonnet 4 (A) vs GPT-4.1 (B)
+Taxonomy: obvious / deceptive / partial
+Instances: 100
+Valid (no errors): 100
+Cohen's kappa: 0.236
+Agreement rate: 0.790
+
+Label distributions:
+  Annotator A: {'deceptive': 96, 'obvious': 4}
+  Annotator B: {'deceptive': 75, 'obvious': 13, 'partial': 12}
+
+Confusion matrix (rows=A, cols=B):
+     obvious: [4, 0, 0]
+   deceptive: [9, 75, 12]
+     partial: [0, 0, 0]
+
+2-category kappa: 0.000
+
+Interpretation (Landis & Koch):
+  Fair agreement (0.2 <= kappa < 0.4) - taxonomy should be treated as EXPLORATORY
