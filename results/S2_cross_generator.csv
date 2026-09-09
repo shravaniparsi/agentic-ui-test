@@ -1,0 +1,6 @@
+model,n_joint,A_acc,B_self_acc,B_claude_acc,lift_self_pp,lift_claude_pp,mcnemar_chi2,mcnemar_p,bonferroni_sig
+gpt-4.1-nano,29,0.753,0.808,0.803,5.5,5.0,N/A,0.3532,False
+gpt-4.1-mini,47,0.612,0.796,0.728,18.4,11.6,N/A,0.0131,False
+gpt-4.1,29,0.692,0.782,0.776,9.0,8.4,N/A,0.0158,False
+claude-sonnet-4,25,0.766,0.847,0.812,8.1,4.6,N/A,0.0719,False
+gemini-2.5-flash,60,0.782,0.837,0.723,5.5,-5.9,N/A,0.0001,True
