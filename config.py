@@ -13,23 +13,12 @@ SCREENSHOTS_DIR = DATA_DIR / "screenshots"
 REFERENCES_DIR = DATA_DIR / "references"
 
 # ─── API Backend Selection ───────────────────────────────────────────────────
-# Direct API keys (preferred — more reliable, no VPN needed)
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-# WLM LLM Gateway (fallback for models without a direct key)
-GATEWAY_OPENAI_URL = "https://REDACTED-INTERNAL-GATEWAY/v1/openai"
-GATEWAY_ANTHROPIC_URL = "https://REDACTED-INTERNAL-GATEWAY/v1/messages"
-GATEWAY_GEMINI_URL = "https://REDACTED-INTERNAL-GATEWAY/v1beta/models"
-GATEWAY_KEY = os.getenv("REDACTED_GATEWAY_KEY")
-GATEWAY_HEADERS = {
-    "REDACTED_GATEWAY_HEADER.USER_TYPE": os.getenv("LLM_USER_TYPE", "NO_END_USER"),
-    "REDACTED_GATEWAY_HEADER.USER_NAME": os.getenv("LLM_USER_NAME", "REDACTED_TEAM_ID@walmart.com"),
-}
-
 # ─── Models ──────────────────────────────────────────────────────────────────
-# "provider" determines which client to use: "openai", "anthropic", or "gateway"
+# "provider" determines which client to use: "openai", "anthropic", or "gemini"
 MODELS = {
     "gpt-4.1": {
         "provider": "openai",
