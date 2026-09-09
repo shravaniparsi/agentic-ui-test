@@ -1,0 +1,37 @@
+{
+  "gemini_analysis": {
+    "description": "Gemini overconfidence analysis",
+    "findings": [
+      "Gemini is overconfident even when wrong (mean confidence 9.5)",
+      "Text refs hurt Gemini in 39 instances, help in 87 instances",
+      "Net effect: +48 instances helped",
+      "Key issue: Gemini hallucinates success based on text ref rather than screenshot"
+    ]
+  },
+  "qualitative_examples": {
+    "description": "Qualitative failure analysis",
+    "findings": [
+      "689 instances where text refs help across all models",
+      "210 instances where text refs hurt across all models",
+      "Most informative examples show clear reasoning improvements",
+      "Hurt cases often involve Gemini hallucinating based on text ref"
+    ]
+  },
+  "cost_analysis": {
+    "description": "Cost and latency analysis",
+    "findings": [
+      "Gemini cheapest: $0.18 for 909 instances",
+      "GPT-4.1 most expensive: $9.73 for 909 instances",
+      "Visual refs add $0.14-$7.27 per model",
+      "Text verification: ~5 min, visual verification: ~15 min"
+    ]
+  },
+  "confidence_analysis": {
+    "description": "Confidence threshold analysis",
+    "findings": [
+      "Models are overconfident (most confidence > 9)",
+      "Precision-recall curves not well-behaved",
+      "Claude shows best calibration (ECE=0.011 in Condition A)"
+    ]
+  }
+}
