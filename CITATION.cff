@@ -1,23 +1,24 @@
 cff-version: 1.2.0
-title: "Can LLM Web Agents Verify Their Own Work?"
+title: "Can LLM Web Agents Verify Their Own Work? The Role of Visual and Textual References in Post-Hoc Verification"
 message: "If you use this software, please cite it using the metadata from this file."
 type: software
 authors:
   - family-names: Thatikonda
-    given-names: Vishwanath
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    given-names: Vishwak
+    orcid: "https://orcid.org/0009-0009-5828-5903"
   - family-names: Parsi
     given-names: Shravani
-repository-code: "https://github.com/shravaniparsi/visual-self-verify"
+repository-code: "https://github.com/shravaniparsi/agentic-ui-test"
 license: MIT
 preferred-citation:
   type: article
-  title: "Can LLM Web Agents Verify Their Own Work?"
+  title: "Can LLM Web Agents Verify Their Own Work? The Role of Visual and Textual References in Post-Hoc Verification"
   authors:
     - family-names: Thatikonda
-      given-names: Vishwanath
+      given-names: Vishwak
+      orcid: "https://orcid.org/0009-0009-5828-5903"
     - family-names: Parsi
       given-names: Shravani
   journal: "IEEE Access"
   year: 2026
-  note: "Manuscript ID: Access-2026-32332"
+  note: "Manuscript ID: Access-2026-32332, under revision"

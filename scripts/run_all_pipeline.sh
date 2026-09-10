@@ -80,20 +80,24 @@ if [[ "$DRY_RUN" -eq 1 ]]; then
 fi
 
 echo ""
-echo "[2/4] Compute aggregate metrics"
-python3 analysis/compute_metrics.py --results-dir results/
+echo "[2/4] Supplement tables (S1, S2, S2b, T1/S3 + matched task-ID lists)"
+python3 scripts/recompute_final.py
 
 echo ""
-echo "[3/4] Generate standard figures"
-python3 analysis/plot_figures.py --results-dir results/
+echo "[3/4] Revision analyses (confusion matrices, ITT, calibration, cost, Bonferroni)"
+python3 scripts/full_revision_analysis.py
+python3 scripts/revision_analysis.py
+python3 scripts/threshold_policy_analysis.py
+python3 scripts/run_nonllm_baselines.py --search
 
 echo ""
-echo "[4/4] Run deep analysis package"
-python3 scripts/deep_analysis.py
+echo "[4/4] Manuscript figures"
+python3 scripts/make_manuscript_figures.py
 
 echo ""
 echo "Pipeline complete."
 echo "Outputs:"
-echo "  - results/analysis.csv"
-echo "  - results/{model}_{condition}.jsonl"
+echo "  - {model}_{condition}.jsonl   (repo root)"
+echo "  - results/S1_paired_tests.csv, S2_*.csv, T1_and_S3_error_rates.csv"
+echo "  - results/S1_task_ids/"
 echo "  - figures/"
