@@ -27,7 +27,9 @@ import re
 from pathlib import Path
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
-SRC = DATA_DIR / "verification_dataset.jsonl"
+# the base dataset carries no text_reference; variants derive from the
+# generated reference set produced by scripts/regenerate_text_refs.py
+SRC = DATA_DIR / "verification_dataset_textref.jsonl"
 DST = DATA_DIR / "verification_dataset_textref_variants.jsonl"
 
 NOISY_FILLER = (
