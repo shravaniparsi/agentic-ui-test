@@ -147,6 +147,69 @@ def fig7_confusion():
     plt.close(fig)
 
 
+def fig1_framework():
+    """Schematic of the verification framework and the four conditions."""
+    fig, ax = plt.subplots(figsize=(11, 3.2))
+    ax.axis("off")
+    box = dict(boxstyle="round,pad=0.45", linewidth=1.2)
+    ax.text(0.11, 0.80, "Task description\n$t$", ha="center", va="center",
+            bbox={**box, "facecolor": "#EAF0F8", "edgecolor": "#4C72B0"}, fontsize=9)
+    ax.text(0.11, 0.46, "Agent final\nscreenshot $s$", ha="center", va="center",
+            bbox={**box, "facecolor": "#EAF0F8", "edgecolor": "#4C72B0"}, fontsize=9)
+    ax.text(0.11, 0.12, "Reference\n(text and/or image)", ha="center", va="center",
+            bbox={**box, "facecolor": "#FBEDE2", "edgecolor": "#DD8452"}, fontsize=9)
+    ax.text(0.40, 0.46, "Prompt\nconstruction", ha="center", va="center",
+            bbox={**box, "facecolor": "#FFFFFF", "edgecolor": "#333333"}, fontsize=9)
+    ax.text(0.62, 0.46, "LMM\nverifier", ha="center", va="center",
+            bbox={**box, "facecolor": "#E8F2EA", "edgecolor": "#55A868"}, fontsize=9)
+    ax.text(0.86, 0.46, "verdict $\\in$ {SUCCESS,\nFAILURE}\nconfidence 1-10\nreasoning",
+            ha="center", va="center",
+            bbox={**box, "facecolor": "#FFFFFF", "edgecolor": "#333333"}, fontsize=8.5)
+    for y in (0.80, 0.46, 0.12):
+        ax.annotate("", xy=(0.30, 0.46), xytext=(0.19, y),
+                    arrowprops=dict(arrowstyle="->", color="#555555", lw=1.1))
+    for x0, x1 in ((0.50, 0.545), (0.70, 0.755)):
+        ax.annotate("", xy=(x1, 0.46), xytext=(x0, 0.46),
+                    arrowprops=dict(arrowstyle="->", color="#555555", lw=1.1))
+    conds = ("A: no reference      B: text reference      "
+             "C: visual reference      D: text + visual")
+    ax.text(0.5, -0.04, conds, ha="center", va="center", fontsize=9,
+            bbox=dict(boxstyle="round,pad=0.4", facecolor="#F5F5F5", edgecolor="#999999"))
+    ax.set_xlim(0.02, 0.98); ax.set_ylim(-0.10, 0.94)
+    fig.tight_layout()
+    fig.savefig(FIG / "fig1_framework.png", dpi=200)
+    plt.close(fig)
+
+
+def fig5_reliability_ab():
+    """Reliability diagrams for Conditions A and B across the five verifiers."""
+    fig, axes = plt.subplots(1, 2, figsize=(11, 4.2), sharey=True)
+    for ax, cond in zip(axes, ["A", "B"]):
+        ax.plot([0, 1], [0, 1], "--", color="grey", lw=1, label="perfect calibration")
+        for k, m in enumerate(MODELS):
+            recs = [r for r in DATA[(m, cond)] if r.get("confidence") is not None]
+            xs, ys = [], []
+            for lo in range(1, 11):
+                b = [r for r in recs if r["confidence"] == lo]
+                if len(b) < 5:
+                    continue
+                xs.append(lo / 10.0)
+                ys.append(sum(1 for r in b if r["verdict"] == r["ground_truth"]) / len(b))
+            if xs:
+                ax.plot(xs, ys, marker="o", ms=4, lw=1.4, label=LABELS[m],
+                        color=(COLORS + ["#8172B3"])[k])
+        ax.set_title(f"Condition {cond} ({CONDLAB[cond].split('(')[1][:-1]})", fontsize=10)
+        ax.set_xlabel("Self-reported confidence")
+        ax.set_xlim(0, 1.05); ax.set_ylim(0, 1.05); ax.grid(alpha=0.3)
+    axes[0].set_ylabel("Empirical accuracy")
+    axes[1].legend(fontsize=7.5, loc="lower right")
+    fig.suptitle("Reliability Diagrams, Conditions A and B", fontsize=11)
+    fig.tight_layout(rect=[0, 0, 1, 0.95])
+    fig.savefig(FIG / "fig5_reliability_ab.png", dpi=200)
+    plt.close(fig)
+
+
 if __name__ == "__main__":
-    fig2_and_3(); fig4_failure_type(); fig7_confusion()
-    print("wrote fig2_accuracy.png, fig3_f1.png, fig4_failure_type.png, fig7_confusion.png")
+    fig1_framework(); fig2_and_3(); fig4_failure_type()
+    fig5_reliability_ab(); fig7_confusion()
+    print("wrote fig1, fig2, fig3, fig4, fig5, fig7")
