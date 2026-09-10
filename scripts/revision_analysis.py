@@ -103,26 +103,18 @@ def compute_basic_metrics(records: list[dict]) -> dict:
 # ── 1. Aligned-subset analysis ───────────────────────────────────────────────
 
 def find_visual_subset_ids() -> set[str]:
-    """Canonical visual-reference subset: derived from on-disk `data/references/`.
+    """Canonical visual-reference subset.
 
-    Each reference file is named `<domain>_<idx>_human_ref.jpeg` and corresponds
-    to instance_id `vwa_<domain>_<idx>`. This avoids polluting the subset with
-    runs that happened to write a row but had no actual reference image.
+    Reads data/visual_subset_ids.txt, the same 147-instance list used by
+    recompute_final.py and run_nonllm_baselines.py. (An earlier version globbed
+    data/references/ for a `<domain>_<idx>_human_ref.jpeg` naming convention that
+    extract_human_references.py does not produce, so it silently matched nothing
+    and every aligned-subset cell came out as n=0.)
     """
-    ref_dir = PROJECT_ROOT / "data" / "references"
-    ids: set[str] = set()
-    if not ref_dir.exists():
-        return ids
-    for fname in ref_dir.iterdir():
-        name = fname.name
-        if not name.endswith("_human_ref.jpeg"):
-            continue
-        base = name[: -len("_human_ref.jpeg")]
-        if "_" not in base:
-            continue
-        domain, idx = base.rsplit("_", 1)
-        ids.add(f"vwa_{domain}_{idx}")
-    return ids
+    path = PROJECT_ROOT / "data" / "visual_subset_ids.txt"
+    if not path.exists():
+        return set()
+    return {line.strip() for line in open(path) if line.strip()}
 
 
 def aligned_subset_analysis():
