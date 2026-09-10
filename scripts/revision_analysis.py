@@ -35,24 +35,24 @@ RESULTS_DIR = PROJECT_ROOT / "results"
 FIGURES_DIR = PROJECT_ROOT / "figures"
 FIGURES_DIR.mkdir(exist_ok=True)
 
-MODELS = ["gpt-4.1-nano", "gpt-4.1-mini", "gpt-4.1", "claude-sonnet-4", "gemini-2.5-flash"]
+MODELS = ["gpt-4.1-nano", "gpt-4.1-mini", "gpt-4.1", "claude-sonnet-4", "gemini-3.6-flash"]
 MODEL_LABELS = {
     "gpt-4.1-nano": "GPT-4.1 Nano",
     "gpt-4.1-mini": "GPT-4.1 Mini",
     "gpt-4.1": "GPT-4.1",
     "claude-sonnet-4": "Claude Sonnet 4",
-    "gemini-2.5-flash": "Gemini 2.5 Flash",
+    "gemini-3.6-flash": "Gemini 3.6 Flash",
 }
 CONDITIONS = ["A", "B", "C", "D"]
 
 # Cost per 1K tokens; mirrors visual-self-verify/config.py
 COST_IN = {
     "gpt-4.1": 0.002, "gpt-4.1-mini": 0.0004, "gpt-4.1-nano": 0.0001,
-    "claude-sonnet-4": 0.003, "gemini-2.5-flash": 0.00015,
+    "claude-sonnet-4": 0.003, "gemini-3.6-flash": 0.00075,
 }
 COST_OUT = {
     "gpt-4.1": 0.008, "gpt-4.1-mini": 0.0016, "gpt-4.1-nano": 0.0004,
-    "claude-sonnet-4": 0.015, "gemini-2.5-flash": 0.0006,
+    "claude-sonnet-4": 0.015, "gemini-3.6-flash": 0.00375,
 }
 
 
@@ -136,7 +136,7 @@ def aligned_subset_analysis():
     rows = []
     for model in MODELS:
         for cond in CONDITIONS:
-            recs = valid_records(load_records(RESULTS_DIR / f"{model}_{cond}.jsonl"))
+            recs = valid_records(load_records(PROJECT_ROOT / f"{model}_{cond}.jsonl"))
             recs = [r for r in recs if r["instance_id"] in subset_ids]
             m = compute_basic_metrics(recs)
             rows.append({
@@ -225,7 +225,7 @@ def calibration_table():
     bins_3_edges = [0.0, 0.35, 0.65, 1.001]  # corresponds to conf 1-3 / 4-6 / 7-10
     for model in MODELS:
         for cond in CONDITIONS:
-            recs = valid_records(load_records(RESULTS_DIR / f"{model}_{cond}.jsonl"))
+            recs = valid_records(load_records(PROJECT_ROOT / f"{model}_{cond}.jsonl"))
             if not recs:
                 continue
             probs = np.array([confidence_to_prob(r.get("confidence", 5)) for r in recs])
@@ -270,7 +270,7 @@ def plot_reliability():
     for ax, model in zip(axes, MODELS):
         ax.plot([0, 1], [0, 1], "--", color="black", alpha=0.4, lw=0.8, label="perfect")
         for cond in CONDITIONS:
-            recs = valid_records(load_records(RESULTS_DIR / f"{model}_{cond}.jsonl"))
+            recs = valid_records(load_records(PROJECT_ROOT / f"{model}_{cond}.jsonl"))
             if not recs:
                 continue
             probs = np.array([confidence_to_prob(r.get("confidence", 5)) for r in recs])
@@ -312,7 +312,7 @@ def cost_latency_table():
     grand_calls = 0
     for model in MODELS:
         for cond in CONDITIONS:
-            recs = load_records(RESULTS_DIR / f"{model}_{cond}.jsonl")
+            recs = load_records(PROJECT_ROOT / f"{model}_{cond}.jsonl")
             if not recs:
                 continue
             ins = [r.get("input_tokens", 0) or 0 for r in recs]

@@ -6,6 +6,7 @@ This addresses T2.4 in the audit: Run all 5 verifiers on both regenerations.
 """
 
 import json
+import os
 import sys
 import time
 from pathlib import Path
@@ -99,6 +100,8 @@ def run_verification(model_name, dataset, condition='B', variant='xref'):
                 'latency_s': result.get('_latency_s'),
                 'input_tokens': in_tok,
                 'output_tokens': out_tok,
+                # provenance: which model wrote the text reference this run consumed
+                'text_reference_generator': instance.get('text_reference_generator'),
             }
             results.append(out_record)
             
@@ -110,7 +113,13 @@ def run_verification(model_name, dataset, condition='B', variant='xref'):
             if (i + 1) % 50 == 0:
                 print(f"  [{model_name}] {i+1}/{len(dataset)} done, cost=${total_cost:.4f}")
             
-            time.sleep(0.1)
+            # Pacing. Gemini needed 2s on the free tier (20 requests/day); on a
+            # billed project the limit is per-minute, so default to no extra wait.
+            # Override with GEMINI_SLEEP=<seconds> if a project is rate limited.
+            if model_name.startswith('gemini'):
+                time.sleep(float(os.environ.get('GEMINI_SLEEP', '0')))
+            else:
+                time.sleep(0.1)
             
         except Exception as e:
             print(f"  [{model_name}] Error on {instance_id}: {e}")

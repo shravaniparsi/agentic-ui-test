@@ -10,6 +10,7 @@ Usage:
 """
 import argparse
 import json
+import os
 import time
 from pathlib import Path
 from typing import Optional, Union
@@ -210,7 +211,13 @@ def run_batch(
             else:
                 error_count += 1
 
-            time.sleep(0.1)
+            # Pacing. Gemini needed 2s on the free tier (20 requests/day); on a
+            # billed project the limit is per-minute, so default to no extra wait.
+            # Override with GEMINI_SLEEP=<seconds> if a project is rate limited.
+            if model_name.startswith('gemini'):
+                time.sleep(float(os.environ.get('GEMINI_SLEEP', '0')))
+            else:
+                time.sleep(0.1)
 
     summary = {
         "model": model_name,

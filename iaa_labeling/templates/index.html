@@ -56,22 +56,26 @@
             </div>
 
             <div class="legend">
-                <div class="legend-item"><div class="legend-dot" style="background: #e17055;"></div> <strong>Failed</strong> — Task clearly not done</div>
-                <div class="legend-item"><div class="legend-dot" style="background: #fdcb6e;"></div> <strong>Partial</strong> — Some progress made</div>
+                <div class="legend-item"><div class="legend-dot" style="background: #e17055;"></div> <strong>Obvious</strong> — wrong page, error state, blank, clearly incorrect at a glance</div>
+                <div class="legend-item"><div class="legend-dot" style="background: #6c5ce7;"></div> <strong>Deceptive</strong> — looks plausible, right area of the site, but semantically wrong (wrong item, wrong filter, incomplete submission)</div>
+                <div class="legend-item"><div class="legend-dot" style="background: #fdcb6e;"></div> <strong>Partial</strong> — some sub-goals met, task not fully completed</div>
             </div>
 
-            <button class="btn btn-obvious" onclick="setLabel('failed')">
-                FAILED <div class="shortcut">Press 1</div>
+            <button class="btn btn-obvious" onclick="setLabel('obvious')">
+                OBVIOUS <div class="shortcut">Press 1</div>
+            </button>
+            <button class="btn btn-deceptive" onclick="setLabel('deceptive')">
+                DECEPTIVE <div class="shortcut">Press 2</div>
             </button>
             <button class="btn btn-partial" onclick="setLabel('partial')">
-                PARTIAL <div class="shortcut">Press 2</div>
+                PARTIAL <div class="shortcut">Press 3</div>
             </button>
 
             {% else %}
             <div class="done-message">
                 <h2>All Done!</h2>
                 <p>Labeled all {{ total }} instances.</p>
-                <p style="margin-top: 10px; font-size: 12px;">Saved to: <code>iaa_labels.csv</code></p>
+                <p style="margin-top: 10px; font-size: 12px;">Saved to: <code>iaa_labels_3cat_&lt;annotator&gt;.csv</code></p>
             </div>
             {% endif %}
         </div>
@@ -100,8 +104,9 @@
         }
 
         document.addEventListener('keydown', function(e) {
-            if (e.key === '1') setLabel('failed');
-            if (e.key === '2') setLabel('partial');
+            if (e.key === '1') setLabel('obvious');
+            if (e.key === '2') setLabel('deceptive');
+            if (e.key === '3') setLabel('partial');
         });
     </script>
 </body>
