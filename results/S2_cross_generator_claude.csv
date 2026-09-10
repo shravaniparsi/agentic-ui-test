@@ -1,0 +1,6 @@
+model,n_joint,A_acc,B_x_acc,lift_pp,B_x_f1,b,c,test,chi2,p_raw,sig_05,sig_bonf5,n_self,A_acc_selfset,B_self_acc,lift_self_pp
+gpt-4.1-nano,142,0.754,0.768,1.4,0.327,12,14,asymptotic_cc,0.04,0.8445,False,False,141,0.752,0.809,5.7
+gpt-4.1-mini,147,0.612,0.741,12.9,0.472,13,32,asymptotic_cc,7.2,0.0073,True,True,147,0.612,0.796,18.4
+gpt-4.1,146,0.692,0.788,9.6,0.523,8,22,asymptotic_cc,5.63,0.0176,True,False,146,0.692,0.788,9.6
+claude-sonnet-4,140,0.771,0.821,5.0,0.576,7,14,exact,,0.1892,False,False,137,0.774,0.839,6.6
+gemini-3.6-flash,147,0.776,0.796,2.0,0.545,9,12,exact,,0.6636,False,False,147,0.776,0.748,-2.7

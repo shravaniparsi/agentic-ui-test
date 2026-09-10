@@ -10,8 +10,9 @@ app = Flask(__name__)
 
 DATA_DIR = Path(__file__).resolve().parent / "data"
 SAMPLE_FILE = DATA_DIR / "iaa_sample.jsonl"
-LABELS_FILE = DATA_DIR / "iaa_labels.csv"
+LABELS_FILE = DATA_DIR / "iaa_labels_3cat_human1.csv"
 SCREENSHOTS_DIR = Path(__file__).resolve().parent.parent / "data" / "screenshots"
+SCREENSHOTS_RESIZED_DIR = Path(__file__).resolve().parent.parent / "data" / "screenshots_resized"
 
 
 def load_sample():
@@ -82,7 +83,7 @@ def label():
     instance_id = data["instance_id"]
     label = data["label"]
 
-    if label not in ("failed", "partial"):
+    if label not in ("obvious", "deceptive", "partial"):
         return jsonify({"error": "invalid label"}), 400
 
     save_label(instance_id, label)
@@ -95,6 +96,9 @@ def screenshot(instance_id):
     path = SCREENSHOTS_DIR / f"{instance_id}.png"
     if path.exists():
         return send_file(path, mimetype="image/png")
+    fallback = SCREENSHOTS_RESIZED_DIR / f"{instance_id}.jpg"
+    if fallback.exists():
+        return send_file(fallback, mimetype="image/jpeg")
     return "", 404
 
 
@@ -106,8 +110,18 @@ def progress():
 
 
 if __name__ == "__main__":
+    import argparse
+    ap = argparse.ArgumentParser(description="IAA three-category labeling interface")
+    ap.add_argument("--annotator", default="human1",
+                    help="Annotator id; labels go to data/iaa_labels_3cat_<id>.csv")
+    ap.add_argument("--port", type=int, default=8080)
+    args = ap.parse_args()
+    LABELS_FILE = DATA_DIR / f"iaa_labels_3cat_{args.annotator}.csv"
+
     print(f"IAA Labeling Interface")
+    print(f"  Annotator: {args.annotator}")
+    print(f"  Labels file: {LABELS_FILE}")
     print(f"  Sample: {len(load_sample())} instances")
     print(f"  Already labeled: {len(load_done())}")
-    print(f"  Open: http://localhost:8080")
-    app.run(host="0.0.0.0", port=8080, debug=False)
+    print(f"  Open: http://localhost:{args.port}")
+    app.run(host="0.0.0.0", port=args.port, debug=False)

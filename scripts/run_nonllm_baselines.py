@@ -14,6 +14,7 @@ Usage:
 """
 
 import argparse
+import csv
 import json
 import sys
 import time
@@ -24,6 +25,46 @@ DATA_DIR = ROOT / "data"
 SCREENSHOTS_DIR = DATA_DIR / "screenshots"
 REFERENCES_DIR = DATA_DIR / "references"
 RESULTS_DIR = ROOT / "results"
+SCREENSHOTS_RESIZED_DIR = DATA_DIR / "screenshots_resized"
+REFERENCES_RESIZED_DIR = DATA_DIR / "references_resized"
+
+
+def resolve_pair(iid: str):
+    """Return (final_path, ref_path, source) or None if either image is unavailable.
+
+    Prefers the human-trace references extracted by extract_human_references.py;
+    falls back to the resized JPGs that ship in the public checkout. Note the
+    fallback references are the agent's FIRST frame, not a human final state.
+    """
+    final_png, ref_png = SCREENSHOTS_DIR / f"{iid}.png", REFERENCES_DIR / f"{iid}.png"
+    if final_png.exists() and ref_png.exists():
+        return final_png, ref_png, "human-reference"
+    final_jpg, ref_jpg = SCREENSHOTS_RESIZED_DIR / f"{iid}.jpg", REFERENCES_RESIZED_DIR / f"{iid}.jpg"
+    if final_jpg.exists() and ref_jpg.exists():
+        return final_jpg, ref_jpg, "agent-first-frame"
+    return None
+
+
+def scored_pair(final_path, ref_path):
+    """SSIM and normalized pHash distance at matched resolution.
+
+    Screenshots are 1280x2048 while human references are 800x446, so both are
+    resampled to a common size first. Cropping to the overlap instead (the
+    original behaviour) would compare a corner of the screenshot to the whole
+    reference.
+    """
+    from PIL import Image
+    import numpy as np
+    import imagehash
+    from skimage.metrics import structural_similarity as ssim
+
+    a = Image.open(final_path).convert("RGB")
+    b = Image.open(ref_path).convert("RGB")
+    if a.size != b.size:
+        a = a.resize(b.size, Image.LANCZOS)
+    ssim_score = ssim(np.array(a.convert("L")), np.array(b.convert("L")))
+    phash_dist = (imagehash.phash(a) - imagehash.phash(b)) / 64.0
+    return float(ssim_score), float(phash_dist)
 
 
 def load_dataset() -> list[dict]:
@@ -193,10 +234,159 @@ def compute_metrics(results: list[dict], model_name: str) -> dict:
     }
 
 
+def collect_scores(rows: list[dict]) -> tuple[list[dict], dict]:
+    """Compute SSIM score and pHash distance once per instance.
+
+    Returns (records, source_counts). Each record carries the raw scores plus
+    ground truth, so thresholds can be swept without recomputing images.
+    """
+    records = []
+    sources = {"human-reference": 0, "agent-first-frame": 0, "missing": 0}
+    t0 = time.time()
+    for i, r in enumerate(rows):
+        iid = r["instance_id"]
+        pair = resolve_pair(iid)
+        if pair is None:
+            sources["missing"] += 1
+            continue
+        final_path, ref_path, source = pair
+        sources[source] += 1
+        ssim_score, phash_dist = scored_pair(final_path, ref_path)
+        records.append({
+            "instance_id": iid,
+            "ssim": ssim_score,
+            "phash_dist": phash_dist,
+            "ground_truth": r["ground_truth"],
+        })
+        if (i + 1) % 100 == 0:
+            print(f"  scored {i+1}/{len(rows)} in {time.time()-t0:.0f}s", file=sys.stderr)
+    return records, sources
+
+
+def evaluate_threshold(records: list[dict], score_key: str, threshold: float,
+                       higher_is_success: bool) -> dict:
+    """Score every instance at one threshold and return accuracy/F1/FPR."""
+    tp = tn = fp = fn = 0
+    for rec in records:
+        score = rec[score_key]
+        predicted = (score > threshold) if higher_is_success else (score < threshold)
+        actual = rec["ground_truth"] == "SUCCESS"
+        if predicted and actual:
+            tp += 1
+        elif predicted and not actual:
+            fp += 1
+        elif not predicted and actual:
+            fn += 1
+        else:
+            tn += 1
+    n = tp + tn + fp + fn
+    precision = tp / (tp + fp) if (tp + fp) else 0.0
+    recall = tp / (tp + fn) if (tp + fn) else 0.0
+    f1 = 2 * precision * recall / (precision + recall) if (precision + recall) else 0.0
+    return {
+        "threshold": threshold,
+        "accuracy": (tp + tn) / n if n else 0.0,
+        "f1": f1,
+        "fpr": fp / (fp + tn) if (fp + tn) else 0.0,
+        "n": n, "tp": tp, "tn": tn, "fp": fp, "fn": fn,
+    }
+
+
+def search_thresholds(records: list[dict], score_key: str,
+                      higher_is_success: bool) -> dict:
+    """Exhaustively evaluate every threshold that can change a prediction.
+
+    Candidates are the midpoints between consecutive observed scores, so the
+    search covers every distinct partition of the data.
+    """
+    values = sorted({rec[score_key] for rec in records})
+    candidates = [values[0] - 1e-6, values[-1] + 1e-6]
+    candidates += [(a + b) / 2 for a, b in zip(values, values[1:])]
+    evaluated = [evaluate_threshold(records, score_key, t, higher_is_success)
+                 for t in sorted(candidates)]
+    return {
+        "best_accuracy": max(evaluated, key=lambda e: (e["accuracy"], e["f1"])),
+        "best_f1": max(evaluated, key=lambda e: (e["f1"], e["accuracy"])),
+        "n_candidates": len(evaluated),
+    }
+
+
+DEFAULT_RULES = {
+    "ssim": ("SSIM > 0.5 (fixed default)", 0.5),
+    "phash": ("pHash distance < 0.3 (fixed default)", 0.3),
+}
+
+
+def run_threshold_search(rows: list[dict], subset: str = "all") -> list[dict]:
+    """Sweep all thresholds and report accuracy- and F1-maximizing rules."""
+    print("\nScoring instances (SSIM + pHash)...")
+    records, sources = collect_scores(rows)
+    print(f"  scored {len(records)} instances "
+          f"(human refs {sources['human-reference']}, "
+          f"agent-first-frame refs {sources['agent-first-frame']}, "
+          f"unavailable {sources['missing']})")
+    if not records:
+        print("error: no instance had both a screenshot and a reference", file=sys.stderr)
+        sys.exit(1)
+    image_source = ("human trace final frame" if sources["human-reference"]
+                    else "agent first frame")
+    print(f"  image source: {image_source}")
+
+    out_rows = []
+    for method, score_key, higher_is_success in (
+        ("ssim", "ssim", True),
+        ("phash", "phash_dist", False),
+    ):
+        label, fixed_t = DEFAULT_RULES[method]
+        comparator = ">" if higher_is_success else "<"
+        fixed = evaluate_threshold(records, score_key, fixed_t, higher_is_success)
+        result = search_thresholds(records, score_key, higher_is_success)
+        print(f"\n{method.upper()} ({result['n_candidates']} thresholds evaluated):")
+        for rule, metrics in (
+            (label, fixed),
+            (f"accuracy-maximizing ({method} {comparator} t)", result["best_accuracy"]),
+            (f"F1-maximizing ({method} {comparator} t)", result["best_f1"]),
+        ):
+            print(f"  {rule}: t={metrics['threshold']:.4f} "
+                  f"acc={metrics['accuracy']:.4f} F1={metrics['f1']:.4f} "
+                  f"FPR={metrics['fpr']:.4f}")
+            out_rows.append({
+                "method": method,
+                "rule": rule,
+                "threshold": round(metrics["threshold"], 6),
+                "accuracy": round(metrics["accuracy"], 4),
+                "f1": round(metrics["f1"], 4),
+                "fpr": round(metrics["fpr"], 4),
+                "n": metrics["n"],
+                "tp": metrics["tp"], "tn": metrics["tn"],
+                "fp": metrics["fp"], "fn": metrics["fn"],
+                "image_source": image_source,
+                "subset": subset,
+            })
+
+    n_fail = sum(1 for r in records if r["ground_truth"] == "FAILURE")
+    out_rows.append({
+        "method": "majority-class", "rule": "always predict FAILURE (no images used)",
+        "threshold": "", "accuracy": round(n_fail / len(records), 4), "f1": 0.0,
+        "fpr": 0.0, "n": len(records), "tp": 0, "tn": n_fail,
+        "fp": 0, "fn": len(records) - n_fail,
+        "image_source": "none", "subset": subset,
+    })
+    print(f"\nmajority-class (always FAILURE): acc={n_fail/len(records):.4f} F1=0.0000")
+
+    RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+    return out_rows
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--n", type=int, default=0, help="Max instances; 0=all")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--search", action="store_true",
+                    help="Exhaustive threshold search; writes results/nonllm_baselines.csv")
+    ap.add_argument("--subset", choices=("all", "visual", "both"), default="both",
+                    help="'visual' restricts to data/visual_subset_ids.txt (the 147 "
+                         "instances the paper's SSIM baseline was computed on)")
     args = ap.parse_args()
 
     rows = load_dataset()
@@ -211,6 +401,25 @@ def main():
 
     if args.dry_run:
         print("[dry-run] would run pHash and SSIM baselines")
+        return
+
+    if args.search:
+        all_rows = []
+        for subset in (("all", "visual") if args.subset == "both" else (args.subset,)):
+            selected = rows
+            if subset == "visual":
+                subset_ids = {line.strip() for line in
+                              open(DATA_DIR / "visual_subset_ids.txt") if line.strip()}
+                selected = [r for r in rows if r["instance_id"] in subset_ids]
+            print(f"\n===== subset: {subset} ({len(selected)} instances) =====")
+            all_rows += run_threshold_search(selected, subset)
+        RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+        out_path = RESULTS_DIR / "nonllm_baselines.csv"
+        with open(out_path, "w", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=list(all_rows[0].keys()))
+            writer.writeheader()
+            writer.writerows(all_rows)
+        print(f"\nWrote {out_path}")
         return
 
     # Run baselines

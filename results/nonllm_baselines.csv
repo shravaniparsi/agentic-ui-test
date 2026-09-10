@@ -1,0 +1,15 @@
+method,rule,threshold,accuracy,f1,fpr,n,tp,tn,fp,fn,image_source,subset
+ssim,SSIM > 0.5 (fixed default),0.5,0.6178,0.2506,0.3399,845,54,468,241,82,human trace final frame,all
+ssim,accuracy-maximizing (ssim > t),1.000001,0.8391,0.0,0.0,845,0,709,0,136,human trace final frame,all
+ssim,F1-maximizing (ssim > t),0.381491,0.374,0.2861,0.7038,845,106,210,499,30,human trace final frame,all
+phash,pHash distance < 0.3 (fixed default),0.3,0.7314,0.1098,0.1481,845,14,604,105,122,human trace final frame,all
+phash,accuracy-maximizing (phash < t),-1e-06,0.8391,0.0,0.0,845,0,709,0,136,human trace final frame,all
+phash,F1-maximizing (phash < t),0.640625,0.168,0.279,0.9915,845,136,6,703,0,human trace final frame,all
+majority-class,always predict FAILURE (no images used),,0.8391,0.0,0.0,845,0,709,0,136,none,all
+ssim,SSIM > 0.5 (fixed default),0.5,0.6259,0.2667,0.3109,147,10,82,37,18,human trace final frame,visual
+ssim,accuracy-maximizing (ssim > t),0.794321,0.8095,0.0,0.0,147,0,119,0,28,human trace final frame,visual
+ssim,F1-maximizing (ssim > t),0.405644,0.4626,0.3248,0.5882,147,19,49,70,9,human trace final frame,visual
+phash,pHash distance < 0.3 (fixed default),0.3,0.8095,0.125,0.0168,147,2,117,2,26,human trace final frame,visual
+phash,accuracy-maximizing (phash < t),0.234375,0.8163,0.069,0.0,147,1,119,0,27,human trace final frame,visual
+phash,F1-maximizing (phash < t),0.578125,0.2177,0.3275,0.9664,147,28,4,115,0,human trace final frame,visual
+majority-class,always predict FAILURE (no images used),,0.8095,0.0,0.0,147,0,119,0,28,none,visual

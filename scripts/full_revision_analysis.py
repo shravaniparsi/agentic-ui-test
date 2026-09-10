@@ -28,13 +28,13 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 RESULTS_DIR = PROJECT_ROOT / "results"
 DATA_DIR = PROJECT_ROOT / "data"
 
-MODELS = ["gpt-4.1-nano", "gpt-4.1-mini", "gpt-4.1", "claude-sonnet-4", "gemini-2.5-flash"]
+MODELS = ["gpt-4.1-nano", "gpt-4.1-mini", "gpt-4.1", "claude-sonnet-4", "gemini-3.6-flash"]
 MODEL_LABELS = {
     "gpt-4.1-nano": "GPT-4.1 Nano",
     "gpt-4.1-mini": "GPT-4.1 Mini",
     "gpt-4.1": "GPT-4.1",
     "claude-sonnet-4": "Claude Sonnet 4",
-    "gemini-2.5-flash": "Gemini 2.5 Flash",
+    "gemini-3.6-flash": "Gemini 3.6 Flash",
 }
 CONDITIONS = ["A", "B", "C", "D"]
 
@@ -65,7 +65,7 @@ def get_canonical_visual_ref_ids() -> set[str]:
     GPT-4.1 Nano C has 909 instances (known bug), so we use GPT-4.1 Mini C
     which correctly has 147 instances.
     """
-    path = RESULTS_DIR / "gpt-4.1-mini_C.jsonl"
+    path = PROJECT_ROOT / "gpt-4.1-mini_C.jsonl"
     ids = set()
     if path.exists():
         with open(path) as f:
@@ -202,7 +202,7 @@ def compute_all_metrics():
     rows = []
     for model in MODELS:
         for cond in CONDITIONS:
-            path = RESULTS_DIR / f"{model}_{cond}.jsonl"
+            path = PROJECT_ROOT / f"{model}_{cond}.jsonl"
             all_recs = load_records(path)
             # Filter C/D to canonical visual-ref subset
             filtered_recs = filter_to_canonical(all_recs, cond)
@@ -243,7 +243,7 @@ def compute_intent_to_treat():
     rows = []
     for model in MODELS:
         for cond in CONDITIONS:
-            path = RESULTS_DIR / f"{model}_{cond}.jsonl"
+            path = PROJECT_ROOT / f"{model}_{cond}.jsonl"
             all_recs = load_records(path)
             filtered_recs = filter_to_canonical(all_recs, cond)
             val_recs = valid_records(filtered_recs)
@@ -296,7 +296,7 @@ def compute_fpr_by_failure_type():
     rows = []
     for model in MODELS:
         for cond in CONDITIONS:
-            path = RESULTS_DIR / f"{model}_{cond}.jsonl"
+            path = PROJECT_ROOT / f"{model}_{cond}.jsonl"
             all_recs = load_records(path)
             filtered_recs = filter_to_canonical(all_recs, cond)
             val_recs = valid_records(filtered_recs)
@@ -354,7 +354,7 @@ def verify_mcnemar():
     for model in MODELS:
         recs_by_cond = {}
         for cond in CONDITIONS:
-            path = RESULTS_DIR / f"{model}_{cond}.jsonl"
+            path = PROJECT_ROOT / f"{model}_{cond}.jsonl"
             all_recs = load_records(path)
             filtered_recs = filter_to_canonical(all_recs, cond)
             recs_by_cond[cond] = valid_records(filtered_recs)

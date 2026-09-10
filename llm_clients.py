@@ -278,7 +278,7 @@ class AnthropicDirectClient:
             "messages": [{"role": "user", "content": content}],
         }
         if supports_temperature:
-            kwargs["temperature"] = 0
+            kwargs.update(_anthropic_temperature_kwargs(0))
 
         for attempt in range(MAX_RETRIES):
             try:
@@ -323,7 +323,7 @@ class AnthropicDirectClient:
             "messages": [{"role": "user", "content": prompt}],
         }
         if supports_temperature:
-            kwargs["temperature"] = temperature
+            kwargs.update(_anthropic_temperature_kwargs(temperature))
 
         for attempt in range(MAX_RETRIES):
             try:
@@ -333,6 +333,26 @@ class AnthropicDirectClient:
                 if attempt == MAX_RETRIES - 1:
                     raise
                 time.sleep(2 ** attempt)
+
+
+def _anthropic_temperature_kwargs(temperature: float) -> dict:
+    """Return kwargs that set temperature on any anthropic SDK version.
+
+    SDK 1.x dropped `temperature` from the typed messages.create() signature,
+    but the HTTP API still honours it, so newer SDKs take it via extra_body.
+    Without this the call raises TypeError and callers that swallow errors
+    would silently emit empty generations.
+    """
+    import inspect
+    import anthropic
+
+    try:
+        params = inspect.signature(anthropic.Anthropic(api_key="x").messages.create).parameters
+        if "temperature" in params:
+            return {"temperature": temperature}
+    except Exception:
+        pass
+    return {"extra_body": {"temperature": temperature}}
 
 
 class GeminiDirectClient:
@@ -390,7 +410,13 @@ class GeminiDirectClient:
             "system_instruction": {"parts": [{"text": system_prompt}]},
             "contents": [{"role": "user", "parts": parts}],
             "generation_config": {
-                "max_output_tokens": 512,
+                # Gemini 3.x bills internal "thinking" against max_output_tokens.
+                # At 512 the model routinely spent the whole budget thinking and
+                # was cut off mid-JSON (finishReason=MAX_TOKENS), so nearly every
+                # response failed to parse. The visible answer is still ~80
+                # tokens; only the thinking headroom is larger.
+                "max_output_tokens": 4096,
+                "response_mime_type": "application/json",
             },
         }
         if supports_temperature:

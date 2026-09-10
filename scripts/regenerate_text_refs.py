@@ -60,11 +60,11 @@ GENERATION_PROMPT = (
 # depend on importing the API client modules.
 COST_IN = {
     "gpt-4.1": 0.002, "gpt-4.1-mini": 0.0004, "gpt-4.1-nano": 0.0001,
-    "claude-sonnet-4": 0.003, "gemini-2.5-flash": 0.00015,
+    "claude-sonnet-4": 0.003, "gemini-3.6-flash": 0.00075,
 }
 COST_OUT = {
     "gpt-4.1": 0.008, "gpt-4.1-mini": 0.0016, "gpt-4.1-nano": 0.0004,
-    "claude-sonnet-4": 0.015, "gemini-2.5-flash": 0.0006,
+    "claude-sonnet-4": 0.015, "gemini-3.6-flash": 0.00375,
 }
 
 
@@ -126,6 +126,7 @@ def real_run(args, rows: list[dict]):
 
     n = args.n if args.n > 0 else len(rows)
     written = 0
+    failures = 0
     t0 = time.time()
     with open(out_path, "w") as f:
         for r in rows[:n]:
@@ -144,7 +145,12 @@ def real_run(args, rows: list[dict]):
                     supports_temperature=spec.get("supports_temperature", True),
                 ).strip()
             except Exception as e:
+                # Do not let a failed call masquerade as a valid empty reference.
                 desc = ""
+                failures += 1
+                if failures <= 5:
+                    print(f"[run] generation failed for {r.get('instance_id')}: "
+                          f"{type(e).__name__}: {e}"[:200], file=sys.stderr)
 
             new_row = dict(r)
             new_row["text_reference"] = desc
@@ -154,6 +160,9 @@ def real_run(args, rows: list[dict]):
             if written % 50 == 0:
                 print(f"[run] {written}/{n} done in {time.time()-t0:.0f}s", file=sys.stderr)
     print(f"[run] wrote {written} rows to {out_path} in {time.time()-t0:.0f}s")
+    if failures:
+        print(f"[run] WARNING: {failures} generations failed and were written as "
+              f"empty text_reference", file=sys.stderr)
 
 
 def main():

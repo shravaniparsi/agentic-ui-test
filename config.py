@@ -48,9 +48,12 @@ MODELS = {
         "api_version": "vertex-2023-10-16",
         "supports_temperature": True,
     },
-    "gemini-2.5-flash": {
+    # gemini-2.5-flash (used for the originally submitted results) was retired by
+    # Google and returns 404 for new API keys; gemini-3.6-flash is the successor
+    # Google's own error message directs callers to.
+    "gemini-3.6-flash": {
         "provider": "gemini",
-        "model_id": "gemini-3.5-flash-lite",
+        "model_id": "gemini-3.6-flash",
         "model_version": "001",
         "api_version": "v1beta",
         "supports_temperature": True,
@@ -67,7 +70,7 @@ TEXT_REF_MODEL = {
 
 CONDITIONS = ["A", "B", "C", "D"]
 
-MAX_RETRIES = 3
+MAX_RETRIES = 6
 REQUEST_TIMEOUT = 120
 
 COST_PER_1K_INPUT_TOKENS = {
@@ -75,12 +78,12 @@ COST_PER_1K_INPUT_TOKENS = {
     "gpt-4.1-mini": 0.0004,
     "gpt-4.1-nano": 0.0001,
     "claude-sonnet-4": 0.003,
-    "gemini-2.5-flash": 0.00015,
+    "gemini-3.6-flash": 0.00075,
 }
 COST_PER_1K_OUTPUT_TOKENS = {
     "gpt-4.1": 0.008,
     "gpt-4.1-mini": 0.0016,
     "gpt-4.1-nano": 0.0004,
     "claude-sonnet-4": 0.015,
-    "gemini-2.5-flash": 0.0006,
+    "gemini-3.6-flash": 0.00375,
 }

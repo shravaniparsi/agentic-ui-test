@@ -5,10 +5,12 @@ recompute_iaa.py - Recompute IAA with proper methodology.
 This addresses Phase 4 of the audit: Fix failure taxonomy/IAA.
 """
 
+import argparse
 import csv
-import json
 from collections import Counter
 from sklearn.metrics import cohen_kappa_score
+
+CATEGORIES = ("obvious", "deceptive", "partial")
 
 
 def load_labels(path):
@@ -54,38 +56,64 @@ def compute_iaa(labels_a, labels_b, taxonomy='2cat'):
     }
 
 
+def confusion_matrix(labels_a, labels_b, common, categories=CATEGORIES):
+    """Return a printable confusion matrix of annotator A (rows) vs B (columns)."""
+    present = [c for c in categories
+               if any(labels_a[i] == c or labels_b[i] == c for i in common)]
+    counts = Counter((labels_a[i], labels_b[i]) for i in common)
+    width = max(10, max((len(c) for c in present), default=10) + 2)
+    lines = ["  " + "".join(["A\\B".ljust(width)] + [c.ljust(width) for c in present])]
+    for ra in present:
+        cells = [str(counts.get((ra, cb), 0)).ljust(width) for cb in present]
+        lines.append("  " + "".join([ra.ljust(width)] + cells))
+    return "\n".join(lines)
+
+
 def main():
-    # Load labels
-    labels_a = load_labels('iaa_labeling/data/iaa_labels_A.csv')
-    labels_b = load_labels('iaa_labeling/data/iaa_labels_B.csv')
-    
-    print("=== IAA ANALYSIS ===\n")
-    
-    # 2-category taxonomy
-    print("2-category taxonomy (failed/partial):")
-    result_2cat = compute_iaa(labels_a, labels_b, taxonomy='2cat')
-    print(f"  N: {result_2cat['n']}")
-    print(f"  Kappa: {result_2cat['kappa']:.3f}")
-    print(f"  Agreement: {result_2cat['agreement']:.3f}")
-    print(f"  Human 1: {result_2cat['a_counts']}")
-    print(f"  Human 2: {result_2cat['b_counts']}")
-    
-    # 3-category taxonomy
-    print("\n3-category taxonomy (obvious/partial/deceptive):")
-    result_3cat = compute_iaa(labels_a, labels_b, taxonomy='3cat')
-    print(f"  N: {result_3cat['n']}")
-    print(f"  Kappa: {result_3cat['kappa']:.3f}")
-    print(f"  Agreement: {result_3cat['agreement']:.3f}")
-    print(f"  Human 1: {result_3cat['a_counts']}")
-    print(f"  Human 2: {result_3cat['b_counts']}")
-    
-    # Recommendation
-    print("\n=== RECOMMENDATION ===")
-    if result_2cat['kappa'] < 0.6:
-        print("Kappa < 0.6: Label Section 5.3 'exploratory'")
-        print("Remove Finding 4 from abstract")
+    ap = argparse.ArgumentParser(description="Recompute IAA on the three-way taxonomy")
+    ap.add_argument("--a", default="iaa_labeling/data/iaa_labels_3cat_human1.csv",
+                    help="CSV of annotator 1")
+    ap.add_argument("--b", default="iaa_labeling/data/iaa_labels_3cat_human2.csv",
+                    help="CSV of annotator 2")
+    args = ap.parse_args()
+
+    labels_a = load_labels(args.a)
+    labels_b = load_labels(args.b)
+    common = sorted(set(labels_a) & set(labels_b))
+
+    print("=== IAA ANALYSIS (three-way taxonomy) ===\n")
+    print(f"Annotator 1: {args.a} ({len(labels_a)} labels)")
+    print(f"Annotator 2: {args.b} ({len(labels_b)} labels)")
+    print(f"Instances labeled by both: {len(common)}\n")
+
+    if not common:
+        print("error: the two annotators share no labeled instances")
+        raise SystemExit(1)
+
+    unexpected = {l for i in common for l in (labels_a[i], labels_b[i])
+                  if l not in CATEGORIES}
+    if unexpected:
+        print(f"warning: labels outside the taxonomy: {sorted(unexpected)}\n")
+
+    result = compute_iaa(labels_a, labels_b, taxonomy="3cat")
+    print("3-category taxonomy (obvious/deceptive/partial):")
+    print(f"  N: {result['n']}")
+    print(f"  Cohen's kappa: {result['kappa']:.3f}")
+    print(f"  Raw agreement: {result['agreement']:.3f}")
+    print(f"  Annotator 1 distribution: {result['a_counts']}")
+    print(f"  Annotator 2 distribution: {result['b_counts']}")
+
+    print("\nConfusion matrix (rows = annotator 1, columns = annotator 2):")
+    print(confusion_matrix(labels_a, labels_b, common))
+
+    print("\n=== INTERPRETATION ===")
+    k = result["kappa"]
+    if k < 0.4:
+        print(f"kappa = {k:.3f} (< 0.40): poor agreement; report as exploratory.")
+    elif k < 0.6:
+        print(f"kappa = {k:.3f} (0.40-0.60): moderate; report Section 5.3 as exploratory.")
     else:
-        print("Kappa >= 0.6: Keep Section 5.3 as is")
+        print(f"kappa = {k:.3f} (>= 0.60): substantial agreement.")
 
 
 if __name__ == '__main__':

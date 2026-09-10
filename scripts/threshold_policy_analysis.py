@@ -28,11 +28,12 @@ import json
 from pathlib import Path
 from typing import Optional
 
-RESULTS_DIR = Path(__file__).resolve().parent.parent / "results"
-FIGURES_DIR = Path(__file__).resolve().parent.parent / "figures"
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+RESULTS_DIR = PROJECT_ROOT / "results"
+FIGURES_DIR = PROJECT_ROOT / "figures"
 FIGURES_DIR.mkdir(exist_ok=True)
 
-MODELS = ["gpt-4.1-nano", "gpt-4.1-mini", "gpt-4.1", "claude-sonnet-4", "gemini-2.5-flash"]
+MODELS = ["gpt-4.1-nano", "gpt-4.1-mini", "gpt-4.1", "claude-sonnet-4", "gemini-3.6-flash"]
 CONDITIONS = ["A", "B", "C", "D"]
 THRESHOLDS = list(range(1, 11))  # 1..10
 
@@ -82,7 +83,7 @@ def run_table() -> list[dict]:
     rows = []
     for model in MODELS:
         for cond in CONDITIONS:
-            recs = valid_records(load_results(RESULTS_DIR / f"{model}_{cond}.jsonl"))
+            recs = valid_records(load_results(PROJECT_ROOT / f"{model}_{cond}.jsonl"))
             for t in THRESHOLDS:
                 m = policy_metrics(recs, t)
                 rows.append({
