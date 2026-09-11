@@ -18,8 +18,8 @@ For each (model, condition, threshold) we compute:
 
 Outputs:
   - results/threshold_policy.csv
-  - figures/fig7_threshold_policy.pdf
-  - figures/fig7_threshold_policy.png
+  - figures/fig8_threshold_policy.pdf
+  - figures/fig8_threshold_policy.png
 """
 from __future__ import annotations
 
@@ -142,8 +142,8 @@ def maybe_plot(rows: list[dict]) -> Optional[Path]:
     axes[0].legend(loc="lower left", fontsize=8)
     fig.suptitle("Confidence-Threshold Deployment Policy", y=1.02)
     fig.tight_layout()
-    pdf_path = FIGURES_DIR / "fig7_threshold_policy.pdf"
-    png_path = FIGURES_DIR / "fig7_threshold_policy.png"
+    pdf_path = FIGURES_DIR / "fig8_threshold_policy.pdf"
+    png_path = FIGURES_DIR / "fig8_threshold_policy.png"
     fig.savefig(pdf_path, bbox_inches="tight")
     fig.savefig(png_path, bbox_inches="tight", dpi=200)
     plt.close(fig)
