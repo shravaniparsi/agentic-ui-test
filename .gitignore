@@ -37,3 +37,7 @@ figures/
 .DS_Store
 Thumbs.db
 ~$*
+
+# Peer-review correspondence stays out of the repository
+Response_to_Reviewers*.docx
+Resubmission_Checklist*.docx
