@@ -1,0 +1,57 @@
+=== INTER-ANNOTATOR AGREEMENT: three-way failure taxonomy ===
+
+Sample      : iaa_labeling/data/iaa_sample.jsonl (100 instances)
+Instances   : all 100 are ground-truth FAILURE in data/verification_dataset.jsonl
+Annotators  : two humans, labelling independently, no discussion before completion
+Categories  : obvious / deceptive / partial
+Shown       : task text + the agent's final screenshot (full resolution)
+Jointly labelled: 100
+
+human1 vs human2 (the reported IAA)
+  Cohen's kappa   : +0.000
+  raw agreement   : 0.330
+  chance agreement: 0.330
+
+human1 vs original single-annotator labels
+  Cohen's kappa   : +0.016
+  raw agreement   : 0.350
+  chance agreement: 0.339
+
+human2 vs original single-annotator labels
+  Cohen's kappa   : -0.030
+  raw agreement   : 0.300
+  chance agreement: 0.320
+
+Confusion matrix, human1 (rows) vs human2 (columns):
+  h1\h2      obvious    deceptive  partial    total
+  obvious    14         14         3          31
+  deceptive  16         13         5          34
+  partial    8          21         6          35
+  total      38         48         14         100
+
+Label distributions:
+  original (dataset)     obvious= 17  deceptive= 41  partial= 42
+  human1                 obvious= 31  deceptive= 34  partial= 35
+  human2                 obvious= 38  deceptive= 48  partial= 14
+
+INTERPRETATION
+
+Cohen's kappa between the two independent annotators is 0.000: observed
+agreement (0.330) is exactly equal to agreement expected by chance (0.330).
+The two annotators are not applying the taxonomy consistently with one another.
+
+The result is not an artifact of one annotator. Each human also agrees with the
+original single-annotator labels at chance (kappa +0.016 and -0.030), and the
+three label distributions differ substantially, most visibly in the partial
+category (42 original, 35 human1, 14 human2).
+
+Taken together, three independent labellings of the same 100 failures agree at
+chance. The obvious / deceptive / partial taxonomy, as operationalised here
+(task text plus the agent's final screenshot, with the category definitions
+shown on screen), is not reliably reproducible. This is a limitation of the
+taxonomy and its labelling protocol, not evidence about the verifiers.
+
+Any analysis that conditions on failure type should therefore be read as
+descriptive of one annotator's labelling, and no claim in the paper should rest
+on the distinction between deceptive and partial failures.
+
