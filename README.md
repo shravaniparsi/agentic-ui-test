@@ -10,6 +10,15 @@ LMMs judge whether a web task succeeded, from the agent's final screenshot alone
 both (D), across 909 VisualWebArena trajectories produced by a single GPT-4V + Set-of-Mark
 agent.
 
+## Version of record
+
+The exact state of this repository behind the IEEE Access revision (Access-2026-32332) is tagged **`v1.1-ieee-access-r1`**. Every number in the manuscript can be reproduced from the code and data at that tag:
+
+```bash
+git clone https://github.com/shravaniparsi/agentic-ui-test
+cd agentic-ui-test && git checkout v1.1-ieee-access-r1
+```
+
 ## Quick start
 
 ```bash
