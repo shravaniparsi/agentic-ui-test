@@ -9,7 +9,7 @@ Outputs go to:
   results/revision_cost_latency.csv           - per-(model,condition) total cost, mean/median/p95 latency
   results/revision_bonferroni.csv             - per-(model,pair) raw and Bonferroni-corrected p-values
   results/revision_summary.md                 - human-readable summary, ready to paste into the manuscript
-  figures/fig8_reliability_diagrams.{pdf,png} - per-(model) reliability diagrams across conditions
+  figures/fig6_reliability_diagrams.{pdf,png} - per-(model) reliability diagrams across conditions
 
 Usage:
     python3 scripts/revision_analysis.py
@@ -291,9 +291,9 @@ def plot_reliability():
     fig.suptitle("Reliability diagrams (10 equal-mass bins)", y=1.02, fontsize=11)
     fig.tight_layout()
     for ext in ("pdf", "png"):
-        fig.savefig(FIGURES_DIR / f"fig8_reliability_diagrams.{ext}", bbox_inches="tight", dpi=180)
+        fig.savefig(FIGURES_DIR / f"fig6_reliability_diagrams.{ext}", bbox_inches="tight", dpi=180)
     plt.close(fig)
-    print(f"  wrote {FIGURES_DIR}/fig8_reliability_diagrams.pdf,.png")
+    print(f"  wrote {FIGURES_DIR}/fig6_reliability_diagrams.pdf,.png")
 
 
 # ── 4. Cost + latency ───────────────────────────────────────────────────────
