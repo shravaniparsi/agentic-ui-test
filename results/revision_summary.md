@@ -10,7 +10,7 @@ All four conditions restricted to the n=147 instances that have visual reference
 | GPT-4.1 Nano | 0.753 | 0.308 | 0.808 | 0.517 | 0.673 | 0.368 | 0.739 | 0.373 |
 | GPT-4.1 Mini | 0.612 | 0.436 | 0.796 | 0.559 | 0.735 | 0.339 | 0.762 | 0.462 |
 | GPT-4.1 | 0.692 | 0.483 | 0.782 | 0.515 | 0.585 | 0.371 | 0.646 | 0.409 |
-| Claude Sonnet 4 | 0.766 | 0.476 | 0.847 | 0.593 | 0.803 | 0.594 | 0.752 | 0.492 |
+| Claude Sonnet 4.6 | 0.766 | 0.476 | 0.847 | 0.593 | 0.803 | 0.594 | 0.752 | 0.492 |
 | Gemini 3.6 Flash | 0.776 | 0.560 | 0.748 | 0.493 | 0.782 | 0.543 | 0.810 | 0.576 |
 
 ## Calibration (multiple definitions)
@@ -29,10 +29,10 @@ All four conditions restricted to the n=147 instances that have visual reference
 | GPT-4.1 | B | 909 | 0.132 | 0.161 | 0.175 | 0.953 | 0.821 |
 | GPT-4.1 | C | 147 | 0.399 | 0.413 | 0.414 | 0.984 | 0.585 |
 | GPT-4.1 | D | 147 | 0.326 | 0.340 | 0.353 | 0.972 | 0.646 |
-| Claude Sonnet 4 | A | 875 | 0.015 | 0.030 | 0.163 | 0.784 | 0.774 |
-| Claude Sonnet 4 | B | 895 | 0.036 | 0.046 | 0.106 | 0.831 | 0.867 |
-| Claude Sonnet 4 | C | 132 | 0.033 | 0.099 | 0.163 | 0.802 | 0.803 |
-| Claude Sonnet 4 | D | 133 | 0.068 | 0.118 | 0.171 | 0.820 | 0.752 |
+| Claude Sonnet 4.6 | A | 875 | 0.015 | 0.030 | 0.163 | 0.784 | 0.774 |
+| Claude Sonnet 4.6 | B | 895 | 0.036 | 0.046 | 0.106 | 0.831 | 0.867 |
+| Claude Sonnet 4.6 | C | 132 | 0.033 | 0.099 | 0.163 | 0.802 | 0.803 |
+| Claude Sonnet 4.6 | D | 133 | 0.068 | 0.118 | 0.171 | 0.820 | 0.752 |
 | Gemini 3.6 Flash | A | 909 | 0.184 | 0.178 | 0.204 | 0.956 | 0.779 |
 | Gemini 3.6 Flash | B | 909 | 0.188 | 0.184 | 0.203 | 0.958 | 0.788 |
 | Gemini 3.6 Flash | C | 147 | 0.197 | 0.183 | 0.207 | 0.961 | 0.782 |
@@ -58,10 +58,10 @@ Grand total: **$35.04** across **10560** API calls.
 | GPT-4.1 | B | 909 | $3.21 | $0.0035 | 6.78s | 14.74s |
 | GPT-4.1 | C | 147 | $0.64 | $0.0043 | 3.22s | 4.47s |
 | GPT-4.1 | D | 147 | $0.65 | $0.0044 | 3.69s | 4.47s |
-| Claude Sonnet 4 | A | 909 | $9.00 | $0.0099 | 8.01s | 11.85s |
-| Claude Sonnet 4 | B | 909 | $9.11 | $0.0100 | 7.31s | 11.08s |
-| Claude Sonnet 4 | C | 147 | $1.81 | $0.0123 | 9.57s | 13.12s |
-| Claude Sonnet 4 | D | 147 | $1.83 | $0.0124 | 9.57s | 13.62s |
+| Claude Sonnet 4.6 | A | 909 | $9.00 | $0.0099 | 8.01s | 11.85s |
+| Claude Sonnet 4.6 | B | 909 | $9.11 | $0.0100 | 7.31s | 11.08s |
+| Claude Sonnet 4.6 | C | 147 | $1.81 | $0.0123 | 9.57s | 13.12s |
+| Claude Sonnet 4.6 | D | 147 | $1.83 | $0.0124 | 9.57s | 13.62s |
 | Gemini 3.6 Flash | A | 909 | $1.11 | $0.0012 | 8.73s | 25.53s |
 | Gemini 3.6 Flash | B | 909 | $1.16 | $0.0013 | 8.28s | 24.45s |
 | Gemini 3.6 Flash | C | 147 | $0.30 | $0.0021 | 8.23s | 21.9s |
@@ -91,12 +91,12 @@ Grand total: **$35.04** across **10560** API calls.
 | GPT-4.1 | B->C | 0 | 0 | 0 | 0.0 | 1.0 | no | no |
 | GPT-4.1 | B->D | 0 | 0 | 0 | 0.0 | 1.0 | no | no |
 | GPT-4.1 | C->D | 0 | 0 | 0 | 0.0 | 1.0 | no | no |
-| Claude Sonnet 4 | A->B | 0 | 0 | 0 | 0.0 | 1.0 | no | no |
-| Claude Sonnet 4 | A->C | 0 | 0 | 0 | 0.0 | 1.0 | no | no |
-| Claude Sonnet 4 | A->D | 0 | 0 | 0 | 0.0 | 1.0 | no | no |
-| Claude Sonnet 4 | B->C | 0 | 0 | 0 | 0.0 | 1.0 | no | no |
-| Claude Sonnet 4 | B->D | 0 | 0 | 0 | 0.0 | 1.0 | no | no |
-| Claude Sonnet 4 | C->D | 0 | 0 | 0 | 0.0 | 1.0 | no | no |
+| Claude Sonnet 4.6 | A->B | 0 | 0 | 0 | 0.0 | 1.0 | no | no |
+| Claude Sonnet 4.6 | A->C | 0 | 0 | 0 | 0.0 | 1.0 | no | no |
+| Claude Sonnet 4.6 | A->D | 0 | 0 | 0 | 0.0 | 1.0 | no | no |
+| Claude Sonnet 4.6 | B->C | 0 | 0 | 0 | 0.0 | 1.0 | no | no |
+| Claude Sonnet 4.6 | B->D | 0 | 0 | 0 | 0.0 | 1.0 | no | no |
+| Claude Sonnet 4.6 | C->D | 0 | 0 | 0 | 0.0 | 1.0 | no | no |
 | Gemini 3.6 Flash | A->B | 0 | 0 | 0 | 0.0 | 1.0 | no | no |
 | Gemini 3.6 Flash | A->C | 0 | 0 | 0 | 0.0 | 1.0 | no | no |
 | Gemini 3.6 Flash | A->D | 0 | 0 | 0 | 0.0 | 1.0 | no | no |

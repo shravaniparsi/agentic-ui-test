@@ -67,7 +67,7 @@ prompts/                  Condition A-D prompt templates
 data/
   verification_dataset.jsonl            909 instances, ground truth, paths
   verification_dataset_textref.jsonl    + text references (GPT-4.1 Nano)
-  verification_dataset_xref_claude.jsonl  + cross-generator refs (Claude Sonnet 4)
+  verification_dataset_xref_claude.jsonl  + cross-generator refs (Claude Sonnet 4.6)
   verification_dataset_nocriteria.jsonl   + refs generated without eval criteria
   visual_subset_ids.txt                 historical 147-task analysis pool (not a validation certificate)
   screenshots/ references/              rebuilt by the two extraction scripts below

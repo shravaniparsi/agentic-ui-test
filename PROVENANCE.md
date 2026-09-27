@@ -24,8 +24,8 @@ history.
 GPT-4.1 Nano model and evaluated both arms with five verifiers. Raw records retain requested
 and returned model identifiers, request IDs, UTC timestamps, exact text inputs, settings,
 usage, raw responses and screenshot/reference hashes. The Claude endpoint requested for this
-experiment was `claude-sonnet-4-6`; the public study label remains `claude-sonnet-4` for table
-continuity. This experiment tests the criteria-field contrast and does not reconstruct the
+experiment was `claude-sonnet-4-6`; raw analysis rows retain the legacy configuration key
+`claude-sonnet-4`, while manuscript display labels identify Claude Sonnet 4.6. This experiment tests the criteria-field contrast and does not reconstruct the
 missing historical references or provide a new no-reference baseline.
 
 ## Visual-reference audit
@@ -67,6 +67,11 @@ established. Cohen's kappa is 0.000, so category-level results are released only
 descriptive record and are not used to support a deployment recommendation.
 
 ## Release policy
+
+The internal historical result-file key `claude-sonnet-4` is a legacy label. The direct
+Anthropic client was configured to request `claude-sonnet-4-6`; historical rows do not retain
+provider-returned model identifiers, while the fresh matched experiment records
+`claude-sonnet-4-6` as returned. Display labels in the manuscript use Claude Sonnet 4.6.
 
 The final reviewer-evidence tag is `v1.3-ieee-access-final`. Its immutable archive is
 [10.5281/zenodo.23002266](https://doi.org/10.5281/zenodo.23002266), within the stable concept DOI

@@ -25,7 +25,7 @@ FIG.mkdir(exist_ok=True)
 
 MODELS = ["gpt-4.1-nano", "gpt-4.1-mini", "gpt-4.1", "claude-sonnet-4", "gemini-3.6-flash"]
 LABELS = {"gpt-4.1-nano": "GPT-4.1 Nano", "gpt-4.1-mini": "GPT-4.1 Mini", "gpt-4.1": "GPT-4.1",
-          "claude-sonnet-4": "Claude Sonnet 4", "gemini-3.6-flash": "Gemini 3.6 Flash"}
+          "claude-sonnet-4": "Claude Sonnet 4.6", "gemini-3.6-flash": "Gemini 3.6 Flash"}
 CONDS = ["A", "B", "C", "D"]
 CONDLAB = {"A": "A (No Ref)", "B": "B (Text)", "C": "C (Visual)", "D": "D (Dual)"}
 

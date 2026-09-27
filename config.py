@@ -44,8 +44,10 @@ MODELS = {
     "claude-sonnet-4": {
         "provider": "anthropic",
         "model_id": "claude-sonnet-4-6",
-        "model_version": "2025-05-14",
-        "api_version": "vertex-2023-10-16",
+        # The direct Anthropic client selects the model with model_id. These
+        # compatibility metadata fields are not sent to the provider.
+        "model_version": "claude-sonnet-4-6",
+        "api_version": "anthropic-messages",
         "supports_temperature": True,
     },
     # gemini-2.5-flash (used for the originally submitted results) was retired by

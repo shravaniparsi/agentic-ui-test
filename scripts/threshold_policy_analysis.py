@@ -37,6 +37,7 @@ FIGURES_DIR = PROJECT_ROOT / "figures"
 FIGURES_DIR.mkdir(exist_ok=True)
 
 MODELS = ["gpt-4.1-nano", "gpt-4.1-mini", "gpt-4.1", "claude-sonnet-4", "gemini-3.6-flash"]
+PLOT_LABELS = {"claude-sonnet-4": "claude-sonnet-4.6"}
 CONDITIONS = ["A", "B", "C", "D"]
 THRESHOLDS = list(range(1, 11))  # 1..10
 
@@ -136,7 +137,7 @@ def maybe_plot(rows: list[dict]) -> Optional[Path]:
             series_sorted = sorted(series, key=lambda x: x["coverage"])
             xs = [s["coverage"] for s in series_sorted]
             ys = [s["auto_accuracy"] for s in series_sorted]
-            ax.plot(xs, ys, marker="o", label=model)
+            ax.plot(xs, ys, marker="o", label=PLOT_LABELS.get(model, model))
         ax.set_title(f"Condition {cond}", fontsize=8)
         ax.tick_params(labelsize=6.5)
         ax.set_xlim(0, 1)

@@ -40,7 +40,7 @@ MODEL_LABELS = {
     "gpt-4.1-nano": "GPT-4.1 Nano",
     "gpt-4.1-mini": "GPT-4.1 Mini",
     "gpt-4.1": "GPT-4.1",
-    "claude-sonnet-4": "Claude Sonnet 4",
+    "claude-sonnet-4": "Claude Sonnet 4.6",
     "gemini-3.6-flash": "Gemini 3.6 Flash",
 }
 CONDITIONS = ["A", "B", "C", "D"]

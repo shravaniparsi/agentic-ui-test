@@ -19,7 +19,7 @@
     "gemini-3.6-flash": 294,
     "claude-sonnet-4-6": 294
   },
-  "cost_upper_estimate_usd": 7.247032300000001,
+  "cost_upper_estimate_usd": 7.247032299999995,
   "results": [
     {
       "model": "claude-sonnet-4",
