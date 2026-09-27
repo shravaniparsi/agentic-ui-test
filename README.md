@@ -1,6 +1,6 @@
 # Can Multimodal Models Verify Web-Agent Work?
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22990531.svg)](https://doi.org/10.5281/zenodo.22990531)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23002266.svg)](https://doi.org/10.5281/zenodo.23002266)
 
 Replication package for *Can Multimodal Models Verify Web-Agent Work? The Role of Visual
 and Textual References in Post-Hoc Verification* (IEEE Access, manuscript Access-2026-32332,
@@ -24,7 +24,7 @@ alongside both. An always-FAILURE predictor reaches 83.5% accuracy but has
 ## Review release
 
 The final reviewer-evidence release is tagged **`v1.3-ieee-access-final`** and archived
-under the version series **[10.5281/zenodo.22990530](https://doi.org/10.5281/zenodo.22990530)**.
+as **[10.5281/zenodo.23002266](https://doi.org/10.5281/zenodo.23002266)** within the stable version series **[10.5281/zenodo.22990530](https://doi.org/10.5281/zenodo.22990530)**.
 It includes the matched reference-information experiment, visual-reference audit, blinded
 two-author text-reference audit, failure-taxonomy reliability study, domain-stratified
 analysis and offline robustness tables used in the revision. The earlier

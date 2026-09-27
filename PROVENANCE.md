@@ -68,9 +68,10 @@ descriptive record and are not used to support a deployment recommendation.
 
 ## Release policy
 
-The final reviewer-evidence tag is `v1.3-ieee-access-final`. The stable concept DOI for the
-version series is [10.5281/zenodo.22990530](https://doi.org/10.5281/zenodo.22990530); the
-earlier version-specific DOI 10.5281/zenodo.22990531 identifies the immutable v1.2 archive.
+The final reviewer-evidence tag is `v1.3-ieee-access-final`. Its immutable archive is
+[10.5281/zenodo.23002266](https://doi.org/10.5281/zenodo.23002266), within the stable concept DOI
+[10.5281/zenodo.22990530](https://doi.org/10.5281/zenodo.22990530). The earlier version-specific
+DOI 10.5281/zenodo.22990531 identifies the immutable v1.2 archive.
 A SHA-256 manifest at the repository root covers the final evidence package. API credentials,
 raw browser traces, working manuscripts, peer-review correspondence, temporary reports and
 the 537 MB intermediate action-state export are excluded. The obsolete files were removed
