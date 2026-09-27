@@ -22,6 +22,10 @@ without consultation, checks the independence confirmation, and selects
 **Export final JSON**. Partial backup exports are allowed, but the analysis
 rejects them as final inputs.
 
+For a documentation pass, import the author's own JSON and use **Next flagged
+without note** to visit each No or Uncertain record that still lacks a brief
+explanation. Do not change a rating merely to increase agreement.
+
 After both authors finish, analyze their exports:
 
 ```bash
