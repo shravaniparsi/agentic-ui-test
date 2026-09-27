@@ -238,10 +238,38 @@ def main() -> None:
         "|---|---:|---:|",
     ]
     for row in agreement_rows:
-        report.append(f"| {row['question']} | {row['raw_agreement']:.3f} | {row['cohen_kappa_3cat']:.3f} |")
+        kappa_text = "not estimable" if math.isnan(row["cohen_kappa_3cat"]) else f"{row['cohen_kappa_3cat']:.3f}"
+        report.append(f"| {row['question']} | {row['raw_agreement']:.3f} | {kappa_text} |")
     report += [
         "",
-        "The strict subset is a conservative sensitivity set. It does not replace adjudication of disagreements.",
+        "## Overall usability by arm",
+        "",
+        "| Author | Criteria-enriched approved | Task-only approved |",
+        "|---|---:|---:|",
+    ]
+    all_approvals = {(r["author"], r["variant"]): r for r in approval_rows if r["domain"] == "all"}
+    for author in ["A", "B"]:
+        enriched = all_approvals[(author, "with_criteria")]
+        task_only = all_approvals[(author, "task_only")]
+        report.append(f"| {author} | {enriched['yes']}/{enriched['n']} | {task_only['yes']}/{task_only['n']} |")
+    report += [
+        "",
+        "## Strict-subset verifier sensitivity",
+        "",
+        "The rule retains a task only when both authors answered Yes to all six questions for both reference variants.",
+        "",
+        "| Verifier | Jointly valid n | Accuracy difference (pp) | Raw p | Bonferroni p | Holm p |",
+        "|---|---:|---:|---:|---:|---:|",
+    ]
+    for row in sensitivity:
+        report.append(
+            f"| {row['model']} | {row['jointly_valid_n']} | {row['difference_pp']:+.2f} | "
+            f"{row['raw_p']:.4f} | {row['bonferroni_p']:.4f} | {row['holm_p']:.4f} |"
+        )
+    report += [
+        "",
+        "Specificity and overall-usability agreement is low and is retained transparently rather than resolved through post-hoc relabelling.",
+        "The strict subset is a conservative sensitivity set. It does not replace adjudication of disagreements or establish equivalence.",
         "The audit applies to the fresh 294-reference experiment and does not reconstruct historical primary inputs.",
         "",
     ]

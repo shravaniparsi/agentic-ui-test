@@ -37,3 +37,11 @@ python3 reviewer_artifacts/text_reference_validation/analyze_audit.py \
 The analysis writes a Markdown report, merged ratings, disagreement queue,
 strict dual-approved records and task pairs, and a verifier sensitivity table.
 Read `PROTOCOL.md` before rating.
+
+## Completed audit
+
+Both authors completed the 294-record audit independently. The analysis retains
+213 strictly dual-approved individual references and 78 complete task pairs.
+Specificity and overall-usability disagreement is reported without post-hoc
+relabeling. See `results/AUDIT-RESULTS.md` for agreement statistics, arm-level
+approval counts, and the conservative five-verifier sensitivity analysis.
