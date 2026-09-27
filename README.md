@@ -23,16 +23,18 @@ alongside both. An always-FAILURE predictor reaches 83.5% accuracy but has
 
 ## Review release
 
-The stable reviewer-evidence release is archived at **[10.5281/zenodo.22990531](https://doi.org/10.5281/zenodo.22990531)**
-and tagged **`v1.2-ieee-access-reviewer-evidence`**. It adds the matched
-reference-information experiment, the visual-reference audit and the offline robustness
-tables used in the revision. The earlier **`v1.1-ieee-access-r1`** tag
-is preserved as the historical R1 snapshot. See [`PROVENANCE.md`](PROVENANCE.md) for the
-scope and limitations of each release.
+The final reviewer-evidence release is tagged **`v1.3-ieee-access-final`** and archived
+under the version series **[10.5281/zenodo.22990530](https://doi.org/10.5281/zenodo.22990530)**.
+It includes the matched reference-information experiment, visual-reference audit, blinded
+two-author text-reference audit, failure-taxonomy reliability study, domain-stratified
+analysis and offline robustness tables used in the revision. The earlier
+**`v1.2-ieee-access-reviewer-evidence`** and **`v1.1-ieee-access-r1`** tags remain immutable
+historical snapshots. See [`PROVENANCE.md`](PROVENANCE.md) for the scope and limitations of
+each release.
 
 ```bash
 git clone https://github.com/shravaniparsi/agentic-ui-test
-cd agentic-ui-test && git checkout v1.2-ieee-access-reviewer-evidence
+cd agentic-ui-test && git checkout v1.3-ieee-access-final
 ```
 
 ## Quick start

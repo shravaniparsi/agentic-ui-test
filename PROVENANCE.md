@@ -42,11 +42,37 @@ the original bytes and provenance are retained.
 The audit does not control viewport coverage, overlays, compression, provider image handling
 or domain composition. No new C/D model outputs are claimed for the repaired 67-task set.
 
+## Blinded text-reference audit
+
+`reviewer_artifacts/text_reference_validation/` contains the completed two-author audit of
+all 294 references in the fresh matched experiment. The two manuscript authors rated every
+reference independently in different randomized orders. The interfaces hid the generation
+arm, paired reference, verifier outputs, verifier correctness and agent outcome label. The
+release preserves the protocol, package hash, deterministic interfaces, derived agreement
+tables, disagreement queue, strict approved-ID lists and five-verifier sensitivity results.
+Private author export files remain excluded.
+
+The audit yields 213 strictly dual-approved individual references and 78 complete task
+pairs. Agreement is high for task faithfulness and criteria consistency but low for
+specificity and overall usability; these disagreements are retained rather than reconciled
+after observing downstream results. The audit applies only to the fresh 294-reference
+experiment and does not reconstruct or validate the unavailable historical primary inputs.
+
+## Failure-taxonomy reliability study
+
+`iaa_labeling/` and `results/iaa_kappa_3cat_human.txt` contain the separate two-author
+reliability analysis for the original obvious, deceptive and partial labels. The authors
+worked independently without discussion, but blinding to the original labels has not been
+established. Cohen's kappa is 0.000, so category-level results are released only as a
+descriptive record and are not used to support a deployment recommendation.
+
 ## Release policy
 
-The reviewer-evidence tag is `v1.2-ieee-access-reviewer-evidence` and its version-specific
-archival DOI is [10.5281/zenodo.22990531](https://doi.org/10.5281/zenodo.22990531). A SHA-256
-manifest at the repository root covers the evidence package. API credentials, raw browser traces, working
-manuscripts, peer-review correspondence, temporary reports and the 537 MB intermediate action
-state export are excluded. The obsolete files were removed from all public history. A private local rollback bundle was
-created before the authorized history rewrite and is not part of the release.
+The final reviewer-evidence tag is `v1.3-ieee-access-final`. The stable concept DOI for the
+version series is [10.5281/zenodo.22990530](https://doi.org/10.5281/zenodo.22990530); the
+earlier version-specific DOI 10.5281/zenodo.22990531 identifies the immutable v1.2 archive.
+A SHA-256 manifest at the repository root covers the final evidence package. API credentials,
+raw browser traces, working manuscripts, peer-review correspondence, temporary reports and
+the 537 MB intermediate action-state export are excluded. The obsolete files were removed
+from all public history. A private local rollback bundle was created before the authorized
+history rewrite and is not part of the release.
