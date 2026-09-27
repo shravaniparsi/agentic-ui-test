@@ -9,6 +9,7 @@ Jointly labelled: 100
 
 human1 vs human2 (the reported IAA)
   Cohen's kappa   : +0.000
+  bootstrap 95% CI: [-0.131, +0.132] (10,000 paired resamples; seed 20260927)
   raw agreement   : 0.330
   chance agreement: 0.330
 
@@ -54,4 +55,3 @@ taxonomy and its labelling protocol, not evidence about the verifiers.
 Any analysis that conditions on failure type should therefore be read as
 descriptive of one annotator's labelling, and no claim in the paper should rest
 on the distinction between deceptive and partial failures.
-

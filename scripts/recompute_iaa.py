@@ -7,6 +7,7 @@ This addresses Phase 4 of the audit: Fix failure taxonomy/IAA.
 
 import argparse
 import csv
+import random
 from collections import Counter
 from sklearn.metrics import cohen_kappa_score
 
@@ -69,6 +70,22 @@ def confusion_matrix(labels_a, labels_b, common, categories=CATEGORIES):
     return "\n".join(lines)
 
 
+def bootstrap_kappa_ci(labels_a, labels_b, common, n_boot=10000, seed=20260927):
+    """Paired percentile-bootstrap interval for three-category Cohen's kappa."""
+    pairs = [(labels_a[i], labels_b[i]) for i in common]
+    rng = random.Random(seed)
+    values = []
+    for _ in range(n_boot):
+        sample = [pairs[rng.randrange(len(pairs))] for _ in pairs]
+        a = [x for x, _ in sample]
+        b = [y for _, y in sample]
+        values.append(cohen_kappa_score(a, b, labels=list(CATEGORIES)))
+    values.sort()
+    lo = values[int(0.025 * n_boot)]
+    hi = values[int(0.975 * n_boot)]
+    return lo, hi
+
+
 def main():
     ap = argparse.ArgumentParser(description="Recompute IAA on the three-way taxonomy")
     ap.add_argument("--a", default="iaa_labeling/data/iaa_labels_3cat_human1.csv",
@@ -96,9 +113,11 @@ def main():
         print(f"warning: labels outside the taxonomy: {sorted(unexpected)}\n")
 
     result = compute_iaa(labels_a, labels_b, taxonomy="3cat")
+    ci_low, ci_high = bootstrap_kappa_ci(labels_a, labels_b, common)
     print("3-category taxonomy (obvious/deceptive/partial):")
     print(f"  N: {result['n']}")
     print(f"  Cohen's kappa: {result['kappa']:.3f}")
+    print(f"  Paired bootstrap 95% CI: [{ci_low:.3f}, {ci_high:.3f}] (10,000 resamples; seed 20260927)")
     print(f"  Raw agreement: {result['agreement']:.3f}")
     print(f"  Annotator 1 distribution: {result['a_counts']}")
     print(f"  Annotator 2 distribution: {result['b_counts']}")

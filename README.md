@@ -116,9 +116,12 @@ overlays, compression or provider-side image processing.
   Sixty-seven of 147 historical candidates passed the implemented screen; this was an
   author-confirmed, AI-assisted audit rather than an independent human annotation study.
 - `reviewer_artifacts/text_reference_validation/` contains deterministic, blinded offline
-  interfaces and analysis code for two authors to independently assess all 294 references
-  in the fresh matched control. Audit results are not claimed until both final exports are
-  complete and validated.
+  interfaces and the completed independent two-author assessment of all 294 references in
+  the fresh matched control. Derived agreement, disagreement and strict-subset sensitivity
+  results are released there; private author export files remain excluded.
+- `iaa_labeling/` contains the separate two-author reliability study for the original
+  obvious/deceptive/partial failure taxonomy. The reported kappa is 0.000, so category-level
+  results are retained only as descriptions of the original single-annotator labels.
 - Working manuscripts and peer-review correspondence are intentionally excluded from the
   public replication package.
 
