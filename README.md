@@ -10,7 +10,10 @@ A controlled study of reference-augmented post-hoc verification: five frontier c
 LMMs judge whether a web task succeeded, from the agent's final screenshot alone
 (Condition A) or augmented with a text reference (B), a human reference screenshot (C), or
 both (D), across 909 VisualWebArena trajectories produced by a single GPT-4V + Set-of-Mark
-agent.
+agent. The actor trajectories are fixed and every verifier is a different configured model;
+verifier judgments are not returned to the actor and do not trigger retries or recovery.
+Accordingly, this package evaluates cross-model post-hoc task verification rather than
+same-model self-verification or closed-loop self-correction.
 
 ## Review release
 
