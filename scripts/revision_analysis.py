@@ -257,7 +257,8 @@ def calibration_table():
 # ── 3. Reliability diagrams ─────────────────────────────────────────────────
 
 def plot_reliability():
-    fig, axes = plt.subplots(1, 5, figsize=(20, 4.2), sharey=True)
+    # Stack model panels so the figure remains readable in one IEEE column.
+    fig, axes = plt.subplots(5, 1, figsize=(3.2, 7.8), sharex=True, sharey=True)
     cond_colors = {"A": "#666666", "B": "#1f77b4", "C": "#d62728", "D": "#9467bd"}
     for ax, model in zip(axes, MODELS):
         ax.plot([0, 1], [0, 1], "--", color="black", alpha=0.4, lw=0.8, label="perfect")
@@ -281,17 +282,18 @@ def plot_reliability():
                 xs.append(probs_s[lo:hi].mean())
                 ys.append(correct_s[lo:hi].mean())
             ax.plot(xs, ys, marker="o", lw=1.4, ms=4, color=cond_colors[cond], label=f"Cond {cond}")
-        ax.set_title(MODEL_LABELS[model], fontsize=10)
+        ax.set_title(MODEL_LABELS[model], fontsize=7.5)
         ax.set_xlim(0, 1)
         ax.set_ylim(0, 1)
-        ax.set_xlabel("Mean predicted confidence")
+        ax.tick_params(labelsize=6.5)
         ax.grid(alpha=0.3, lw=0.4)
-    axes[0].set_ylabel("Empirical accuracy")
-    axes[-1].legend(loc="lower right", fontsize=8)
-    fig.suptitle("Reliability diagrams (10 equal-mass bins)", y=1.02, fontsize=11)
-    fig.tight_layout()
+    axes[-1].set_xlabel("Mean predicted confidence", fontsize=7.5)
+    fig.supylabel("Empirical accuracy", fontsize=7.5)
+    axes[-1].legend(loc="lower right", fontsize=6.3, ncol=3)
+    fig.suptitle("Reliability diagrams (10 equal-mass bins)", y=0.995, fontsize=8.5)
+    fig.tight_layout(rect=[0.02, 0, 1, 0.985])
     for ext in ("pdf", "png"):
-        fig.savefig(FIGURES_DIR / f"fig6_reliability_diagrams.{ext}", bbox_inches="tight", dpi=180)
+        fig.savefig(FIGURES_DIR / f"fig6_reliability_diagrams.{ext}", bbox_inches="tight", dpi=300)
     plt.close(fig)
     print(f"  wrote {FIGURES_DIR}/fig6_reliability_diagrams.pdf,.png")
 

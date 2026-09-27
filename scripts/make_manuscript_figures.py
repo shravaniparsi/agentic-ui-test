@@ -94,7 +94,10 @@ def fig2_and_3():
 
 def fig4_failure_type():
     types = ["obvious", "deceptive", "partial"]
-    fig, axes = plt.subplots(1, 3, figsize=(12, 3.2), sharey=True)
+    # One panel per row keeps every label readable when the figure is placed in
+    # a single IEEE column.  The earlier 1x3 layout reduced labels below a
+    # practical print size.
+    fig, axes = plt.subplots(3, 1, figsize=(3.2, 6.4), sharex=True, sharey=True)
     for ax, t in zip(axes, types):
         va, vb = [], []
         for m in MODELS:
@@ -108,17 +111,18 @@ def fig4_failure_type():
         xs, w = np.arange(len(MODELS)), 0.36
         ax.bar(xs - w / 2, va, w, label="A (No Ref)", color=COLORS[0])
         ax.bar(xs + w / 2, vb, w, label="B (Text)", color=COLORS[1])
-        ax.set_title(t.capitalize(), fontsize=10)
+        ax.set_title(t.capitalize(), fontsize=8)
         ax.set_xticks(xs)
-        ax.set_xticklabels([LABELS[m] for m in MODELS], rotation=30,
-                           ha="right", fontsize=7)
+        ax.set_xticklabels([LABELS[m] for m in MODELS], rotation=25,
+                           ha="right", fontsize=6.5)
         ax.set_ylim(0, 1.05)
+        ax.tick_params(axis="y", labelsize=7)
         ax.grid(axis="y", alpha=0.3)
-    axes[0].set_ylabel("Accuracy on failures")
-    axes[0].legend(fontsize=8)
-    fig.suptitle("Accuracy by Failure Type and Condition", fontsize=11)
-    fig.tight_layout()
-    fig.savefig(FIG / "fig4_failure_type.png", dpi=200)
+    axes[1].set_ylabel("Accuracy on failures", fontsize=8)
+    axes[0].legend(fontsize=7, ncol=2, loc="lower right")
+    fig.suptitle("Accuracy by Failure Type and Condition", fontsize=9)
+    fig.tight_layout(rect=[0, 0, 1, 0.975])
+    fig.savefig(FIG / "fig4_failure_type.png", dpi=300)
     plt.close(fig)
 
 
@@ -183,7 +187,8 @@ def fig1_framework():
 
 def fig5_reliability_ab():
     """Reliability diagrams for Conditions A and B across the five verifiers."""
-    fig, axes = plt.subplots(1, 2, figsize=(11, 4.2), sharey=True)
+    # Vertical panels are legible at single-column width.
+    fig, axes = plt.subplots(2, 1, figsize=(3.2, 5.0), sharex=True, sharey=True)
     for ax, cond in zip(axes, ["A", "B"]):
         ax.plot([0, 1], [0, 1], "--", color="grey", lw=1, label="perfect calibration")
         for k, m in enumerate(MODELS):
@@ -198,14 +203,15 @@ def fig5_reliability_ab():
             if xs:
                 ax.plot(xs, ys, marker="o", ms=4, lw=1.4, label=LABELS[m],
                         color=(COLORS + ["#8172B3"])[k])
-        ax.set_title(f"Condition {cond} ({CONDLAB[cond].split('(')[1][:-1]})", fontsize=10)
-        ax.set_xlabel("Self-reported confidence")
+        ax.set_title(f"Condition {cond} ({CONDLAB[cond].split('(')[1][:-1]})", fontsize=8)
         ax.set_xlim(0, 1.05); ax.set_ylim(0, 1.05); ax.grid(alpha=0.3)
-    axes[0].set_ylabel("Empirical accuracy")
-    axes[1].legend(fontsize=7.5, loc="lower right")
-    fig.suptitle("Reliability Diagrams, Conditions A and B", fontsize=11)
-    fig.tight_layout(rect=[0, 0, 1, 0.95])
-    fig.savefig(FIG / "fig5_reliability_ab.png", dpi=200)
+        ax.tick_params(labelsize=7)
+    axes[1].set_xlabel("Self-reported confidence", fontsize=8)
+    fig.supylabel("Empirical accuracy", fontsize=8)
+    axes[1].legend(fontsize=6.3, loc="lower right")
+    fig.suptitle("Reliability Diagrams, Conditions A and B", fontsize=9)
+    fig.tight_layout(rect=[0.02, 0, 1, 0.97])
+    fig.savefig(FIG / "fig5_reliability_ab.png", dpi=300)
     plt.close(fig)
 
 

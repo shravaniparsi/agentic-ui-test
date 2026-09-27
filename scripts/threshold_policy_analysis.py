@@ -28,6 +28,9 @@ import json
 from pathlib import Path
 from typing import Optional
 
+import matplotlib
+matplotlib.use("Agg")
+
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 RESULTS_DIR = PROJECT_ROOT / "results"
 FIGURES_DIR = PROJECT_ROOT / "figures"
@@ -121,7 +124,8 @@ def maybe_plot(rows: list[dict]) -> Optional[Path]:
     for r in rows:
         by_model_cond.setdefault((r["model"], r["condition"]), []).append(r)
 
-    fig, axes = plt.subplots(1, len(CONDITIONS), figsize=(4 * len(CONDITIONS), 4), sharey=True)
+    # A vertical layout preserves readable labels at single-column width.
+    fig, axes = plt.subplots(len(CONDITIONS), 1, figsize=(3.2, 7.0), sharex=True, sharey=True)
     if len(CONDITIONS) == 1:
         axes = [axes]
     for ax, cond in zip(axes, CONDITIONS):
@@ -133,19 +137,20 @@ def maybe_plot(rows: list[dict]) -> Optional[Path]:
             xs = [s["coverage"] for s in series_sorted]
             ys = [s["auto_accuracy"] for s in series_sorted]
             ax.plot(xs, ys, marker="o", label=model)
-        ax.set_title(f"Condition {cond}")
-        ax.set_xlabel("Coverage (fraction auto-decided)")
-        ax.set_ylabel("Auto-decision accuracy")
+        ax.set_title(f"Condition {cond}", fontsize=8)
+        ax.tick_params(labelsize=6.5)
         ax.set_xlim(0, 1)
         ax.set_ylim(0, 1)
         ax.grid(True, alpha=0.3)
-    axes[0].legend(loc="lower left", fontsize=8)
-    fig.suptitle("Confidence-Threshold Deployment Policy", y=1.02)
-    fig.tight_layout()
+    axes[-1].set_xlabel("Coverage (fraction auto-decided)", fontsize=7.5)
+    fig.supylabel("Auto-decision accuracy", fontsize=7.5)
+    axes[0].legend(loc="lower left", fontsize=6.2, ncol=2)
+    fig.suptitle("Retrospective Confidence-Threshold Analysis", y=0.995, fontsize=8.5)
+    fig.tight_layout(rect=[0.02, 0, 1, 0.985])
     pdf_path = FIGURES_DIR / "fig8_threshold_policy.pdf"
     png_path = FIGURES_DIR / "fig8_threshold_policy.png"
     fig.savefig(pdf_path, bbox_inches="tight")
-    fig.savefig(png_path, bbox_inches="tight", dpi=200)
+    fig.savefig(png_path, bbox_inches="tight", dpi=300)
     plt.close(fig)
     print(f"[OK] Saved: {pdf_path}")
     print(f"[OK] Saved: {png_path}")
