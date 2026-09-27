@@ -65,6 +65,7 @@ figures/                  manuscript figures
 scripts/                  data preparation and analysis
 experiments/reference_information/  completed matched control with raw API records
 reviewer_artifacts/visual_reference_validation/  screened reference set and audit records
+reviewer_artifacts/text_reference_validation/  blinded two-author audit package
 archive/                  historical runs needed to interpret the submitted results
 ```
 
@@ -114,6 +115,10 @@ overlays, compression or provider-side image processing.
 - `reviewer_artifacts/visual_reference_validation/` contains the disclosed reference audit.
   Sixty-seven of 147 historical candidates passed the implemented screen; this was an
   author-confirmed, AI-assisted audit rather than an independent human annotation study.
+- `reviewer_artifacts/text_reference_validation/` contains deterministic, blinded offline
+  interfaces and analysis code for two authors to independently assess all 294 references
+  in the fresh matched control. Audit results are not claimed until both final exports are
+  complete and validated.
 - Working manuscripts and peer-review correspondence are intentionally excluded from the
   public replication package.
 

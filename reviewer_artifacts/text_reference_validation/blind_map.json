@@ -1,0 +1,2064 @@
+{
+  "protocol_version": "text-reference-audit-v1",
+  "package_hash": "252ae159397102d937bd9c4d785eeaac230967af16b64443d826c2e5bc068856",
+  "records": {
+    "TR-283B5ABF05E0": {
+      "job_id": "vwa_classifieds_100:with_criteria",
+      "instance_id": "vwa_classifieds_100",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "7750edd9ba093fbc173640abba6d49a4d82fae1f3bc8e577dcecff7fb485b0ab"
+    },
+    "TR-8C34E806B7F6": {
+      "job_id": "vwa_classifieds_100:task_only",
+      "instance_id": "vwa_classifieds_100",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "2ea7856f5fd6badb6b3ad0c9d5babed89fbc7a05a8feff203f57e8a305ae9442"
+    },
+    "TR-492562ECE0CD": {
+      "job_id": "vwa_classifieds_128:with_criteria",
+      "instance_id": "vwa_classifieds_128",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "7e99d5c776f13598d6943eccb07d78a7ce46e0f5be3e344977d74d8a74234822"
+    },
+    "TR-3DF5467A8523": {
+      "job_id": "vwa_classifieds_123:with_criteria",
+      "instance_id": "vwa_classifieds_123",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "67e76cc772b1838608c47c3e6bf1c5e3b0eb7eb1027ddabfb32a2d3568a54cbd"
+    },
+    "TR-A56F22B13271": {
+      "job_id": "vwa_classifieds_11:task_only",
+      "instance_id": "vwa_classifieds_11",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "d543ddb810c59cb020ba9ea2ed0ef857ea72b2ccde199b34f833c76a8438efcc"
+    },
+    "TR-0044A993CCEA": {
+      "job_id": "vwa_classifieds_101:task_only",
+      "instance_id": "vwa_classifieds_101",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "6d1cac10e5e4a6c13ef411357f351d3a905f611be1c32a70714653013e8b4c8e"
+    },
+    "TR-2986ED424A4E": {
+      "job_id": "vwa_classifieds_128:task_only",
+      "instance_id": "vwa_classifieds_128",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "70f88390886816e2285ba2342a7182ded23385ac8633c49343ab65238dbd8796"
+    },
+    "TR-19937775E09E": {
+      "job_id": "vwa_classifieds_123:task_only",
+      "instance_id": "vwa_classifieds_123",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "6f3b015dc90c70042af5e88924dffe6da6962eb61b086d455c829821c9d4103e"
+    },
+    "TR-97835A17A7C3": {
+      "job_id": "vwa_classifieds_11:with_criteria",
+      "instance_id": "vwa_classifieds_11",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "66a678708bde9dda562a66b1aeeba38af66ccef2455a445dcc2b2c8ef3d1a5c1"
+    },
+    "TR-985C3B94A699": {
+      "job_id": "vwa_classifieds_135:with_criteria",
+      "instance_id": "vwa_classifieds_135",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "f15cb2ad7696eb966d17d11a4a79a81410bf946b877ceecc43c838dd984a4abd"
+    },
+    "TR-D4A36846A5CC": {
+      "job_id": "vwa_classifieds_101:with_criteria",
+      "instance_id": "vwa_classifieds_101",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "0d5ed561d4664755fe65f70c132530693d71cf258d8de96ac37a1e7fd04e1d10"
+    },
+    "TR-F8C0DE815D36": {
+      "job_id": "vwa_classifieds_135:task_only",
+      "instance_id": "vwa_classifieds_135",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "463bef8520880d6595c8ec2dcd7f855e3bc9bae199317bad4ab8f3caa37aba19"
+    },
+    "TR-1E62EE8499CD": {
+      "job_id": "vwa_classifieds_14:task_only",
+      "instance_id": "vwa_classifieds_14",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "6bc313be86dec0fa1e6e4319b79c282bc9941f87a21a504284dd37121fc44e97"
+    },
+    "TR-E885593C8496": {
+      "job_id": "vwa_classifieds_144:task_only",
+      "instance_id": "vwa_classifieds_144",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "4a19a8dafa6ce992b4c87a0fda10283f708da2f7803ae43bc0087908af93b4f7"
+    },
+    "TR-1BA0F27CD68E": {
+      "job_id": "vwa_classifieds_140:task_only",
+      "instance_id": "vwa_classifieds_140",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "4aefc9edd1efa63109d456e90218a517010c1c2dc8a082fa1ce97779a7ea9125"
+    },
+    "TR-1657AB05C7D9": {
+      "job_id": "vwa_classifieds_15:with_criteria",
+      "instance_id": "vwa_classifieds_15",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "efd83984f4848da415b36aaf7e27b76bd1e0fc7d02d3ea8b4771dc4ad6a4ae34"
+    },
+    "TR-98D9A6E7EFA0": {
+      "job_id": "vwa_classifieds_14:with_criteria",
+      "instance_id": "vwa_classifieds_14",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "ff22ae92321bbdb9e20ba637e1cfb27585a8b4c6d4e98d7e2b8ea1eb90bfbcaa"
+    },
+    "TR-016083A21E39": {
+      "job_id": "vwa_classifieds_144:with_criteria",
+      "instance_id": "vwa_classifieds_144",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "aba34bdc8d82263c7de2e096376cd6c5f24e5df072e0d078947594508fbd320c"
+    },
+    "TR-8E38ADA068C1": {
+      "job_id": "vwa_classifieds_140:with_criteria",
+      "instance_id": "vwa_classifieds_140",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "6030613e13b1424eeb2444e65c55c5ed649006a641fcbd5b8d3a99807c089d1d"
+    },
+    "TR-C3284157916E": {
+      "job_id": "vwa_classifieds_151:task_only",
+      "instance_id": "vwa_classifieds_151",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "5745c7c5fca09ff5a4bf42c9c41712d552f7233f458151455d2908a0785956e5"
+    },
+    "TR-128AD3CBE336": {
+      "job_id": "vwa_classifieds_163:with_criteria",
+      "instance_id": "vwa_classifieds_163",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "bd0d1dff7e879c02b0d83c271e15750da78b632214ee74166b9ec18ef3b2a7dc"
+    },
+    "TR-57E72D949FD1": {
+      "job_id": "vwa_classifieds_163:task_only",
+      "instance_id": "vwa_classifieds_163",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "ea3f574ae16f6933684d99f4caf639942ac73ef2c4a78396ecea78ffaac8659f"
+    },
+    "TR-A86F15142ABB": {
+      "job_id": "vwa_classifieds_151:with_criteria",
+      "instance_id": "vwa_classifieds_151",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "634288b23b4f6c73a897fc1abf98f1a557f82f0a0e92e0064d158de8bd9a0602"
+    },
+    "TR-C956E94F3FDB": {
+      "job_id": "vwa_classifieds_15:task_only",
+      "instance_id": "vwa_classifieds_15",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "319f905f1400637b79fbe9e05cb08724d2ecdc6ef1bf2fd0014e1f1bc386adc3"
+    },
+    "TR-B4109767B4D0": {
+      "job_id": "vwa_classifieds_162:with_criteria",
+      "instance_id": "vwa_classifieds_162",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "11b631e987dae3140149ada32eb31bd2872f269d766b8c939d7bf387b62ed401"
+    },
+    "TR-F634ECDEF250": {
+      "job_id": "vwa_classifieds_167:task_only",
+      "instance_id": "vwa_classifieds_167",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "2165ba8a817b5473ee05403f75764574cdc81a113f3b1bd51730980a1192ba61"
+    },
+    "TR-D47CEA70A68B": {
+      "job_id": "vwa_classifieds_162:task_only",
+      "instance_id": "vwa_classifieds_162",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "d982cdf1d11619cfb31d9b5c62ab93b25092ec654671aeabe87d6aa4b6edd838"
+    },
+    "TR-2A380C979F13": {
+      "job_id": "vwa_classifieds_169:task_only",
+      "instance_id": "vwa_classifieds_169",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "e5018cde4162a9662cc5e7765fdebea8d73a18d1e3bb187f3aecadd51bbfb10e"
+    },
+    "TR-C32013DCDE1D": {
+      "job_id": "vwa_classifieds_170:task_only",
+      "instance_id": "vwa_classifieds_170",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "1915199044e8d08b7aff70930e4975eb961bf0f8e4b7e9eb04229b7d608de319"
+    },
+    "TR-7CAD6D481B65": {
+      "job_id": "vwa_classifieds_179:with_criteria",
+      "instance_id": "vwa_classifieds_179",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "e4f663c78d32f746f0ed2b0bb7049702ffb377a5032bb672e5a0e3e38ad34680"
+    },
+    "TR-631D4AE2D204": {
+      "job_id": "vwa_classifieds_167:with_criteria",
+      "instance_id": "vwa_classifieds_167",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "046c124891f55702c64a5b5e92a6c4d88aef7c0c1859946e729d7d07464e7d32"
+    },
+    "TR-5A63BB1AE77F": {
+      "job_id": "vwa_classifieds_170:with_criteria",
+      "instance_id": "vwa_classifieds_170",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "4f2f8530437b9a2e67cca48bed5f45116d574dcd9c8b5a77a123b7b1042b92cc"
+    },
+    "TR-81E60DBF6743": {
+      "job_id": "vwa_classifieds_169:with_criteria",
+      "instance_id": "vwa_classifieds_169",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "103d6d95b480c6440eb485009b572a778d534f085c82a03f69250409acd97232"
+    },
+    "TR-C63A4757A376": {
+      "job_id": "vwa_classifieds_184:task_only",
+      "instance_id": "vwa_classifieds_184",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "3de0c2c68f1cb74459c2a3f5617a207c9c43a331324a9a475759fe9b997ed66a"
+    },
+    "TR-1126581D1BFA": {
+      "job_id": "vwa_classifieds_182:with_criteria",
+      "instance_id": "vwa_classifieds_182",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "945f08f28ee84c61a323a91486f82940ba5850d6891d5c075234dbd401303579"
+    },
+    "TR-474146CC524A": {
+      "job_id": "vwa_classifieds_186:with_criteria",
+      "instance_id": "vwa_classifieds_186",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "938d0455af7bb19083a51f36b5ce5c4cc3d88461c020ae8b568ccbe8b3b831b5"
+    },
+    "TR-ACE55DAE646F": {
+      "job_id": "vwa_classifieds_179:task_only",
+      "instance_id": "vwa_classifieds_179",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "a02b743922f8365e978a90245b6c3aaedc01e1490281faaf26a86df2d0c8bc44"
+    },
+    "TR-295AAEE4E736": {
+      "job_id": "vwa_classifieds_184:with_criteria",
+      "instance_id": "vwa_classifieds_184",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "d3aa693dc7704aeb0b21b1019fa66b377afb44b58bdcf45e900b62bf3a500b82"
+    },
+    "TR-812557B44028": {
+      "job_id": "vwa_classifieds_186:task_only",
+      "instance_id": "vwa_classifieds_186",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "4b86e6205e406d15491c46bd841d206b648db07222c1a94958fe471d1e3654a2"
+    },
+    "TR-E370A6116AD2": {
+      "job_id": "vwa_classifieds_182:task_only",
+      "instance_id": "vwa_classifieds_182",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "6e1438a48afd3fb0350cb59f79ce327e25cf54e8acf4752e91f9b03978ac0cbc"
+    },
+    "TR-4EC317F8470F": {
+      "job_id": "vwa_classifieds_189:with_criteria",
+      "instance_id": "vwa_classifieds_189",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "f5071b8f7182e8de4c42500c6bbba7e075d6a08f0c6288668785768bf2028cff"
+    },
+    "TR-B2229C171A23": {
+      "job_id": "vwa_classifieds_202:with_criteria",
+      "instance_id": "vwa_classifieds_202",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "aa7a8bd7048dee07d9b7a9e137090ac8fbffcff7dc90cd4718478c9791f1ab7f"
+    },
+    "TR-8542036FF4E9": {
+      "job_id": "vwa_classifieds_21:with_criteria",
+      "instance_id": "vwa_classifieds_21",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "1cb0badac7bbbfee218135dacacd050165e64659f1d34cf07cbae3c78ca50a66"
+    },
+    "TR-729E968D7BEF": {
+      "job_id": "vwa_classifieds_22:task_only",
+      "instance_id": "vwa_classifieds_22",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "218c61e5aab5598afd30f1fa95b46954993f3e9736470f4c7e1928f7fc9b3dbc"
+    },
+    "TR-E78E6FCF18C2": {
+      "job_id": "vwa_classifieds_189:task_only",
+      "instance_id": "vwa_classifieds_189",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "b95c17d2f8cdf3c9ec49a38a1a5f75d9e5af063cde0622ee3a108d8e798e49e9"
+    },
+    "TR-C270E9F25582": {
+      "job_id": "vwa_classifieds_22:with_criteria",
+      "instance_id": "vwa_classifieds_22",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "a34c395a1b8f84a099549b5afbd25d1fc55c3fafb2f6cfd9de75069d02eb1f7e"
+    },
+    "TR-95411EF7A787": {
+      "job_id": "vwa_classifieds_202:task_only",
+      "instance_id": "vwa_classifieds_202",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "d573f18532774b33674609b3e69d1f1c1fa91120904e13fc59a38c68101f5621"
+    },
+    "TR-8CA21882984B": {
+      "job_id": "vwa_classifieds_21:task_only",
+      "instance_id": "vwa_classifieds_21",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "91e2d4d4555f0f0ffa71cbfe727c96a6a7cdaeca0f4635301517dae42bb8f0df"
+    },
+    "TR-2D63F83DCE40": {
+      "job_id": "vwa_classifieds_27:task_only",
+      "instance_id": "vwa_classifieds_27",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "621da091cc42bdba924ea6646289fb653559da12c8e657bb2b20a71ac7676cd4"
+    },
+    "TR-3D29BF0DDAB2": {
+      "job_id": "vwa_classifieds_221:with_criteria",
+      "instance_id": "vwa_classifieds_221",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "4b5ad9d9eca59bf3b575b50936de7f764ed62cdbc5518ef562bef0c549d82564"
+    },
+    "TR-C20F2160E8D6": {
+      "job_id": "vwa_classifieds_38:task_only",
+      "instance_id": "vwa_classifieds_38",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "cf0e78668bd0d6abfda5b435f02973b9b19af81999de5f49e093555a6708ec5d"
+    },
+    "TR-C587388CC5C4": {
+      "job_id": "vwa_classifieds_31:with_criteria",
+      "instance_id": "vwa_classifieds_31",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "bcdc4566a742048ea353402041a0ab45c4038a37da9bc7cd7516682101914e9b"
+    },
+    "TR-931001894CBA": {
+      "job_id": "vwa_classifieds_27:with_criteria",
+      "instance_id": "vwa_classifieds_27",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "e4b49f96c0af51a2978398ed4500ae73c4fc75b707e2465ed1a147432fdb3b32"
+    },
+    "TR-D0BAC06CC30B": {
+      "job_id": "vwa_classifieds_221:task_only",
+      "instance_id": "vwa_classifieds_221",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "d51fd09aa7c5cf95aad8d2d9924775a699b5d46eb30323a888b2ed94f88d4a8c"
+    },
+    "TR-44D44CBF9625": {
+      "job_id": "vwa_classifieds_38:with_criteria",
+      "instance_id": "vwa_classifieds_38",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "b05f3ae5babc47955b085778afa4cdfc2ee7dac82dc55e61fe02a21449899858"
+    },
+    "TR-FFDBEB5876E6": {
+      "job_id": "vwa_classifieds_31:task_only",
+      "instance_id": "vwa_classifieds_31",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "bcdc4566a742048ea353402041a0ab45c4038a37da9bc7cd7516682101914e9b"
+    },
+    "TR-10617A6D261C": {
+      "job_id": "vwa_classifieds_4:with_criteria",
+      "instance_id": "vwa_classifieds_4",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "ab12a00a5a222e93d046a9ce514053186167aed69c8bfc8129eaa1e69150f8ef"
+    },
+    "TR-D9BF85A5D044": {
+      "job_id": "vwa_classifieds_43:with_criteria",
+      "instance_id": "vwa_classifieds_43",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "948ea734fa3493225327bd30df5f85f94f34882fdc2f271c144c5501e8c8a673"
+    },
+    "TR-94CE045F088B": {
+      "job_id": "vwa_classifieds_47:task_only",
+      "instance_id": "vwa_classifieds_47",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "13e71582e95734b24e46675b37a7ab66f6f01bab743d05234f7b142aa3705317"
+    },
+    "TR-BBA7A12C1E64": {
+      "job_id": "vwa_classifieds_46:with_criteria",
+      "instance_id": "vwa_classifieds_46",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "54e6985b261f7151538152b061acb710bed22ca149a430940046b7d1a71a76c2"
+    },
+    "TR-0722A3423F52": {
+      "job_id": "vwa_classifieds_4:task_only",
+      "instance_id": "vwa_classifieds_4",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "77f54145ce9488fb6109e0cb230c3fc605a1c6c97e619dcb37c933a71e157da9"
+    },
+    "TR-4010BA16659C": {
+      "job_id": "vwa_classifieds_43:task_only",
+      "instance_id": "vwa_classifieds_43",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "571de364a5759a96c6af5c3e918f376a3f5b9a8f2b8f09b426f926f041d8940a"
+    },
+    "TR-9564D701875B": {
+      "job_id": "vwa_classifieds_46:task_only",
+      "instance_id": "vwa_classifieds_46",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "0a1d3009f458c1e166e409a5a5359103985dc7a92bb0afaee8831a40e5cf58ea"
+    },
+    "TR-23546210EF31": {
+      "job_id": "vwa_classifieds_55:with_criteria",
+      "instance_id": "vwa_classifieds_55",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "65c99525dbc18e6b0ca7330eed2623916da276d3e3f6a5961aa35980843f6664"
+    },
+    "TR-525FAADA5F47": {
+      "job_id": "vwa_classifieds_47:with_criteria",
+      "instance_id": "vwa_classifieds_47",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "40984abd1dc6c9ddc8389ee6babf911491a999498a2cd96c5c7da7357b7ef230"
+    },
+    "TR-4B9EB628EF4D": {
+      "job_id": "vwa_classifieds_78:task_only",
+      "instance_id": "vwa_classifieds_78",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "b92e935fbac76b5c4fe6ff6f0aacd6a001fcaade8f73a85db4ed640c8f97d62b"
+    },
+    "TR-2D4426631AED": {
+      "job_id": "vwa_classifieds_55:task_only",
+      "instance_id": "vwa_classifieds_55",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "6859002718f380d475ba0a4514e1376ed4e4914d6205e5749083131f05be81ca"
+    },
+    "TR-6C99BB56E385": {
+      "job_id": "vwa_classifieds_7:with_criteria",
+      "instance_id": "vwa_classifieds_7",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "363ec60700666505bfc9cba8cfa20aa34b9b55a8b6e31ba1f5a989804ec373e7"
+    },
+    "TR-540617525E83": {
+      "job_id": "vwa_classifieds_8:task_only",
+      "instance_id": "vwa_classifieds_8",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "cc12d088de1b5927a2389e4cf4787ebee1c34ea87eb38dbbda01319cac3d4f5c"
+    },
+    "TR-27C00D1980AB": {
+      "job_id": "vwa_classifieds_78:with_criteria",
+      "instance_id": "vwa_classifieds_78",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "eb075aa88ba58e296fce8c5237cf5aa1d47a46cf843ee7ae9baf196ac3700d47"
+    },
+    "TR-3159DB6F1BA0": {
+      "job_id": "vwa_classifieds_83:with_criteria",
+      "instance_id": "vwa_classifieds_83",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "c6f9d4b2df2bf6da2443e2ae396c0c2914b6e8dcf81aa592c2e5980cce223516"
+    },
+    "TR-66F856A64E04": {
+      "job_id": "vwa_classifieds_7:task_only",
+      "instance_id": "vwa_classifieds_7",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "bfa311bcf80a8979bd7a6dda33ec253d23f19b4f948a2f8b861d559c3bcf5382"
+    },
+    "TR-B4D1F64EEC3B": {
+      "job_id": "vwa_classifieds_8:with_criteria",
+      "instance_id": "vwa_classifieds_8",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "41ce348550853fbedab8ef19fd0f20d583768d0fa8dfada747abea0390c9ce86"
+    },
+    "TR-6D24710A8306": {
+      "job_id": "vwa_classifieds_83:task_only",
+      "instance_id": "vwa_classifieds_83",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "0d8c91ab30dbdf03cdf9d1c9a85399327621e7d7a20a6167cb01fa0c8fefb247"
+    },
+    "TR-E6085E6AF624": {
+      "job_id": "vwa_classifieds_87:with_criteria",
+      "instance_id": "vwa_classifieds_87",
+      "variant": "with_criteria",
+      "domain": "classifieds",
+      "reference_sha256": "5b246f86cda6cd657b642b7e060b7681d40f0deeaecbe436b3e47d2a0a61ea36"
+    },
+    "TR-69F05A65FFC5": {
+      "job_id": "vwa_reddit_152:task_only",
+      "instance_id": "vwa_reddit_152",
+      "variant": "task_only",
+      "domain": "reddit",
+      "reference_sha256": "56213bcf39eb7c2fdc9afb1cc617ef6c7f9bb43ce8de7aa7e9c826a3896a6b81"
+    },
+    "TR-DB9E05A0B438": {
+      "job_id": "vwa_reddit_49:with_criteria",
+      "instance_id": "vwa_reddit_49",
+      "variant": "with_criteria",
+      "domain": "reddit",
+      "reference_sha256": "d5384163840fbaafbdb8873d37273d666e0a42740a612239ef13b4df6c1362c3"
+    },
+    "TR-E1BE6C4D3655": {
+      "job_id": "vwa_classifieds_87:task_only",
+      "instance_id": "vwa_classifieds_87",
+      "variant": "task_only",
+      "domain": "classifieds",
+      "reference_sha256": "092a03fbbba78967ca5a1b95932ad6f67c2592e3bf75333adf29361486c7a4aa"
+    },
+    "TR-B1C1979DD353": {
+      "job_id": "vwa_shopping_102:with_criteria",
+      "instance_id": "vwa_shopping_102",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "2ef103fe7c4f240d4ae96bfcd0084603874329c5be393ec630a058d4e55f6dac"
+    },
+    "TR-B1E10A8D4A94": {
+      "job_id": "vwa_reddit_152:with_criteria",
+      "instance_id": "vwa_reddit_152",
+      "variant": "with_criteria",
+      "domain": "reddit",
+      "reference_sha256": "70eda27cee1679f4f38adb15c176e1c35072c9b9179377b863df62a5e0586a39"
+    },
+    "TR-B1DAD8225001": {
+      "job_id": "vwa_reddit_49:task_only",
+      "instance_id": "vwa_reddit_49",
+      "variant": "task_only",
+      "domain": "reddit",
+      "reference_sha256": "5a3ecbb85a4236eb67a552933ec7ed131554651b3ace0ad4036520ed30628ea5"
+    },
+    "TR-F64DC648E236": {
+      "job_id": "vwa_shopping_102:task_only",
+      "instance_id": "vwa_shopping_102",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "40e4b78b8034c76fee32add5c021ff608c74d7e5e65c79ee1379fc02af87a315"
+    },
+    "TR-5344C9A5505C": {
+      "job_id": "vwa_shopping_11:with_criteria",
+      "instance_id": "vwa_shopping_11",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "a5551d1934f37740c793203ded65e7db9dd3941428b267b0be5be730ca91a3ea"
+    },
+    "TR-34B7DDD9DCEC": {
+      "job_id": "vwa_shopping_104:with_criteria",
+      "instance_id": "vwa_shopping_104",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "3f8d4756bd79a4c991a5bdddb0a6ba0d1c446c9920281169a70ac1be086b0b19"
+    },
+    "TR-92146A6559F8": {
+      "job_id": "vwa_shopping_111:with_criteria",
+      "instance_id": "vwa_shopping_111",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "669b65feb9a9e7dee06e0c773a52ada29711ce079d1a2299c7c95049d893e7d6"
+    },
+    "TR-3D2A9066C3C1": {
+      "job_id": "vwa_shopping_131:with_criteria",
+      "instance_id": "vwa_shopping_131",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "24cb3da7eb94692e0426fecdc4976fa3ff106411b3b5b03b0b3129d30c4f66e1"
+    },
+    "TR-C6D669AAA451": {
+      "job_id": "vwa_shopping_11:task_only",
+      "instance_id": "vwa_shopping_11",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "eef0836f22f91c722cef89306959bbb53d3c2b58cdc345676b4bd2143358c7b5"
+    },
+    "TR-46A515BFBE85": {
+      "job_id": "vwa_shopping_104:task_only",
+      "instance_id": "vwa_shopping_104",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "f56fc31d091d6b939ac03cc583fd0c7ff7d688c527777d35107b08429c98695f"
+    },
+    "TR-65FBA6E572CA": {
+      "job_id": "vwa_shopping_111:task_only",
+      "instance_id": "vwa_shopping_111",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "e80f87f66f5874f285ba8e700be27df3d81124eaffc87008a44a0fd0727ca2df"
+    },
+    "TR-C01DBD5798A3": {
+      "job_id": "vwa_shopping_135:with_criteria",
+      "instance_id": "vwa_shopping_135",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "6b8902766289fe8583bf8c1213e7942be594e0ec4959206eaf6df56e10b72508"
+    },
+    "TR-30C258C4A69D": {
+      "job_id": "vwa_shopping_131:task_only",
+      "instance_id": "vwa_shopping_131",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "1aa864e3a06558e143a6ba624b0c70201981db7af9851af5105c1314f819d2ff"
+    },
+    "TR-60CFA48BA2EE": {
+      "job_id": "vwa_shopping_137:with_criteria",
+      "instance_id": "vwa_shopping_137",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "fff2e873459944978149093f76aec9eb07c5ad47e5358ba784210b7f2473fed4"
+    },
+    "TR-19AEB0824E2C": {
+      "job_id": "vwa_shopping_14:with_criteria",
+      "instance_id": "vwa_shopping_14",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "03bfff29f28dcd80f8fe6c294f4b1e6867510ed5b7bdf49159fefd4442c3fe0b"
+    },
+    "TR-C8C991716808": {
+      "job_id": "vwa_shopping_135:task_only",
+      "instance_id": "vwa_shopping_135",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "933f24df970c7113e7426a4bbd6bc3e66239ce965f4c9520032323706116311b"
+    },
+    "TR-4899EBFBC63D": {
+      "job_id": "vwa_shopping_140:with_criteria",
+      "instance_id": "vwa_shopping_140",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "7b62d6739f2dd1283cdba7d18f0875a5922d8232d300c4d30a6b05857218a713"
+    },
+    "TR-AEF061DFA869": {
+      "job_id": "vwa_shopping_137:task_only",
+      "instance_id": "vwa_shopping_137",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "a1c251d1495f15724c4da3de023f375b66228e3ce33cf55fc4f588ae3248e8e0"
+    },
+    "TR-79E1DBD108ED": {
+      "job_id": "vwa_shopping_14:task_only",
+      "instance_id": "vwa_shopping_14",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "6e2c68c860c9ce191211728cb2c7a134773f78d1434d69f8b63dcfb8f2d2dd08"
+    },
+    "TR-5E241CD2C23C": {
+      "job_id": "vwa_shopping_140:task_only",
+      "instance_id": "vwa_shopping_140",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "bbe162aa1b918b4f5b1bc91df025ba25dde1b8d8f96144406f25143957b6c7e6"
+    },
+    "TR-5AF13DF55FE4": {
+      "job_id": "vwa_shopping_141:task_only",
+      "instance_id": "vwa_shopping_141",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "026a8fc4a395db3908a5c5df14f134de1b5af13af7f5f4946708a7134fc074f0"
+    },
+    "TR-357C557C91FB": {
+      "job_id": "vwa_shopping_143:with_criteria",
+      "instance_id": "vwa_shopping_143",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "2b30e0868929233da151109abfb7686b146a1a6bbc6cc4e6064a4ede6c1531b3"
+    },
+    "TR-A7A9A691C4A3": {
+      "job_id": "vwa_shopping_148:task_only",
+      "instance_id": "vwa_shopping_148",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "b1cf4ec5deb1939c696b590ba644f74a0741dafb7e2943250a5c57abb32d9d8b"
+    },
+    "TR-2CD03AFCE4C5": {
+      "job_id": "vwa_shopping_141:with_criteria",
+      "instance_id": "vwa_shopping_141",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "d6b6a24ef63a818da17c7c0ca83d79b2df40be7839da3c41996206aa6cad7726"
+    },
+    "TR-A258D723C84E": {
+      "job_id": "vwa_shopping_143:task_only",
+      "instance_id": "vwa_shopping_143",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "5a255f7b8b1bb425901ed7687efb65d01f605ad400dc41be30768abaf75e95ae"
+    },
+    "TR-849CA3C3735F": {
+      "job_id": "vwa_shopping_150:with_criteria",
+      "instance_id": "vwa_shopping_150",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "9be80b9406371016168b8bc1d286b974ea2ccaa46fb503f6f83ed55220231c07"
+    },
+    "TR-F19EFC8EB4B8": {
+      "job_id": "vwa_shopping_154:task_only",
+      "instance_id": "vwa_shopping_154",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "fbb6e04b97abdc73e318650ad6940c9f25b7eaed1754053050163d4477cb99cb"
+    },
+    "TR-79FCABB403CA": {
+      "job_id": "vwa_shopping_148:with_criteria",
+      "instance_id": "vwa_shopping_148",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "2b00c8f2fb9ba96d0e9ece33c8a00905e5518177e15bba6b8abcac1e33c14fdc"
+    },
+    "TR-BCE32AD579D2": {
+      "job_id": "vwa_shopping_150:task_only",
+      "instance_id": "vwa_shopping_150",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "3d32476b8542e95c82575ac1e378bb5ec55b0f22570c1bb7185201933a082fbe"
+    },
+    "TR-5105B5F343B9": {
+      "job_id": "vwa_shopping_156:with_criteria",
+      "instance_id": "vwa_shopping_156",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "5d29418615b295289ba65a6e4512d3f112027b71f047b2b4891df5126f9032a5"
+    },
+    "TR-813C2B2FC035": {
+      "job_id": "vwa_shopping_154:with_criteria",
+      "instance_id": "vwa_shopping_154",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "2f769885f95c6c07795fea377964f9ab5c376547be14af7bd2cb47879294ddbb"
+    },
+    "TR-1CF1A870A622": {
+      "job_id": "vwa_shopping_162:with_criteria",
+      "instance_id": "vwa_shopping_162",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "5813055073f412266f80ef75f184831b41cf021844f39a171881b62ada8252ab"
+    },
+    "TR-16982574B529": {
+      "job_id": "vwa_shopping_166:task_only",
+      "instance_id": "vwa_shopping_166",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "36bf378daa59e18b82998ee90602e623c795520cde628e7339c4c8065925b209"
+    },
+    "TR-51BC0AF9B828": {
+      "job_id": "vwa_shopping_156:task_only",
+      "instance_id": "vwa_shopping_156",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "d3d7eb8ca7c7ded68fa36891a31e10d1b62bf8ff51b2889953e5dfb45d489cc4"
+    },
+    "TR-0910DB4ACD32": {
+      "job_id": "vwa_shopping_162:task_only",
+      "instance_id": "vwa_shopping_162",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "6e0fc0918d398b5ecd568f76db6c2957ff1a718c6cda5a4dc879c98f9d905f72"
+    },
+    "TR-CEFC94355D6B": {
+      "job_id": "vwa_shopping_173:with_criteria",
+      "instance_id": "vwa_shopping_173",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "d579a266346065e5ba907cc7aad276cd9f0bf031a55fe5e4e051a490e35c01b8"
+    },
+    "TR-63BAFF3CB7B1": {
+      "job_id": "vwa_shopping_166:with_criteria",
+      "instance_id": "vwa_shopping_166",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "7014b0cd03c99d3ebaaea251ee090e663eab7a91ad299e6ef8c81d7624de8140"
+    },
+    "TR-7C60C81DFB09": {
+      "job_id": "vwa_shopping_179:with_criteria",
+      "instance_id": "vwa_shopping_179",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "fcfe24c415c51777c7aa4ede93a6fed6d93cf9ac47dd3c4682de78990154cc82"
+    },
+    "TR-202150F2F3FC": {
+      "job_id": "vwa_shopping_181:with_criteria",
+      "instance_id": "vwa_shopping_181",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "9ca83ce5920552ef02be5f5c8eb51e2998c33101fbfac20f5b1dddd0a714a5b5"
+    },
+    "TR-9125D727A8FC": {
+      "job_id": "vwa_shopping_173:task_only",
+      "instance_id": "vwa_shopping_173",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "4a19f1e47ecfc5449f0197857ac2517be3ca163077ac1d4a37dfceada8526337"
+    },
+    "TR-30955012A9C8": {
+      "job_id": "vwa_shopping_181:task_only",
+      "instance_id": "vwa_shopping_181",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "8a9d374621f1a5f41738c2573ac2347d9750e7b94ffeb2436661cb009805b059"
+    },
+    "TR-D2B8E935E819": {
+      "job_id": "vwa_shopping_179:task_only",
+      "instance_id": "vwa_shopping_179",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "a1cb9a3596ee4baafdcd49986bc0ce9c0e0a8a05f5795ca233c264162d6148a0"
+    },
+    "TR-7AB11FC6F053": {
+      "job_id": "vwa_shopping_185:with_criteria",
+      "instance_id": "vwa_shopping_185",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "78ea9ba16a3bc4cdeb7ea199094cb530e9541bdf185c2785d8c190067b6feea6"
+    },
+    "TR-A18FAF072DF4": {
+      "job_id": "vwa_shopping_187:task_only",
+      "instance_id": "vwa_shopping_187",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "5af2e3e6344c823b6b54392af48a638b72ce278d31102f13065637bb19b74044"
+    },
+    "TR-71DCBD684689": {
+      "job_id": "vwa_shopping_195:task_only",
+      "instance_id": "vwa_shopping_195",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "3e3c792ddd0ed300830a094c65f95fbc17e7e7c13be03f19744ced796fd1f32e"
+    },
+    "TR-3929FBC5521B": {
+      "job_id": "vwa_shopping_197:task_only",
+      "instance_id": "vwa_shopping_197",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "344cd46718062b6f0a5c73548253ae4ef41c2352e37a4ca78be23529c2787638"
+    },
+    "TR-9445FDC5827A": {
+      "job_id": "vwa_shopping_187:with_criteria",
+      "instance_id": "vwa_shopping_187",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "03bb772fd7c321cfe66b225686611debf5eb46edf2699a20a74e6cac71b23aa7"
+    },
+    "TR-091AABC2389C": {
+      "job_id": "vwa_shopping_195:with_criteria",
+      "instance_id": "vwa_shopping_195",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "2d9a415c0939357cb999b136fb760319d060cba3c591fd4a2713d1e67886eefd"
+    },
+    "TR-9872C82729E3": {
+      "job_id": "vwa_shopping_185:task_only",
+      "instance_id": "vwa_shopping_185",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "b9c62fc1909e6831a0bad466932d503f1705d9c9a2c1b582fbc925c638144d38"
+    },
+    "TR-3E87A026C971": {
+      "job_id": "vwa_shopping_201:with_criteria",
+      "instance_id": "vwa_shopping_201",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "cbaf009f8b9b261866425ca937874c3b3c041b380de7058168f6a89f2fae2a3b"
+    },
+    "TR-ED43AD70212F": {
+      "job_id": "vwa_shopping_197:with_criteria",
+      "instance_id": "vwa_shopping_197",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "02da84ee1551b45eeeb87fdd9617db56e6166794ada62f92ddaf56b2063345d9"
+    },
+    "TR-641DEDB0AD5E": {
+      "job_id": "vwa_shopping_2:with_criteria",
+      "instance_id": "vwa_shopping_2",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "6bd3be761f4bd6d202e41c49a13f216800d763fc1986fdffd1cd3d333b3b0198"
+    },
+    "TR-06AE821AA546": {
+      "job_id": "vwa_shopping_201:task_only",
+      "instance_id": "vwa_shopping_201",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "a4f3d2a9474b53f59341fa5fadab6b1892036bd8f7bec51da4e2209e1cb6d3df"
+    },
+    "TR-EFA9CD199AD3": {
+      "job_id": "vwa_shopping_205:task_only",
+      "instance_id": "vwa_shopping_205",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "19e410755493bef1afb07ab55c7ae06d2c526d7af64af9d2a24aec38e8170d19"
+    },
+    "TR-CE1F4AA52EDF": {
+      "job_id": "vwa_shopping_2:task_only",
+      "instance_id": "vwa_shopping_2",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "6b9a14834b343af4d3418dcc5376e7c8636fc5d38ee891267951173db512dcd6"
+    },
+    "TR-D9E5DDE9597E": {
+      "job_id": "vwa_shopping_21:with_criteria",
+      "instance_id": "vwa_shopping_21",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "2ed6a11fccd4dc9a3305b2c1e8777928102d53dbc98047985b3f6a91c1d2c8c0"
+    },
+    "TR-3FBA0372A0CE": {
+      "job_id": "vwa_shopping_205:with_criteria",
+      "instance_id": "vwa_shopping_205",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "341eb3dc3d5efe81d91b3654716ef659be1748da2a26e5185eedfac180e550d1"
+    },
+    "TR-8EDED3354B53": {
+      "job_id": "vwa_shopping_210:with_criteria",
+      "instance_id": "vwa_shopping_210",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "f9680785f1702a2ecc448ec33ececcbaaec890904b2c704d75109ab57339582f"
+    },
+    "TR-CDE8D349AE3F": {
+      "job_id": "vwa_shopping_209:with_criteria",
+      "instance_id": "vwa_shopping_209",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "a321931e1643cf820953da36ceb24de244661a944632d93757a5737a8d0b0745"
+    },
+    "TR-76E11B074E7A": {
+      "job_id": "vwa_shopping_21:task_only",
+      "instance_id": "vwa_shopping_21",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "12f95bcec91b5b8883286a85bc6623f23816f08f8d8f76c8f0ff98ff3d7d427f"
+    },
+    "TR-AC90712C2CC6": {
+      "job_id": "vwa_shopping_212:task_only",
+      "instance_id": "vwa_shopping_212",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "1e08ec5f4ce4ac9a543071aaea857434aa0037062a0006ca31ca859db357b214"
+    },
+    "TR-F410C822D1C6": {
+      "job_id": "vwa_shopping_210:task_only",
+      "instance_id": "vwa_shopping_210",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "16888f36ee197672aabc191b9e265b471f68413d680191a0480cc9c85086c3cf"
+    },
+    "TR-225A3E9C49D1": {
+      "job_id": "vwa_shopping_209:task_only",
+      "instance_id": "vwa_shopping_209",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "9ed88b9873076c318eb355877c7431363480f1e12532fdeb43db13491f0fc167"
+    },
+    "TR-8377D92C96B7": {
+      "job_id": "vwa_shopping_212:with_criteria",
+      "instance_id": "vwa_shopping_212",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "b94e726e5ffbed9e7d942ca05a1ca2b692d523b6d9289c54069274aef9556615"
+    },
+    "TR-AA4C3A1438BC": {
+      "job_id": "vwa_shopping_216:task_only",
+      "instance_id": "vwa_shopping_216",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "5d83ad070a71877f6957b4815c69ba60854bf2dc3b67ce719d80d0d2cffda69c"
+    },
+    "TR-A63050CB0F0C": {
+      "job_id": "vwa_shopping_219:task_only",
+      "instance_id": "vwa_shopping_219",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "73fdd79b978f2d6f81744e41450b4c25e793e5d79b9b4a1d9ff39a37d2432588"
+    },
+    "TR-28700DB84C64": {
+      "job_id": "vwa_shopping_225:task_only",
+      "instance_id": "vwa_shopping_225",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "1a1157ae569aef020cd9964fdf6f406a4302ab13da2a570e3651b65b77362627"
+    },
+    "TR-F5177945094E": {
+      "job_id": "vwa_shopping_222:task_only",
+      "instance_id": "vwa_shopping_222",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "0f36685576eaa1ddf451de056b215091be1672fdbbd20fbd189a6b75de61c47b"
+    },
+    "TR-17304FCC0EBB": {
+      "job_id": "vwa_shopping_216:with_criteria",
+      "instance_id": "vwa_shopping_216",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "c7f3cfcee413d33c6d7f7db8d8f9173252a074575d587e7f00b0e56dd7266b8f"
+    },
+    "TR-939B43096B37": {
+      "job_id": "vwa_shopping_219:with_criteria",
+      "instance_id": "vwa_shopping_219",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "0705256458a3bf46b114b3ec5725415547cb27b896785734bc30eb7de5591b54"
+    },
+    "TR-096D10D90696": {
+      "job_id": "vwa_shopping_222:with_criteria",
+      "instance_id": "vwa_shopping_222",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "53eaa4107890ddf3a084335def2b3d18f8004e7ed7a8b1f53ae3f6e49b965902"
+    },
+    "TR-3C6E83792627": {
+      "job_id": "vwa_shopping_233:task_only",
+      "instance_id": "vwa_shopping_233",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "fe4b1631e93b82234cee6d48601ac92bfd96e95d331a6294b0153fc6cc9ddb45"
+    },
+    "TR-5F29158EBC0E": {
+      "job_id": "vwa_shopping_230:with_criteria",
+      "instance_id": "vwa_shopping_230",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "eb7b87cc966a156918bc1eace196ff43fd723e73d3690d9986d9a81d086061f1"
+    },
+    "TR-52EBC4A150AA": {
+      "job_id": "vwa_shopping_225:with_criteria",
+      "instance_id": "vwa_shopping_225",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "66bb3537e1a17a8ca15ff2a8e9f36b7dad40387810d54e040a2df70840205e07"
+    },
+    "TR-EA19ADF9045B": {
+      "job_id": "vwa_shopping_237:with_criteria",
+      "instance_id": "vwa_shopping_237",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "a9e6b36758ad408109c9256098eee91df5f89d05c75b10e5a4e43637d9b1fc39"
+    },
+    "TR-99672AC763EA": {
+      "job_id": "vwa_shopping_233:with_criteria",
+      "instance_id": "vwa_shopping_233",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "fe4b1631e93b82234cee6d48601ac92bfd96e95d331a6294b0153fc6cc9ddb45"
+    },
+    "TR-1CD1673D1E01": {
+      "job_id": "vwa_shopping_230:task_only",
+      "instance_id": "vwa_shopping_230",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "fb07183efa5720a0ba17e0a87f9dc898dfc9f55ac42b6f4785ea96014292911c"
+    },
+    "TR-B0145FE29A7E": {
+      "job_id": "vwa_shopping_237:task_only",
+      "instance_id": "vwa_shopping_237",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "675133ac928227e718ac932a0cfa0d66205de7dba7972b29ad25a7551435417f"
+    },
+    "TR-2ADB647C0094": {
+      "job_id": "vwa_shopping_245:task_only",
+      "instance_id": "vwa_shopping_245",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "db201870abc9e624122cdd86cbdeec84a7831fdc7e4351e129a1351b9b1d900d"
+    },
+    "TR-E92D4DD799C2": {
+      "job_id": "vwa_shopping_239:with_criteria",
+      "instance_id": "vwa_shopping_239",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "d07a79de61cff3fe26a50f304026f8f64c8f503714da2f7237c1485862010808"
+    },
+    "TR-6EBC1CF86FFE": {
+      "job_id": "vwa_shopping_247:task_only",
+      "instance_id": "vwa_shopping_247",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "291cc636e1e368b89ebcbceab23add0c8e773dfd92f0a462a5c8dbacf7c994f0"
+    },
+    "TR-04736BCC8B8E": {
+      "job_id": "vwa_shopping_251:task_only",
+      "instance_id": "vwa_shopping_251",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "e06a8a8ac887cd4918f15ce1db09adddf8db0f256d3bdf93178de1e2a906bce3"
+    },
+    "TR-00ED2870AE8D": {
+      "job_id": "vwa_shopping_245:with_criteria",
+      "instance_id": "vwa_shopping_245",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "9422ae33fdd659debe4bbf7e3148b0a8fd03fc4873a14da15f25810c4841edc4"
+    },
+    "TR-DEAA894F93CB": {
+      "job_id": "vwa_shopping_239:task_only",
+      "instance_id": "vwa_shopping_239",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "d35afe3790518192038559ba170bc7aadfa0df2e7bcd84dda9588cc084898751"
+    },
+    "TR-16171979E1A8": {
+      "job_id": "vwa_shopping_251:with_criteria",
+      "instance_id": "vwa_shopping_251",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "2e43f4c54b7aa7f9886c2510a09272dedb3417e108fbfb9f377c5f4d441fc136"
+    },
+    "TR-E57D6B26707D": {
+      "job_id": "vwa_shopping_255:task_only",
+      "instance_id": "vwa_shopping_255",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "4fb93aa1183b6c8c3900ef73bf9519343541405fdee2d1f2127ad3aae993a219"
+    },
+    "TR-2DC01EADDBEA": {
+      "job_id": "vwa_shopping_247:with_criteria",
+      "instance_id": "vwa_shopping_247",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "d14a7cacf778856c0c86a910b13a08b2edf77b556ea8d654cb60a1f54c30291a"
+    },
+    "TR-D0824099D1BE": {
+      "job_id": "vwa_shopping_258:task_only",
+      "instance_id": "vwa_shopping_258",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "51d4af6db5a6319934f519e21a0f3a12621b42cfae639be7a1e4d69c1f60e549"
+    },
+    "TR-A843B0B59906": {
+      "job_id": "vwa_shopping_261:with_criteria",
+      "instance_id": "vwa_shopping_261",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "6fc4d31ae53cdebd5c9be4dec95e4f7cce6df85b127a3af92b8f2dd3a39a731b"
+    },
+    "TR-CC4353F60803": {
+      "job_id": "vwa_shopping_255:with_criteria",
+      "instance_id": "vwa_shopping_255",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "dcf4ad107aeea6ebf954a92e188fd4492496a9d1b5dd3b419cad1b2d44aa7e13"
+    },
+    "TR-D3846A8FEA11": {
+      "job_id": "vwa_shopping_26:task_only",
+      "instance_id": "vwa_shopping_26",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "81de5e06b6aed74b824c87112170d8ae4fc082043352823a7b1b1dce5bf55538"
+    },
+    "TR-E60F0037D676": {
+      "job_id": "vwa_shopping_258:with_criteria",
+      "instance_id": "vwa_shopping_258",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "9f5e4f29bdb788890255b60f42ba9fc2f438b9e6ae6ef942c36b18abfd4c5e1a"
+    },
+    "TR-1DDE36A51892": {
+      "job_id": "vwa_shopping_261:task_only",
+      "instance_id": "vwa_shopping_261",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "4c1fb33d182b3d97d42061b8be2001ca928485de1e36806b18881f52913349d9"
+    },
+    "TR-7E1DA1CDE359": {
+      "job_id": "vwa_shopping_268:with_criteria",
+      "instance_id": "vwa_shopping_268",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "b5d1054cd517884a32a5c7709dfa0ab5ec519126ce428b1974f59bec52033e22"
+    },
+    "TR-492204F446A9": {
+      "job_id": "vwa_shopping_26:with_criteria",
+      "instance_id": "vwa_shopping_26",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "05a5b236b55baba696bec832754e35b80e2b530f2020f65407bf95502603b30f"
+    },
+    "TR-10DE45AD2357": {
+      "job_id": "vwa_shopping_265:task_only",
+      "instance_id": "vwa_shopping_265",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "2882b6b361c1e4c30a906fe56ff1b5e9b745f63c1ae04c463da8b94b96dde1ed"
+    },
+    "TR-E692507914B2": {
+      "job_id": "vwa_shopping_27:with_criteria",
+      "instance_id": "vwa_shopping_27",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "bc23c4338d74be018dfd0ef31103320760c2cab7ec82e8627449038128b52766"
+    },
+    "TR-91C91F1C8F31": {
+      "job_id": "vwa_shopping_268:task_only",
+      "instance_id": "vwa_shopping_268",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "0c59dc698c01e8e11894cd08dda0cf049c1443a95a8b301408bdf520d6871c34"
+    },
+    "TR-5832877F749C": {
+      "job_id": "vwa_shopping_272:task_only",
+      "instance_id": "vwa_shopping_272",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "fac62c9a7250acbee5fdcacf69b1c4e87309741eaafc5acefe428f0473918f96"
+    },
+    "TR-24B9E4958BD8": {
+      "job_id": "vwa_shopping_265:with_criteria",
+      "instance_id": "vwa_shopping_265",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "a11f5468277db3362888812ecc0e44405fa3f7929117585adf5e190599da8076"
+    },
+    "TR-D46E6E0AED77": {
+      "job_id": "vwa_shopping_27:task_only",
+      "instance_id": "vwa_shopping_27",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "f1461ab2e5790110012c164da361a8550583b13292a0ab262d1559c8587d2afa"
+    },
+    "TR-CE92D95CFB52": {
+      "job_id": "vwa_shopping_276:task_only",
+      "instance_id": "vwa_shopping_276",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "f559dfe5e19d121f1ad9af31aec1f9053b698daf455d16f94a09ffc3eb0c082e"
+    },
+    "TR-00DC601253F4": {
+      "job_id": "vwa_shopping_286:with_criteria",
+      "instance_id": "vwa_shopping_286",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "3d22192b53abb791048128ed1239830bdf8f59cac11b88427a7a924fd2719eea"
+    },
+    "TR-DC6326525C8C": {
+      "job_id": "vwa_shopping_272:with_criteria",
+      "instance_id": "vwa_shopping_272",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "150fcf1b11ea7add8ff4252530b70dbbf7b925b382455e810f91f776a760a4b2"
+    },
+    "TR-BF77387B2C9C": {
+      "job_id": "vwa_shopping_282:task_only",
+      "instance_id": "vwa_shopping_282",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "cc5b2f0c64ffdfca7a17fce923d2e3e8f707fddd7f02f91804d93eb88d6c6b1e"
+    },
+    "TR-8A3CCA442284": {
+      "job_id": "vwa_shopping_276:with_criteria",
+      "instance_id": "vwa_shopping_276",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "f602930866325bd98fe201dbfe1bd3ccc769c213e00aaf4ce3973b31b491d9b6"
+    },
+    "TR-0F01EB711BDD": {
+      "job_id": "vwa_shopping_286:task_only",
+      "instance_id": "vwa_shopping_286",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "84d800d29ef4b1c3c99ed168d8df0b8e0f47a28e0c6eea9d5b2948b8a24eb668"
+    },
+    "TR-7F13C9012897": {
+      "job_id": "vwa_shopping_288:with_criteria",
+      "instance_id": "vwa_shopping_288",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "2a3cd8d0a7d8dfb8df15c0c0d6deb2c189798887e869ff54062e6fb03ac1d700"
+    },
+    "TR-859F948692A7": {
+      "job_id": "vwa_shopping_282:with_criteria",
+      "instance_id": "vwa_shopping_282",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "5afe93269d78c9aad25a55a55e67a30690f05718d0b997171f1d54ad004d59e3"
+    },
+    "TR-9677A8EA8CF9": {
+      "job_id": "vwa_shopping_291:task_only",
+      "instance_id": "vwa_shopping_291",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "a30b1b3cd32b82e944a209a5bebc77761acb62d54d5bb03c829c95c5b2e7b402"
+    },
+    "TR-D6BAE01AFE08": {
+      "job_id": "vwa_shopping_294:with_criteria",
+      "instance_id": "vwa_shopping_294",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "37e590f998f2d5aaf5d53a7ab743d5b81a60591faf06f7c3455abd78db5fefce"
+    },
+    "TR-91767C9A0D85": {
+      "job_id": "vwa_shopping_297:task_only",
+      "instance_id": "vwa_shopping_297",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "d532bd4fb2ddd1dcc82ce5aca29b6f8c00faf30f72fe62182bf27009e24d274b"
+    },
+    "TR-4775B140F121": {
+      "job_id": "vwa_shopping_291:with_criteria",
+      "instance_id": "vwa_shopping_291",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "ae02f71bfae407ecfaf67b5ce5735873ff0d68e20542e37f1432e59f57b492c2"
+    },
+    "TR-A6366FE2897A": {
+      "job_id": "vwa_shopping_288:task_only",
+      "instance_id": "vwa_shopping_288",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "a05c474cb16c817b1eda2e5f58b137c544dccef17ad6d903cd95da7abb359b2a"
+    },
+    "TR-63FCEF493BF7": {
+      "job_id": "vwa_shopping_294:task_only",
+      "instance_id": "vwa_shopping_294",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "27a3cf8c8d9d9da50cbf0da68c448226f009d194f2657d326482d51803fd8878"
+    },
+    "TR-81699DDA2E02": {
+      "job_id": "vwa_shopping_298:task_only",
+      "instance_id": "vwa_shopping_298",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "c012ec9a4c5b6af742b71d7363eb8e13349082561b8b82a28411ea3f42861d8e"
+    },
+    "TR-A26E8577E80D": {
+      "job_id": "vwa_shopping_303:task_only",
+      "instance_id": "vwa_shopping_303",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "9ae1fb50ef5507e2858b0c589de35475e0d21550cb177bbcb140f6c7e568d73f"
+    },
+    "TR-F97247B59335": {
+      "job_id": "vwa_shopping_3:with_criteria",
+      "instance_id": "vwa_shopping_3",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "ee0769c2f6711960990b840de75801b92b0456398408e04a2437e9f5ce018641"
+    },
+    "TR-90277C31A674": {
+      "job_id": "vwa_shopping_297:with_criteria",
+      "instance_id": "vwa_shopping_297",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "7accb82544cadb3d14701faaa3d7c9da8181e81707cb485392d8c38ce9f3ed7d"
+    },
+    "TR-C335C9A638EA": {
+      "job_id": "vwa_shopping_298:with_criteria",
+      "instance_id": "vwa_shopping_298",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "6b349cddb049d68647976667ef379c8a9c792cddb872f5c04f65556ea3693f7f"
+    },
+    "TR-0DCB98E4CA98": {
+      "job_id": "vwa_shopping_3:task_only",
+      "instance_id": "vwa_shopping_3",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "5e9ca68a178ab658d006ac961c19c04d4456a7e40d8e973d9177d6e02423615b"
+    },
+    "TR-A5790452E50C": {
+      "job_id": "vwa_shopping_303:with_criteria",
+      "instance_id": "vwa_shopping_303",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "7598ac1e7b6051107260c1057641650b6d21fbfd2b807196f82936473d40a90f"
+    },
+    "TR-25F42AC63F76": {
+      "job_id": "vwa_shopping_31:task_only",
+      "instance_id": "vwa_shopping_31",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "6f67e5c6f5efe9ae6d76974d065697b8ebaf984b5d1bbf5902147631753a4390"
+    },
+    "TR-DBA765FFCAE9": {
+      "job_id": "vwa_shopping_306:task_only",
+      "instance_id": "vwa_shopping_306",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "891b02aba52a20a870ad5dc21ffc23e1ae43e3f301dabf5efa31d8971d7593c0"
+    },
+    "TR-D2CF1DCB0637": {
+      "job_id": "vwa_shopping_310:task_only",
+      "instance_id": "vwa_shopping_310",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "1b3757c9a298b5cc11bfcd850225752cd69faa52c54be811250a2b977bbad841"
+    },
+    "TR-991BB035C2CF": {
+      "job_id": "vwa_shopping_314:task_only",
+      "instance_id": "vwa_shopping_314",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "1111588cf586d04dc0cde360b4278a37ef7965e97330cd0ecd26ccd5bcd5577a"
+    },
+    "TR-EF20F8EA688E": {
+      "job_id": "vwa_shopping_306:with_criteria",
+      "instance_id": "vwa_shopping_306",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "b91c06d2ece6889ef40756cdb7df7daeb76b4b295456d793b6119afbb1eca7fa"
+    },
+    "TR-E5D5E2E622F1": {
+      "job_id": "vwa_shopping_31:with_criteria",
+      "instance_id": "vwa_shopping_31",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "efe2e2c141f1da134f719eb13a82f0f70b54edbd9c07fc3725d2a0c3623fdf8e"
+    },
+    "TR-4B13CB02559F": {
+      "job_id": "vwa_shopping_310:with_criteria",
+      "instance_id": "vwa_shopping_310",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "c32419891545f91ff8d2434de9bdee290556696119a3f480671324006e3ea0d4"
+    },
+    "TR-8527612BE33E": {
+      "job_id": "vwa_shopping_314:with_criteria",
+      "instance_id": "vwa_shopping_314",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "e7c97ee3e88ce780adfd1dcf77980e779f4b4738843548974ff4dd1da5e72e27"
+    },
+    "TR-F94E5C9DC961": {
+      "job_id": "vwa_shopping_323:task_only",
+      "instance_id": "vwa_shopping_323",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "ca56aadc9d3f418bd33430d7e551ad3ce9e5705bd69b1b398cdcb2699bb0e5f6"
+    },
+    "TR-D6DFDD6772EE": {
+      "job_id": "vwa_shopping_326:with_criteria",
+      "instance_id": "vwa_shopping_326",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "bfee15fed0e1dcc6c9835ac08cda5a89b63984e715a894309bc22e5b1d5d2aab"
+    },
+    "TR-1957C17A6F1F": {
+      "job_id": "vwa_shopping_320:task_only",
+      "instance_id": "vwa_shopping_320",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "169d1e99a907c4831b2cb800cdab5c2d6f7538fd7cde8eb3a5c3276b3d24c894"
+    },
+    "TR-3CE15BC4F2E7": {
+      "job_id": "vwa_shopping_328:task_only",
+      "instance_id": "vwa_shopping_328",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "4eb7871a083dcc74d59ecae4aeda9cf9eab1aad0b6ae844d81454d53fe5f5926"
+    },
+    "TR-CA2F54A589F8": {
+      "job_id": "vwa_shopping_323:with_criteria",
+      "instance_id": "vwa_shopping_323",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "3e6b1d22e1236a6723c67945159d936506e1ed16ac94c996bf886ba7dad04ac1"
+    },
+    "TR-079CE3DBFA86": {
+      "job_id": "vwa_shopping_326:task_only",
+      "instance_id": "vwa_shopping_326",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "7b523783fc3d8f336b1a14afb1f5cb789620994a8e65a495940b51446e19536f"
+    },
+    "TR-56237D2F9567": {
+      "job_id": "vwa_shopping_320:with_criteria",
+      "instance_id": "vwa_shopping_320",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "5a8b96cd7f243fb49fe16d9cb15b7437022353d3edba93072b97962f9654872a"
+    },
+    "TR-F0EE86056C74": {
+      "job_id": "vwa_shopping_332:with_criteria",
+      "instance_id": "vwa_shopping_332",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "243818b82eb8eef36a60e2ca64c21203083b4f8d7b0dcad10cd992882e81faf4"
+    },
+    "TR-9DE5EB4CBC91": {
+      "job_id": "vwa_shopping_328:with_criteria",
+      "instance_id": "vwa_shopping_328",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "907a6919bd03ff3a6b4e759798eaf3cdcc497fd24833d4cd6abd30325efaf6a8"
+    },
+    "TR-59849B669C19": {
+      "job_id": "vwa_shopping_343:with_criteria",
+      "instance_id": "vwa_shopping_343",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "148a4ccad5d7ac91c166638bdddfd9dc7824ef62c26efa680cffd2f938e06020"
+    },
+    "TR-33B373D707A3": {
+      "job_id": "vwa_shopping_337:task_only",
+      "instance_id": "vwa_shopping_337",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "a40de93387148242f0ebafd3f21af3641059faa5c66900f2231b8d5b057ff089"
+    },
+    "TR-9CA9A7E763D8": {
+      "job_id": "vwa_shopping_332:task_only",
+      "instance_id": "vwa_shopping_332",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "2f5fa9235eecca287a849dd107a05e3d863264852b2b42843c5995b05e735f1c"
+    },
+    "TR-EABEB908BD2D": {
+      "job_id": "vwa_shopping_346:task_only",
+      "instance_id": "vwa_shopping_346",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "0f51a38bebb2357476c520fba1620f5765e57eca055bc185229ec910788bb75d"
+    },
+    "TR-0093DA1B2974": {
+      "job_id": "vwa_shopping_343:task_only",
+      "instance_id": "vwa_shopping_343",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "70ee94137594e48626412eeb54b9290e74e1c41c27319dc36af876001b184fec"
+    },
+    "TR-DFF2ADB86132": {
+      "job_id": "vwa_shopping_337:with_criteria",
+      "instance_id": "vwa_shopping_337",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "3054f913afdc6971bbe41ad39830e97ce8f87f645060aa0e1474045533fde5bf"
+    },
+    "TR-17254BD23388": {
+      "job_id": "vwa_shopping_346:with_criteria",
+      "instance_id": "vwa_shopping_346",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "d9b567862c986a9f07288ac4433bc0f3357df6756b8b6d61b77dedfe30bd17f9"
+    },
+    "TR-C6651752C698": {
+      "job_id": "vwa_shopping_349:task_only",
+      "instance_id": "vwa_shopping_349",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "c4e6388f7021aab4448e2a56a39e4f6d9152c5fa254011d444c054908a6a7b29"
+    },
+    "TR-076F5B2E6125": {
+      "job_id": "vwa_shopping_35:with_criteria",
+      "instance_id": "vwa_shopping_35",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "1b446d701a747cd41c139d6461c6dd76435a555c112184a8e68f3825eed0ffd8"
+    },
+    "TR-D5C5E5343C88": {
+      "job_id": "vwa_shopping_361:task_only",
+      "instance_id": "vwa_shopping_361",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "3a6335fa8f31813eb9a0ca631c941cdf5d65b303d8cd768c67da3373ef0644a3"
+    },
+    "TR-A8DFC699D841": {
+      "job_id": "vwa_shopping_366:task_only",
+      "instance_id": "vwa_shopping_366",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "01ad888a0e61d8ab881232bfa81195d45e6151ea5fc05bcbc0f0f4c86c96bf4d"
+    },
+    "TR-56BA467AB21C": {
+      "job_id": "vwa_shopping_35:task_only",
+      "instance_id": "vwa_shopping_35",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "47154088e309489f88fbba3e64376ca4d069e10ff60a63a8800a59ad42f75e37"
+    },
+    "TR-79EC839A1387": {
+      "job_id": "vwa_shopping_349:with_criteria",
+      "instance_id": "vwa_shopping_349",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "22d48aed161632e0aa133fc141eb15f4d624de04d990ba57f85ae1856769dba5"
+    },
+    "TR-DF458FF2BFE7": {
+      "job_id": "vwa_shopping_361:with_criteria",
+      "instance_id": "vwa_shopping_361",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "e5d2b5b9032e0232a2c81a46c048dc7c67266d3a269b528062696514f05f7ef7"
+    },
+    "TR-6A2131196208": {
+      "job_id": "vwa_shopping_366:with_criteria",
+      "instance_id": "vwa_shopping_366",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "97a904bd892365919de24a06a2c521362149354a2def884903f9f9ad8119c215"
+    },
+    "TR-69E5A1AD4308": {
+      "job_id": "vwa_shopping_37:with_criteria",
+      "instance_id": "vwa_shopping_37",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "a84fb16cb1071e2ee648c8ae3a61b0f8d38f6dbdc1e6b96d55074cef860ffab2"
+    },
+    "TR-50F71E1F0C65": {
+      "job_id": "vwa_shopping_377:with_criteria",
+      "instance_id": "vwa_shopping_377",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "8123694c22124f7c12796c43cd3b3dd535a66de7897b97ff9356a1542cd12f06"
+    },
+    "TR-680C98C174E6": {
+      "job_id": "vwa_shopping_370:task_only",
+      "instance_id": "vwa_shopping_370",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "db37050ac179d00fe811af3d0c1d54d2dfbf810275200ae72ae455ee49b4291e"
+    },
+    "TR-B76861A3A278": {
+      "job_id": "vwa_shopping_373:with_criteria",
+      "instance_id": "vwa_shopping_373",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "a9b6284f29b5abfa12ca85d15c7e21f4aae127cb67989033dc101436c6b65c7a"
+    },
+    "TR-A9D126C62AB8": {
+      "job_id": "vwa_shopping_37:task_only",
+      "instance_id": "vwa_shopping_37",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "bd2ff2114a9b7010362cc38e90818d2afb50b49fb301331050db2631dee1c99f"
+    },
+    "TR-09AD1FFF63E3": {
+      "job_id": "vwa_shopping_377:task_only",
+      "instance_id": "vwa_shopping_377",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "f35b29230bad48d18ad9894a5c700d93f02e6a5023b3bb773d171f8f5564d7a9"
+    },
+    "TR-D73B0D5482CF": {
+      "job_id": "vwa_shopping_370:with_criteria",
+      "instance_id": "vwa_shopping_370",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "b6c6c5c1d6a25298067515aa2bd7f8d60646f8af76af8d4dd6b4a9bd78550786"
+    },
+    "TR-7EC66B95C31C": {
+      "job_id": "vwa_shopping_383:task_only",
+      "instance_id": "vwa_shopping_383",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "777a5b97d46d430779bf13d36759061c33ecb8474955659318bd8defa90d8b37"
+    },
+    "TR-3E93D2CAE073": {
+      "job_id": "vwa_shopping_373:task_only",
+      "instance_id": "vwa_shopping_373",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "d1994bb5c181e2255530a4e6510630f31c041d98265c1d3a48a1fa4104ed9173"
+    },
+    "TR-E499EF778D2B": {
+      "job_id": "vwa_shopping_386:task_only",
+      "instance_id": "vwa_shopping_386",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "dd1482c8fb7af6e777f0ff44bacccdb384a0bffae71039a8a496b749971cf6af"
+    },
+    "TR-EC714E044D2D": {
+      "job_id": "vwa_shopping_397:with_criteria",
+      "instance_id": "vwa_shopping_397",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "735b9639c7919890ccebc0db276f68a8560dd24e8ac00f1ad1ec772589979e0d"
+    },
+    "TR-F2EDA9F1BEED": {
+      "job_id": "vwa_shopping_383:with_criteria",
+      "instance_id": "vwa_shopping_383",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "b9f2f494cac0df987a98f77f5d8d96d8a2bed0962343a9f792f8dd72b87f5d49"
+    },
+    "TR-FD6CC8BE861B": {
+      "job_id": "vwa_shopping_40:with_criteria",
+      "instance_id": "vwa_shopping_40",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "b47fae44f95524d004639f882e376bd671a8990083f51ba6e6de6688e81afce1"
+    },
+    "TR-DAEAC1185A21": {
+      "job_id": "vwa_shopping_386:with_criteria",
+      "instance_id": "vwa_shopping_386",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "a45823175bd263409dcdbd690d55a26199e2ed057cf791a823848d30c197e50d"
+    },
+    "TR-078A24BE58D8": {
+      "job_id": "vwa_shopping_397:task_only",
+      "instance_id": "vwa_shopping_397",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "7bd1f2101484a8d86a7d0fe6612506381281c49b40eba731fd05d4437a5784f2"
+    },
+    "TR-95FBB3F569D4": {
+      "job_id": "vwa_shopping_40:task_only",
+      "instance_id": "vwa_shopping_40",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "9f126abd12a494782d14eeab511a1839450a23da32093f3f122c3d78d69a463b"
+    },
+    "TR-D48C97BCF8A3": {
+      "job_id": "vwa_shopping_409:task_only",
+      "instance_id": "vwa_shopping_409",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "8af0e8c62f08c47953d1f4407155f9c0ce0d48f9afe6f5eaaf9adccf1839acad"
+    },
+    "TR-21E10C875262": {
+      "job_id": "vwa_shopping_420:with_criteria",
+      "instance_id": "vwa_shopping_420",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "0a086ad4a042142b1e4d3ded6091a3f9e03434a5902888c03f44a0ef0fc8e94e"
+    },
+    "TR-D4817AFED111": {
+      "job_id": "vwa_shopping_428:with_criteria",
+      "instance_id": "vwa_shopping_428",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "9da535b807eabeaaf37d5c86620b046d1159a5d181ea328e907e16dac653d586"
+    },
+    "TR-812EA70700D2": {
+      "job_id": "vwa_shopping_43:with_criteria",
+      "instance_id": "vwa_shopping_43",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "06bf3071a3869a044d820d6d6f639b2c2decde50f5422670886bf0cef463d619"
+    },
+    "TR-0EC0DC4D7D37": {
+      "job_id": "vwa_shopping_420:task_only",
+      "instance_id": "vwa_shopping_420",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "f1702bdba1489fd6065746d82b5314d4baab3408c8fa96ecb8d11caf0bd67488"
+    },
+    "TR-2F01F2611215": {
+      "job_id": "vwa_shopping_409:with_criteria",
+      "instance_id": "vwa_shopping_409",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "63a0720b4f239a8043cb60c963651def0eda561672f44e34daf23adeb02fed3a"
+    },
+    "TR-EFAD8D71C4C3": {
+      "job_id": "vwa_shopping_434:with_criteria",
+      "instance_id": "vwa_shopping_434",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "795cfa92592dc6ee9be4c55b5ca0136752a40cd0a8c1e6cb6fd265bd23061b85"
+    },
+    "TR-C9D29909E239": {
+      "job_id": "vwa_shopping_43:task_only",
+      "instance_id": "vwa_shopping_43",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "a1c63d4312c13e769f80ee00785c64e39549ca7f9b059f324f78ef1483e916ad"
+    },
+    "TR-99DDB69F4EB3": {
+      "job_id": "vwa_shopping_428:task_only",
+      "instance_id": "vwa_shopping_428",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "a09e33ce29cc2f657401dac325921b1257648b1a198ee63a1ed0f9e90d1a2c90"
+    },
+    "TR-3264F73164F0": {
+      "job_id": "vwa_shopping_436:with_criteria",
+      "instance_id": "vwa_shopping_436",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "325f1ebff2f14857563ea35fe0dd85001480a0bb95136000134534ead36c2657"
+    },
+    "TR-3D3D7F8910BA": {
+      "job_id": "vwa_shopping_443:with_criteria",
+      "instance_id": "vwa_shopping_443",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "9089a83f263dbde56b0898cd02fbff309140530272af43755b7caf75b6b21eb5"
+    },
+    "TR-8912C536F458": {
+      "job_id": "vwa_shopping_434:task_only",
+      "instance_id": "vwa_shopping_434",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "1bb8a237e987cf46d18a0387325efc4ebdca2e8c6310c46d0ed23b8794fd95b2"
+    },
+    "TR-D67B7E0E2667": {
+      "job_id": "vwa_shopping_439:with_criteria",
+      "instance_id": "vwa_shopping_439",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "4d5a83341690cac85533661fb7a47077bfd8e0f070d71b2b5f8fe78f69d476a4"
+    },
+    "TR-697DAA5454F1": {
+      "job_id": "vwa_shopping_436:task_only",
+      "instance_id": "vwa_shopping_436",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "fd36b003bca29334b5a58e966e30450fdeb5576eb1dbd0dc870cb7b03f44d31b"
+    },
+    "TR-7E8C5363A9BF": {
+      "job_id": "vwa_shopping_443:task_only",
+      "instance_id": "vwa_shopping_443",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "f1f4dafb7a85398b267a4aa3172e72563647d02286ec2729770c284eacbbe809"
+    },
+    "TR-9979BAFA99BA": {
+      "job_id": "vwa_shopping_444:with_criteria",
+      "instance_id": "vwa_shopping_444",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "25cd7f8f7dfd1c8a9a9b270bc68bfdd961fc55de4d3df694e6eee418149448ce"
+    },
+    "TR-BCA6EFD9ADBD": {
+      "job_id": "vwa_shopping_439:task_only",
+      "instance_id": "vwa_shopping_439",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "a5a5cbf64961fe542b119311b5eb2be5fd1dc671938e4bae3c1265dc2a166fd2"
+    },
+    "TR-D9036BD39D29": {
+      "job_id": "vwa_shopping_447:with_criteria",
+      "instance_id": "vwa_shopping_447",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "c8e0dfe1c06310ca43f5bacbdc234fdf1bb545a578ca187e40e311356501c0b0"
+    },
+    "TR-658E8ECD6077": {
+      "job_id": "vwa_shopping_453:task_only",
+      "instance_id": "vwa_shopping_453",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "7b4dc2a0d424fe2ee7a5d6d7b98608e07cb3bdeb54d87300321f8de71c98e40b"
+    },
+    "TR-9647CA912925": {
+      "job_id": "vwa_shopping_461:task_only",
+      "instance_id": "vwa_shopping_461",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "d52f8a656480d78ab1197a826fecb95cb39a9dedf216c07d5f78d597d7c6baaa"
+    },
+    "TR-0FC38F29DEB6": {
+      "job_id": "vwa_shopping_444:task_only",
+      "instance_id": "vwa_shopping_444",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "c735ca6069aa31aa02f3e97aee733aa509608f55279b3f9a1c50ac78b22b8a4e"
+    },
+    "TR-2865EA97C5BF": {
+      "job_id": "vwa_shopping_453:with_criteria",
+      "instance_id": "vwa_shopping_453",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "94fa21984f3f2f044758441c90a7aaac28317ff5d63f98ea27140d83a2d940c1"
+    },
+    "TR-4D2502D770F3": {
+      "job_id": "vwa_shopping_447:task_only",
+      "instance_id": "vwa_shopping_447",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "d2e58e2c7a65ac202d6f54a3581a12f5b49bdeb3c49fc59b7116c723946e91d4"
+    },
+    "TR-A93C34914153": {
+      "job_id": "vwa_shopping_463:task_only",
+      "instance_id": "vwa_shopping_463",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "8edbca0d4e6bf97f0e1aa5f4f3d193a91fa396cf4e854a21d6cb017541eec2f3"
+    },
+    "TR-2DB00940FA59": {
+      "job_id": "vwa_shopping_47:with_criteria",
+      "instance_id": "vwa_shopping_47",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "a00f770ac28e299538782815bcd5260970f350005cf4ae6c660ec4d6cb9d8eca"
+    },
+    "TR-5FD95E8FA067": {
+      "job_id": "vwa_shopping_461:with_criteria",
+      "instance_id": "vwa_shopping_461",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "6aaf6d74be0c88ab6e8347508a297800c1e9c466acd6d5e5173fd96abd235f13"
+    },
+    "TR-1F037F7BD96C": {
+      "job_id": "vwa_shopping_6:with_criteria",
+      "instance_id": "vwa_shopping_6",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "248f69179599bbbf7e81e2ebbb037320bbb5451b8637da130fe78e27c930e897"
+    },
+    "TR-223F749822DB": {
+      "job_id": "vwa_shopping_463:with_criteria",
+      "instance_id": "vwa_shopping_463",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "1cb444c4e8dc893af2fa80d50eec1012c9d06896b344f11359120b016629b479"
+    },
+    "TR-7A34ED4A3041": {
+      "job_id": "vwa_shopping_64:task_only",
+      "instance_id": "vwa_shopping_64",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "540a5a8f8abc1c46eb697e2917e956d018dd9e517eef93c31e055c0fc3c5760f"
+    },
+    "TR-0D6B9EB49A15": {
+      "job_id": "vwa_shopping_47:task_only",
+      "instance_id": "vwa_shopping_47",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "a447610912e8aaa76191ef3c81eee77561c202e1a14ec736eeb8b1493ab0f90a"
+    },
+    "TR-23DA450CD332": {
+      "job_id": "vwa_shopping_6:task_only",
+      "instance_id": "vwa_shopping_6",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "edba9d476e57e5c19919ab65c5864bd6904e50c0a460f7fb73b47a7493ab9a33"
+    },
+    "TR-0BB7DF54BDFD": {
+      "job_id": "vwa_shopping_70:task_only",
+      "instance_id": "vwa_shopping_70",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "19a72c809d8faf22be6d3512581a65e0133aeb6aa72c20b856f2d0b65056fa2a"
+    },
+    "TR-5C9379AE2A5C": {
+      "job_id": "vwa_shopping_64:with_criteria",
+      "instance_id": "vwa_shopping_64",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "b3789d6a655c53c6d798ba3c46325bc8dd4ce7cee72943fd1c3299163d19394a"
+    },
+    "TR-9E4F3782C7B6": {
+      "job_id": "vwa_shopping_83:with_criteria",
+      "instance_id": "vwa_shopping_83",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "b77a1d974ac86ba5d838ac35b8c59fb66499c52df344750a0b6f1f7264a020d2"
+    },
+    "TR-64C3F4CDAD7A": {
+      "job_id": "vwa_shopping_72:with_criteria",
+      "instance_id": "vwa_shopping_72",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "578d0c770a948a1a180c5a292775d6829be8ca7112167c96c9b97b17fb00b5b4"
+    },
+    "TR-A54CEE0382FD": {
+      "job_id": "vwa_shopping_83:task_only",
+      "instance_id": "vwa_shopping_83",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "bbb7e8d171701b99f0111a75c9a5129640a34d670ed29b28f3dbb88eb65b6822"
+    },
+    "TR-02177C741851": {
+      "job_id": "vwa_shopping_70:with_criteria",
+      "instance_id": "vwa_shopping_70",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "03db18df5e3c63c2583c40dca840ac29919d8c130136ef04b49fa2e8e7b63583"
+    },
+    "TR-97A77E7BCF6A": {
+      "job_id": "vwa_shopping_72:task_only",
+      "instance_id": "vwa_shopping_72",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "03f83a1ee24416f5eafc1b8f53d684b982a6ab76bb8e5fa8da3d2a900761e801"
+    },
+    "TR-0BC1FF6554D3": {
+      "job_id": "vwa_shopping_87:with_criteria",
+      "instance_id": "vwa_shopping_87",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "ea8a8327620f1d7ccc66c51688a149eb67837b8e9c51741921b5cea83a52bf9e"
+    },
+    "TR-F5DD84F65079": {
+      "job_id": "vwa_shopping_95:task_only",
+      "instance_id": "vwa_shopping_95",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "7828a17812a10a1d00d4d116c7a3eda4146b5d3b8061df9ac8e42c84e9eb7df3"
+    },
+    "TR-5D01958CF24E": {
+      "job_id": "vwa_shopping_90:task_only",
+      "instance_id": "vwa_shopping_90",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "3acd540eb5622c1ce6d4c6f726dcc8214f21c91d8e08ea2362694130b8fa9328"
+    },
+    "TR-5B10798E8B11": {
+      "job_id": "vwa_shopping_98:with_criteria",
+      "instance_id": "vwa_shopping_98",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "bb4f1b2a6beeaec3cd55d43093203cb376bff4a5b075ebc3cf1a3300721af238"
+    },
+    "TR-76E6088A9202": {
+      "job_id": "vwa_shopping_87:task_only",
+      "instance_id": "vwa_shopping_87",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "bcecbb9468f6e581a2440a7ac3b6c31d84b6b143a96ad58777888b285003a06e"
+    },
+    "TR-397D9C200FA8": {
+      "job_id": "vwa_shopping_90:with_criteria",
+      "instance_id": "vwa_shopping_90",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "0cd87c4f6a99048b0511477f8027eb717b853a4d62da81ed2d9af855b1030f1d"
+    },
+    "TR-BED48539E915": {
+      "job_id": "vwa_shopping_95:with_criteria",
+      "instance_id": "vwa_shopping_95",
+      "variant": "with_criteria",
+      "domain": "shopping",
+      "reference_sha256": "6b5cd78796e0e1fba57f4fe54980269b81a89015e2738f5354d37d5072588762"
+    },
+    "TR-A065960728FE": {
+      "job_id": "vwa_shopping_98:task_only",
+      "instance_id": "vwa_shopping_98",
+      "variant": "task_only",
+      "domain": "shopping",
+      "reference_sha256": "17a745b85d03401f60cfcd2b3c6d1722dc0cc144f004de1e41fad1afcac916c4"
+    }
+  }
+}
