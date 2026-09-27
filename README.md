@@ -15,6 +15,12 @@ verifier judgments are not returned to the actor and do not trigger retries or r
 Accordingly, this package evaluates cross-model post-hoc task verification rather than
 same-model self-verification or closed-loop self-correction.
 
+The full dataset contains 759 FAILURE and 150 SUCCESS instances. Accordingly,
+SUCCESS-class F1 is the primary performance metric, balanced accuracy is the
+complementary class-balanced summary, and raw accuracy is interpreted only
+alongside both. An always-FAILURE predictor reaches 83.5% accuracy but has
+0.000 SUCCESS-class F1 and 0.500 balanced accuracy.
+
 ## Review release
 
 The stable reviewer-evidence release is archived at **[10.5281/zenodo.22990531](https://doi.org/10.5281/zenodo.22990531)**
