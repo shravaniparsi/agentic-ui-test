@@ -1,0 +1,724 @@
+{
+  "instance_id": "vwa_reddit_188",
+  "domain": "reddit",
+  "filename_task_id": 188,
+  "source_url": "https://drive.usercontent.google.com/download?id=1F7P7FQIgoCC3j8-INufMq0vKJQbQZu7m&export=download&confirm=t",
+  "source_file_id": "1F7P7FQIgoCC3j8-INufMq0vKJQbQZu7m",
+  "archive_sha256": "1de45a818824ecdc40a8533a3f7db43f62b320160a408cd2abb58028fb42a4f0",
+  "archive_bytes": 36263272,
+  "event_types": {
+    "context-options": 1,
+    "event": 272,
+    "screencast-frame": 609,
+    "object": 70,
+    "before": 17,
+    "frame-snapshot": 53,
+    "input": 17,
+    "after": 17
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704274834300,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@24c0c63fe7bb2d22a8db3aca4b93d4c8",
+      "frameId": "frame@d1629224e098c113d998e08a1f29d70f",
+      "frameUrl": "https://www.google.com/search?q=Rhode+Island&oq=Rhode+Island&aqs=chrome..69i57.587j0j1&sourceid=chrome&ie=UTF-8",
+      "snapshotName": "before@call@0123c07c89c531e35a14282a1445dba3",
+      "timestamp": 54075.407,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@24c0c63fe7bb2d22a8db3aca4b93d4c8",
+      "frameId": "frame@e1dc3b8e5c5e51df9de50c7e9a00df75",
+      "frameUrl": "about:blank",
+      "snapshotName": "before@call@0123c07c89c531e35a14282a1445dba3",
+      "timestamp": 54094.556,
+      "viewport": {
+        "width": 260,
+        "height": 312
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@24c0c63fe7bb2d22a8db3aca4b93d4c8",
+      "frameId": "frame@d1629224e098c113d998e08a1f29d70f",
+      "frameUrl": "https://www.google.com/search?q=Rhode+Island&oq=Rhode+Island&aqs=chrome..69i57.587j0j1&sourceid=chrome&ie=UTF-8",
+      "snapshotName": "input@call@0123c07c89c531e35a14282a1445dba3",
+      "timestamp": 54244.491,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@24c0c63fe7bb2d22a8db3aca4b93d4c8",
+      "frameId": "frame@e1dc3b8e5c5e51df9de50c7e9a00df75",
+      "frameUrl": "about:blank",
+      "snapshotName": "input@call@0123c07c89c531e35a14282a1445dba3",
+      "timestamp": 54247.09,
+      "viewport": {
+        "width": 260,
+        "height": 312
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@24c0c63fe7bb2d22a8db3aca4b93d4c8",
+      "frameId": "frame@d1629224e098c113d998e08a1f29d70f",
+      "frameUrl": "https://en.wikipedia.org/wiki/Rhode_Island",
+      "snapshotName": "after@call@0123c07c89c531e35a14282a1445dba3",
+      "timestamp": 54807.128,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@314b90cd0f9bbd698f9c06f5f31c391f",
+      "timestamp": 69455.235,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@314b90cd0f9bbd698f9c06f5f31c391f",
+      "timestamp": 69498.08,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "after@call@314b90cd0f9bbd698f9c06f5f31c391f",
+      "timestamp": 69551.421,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@0055230b1dbc2acded24bea2af9aaaf5",
+      "timestamp": 70286.904,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@0055230b1dbc2acded24bea2af9aaaf5",
+      "timestamp": 70350.279,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@0055230b1dbc2acded24bea2af9aaaf5",
+      "timestamp": 71275.657,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@18cb92ee35374e3f17ce1a77ea31e2e6",
+      "timestamp": 72741.292,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@18cb92ee35374e3f17ce1a77ea31e2e6",
+      "timestamp": 72800.703,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "after@call@18cb92ee35374e3f17ce1a77ea31e2e6",
+      "timestamp": 73156.061,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@b4126ba7ef7e2436e6bb82d4a58faba6",
+      "timestamp": 77650.009,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@b4126ba7ef7e2436e6bb82d4a58faba6",
+      "timestamp": 77711.262,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/providence",
+      "snapshotName": "after@call@b4126ba7ef7e2436e6bb82d4a58faba6",
+      "timestamp": 78231.952,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/providence",
+      "snapshotName": "before@call@c97e6f9937f42e70ac64013892291d17",
+      "timestamp": 89902.019,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/providence",
+      "snapshotName": "input@call@c97e6f9937f42e70ac64013892291d17",
+      "timestamp": 89948.39,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "after@call@c97e6f9937f42e70ac64013892291d17",
+      "timestamp": 94055.546,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "before@call@34c2f5932b7e375cbecb322de48765dd",
+      "timestamp": 99268.315,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "input@call@34c2f5932b7e375cbecb322de48765dd",
+      "timestamp": 99312.054,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "after@call@34c2f5932b7e375cbecb322de48765dd",
+      "timestamp": 99365.555,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "before@call@505db7335cd8a13eb14935d85388df3f",
+      "timestamp": 99963.948,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "input@call@505db7335cd8a13eb14935d85388df3f",
+      "timestamp": 99992.677,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "after@call@505db7335cd8a13eb14935d85388df3f",
+      "timestamp": 100031.294,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "before@call@1c44151d6b52a272119ad45978cfd9d3",
+      "timestamp": 102129.879,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "input@call@1c44151d6b52a272119ad45978cfd9d3",
+      "timestamp": 102161.475,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "after@call@1c44151d6b52a272119ad45978cfd9d3",
+      "timestamp": 102170.564,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "before@call@2707f5d31f54a4b087f5860bd17f5303",
+      "timestamp": 102205.296,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "input@call@2707f5d31f54a4b087f5860bd17f5303",
+      "timestamp": 102212.736,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "after@call@2707f5d31f54a4b087f5860bd17f5303",
+      "timestamp": 102227.205,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "before@call@2219a506df6af47eadb85e3061a560f7",
+      "timestamp": 102453.742,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "input@call@2219a506df6af47eadb85e3061a560f7",
+      "timestamp": 102464.658,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "after@call@2219a506df6af47eadb85e3061a560f7",
+      "timestamp": 102477.384,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "before@call@d81981fa75610b3844503ebc2626a95e",
+      "timestamp": 102863.938,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "input@call@d81981fa75610b3844503ebc2626a95e",
+      "timestamp": 102897.041,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "after@call@d81981fa75610b3844503ebc2626a95e",
+      "timestamp": 102926.298,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "before@call@0e677f6f768e27311a46cda92f9403d4",
+      "timestamp": 103395.505,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "input@call@0e677f6f768e27311a46cda92f9403d4",
+      "timestamp": 103426.777,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "after@call@0e677f6f768e27311a46cda92f9403d4",
+      "timestamp": 103464.857,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b1483035238a957e402c3b49a556b973",
+      "frameId": "frame@2c22222b209da652580d8a8816ef6c66",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/bedding/kids-bedding.html?product_list_order=name&product_list_dir=desc",
+      "snapshotName": "before@call@9db428ba2a4a196f9eb6fcfd2a1deae2",
+      "timestamp": 113898.336,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b1483035238a957e402c3b49a556b973",
+      "frameId": "frame@2c22222b209da652580d8a8816ef6c66",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/bedding/kids-bedding.html?product_list_order=name&product_list_dir=desc",
+      "snapshotName": "input@call@9db428ba2a4a196f9eb6fcfd2a1deae2",
+      "timestamp": 113948.047,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b1483035238a957e402c3b49a556b973",
+      "frameId": "frame@2c22222b209da652580d8a8816ef6c66",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/ultra-soft-cartoon-blanket-plush-flannel-fleece-throw-blanket-for-couch-sofa-bedding-living-room-warm-cozy-blanket-for-kids-teenager-adult-50-x40.html",
+      "snapshotName": "after@call@9db428ba2a4a196f9eb6fcfd2a1deae2",
+      "timestamp": 115331.847,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "before@call@a57552ddf296b32ef1128e5e7a447254",
+      "timestamp": 132246.637,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "input@call@a57552ddf296b32ef1128e5e7a447254",
+      "timestamp": 132277.622,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "after@call@a57552ddf296b32ef1128e5e7a447254",
+      "timestamp": 133259.761,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "before@call@fde059a9245d8924837bab1a04f4cbf9",
+      "timestamp": 140578.617,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "input@call@fde059a9245d8924837bab1a04f4cbf9",
+      "timestamp": 140609.648,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "after@call@fde059a9245d8924837bab1a04f4cbf9",
+      "timestamp": 140669.92,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "before@call@812aaff0404cebc1e95426b2d8f4d353",
+      "timestamp": 149129.398,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/providence",
+      "snapshotName": "input@call@812aaff0404cebc1e95426b2d8f4d353",
+      "timestamp": 149177.575,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f878d7b0e482bd315dbe1945168b8749",
+      "frameId": "frame@28fd2e092a7ed573aa75b5866c779956",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/providence/6/perfect-for-the-cold-weather",
+      "snapshotName": "after@call@812aaff0404cebc1e95426b2d8f4d353",
+      "timestamp": 150935.288,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@24c0c63fe7bb2d22a8db3aca4b93d4c8",
+      "timestamp": 66039.859,
+      "resource": "page@24c0c63fe7bb2d22a8db3aca4b93d4c8-1704274899.661212.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_188__page0.jpg",
+      "sha256": "68d6d22c37778e926c9cdccfd1da270141c64d77b6edccbb8209be73d32698f7",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@5d5aac83b2778d03be94e152688a0c0b",
+      "timestamp": 108763.613,
+      "resource": "page@5d5aac83b2778d03be94e152688a0c0b-1704274942.387945.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_188__page1.jpg",
+      "sha256": "4dd84e87a84002998e181c8d767f0cc7a372b7a6d617fa35a738a3ab0badf210",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@b1483035238a957e402c3b49a556b973",
+      "timestamp": 130978.081,
+      "resource": "page@b1483035238a957e402c3b49a556b973-1704274964.605398.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_188__page2.jpg",
+      "sha256": "83cbba77eff4d8f8c3ee4688756cbcdd8df62f25316b577373bcd49b9c43aa21",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@f878d7b0e482bd315dbe1945168b8749",
+      "timestamp": 157513.803,
+      "resource": "page@f878d7b0e482bd315dbe1945168b8749-1704274991.139982.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_188__page3.jpg",
+      "sha256": "7ff0ab1f103144d3d5259f3e5cd0573acb255a583a2d99e0af5f6ef41d5aa725",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_188__page3.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

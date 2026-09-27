@@ -1,0 +1,679 @@
+{
+  "instance_id": "vwa_shopping_11",
+  "domain": "shopping",
+  "filename_task_id": 11,
+  "source_url": "https://drive.usercontent.google.com/download?id=1RAwxZH-T0WsOxzGtTY2-ZM1y7GANX5b8&export=download&confirm=t",
+  "source_file_id": "1RAwxZH-T0WsOxzGtTY2-ZM1y7GANX5b8",
+  "archive_sha256": "7aa8291af76c60d134080c837dd0a40819b01031d0fabfe157232fc7daead079",
+  "archive_bytes": 26463316,
+  "event_types": {
+    "context-options": 1,
+    "event": 114,
+    "screencast-frame": 375,
+    "before": 9,
+    "frame-snapshot": 25,
+    "input": 9,
+    "after": 9,
+    "object": 12
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703274641995,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@4842447035c07a36181d330c94cbad94",
+      "timestamp": 21803.189,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@4842447035c07a36181d330c94cbad94",
+      "timestamp": 21858.881,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@4842447035c07a36181d330c94cbad94",
+      "timestamp": 21874.408,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@c4b22f63289c471a7d0f85f905a36b9a",
+      "timestamp": 24415.122,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@c4b22f63289c471a7d0f85f905a36b9a",
+      "timestamp": 24424.283,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=ice+cream",
+      "snapshotName": "before@call@a01eeee7023dc4b1a1ce154764305929",
+      "timestamp": 31335.263,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=ice+cream",
+      "snapshotName": "input@call@a01eeee7023dc4b1a1ce154764305929",
+      "timestamp": 31373.484,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=14&q=ice+cream",
+      "snapshotName": "after@call@a01eeee7023dc4b1a1ce154764305929",
+      "timestamp": 32490.124,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=14&q=ice+cream",
+      "snapshotName": "before@call@d47461ee76f91c38c481dd74497146c7",
+      "timestamp": 36677.675,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=14&q=ice+cream",
+      "snapshotName": "input@call@d47461ee76f91c38c481dd74497146c7",
+      "timestamp": 36726.173,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=82&q=ice+cream",
+      "snapshotName": "after@call@d47461ee76f91c38c481dd74497146c7",
+      "timestamp": 38120.938,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=82&q=ice+cream",
+      "snapshotName": "before@call@52d8dd1fa38d4547ff2ec0df2df73de0",
+      "timestamp": 39660.476,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=82&q=ice+cream",
+      "snapshotName": "input@call@52d8dd1fa38d4547ff2ec0df2df73de0",
+      "timestamp": 39710.212,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=296&q=ice+cream",
+      "snapshotName": "after@call@52d8dd1fa38d4547ff2ec0df2df73de0",
+      "timestamp": 40777.29,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=296&q=ice+cream",
+      "snapshotName": "before@call@23d92460cd32135972aa6a560bf01718",
+      "timestamp": 79991.702,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=296&q=ice+cream",
+      "snapshotName": "input@call@23d92460cd32135972aa6a560bf01718",
+      "timestamp": 80041.532,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=296&q=ice+cream",
+      "snapshotName": "after@call@23d92460cd32135972aa6a560bf01718",
+      "timestamp": 80055.249,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=296&q=ice+cream",
+      "snapshotName": "before@call@7185e8323812266f93bfa91154232d1a",
+      "timestamp": 80250.958,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=296&q=ice+cream",
+      "snapshotName": "input@call@7185e8323812266f93bfa91154232d1a",
+      "timestamp": 80281.102,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=296&q=ice+cream",
+      "snapshotName": "after@call@7185e8323812266f93bfa91154232d1a",
+      "timestamp": 80290.426,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=296&q=ice+cream",
+      "snapshotName": "before@call@476d3aecfd6544319c19f8c17a51c408",
+      "timestamp": 90276.014,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=296&q=ice+cream",
+      "snapshotName": "input@call@476d3aecfd6544319c19f8c17a51c408",
+      "timestamp": 90286.296,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=ice+cream+sandwiches",
+      "snapshotName": "before@call@f0f364355d2692eca0146af899767681",
+      "timestamp": 110212.297,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=ice+cream+sandwiches",
+      "snapshotName": "input@call@f0f364355d2692eca0146af899767681",
+      "timestamp": 110265.091,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/skinny-cow-gone-wild-low-fat-ice-cream-sandwiches-box-vanilla-24-fl-oz-pack-of-6.html",
+      "snapshotName": "after@call@f0f364355d2692eca0146af899767681",
+      "timestamp": 111554.644,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 117983.68,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274759.18168.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__page0.jpg",
+      "sha256": "1feb154deb4c8e2d545cd6a1961319f14ca2d01074e0d6df3b2bcdd15faf0487",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_11__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false,
+  "candidate_frames": [
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 110175.964,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274751.373344.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate325.jpg",
+      "sha256": "45aff85c253012892dacd69aef472cbd369a634950322b546561669275b889ad",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 110208.589,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274751.406435.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate327.jpg",
+      "sha256": "108353f36a2fcb45106d9a2202cca17e19d38b26b524d28254b5689fe855fe2d",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 110294.972,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274751.492904.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate329.jpg",
+      "sha256": "6da102ad09cf27c33771cf51d0ffedcc9f8ce845aad55dbfaea1a201e819dad7",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 110954.2,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274752.151849.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate331.jpg",
+      "sha256": "2df8e37802f0a3b7c7ad4b642274d92c8c2afee42b643904ed89a469bb95270b",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 110983.868,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274752.18174.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate333.jpg",
+      "sha256": "a4ca082dc18987a0b773399a0672bf7a3ffb66069e6d18430c62a4abd834ffa6",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 111516.539,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274752.701388.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate335.jpg",
+      "sha256": "a4ca082dc18987a0b773399a0672bf7a3ffb66069e6d18430c62a4abd834ffa6",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 111575.3,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274752.763799.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate337.jpg",
+      "sha256": "9244ea1541a8ca39f9351543de71e2f404508324b20ddae599efa6c7646b7e10",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 111634.543,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274752.813334.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate339.jpg",
+      "sha256": "9244ea1541a8ca39f9351543de71e2f404508324b20ddae599efa6c7646b7e10",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 111668.833,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274752.86036.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate341.jpg",
+      "sha256": "4f335cc5d5191717156d2fb27dc2d322c625f8eec71b60cc9c05e9a9f365cdac",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 111806.72,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274753.005089.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate343.jpg",
+      "sha256": "889b31c1794cf6ae2237957e1098bce85e4b614dbf0ca2ea103c0c7a64f58b13",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 111871.457,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274753.069748.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate345.jpg",
+      "sha256": "aab639daecd727eba530bf160d1ef793c0ddfed69796b0ec68c1db71aa5a82cf",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 111920.734,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274753.118669.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate347.jpg",
+      "sha256": "934becac0ee6075d3dc80601478c6cb5520b9aa6df1d55ce3ecdebaf6df3475a",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 112279.455,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274753.476983.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate349.jpg",
+      "sha256": "cc28587cc11296ae1801d760bfba5eb4d40f2a1c60121c9aba5365608218673a",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 113050.911,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274754.245116.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate351.jpg",
+      "sha256": "6ac47d3f21077ba3526d01aff5b9fe7f3bfc5d79c7ec3fdaa0f1027f7bd232e8",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 113081.502,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274754.277358.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate353.jpg",
+      "sha256": "90dc832728425562be450076cc1be1798a63d30908f5857f0fa9f8169d7e9143",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 113496.28,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274754.693568.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate355.jpg",
+      "sha256": "6e9aedc1bf015bc52bedb8f98c6289d2c038e08efb71eab48ad9150c107539bb",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 113895.969,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274755.088016.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate357.jpg",
+      "sha256": "3a15d823fc94afa5e539c0d949e90622f7bda6f003aad7205d0a50587d5d30be",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 114294.394,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274755.486967.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate359.jpg",
+      "sha256": "60f2bcdf4a944e62cd11aa88f9a088b33f56a016ff6ddbd34ce5d811c2058abd",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 114701.734,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274755.894945.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate361.jpg",
+      "sha256": "43c72125c78fc45fd50d099f8137b71d930c17909505f4135ff64a1258c1bb6a",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 115505.998,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274756.696334.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate363.jpg",
+      "sha256": "cb912915ffdcbc95e66c3410db3a21939127aa0926fb552105605613e59a3ee3",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 116340.457,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274757.534405.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate365.jpg",
+      "sha256": "78bc1079af4db14e6c03adbf9a06cb21558642b2441a400fa9da26a5077b5079",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 116508.082,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274757.705353.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate367.jpg",
+      "sha256": "ce3d3c266a3323c38196a415560944ac4434d774e7d9ad1a37d6a34043fa59ff",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 117040.227,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274758.237568.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate369.jpg",
+      "sha256": "ffb612790af927b9373e1c13c84632cfa77d45167d9728cde7e65fa7b0c3a8e9",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 117322.708,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274758.517025.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate371.jpg",
+      "sha256": "733e70f84a4c20fb91b167bf03e42aee42a78d09ee73bcc5c678254e251c9ed0",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "timestamp": 117710.621,
+      "resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274758.909123.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_11__candidate373.jpg",
+      "sha256": "73e42f272311253544f072ede2aa2e48491bebb2183cde9bd4ee6f47b562ad92",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    }
+  ]
+}

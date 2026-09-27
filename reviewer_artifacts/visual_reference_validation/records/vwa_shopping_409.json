@@ -1,0 +1,231 @@
+{
+  "instance_id": "vwa_shopping_409",
+  "domain": "shopping",
+  "filename_task_id": 409,
+  "source_url": "https://drive.usercontent.google.com/download?id=1ZEOgJFTiAXjzvjBsO0VZFxvacTAPXlqe&export=download&confirm=t",
+  "source_file_id": "1ZEOgJFTiAXjzvjBsO0VZFxvacTAPXlqe",
+  "archive_sha256": "783c3fa98152ec2283ed2089383507f02928b476c496f9aa8278100ce27887c3",
+  "archive_bytes": 8729614,
+  "event_types": {
+    "context-options": 1,
+    "event": 75,
+    "screencast-frame": 201,
+    "before": 5,
+    "frame-snapshot": 15,
+    "input": 5,
+    "after": 5
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703216519212,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@6f43233173f892b065533a2b1afcff5f",
+      "frameId": "frame@b2f9897c30e7c14f1726ed116429b3b2",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=seattle+hoodie",
+      "snapshotName": "before@call@70c1bbe5441c18b30afb20a1bbf2935f",
+      "timestamp": 32572.793,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6f43233173f892b065533a2b1afcff5f",
+      "frameId": "frame@b2f9897c30e7c14f1726ed116429b3b2",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=seattle+hoodie",
+      "snapshotName": "input@call@70c1bbe5441c18b30afb20a1bbf2935f",
+      "timestamp": 32605.404,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6f43233173f892b065533a2b1afcff5f",
+      "frameId": "frame@b2f9897c30e7c14f1726ed116429b3b2",
+      "frameUrl": "http://localhost:7770/xtreme-apparrel-seattle-football-skyline-hoodie-sweatshirt.html",
+      "snapshotName": "after@call@70c1bbe5441c18b30afb20a1bbf2935f",
+      "timestamp": 33057.58,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6f43233173f892b065533a2b1afcff5f",
+      "frameId": "frame@b2f9897c30e7c14f1726ed116429b3b2",
+      "frameUrl": "http://localhost:7770/xtreme-apparrel-seattle-football-skyline-hoodie-sweatshirt.html",
+      "snapshotName": "before@call@f0bc34659c1e6d782795979e567169c9",
+      "timestamp": 39357.214,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6f43233173f892b065533a2b1afcff5f",
+      "frameId": "frame@b2f9897c30e7c14f1726ed116429b3b2",
+      "frameUrl": "http://localhost:7770/xtreme-apparrel-seattle-football-skyline-hoodie-sweatshirt.html",
+      "snapshotName": "input@call@f0bc34659c1e6d782795979e567169c9",
+      "timestamp": 39387.076,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6f43233173f892b065533a2b1afcff5f",
+      "frameId": "frame@b2f9897c30e7c14f1726ed116429b3b2",
+      "frameUrl": "http://localhost:7770/xtreme-apparrel-seattle-football-skyline-hoodie-sweatshirt.html",
+      "snapshotName": "after@call@f0bc34659c1e6d782795979e567169c9",
+      "timestamp": 39443.207,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6f43233173f892b065533a2b1afcff5f",
+      "frameId": "frame@b2f9897c30e7c14f1726ed116429b3b2",
+      "frameUrl": "http://localhost:7770/xtreme-apparrel-seattle-football-skyline-hoodie-sweatshirt.html",
+      "snapshotName": "before@call@283da8f1a68ab9a6c110c05628d687e7",
+      "timestamp": 40687.678,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6f43233173f892b065533a2b1afcff5f",
+      "frameId": "frame@b2f9897c30e7c14f1726ed116429b3b2",
+      "frameUrl": "http://localhost:7770/xtreme-apparrel-seattle-football-skyline-hoodie-sweatshirt.html",
+      "snapshotName": "input@call@283da8f1a68ab9a6c110c05628d687e7",
+      "timestamp": 40705.536,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6f43233173f892b065533a2b1afcff5f",
+      "frameId": "frame@b2f9897c30e7c14f1726ed116429b3b2",
+      "frameUrl": "http://localhost:7770/xtreme-apparrel-seattle-football-skyline-hoodie-sweatshirt.html",
+      "snapshotName": "after@call@283da8f1a68ab9a6c110c05628d687e7",
+      "timestamp": 40736.22,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6f43233173f892b065533a2b1afcff5f",
+      "frameId": "frame@b2f9897c30e7c14f1726ed116429b3b2",
+      "frameUrl": "http://localhost:7770/xtreme-apparrel-seattle-football-skyline-hoodie-sweatshirt.html",
+      "snapshotName": "before@call@6b023ea51e20ba2eee4f48e66deb6ba8",
+      "timestamp": 42901.189,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6f43233173f892b065533a2b1afcff5f",
+      "frameId": "frame@b2f9897c30e7c14f1726ed116429b3b2",
+      "frameUrl": "http://localhost:7770/xtreme-apparrel-seattle-football-skyline-hoodie-sweatshirt.html",
+      "snapshotName": "input@call@6b023ea51e20ba2eee4f48e66deb6ba8",
+      "timestamp": 42927.285,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6f43233173f892b065533a2b1afcff5f",
+      "frameId": "frame@b2f9897c30e7c14f1726ed116429b3b2",
+      "frameUrl": "http://localhost:7770/xtreme-apparrel-seattle-football-skyline-hoodie-sweatshirt.html",
+      "snapshotName": "after@call@6b023ea51e20ba2eee4f48e66deb6ba8",
+      "timestamp": 42957.983,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6f43233173f892b065533a2b1afcff5f",
+      "frameId": "frame@b2f9897c30e7c14f1726ed116429b3b2",
+      "frameUrl": "http://localhost:7770/xtreme-apparrel-seattle-football-skyline-hoodie-sweatshirt.html",
+      "snapshotName": "before@call@228a47f24187563d46d1ce1e2b30b570",
+      "timestamp": 44334.935,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6f43233173f892b065533a2b1afcff5f",
+      "frameId": "frame@b2f9897c30e7c14f1726ed116429b3b2",
+      "frameUrl": "http://localhost:7770/xtreme-apparrel-seattle-football-skyline-hoodie-sweatshirt.html",
+      "snapshotName": "input@call@228a47f24187563d46d1ce1e2b30b570",
+      "timestamp": 44360.77,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6f43233173f892b065533a2b1afcff5f",
+      "frameId": "frame@b2f9897c30e7c14f1726ed116429b3b2",
+      "frameUrl": "http://localhost:7770/checkout/",
+      "snapshotName": "after@call@228a47f24187563d46d1ce1e2b30b570",
+      "timestamp": 44729.432,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@6f43233173f892b065533a2b1afcff5f",
+      "timestamp": 54843.57,
+      "resource": "page@6f43233173f892b065533a2b1afcff5f-1703216573.284772.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_409__page0.jpg",
+      "sha256": "4275639723d943d1489d73e34b8b043f05c2f6f370e90d6f35add6306536ad0a",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_409__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,747 @@
+{
+  "instance_id": "vwa_shopping_179",
+  "domain": "shopping",
+  "filename_task_id": 179,
+  "source_url": "https://drive.usercontent.google.com/download?id=1jd39rGreBSlTlmrHnCzN6PLmw1IHEEB5&export=download&confirm=t",
+  "source_file_id": "1jd39rGreBSlTlmrHnCzN6PLmw1IHEEB5",
+  "archive_sha256": "01913d38de9241c93340f8aba0d38a481e1114c0c857103f8134cd8e1cc44a99",
+  "archive_bytes": 37920178,
+  "event_types": {
+    "context-options": 1,
+    "event": 228,
+    "screencast-frame": 724,
+    "before": 20,
+    "frame-snapshot": 58,
+    "input": 20,
+    "after": 20
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703277828329,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@f61453e2f98901352a4f37754ce3da39",
+      "timestamp": 6695.974,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@f61453e2f98901352a4f37754ce3da39",
+      "timestamp": 6738.25,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@f61453e2f98901352a4f37754ce3da39",
+      "timestamp": 6786.854,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@cdf5a3f4efef12ebd79effd6c7766f9c",
+      "timestamp": 10500.572,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@cdf5a3f4efef12ebd79effd6c7766f9c",
+      "timestamp": 10517.784,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=kellog+protein+bar",
+      "snapshotName": "before@call@1dbcf79d7721550157af0de9e723e4e4",
+      "timestamp": 23337.623,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=kellog+protein+bar",
+      "snapshotName": "input@call@1dbcf79d7721550157af0de9e723e4e4",
+      "timestamp": 23389.949,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/kellogg-s-special-k-protein-bars-meal-replacement-protein-snacks-value-size-strawberry-19oz-box-12-bars.html",
+      "snapshotName": "after@call@1dbcf79d7721550157af0de9e723e4e4",
+      "timestamp": 24719.673,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/kellogg-s-special-k-protein-bars-meal-replacement-protein-snacks-value-size-strawberry-19oz-box-12-bars.html",
+      "snapshotName": "before@call@3eab08a4b6c55fb3914ba94b49d2feee",
+      "timestamp": 28457.221,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/kellogg-s-special-k-protein-bars-meal-replacement-protein-snacks-value-size-strawberry-19oz-box-12-bars.html",
+      "snapshotName": "input@call@3eab08a4b6c55fb3914ba94b49d2feee",
+      "timestamp": 28507.895,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/kellogg-s-special-k-protein-bars-meal-replacement-protein-snacks-value-size-strawberry-19oz-box-12-bars.html",
+      "snapshotName": "after@call@3eab08a4b6c55fb3914ba94b49d2feee",
+      "timestamp": 28525.814,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/kellogg-s-special-k-protein-bars-meal-replacement-protein-snacks-value-size-strawberry-19oz-box-12-bars.html",
+      "snapshotName": "before@call@76219fb6e2a796df30bf1788d25209ec",
+      "timestamp": 30558.222999999998,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/kellogg-s-special-k-protein-bars-meal-replacement-protein-snacks-value-size-strawberry-19oz-box-12-bars.html",
+      "snapshotName": "input@call@76219fb6e2a796df30bf1788d25209ec",
+      "timestamp": 30611.438,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/kellogg-s-special-k-protein-bars-meal-replacement-protein-snacks-value-size-strawberry-19oz-box-12-bars.html",
+      "snapshotName": "after@call@76219fb6e2a796df30bf1788d25209ec",
+      "timestamp": 30648.479,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=kellog+protein+bar",
+      "snapshotName": "before@call@69aa0e1bac6d7020fe849e266f5341a0",
+      "timestamp": 36714.759,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=kellog+protein+bar",
+      "snapshotName": "input@call@69aa0e1bac6d7020fe849e266f5341a0",
+      "timestamp": 36756.958,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/kellogg-s-special-k-protein-bars-meal-replacement-protein-snacks-value-size-chocolatey-chip-cookie-dough-19oz-box-12-bars.html",
+      "snapshotName": "after@call@69aa0e1bac6d7020fe849e266f5341a0",
+      "timestamp": 38203.865,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/kellogg-s-special-k-protein-bars-meal-replacement-protein-snacks-value-size-chocolatey-chip-cookie-dough-19oz-box-12-bars.html",
+      "snapshotName": "before@call@0efb32d33d79474cd48157a22ef6b531",
+      "timestamp": 40577.287,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/kellogg-s-special-k-protein-bars-meal-replacement-protein-snacks-value-size-chocolatey-chip-cookie-dough-19oz-box-12-bars.html",
+      "snapshotName": "input@call@0efb32d33d79474cd48157a22ef6b531",
+      "timestamp": 40623.609,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/kellogg-s-special-k-protein-bars-meal-replacement-protein-snacks-value-size-chocolatey-chip-cookie-dough-19oz-box-12-bars.html",
+      "snapshotName": "after@call@0efb32d33d79474cd48157a22ef6b531",
+      "timestamp": 40651.005,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=kellog+protein+bar",
+      "snapshotName": "before@call@42eb0516dd77a276a3fb828c941a65c1",
+      "timestamp": 53004.271,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=kellog+protein+bar",
+      "snapshotName": "input@call@42eb0516dd77a276a3fb828c941a65c1",
+      "timestamp": 53058.873,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html",
+      "snapshotName": "after@call@42eb0516dd77a276a3fb828c941a65c1",
+      "timestamp": 53501.69,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?product_list_order=price",
+      "snapshotName": "input@call@d472c83240b00f7ba49eba859551191e",
+      "timestamp": 56925.108,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?product_list_order=price",
+      "snapshotName": "before@call@89f071349292e6daeb0718f4b357b47f",
+      "timestamp": 56947.564,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?product_list_order=price",
+      "snapshotName": "after@call@d472c83240b00f7ba49eba859551191e",
+      "timestamp": 56964.592,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?product_list_order=price",
+      "snapshotName": "input@call@89f071349292e6daeb0718f4b357b47f",
+      "timestamp": 56981.209,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?product_list_order=price",
+      "snapshotName": "after@call@89f071349292e6daeb0718f4b357b47f",
+      "timestamp": 56991.455,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?product_list_order=price",
+      "snapshotName": "before@call@dec012e6bbcab7911548322cbf14e768",
+      "timestamp": 63043.896,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?product_list_order=price",
+      "snapshotName": "input@call@dec012e6bbcab7911548322cbf14e768",
+      "timestamp": 63093.354,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=2&product_list_order=price",
+      "snapshotName": "after@call@dec012e6bbcab7911548322cbf14e768",
+      "timestamp": 63551.402,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=2&product_list_order=price",
+      "snapshotName": "before@call@2230d90bbb54e9abbf4cc88e6db1b0fb",
+      "timestamp": 68768.958,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=2&product_list_order=price",
+      "snapshotName": "input@call@2230d90bbb54e9abbf4cc88e6db1b0fb",
+      "timestamp": 68827.019,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=3&product_list_order=price",
+      "snapshotName": "after@call@2230d90bbb54e9abbf4cc88e6db1b0fb",
+      "timestamp": 69267.066,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=3&product_list_order=price",
+      "snapshotName": "before@call@e2d125b102a5ef6a772ed8ff4ffa8155",
+      "timestamp": 78676.498,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=3&product_list_order=price",
+      "snapshotName": "input@call@e2d125b102a5ef6a772ed8ff4ffa8155",
+      "timestamp": 78723.107,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=4&product_list_order=price",
+      "snapshotName": "after@call@e2d125b102a5ef6a772ed8ff4ffa8155",
+      "timestamp": 79168.809,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=4&product_list_order=price",
+      "snapshotName": "before@call@c7bb0003d1f97f93aacea890d633e37c",
+      "timestamp": 83639.71,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=4&product_list_order=price",
+      "snapshotName": "input@call@c7bb0003d1f97f93aacea890d633e37c",
+      "timestamp": 83690.463,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=5&product_list_order=price",
+      "snapshotName": "after@call@c7bb0003d1f97f93aacea890d633e37c",
+      "timestamp": 84107.154,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=5&product_list_order=price",
+      "snapshotName": "before@call@db06a6c896598ce136ccc698c730098f",
+      "timestamp": 88507.413,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=5&product_list_order=price",
+      "snapshotName": "input@call@db06a6c896598ce136ccc698c730098f",
+      "timestamp": 88577.902,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=6&product_list_order=price",
+      "snapshotName": "after@call@db06a6c896598ce136ccc698c730098f",
+      "timestamp": 89079.424,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=6&product_list_order=price",
+      "snapshotName": "before@call@024bbf92617de7ac57538508d53d0e90",
+      "timestamp": 93535.043,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=6&product_list_order=price",
+      "snapshotName": "input@call@024bbf92617de7ac57538508d53d0e90",
+      "timestamp": 93574.713,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=7&product_list_order=price",
+      "snapshotName": "after@call@024bbf92617de7ac57538508d53d0e90",
+      "timestamp": 94003.18,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=7&product_list_order=price",
+      "snapshotName": "before@call@3191021fde68008f1eb010ec108c4edb",
+      "timestamp": 98411.902,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=7&product_list_order=price",
+      "snapshotName": "input@call@3191021fde68008f1eb010ec108c4edb",
+      "timestamp": 98457.523,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=7&product_list_order=price",
+      "snapshotName": "after@call@3191021fde68008f1eb010ec108c4edb",
+      "timestamp": 98502.204,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=7&product_list_order=price",
+      "snapshotName": "before@call@78ddfba469bd758d95d6a55fd6324a3b",
+      "timestamp": 100191.802,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?p=7&product_list_order=price",
+      "snapshotName": "input@call@78ddfba469bd758d95d6a55fd6324a3b",
+      "timestamp": 100255.453,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/",
+      "snapshotName": "after@call@78ddfba469bd758d95d6a55fd6324a3b",
+      "timestamp": 101868.579,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "before@call@90e1add7a885575499e070e18ffaaa97",
+      "timestamp": 110851.318,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "input@call@90e1add7a885575499e070e18ffaaa97",
+      "timestamp": 110892.276,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "after@call@90e1add7a885575499e070e18ffaaa97",
+      "timestamp": 110911.807,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "before@call@196fbbc96f59629eff7f29a40ffb8c27",
+      "timestamp": 116146.001,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "input@call@196fbbc96f59629eff7f29a40ffb8c27",
+      "timestamp": 116177.492,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6725e8227efb5b62932ca1574aea1161",
+      "frameId": "frame@7704a3e36a091dbe70097db170647b09",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "after@call@196fbbc96f59629eff7f29a40ffb8c27",
+      "timestamp": 116200.024,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@6725e8227efb5b62932ca1574aea1161",
+      "timestamp": 123114.146,
+      "resource": "page@6725e8227efb5b62932ca1574aea1161-1703277950.711664.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_179__page0.jpg",
+      "sha256": "647551e9050de02174a20e7675632320803416f535e861c5681a8d64c30d40be",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_179__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,47 @@
+{
+  "instance_id": "vwa_reddit_55",
+  "domain": "reddit",
+  "filename_task_id": 55,
+  "source_url": "https://drive.usercontent.google.com/download?id=1Nhu4GqFsYeY83KIVd410YBMpEw18rI8z&export=download&confirm=t",
+  "source_file_id": "1Nhu4GqFsYeY83KIVd410YBMpEw18rI8z",
+  "archive_sha256": "728c84e23e936e74f039eb30aa0e416fb2276b78fca8c050d8f2c04471cac9d5",
+  "archive_bytes": 2328333,
+  "event_types": {
+    "context-options": 1,
+    "event": 36,
+    "screencast-frame": 47,
+    "object": 19
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704277258891,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [],
+  "final_frames": [
+    {
+      "page_id": "page@f7ae0276f00e879b172022adbcb81392",
+      "timestamp": 63292.119,
+      "resource": "page@f7ae0276f00e879b172022adbcb81392-1704277321.680911.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_55__page0.jpg",
+      "sha256": "3e4d31669cf6c9f3e1ce6539ccc008a7625935851697293885adcd40bc16660e",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_55__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

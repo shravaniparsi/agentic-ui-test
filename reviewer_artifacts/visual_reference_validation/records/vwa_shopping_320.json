@@ -1,0 +1,243 @@
+{
+  "instance_id": "vwa_shopping_320",
+  "domain": "shopping",
+  "filename_task_id": 320,
+  "source_url": "https://drive.usercontent.google.com/download?id=1GvLArTYqnE0_hYOnb6e75gQvldEocQX5&export=download&confirm=t",
+  "source_file_id": "1GvLArTYqnE0_hYOnb6e75gQvldEocQX5",
+  "archive_sha256": "640fc6fcb599e0532ac1b1a7b30771b3882a29aacf0b58d9625887161309a0e4",
+  "archive_bytes": 12172671,
+  "event_types": {
+    "context-options": 1,
+    "event": 31,
+    "screencast-frame": 247,
+    "before": 6,
+    "frame-snapshot": 16,
+    "input": 5,
+    "after": 6
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703283571739,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "frameId": "frame@1944410a57b2ab7c6847993f6818e456",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/breads-bakery/cookies.html",
+      "snapshotName": "before@call@444fc55ff324ded0b7a68f7706e4955f",
+      "timestamp": 50987.175,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "frameId": "frame@1944410a57b2ab7c6847993f6818e456",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/breads-bakery/cookies.html",
+      "snapshotName": "input@call@444fc55ff324ded0b7a68f7706e4955f",
+      "timestamp": 51049.287,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "frameId": "frame@1944410a57b2ab7c6847993f6818e456",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/protein-wafer-peanut-butter-box-of-12-bars-peanut-butter-12-count.html",
+      "snapshotName": "after@call@444fc55ff324ded0b7a68f7706e4955f",
+      "timestamp": 52429.072,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "frameId": "frame@1944410a57b2ab7c6847993f6818e456",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/protein-wafer-peanut-butter-box-of-12-bars-peanut-butter-12-count.html",
+      "snapshotName": "before@call@4ba1fc3785992403c7da29842f9eec4a",
+      "timestamp": 55569.265,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "frameId": "frame@1944410a57b2ab7c6847993f6818e456",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/protein-wafer-peanut-butter-box-of-12-bars-peanut-butter-12-count.html",
+      "snapshotName": "input@call@4ba1fc3785992403c7da29842f9eec4a",
+      "timestamp": 55611.969,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "frameId": "frame@1944410a57b2ab7c6847993f6818e456",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/protein-wafer-peanut-butter-box-of-12-bars-peanut-butter-12-count.html",
+      "snapshotName": "after@call@4ba1fc3785992403c7da29842f9eec4a",
+      "timestamp": 55637.837,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "frameId": "frame@1944410a57b2ab7c6847993f6818e456",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/protein-wafer-peanut-butter-box-of-12-bars-peanut-butter-12-count.html",
+      "snapshotName": "before@call@29432b0c47ff9c7cc323272c160d6314",
+      "timestamp": 58229.667,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "frameId": "frame@1944410a57b2ab7c6847993f6818e456",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/protein-wafer-peanut-butter-box-of-12-bars-peanut-butter-12-count.html",
+      "snapshotName": "input@call@29432b0c47ff9c7cc323272c160d6314",
+      "timestamp": 58262.522,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "frameId": "frame@1944410a57b2ab7c6847993f6818e456",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/protein-wafer-peanut-butter-box-of-12-bars-peanut-butter-12-count.html",
+      "snapshotName": "after@call@29432b0c47ff9c7cc323272c160d6314",
+      "timestamp": 58282.875,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "frameId": "frame@1944410a57b2ab7c6847993f6818e456",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/protein-wafer-peanut-butter-box-of-12-bars-peanut-butter-12-count.html",
+      "snapshotName": "before@call@6dfb889c53ae8aaa1574e0bf01ae588d",
+      "timestamp": 61162.417,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "frameId": "frame@1944410a57b2ab7c6847993f6818e456",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/protein-wafer-peanut-butter-box-of-12-bars-peanut-butter-12-count.html",
+      "snapshotName": "input@call@6dfb889c53ae8aaa1574e0bf01ae588d",
+      "timestamp": 61217.232,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "frameId": "frame@1944410a57b2ab7c6847993f6818e456",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/protein-wafer-peanut-butter-box-of-12-bars-peanut-butter-12-count.html",
+      "snapshotName": "after@call@6dfb889c53ae8aaa1574e0bf01ae588d",
+      "timestamp": 61237.617,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "frameId": "frame@1944410a57b2ab7c6847993f6818e456",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/protein-wafer-peanut-butter-box-of-12-bars-peanut-butter-12-count.html",
+      "snapshotName": "before@call@15d62d0b56cdbee4139534976c40b28c",
+      "timestamp": 63747.264,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "frameId": "frame@1944410a57b2ab7c6847993f6818e456",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/protein-wafer-peanut-butter-box-of-12-bars-peanut-butter-12-count.html",
+      "snapshotName": "input@call@15d62d0b56cdbee4139534976c40b28c",
+      "timestamp": 63800.865,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "frameId": "frame@1944410a57b2ab7c6847993f6818e456",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/protein-wafer-peanut-butter-box-of-12-bars-peanut-butter-12-count.html",
+      "snapshotName": "after@call@15d62d0b56cdbee4139534976c40b28c",
+      "timestamp": 63822.17,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "frameId": "frame@1944410a57b2ab7c6847993f6818e456",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/protein-wafer-peanut-butter-box-of-12-bars-peanut-butter-12-count.html",
+      "snapshotName": "before@call@58213548dd1cc8bd49c7e51f39a57fcd",
+      "timestamp": 66158.364,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "timestamp": 69285.829,
+      "resource": "page@1945ac84e9e76e85805e3b47ed5413a6-1703283640.235176.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_320__page0.jpg",
+      "sha256": "0c2b07e9bceeebb38dbac350b51e1a95868f3d8937427a25448bbc3b9fd6e57f",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_320__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,399 @@
+{
+  "instance_id": "vwa_shopping_422",
+  "domain": "shopping",
+  "filename_task_id": 422,
+  "source_url": "https://drive.usercontent.google.com/download?id=1cB2svU_EfwEEj5f9SjMZMvNOSyxAMBX5&export=download&confirm=t",
+  "source_file_id": "1cB2svU_EfwEEj5f9SjMZMvNOSyxAMBX5",
+  "archive_sha256": "cf1afee5b77af8fd74a7892feeddd2f7b7797ca97d8f074f5b930fe5f4055daa",
+  "archive_bytes": 23707242,
+  "event_types": {
+    "context-options": 1,
+    "event": 164,
+    "screencast-frame": 471,
+    "before": 10,
+    "frame-snapshot": 29,
+    "input": 10,
+    "after": 10
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703216702794,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/women/shoes.html",
+      "snapshotName": "before@call@03a47ecfc6e49f905ba541693b756966",
+      "timestamp": 30905.638,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/women/shoes.html",
+      "snapshotName": "input@call@03a47ecfc6e49f905ba541693b756966",
+      "timestamp": 30942.437,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/women/shoes.html?product_list_dir=desc",
+      "snapshotName": "after@call@03a47ecfc6e49f905ba541693b756966",
+      "timestamp": 31395.363,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/women/shoes.html?product_list_dir=desc&product_list_order=price",
+      "snapshotName": "input@call@2e1033e95e3e56dad9f783aa6dedf7c8",
+      "timestamp": 33864.911,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/women/shoes.html?product_list_dir=desc&product_list_order=price",
+      "snapshotName": "after@call@2e1033e95e3e56dad9f783aa6dedf7c8",
+      "timestamp": 33875.429,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/women/shoes.html?product_list_order=price&product_list_limit=36",
+      "snapshotName": "before@call@e2766f39ac0b9f550bcfc4c4387ecfce",
+      "timestamp": 65719.522,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/women/shoes.html?product_list_order=price&product_list_limit=36",
+      "snapshotName": "input@call@e2766f39ac0b9f550bcfc4c4387ecfce",
+      "timestamp": 65754.142,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/aniwood-sneakers-for-women-womens-slip-on-mesh-running-shoes-solid-lightweight-athletic-shoes-fashion-sneaker.html",
+      "snapshotName": "after@call@e2766f39ac0b9f550bcfc4c4387ecfce",
+      "timestamp": 66206.804,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/aniwood-sneakers-for-women-womens-slip-on-mesh-running-shoes-solid-lightweight-athletic-shoes-fashion-sneaker.html",
+      "snapshotName": "before@call@1604bd7e0bb97f830607eef4a8d0224f",
+      "timestamp": 68876.275,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/aniwood-sneakers-for-women-womens-slip-on-mesh-running-shoes-solid-lightweight-athletic-shoes-fashion-sneaker.html",
+      "snapshotName": "input@call@1604bd7e0bb97f830607eef4a8d0224f",
+      "timestamp": 68907.567,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/aniwood-sneakers-for-women-womens-slip-on-mesh-running-shoes-solid-lightweight-athletic-shoes-fashion-sneaker.html",
+      "snapshotName": "after@call@1604bd7e0bb97f830607eef4a8d0224f",
+      "timestamp": 68923.191,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/aniwood-sneakers-for-women-womens-slip-on-mesh-running-shoes-solid-lightweight-athletic-shoes-fashion-sneaker.html",
+      "snapshotName": "before@call@fd65f079d3f5fa4950a5f88c9fcbbb43",
+      "timestamp": 74663.121,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/aniwood-sneakers-for-women-womens-slip-on-mesh-running-shoes-solid-lightweight-athletic-shoes-fashion-sneaker.html",
+      "snapshotName": "input@call@fd65f079d3f5fa4950a5f88c9fcbbb43",
+      "timestamp": 74691.558,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/aniwood-sneakers-for-women-womens-slip-on-mesh-running-shoes-solid-lightweight-athletic-shoes-fashion-sneaker.html",
+      "snapshotName": "after@call@fd65f079d3f5fa4950a5f88c9fcbbb43",
+      "timestamp": 74708.461,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/aniwood-sneakers-for-women-womens-slip-on-mesh-running-shoes-solid-lightweight-athletic-shoes-fashion-sneaker.html",
+      "snapshotName": "before@call@24911e02073b3d719291b59491395cbc",
+      "timestamp": 75719.827,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/aniwood-sneakers-for-women-womens-slip-on-mesh-running-shoes-solid-lightweight-athletic-shoes-fashion-sneaker.html",
+      "snapshotName": "input@call@24911e02073b3d719291b59491395cbc",
+      "timestamp": 75749.13,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/aniwood-sneakers-for-women-womens-slip-on-mesh-running-shoes-solid-lightweight-athletic-shoes-fashion-sneaker.html",
+      "snapshotName": "after@call@24911e02073b3d719291b59491395cbc",
+      "timestamp": 75775.755,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/aniwood-sneakers-for-women-womens-slip-on-mesh-running-shoes-solid-lightweight-athletic-shoes-fashion-sneaker.html",
+      "snapshotName": "before@call@833c4d653faf3808e91cc8860b03b528",
+      "timestamp": 78078.088,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/aniwood-sneakers-for-women-womens-slip-on-mesh-running-shoes-solid-lightweight-athletic-shoes-fashion-sneaker.html",
+      "snapshotName": "input@call@833c4d653faf3808e91cc8860b03b528",
+      "timestamp": 78109.253,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/aniwood-sneakers-for-women-womens-slip-on-mesh-running-shoes-solid-lightweight-athletic-shoes-fashion-sneaker.html",
+      "snapshotName": "after@call@833c4d653faf3808e91cc8860b03b528",
+      "timestamp": 78137.915,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/aniwood-sneakers-for-women-womens-slip-on-mesh-running-shoes-solid-lightweight-athletic-shoes-fashion-sneaker.html",
+      "snapshotName": "before@call@63c00dbf351fad5ad531a8b17234b5a2",
+      "timestamp": 79237.299,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/aniwood-sneakers-for-women-womens-slip-on-mesh-running-shoes-solid-lightweight-athletic-shoes-fashion-sneaker.html",
+      "snapshotName": "input@call@63c00dbf351fad5ad531a8b17234b5a2",
+      "timestamp": 79267.056,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/checkout/",
+      "snapshotName": "after@call@63c00dbf351fad5ad531a8b17234b5a2",
+      "timestamp": 79640.889,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/checkout/#shipping",
+      "snapshotName": "before@call@0985df5261805554308120f5d1f31d46",
+      "timestamp": 83199.672,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/checkout/#shipping",
+      "snapshotName": "input@call@0985df5261805554308120f5d1f31d46",
+      "timestamp": 83231.401,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/checkout/#shipping",
+      "snapshotName": "after@call@0985df5261805554308120f5d1f31d46",
+      "timestamp": 83247.323,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/aniwood-sneakers-for-women-womens-slip-on-mesh-running-shoes-solid-lightweight-athletic-shoes-fashion-sneaker.html",
+      "snapshotName": "before@call@98ae50bec2eea8a4a991f176bf3e46de",
+      "timestamp": 93641.597,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/aniwood-sneakers-for-women-womens-slip-on-mesh-running-shoes-solid-lightweight-athletic-shoes-fashion-sneaker.html",
+      "snapshotName": "input@call@98ae50bec2eea8a4a991f176bf3e46de",
+      "timestamp": 93664.07,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d4093439d61350a330eb8c389a1affca",
+      "frameId": "frame@69b30bfd6d520aa1eea1af5fb2ba8d32",
+      "frameUrl": "http://localhost:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@98ae50bec2eea8a4a991f176bf3e46de",
+      "timestamp": 94194.629,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@d4093439d61350a330eb8c389a1affca",
+      "timestamp": 99399.406,
+      "resource": "page@d4093439d61350a330eb8c389a1affca-1703216801.735908.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_422__page0.jpg",
+      "sha256": "efcd232e0dff43e1d0ef11cf011a2ea2022aa30de7622073c6b5c535dccff8f1",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_422__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

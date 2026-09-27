@@ -1,0 +1,123 @@
+{
+  "instance_id": "vwa_shopping_72",
+  "domain": "shopping",
+  "filename_task_id": 72,
+  "source_url": "https://drive.usercontent.google.com/download?id=1xOsJrrXIUffc7KaVMm4ylc8I1M08aNP8&export=download&confirm=t",
+  "source_file_id": "1xOsJrrXIUffc7KaVMm4ylc8I1M08aNP8",
+  "archive_sha256": "42ed63d1eb76354ce582dcde16faad68c324a2a28d2df6dd8b393aaa3c8a0161",
+  "archive_bytes": 2231067,
+  "event_types": {
+    "context-options": 1,
+    "event": 17,
+    "screencast-frame": 67,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703275180102,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@ba7a777d4ae22e65804fc87513a514d4",
+      "frameId": "frame@7c007ecb1671f1d14e8e01b3855b4810",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mens-sweatpants-halloween-pumpkin-face-sport-pants-joggers-pants-soft-casual-pants.html",
+      "snapshotName": "before@call@9e3f395d1a993481a476237818dd9433",
+      "timestamp": 9966.86,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ba7a777d4ae22e65804fc87513a514d4",
+      "frameId": "frame@7c007ecb1671f1d14e8e01b3855b4810",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mens-sweatpants-halloween-pumpkin-face-sport-pants-joggers-pants-soft-casual-pants.html",
+      "snapshotName": "input@call@9e3f395d1a993481a476237818dd9433",
+      "timestamp": 10023.965,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ba7a777d4ae22e65804fc87513a514d4",
+      "frameId": "frame@7c007ecb1671f1d14e8e01b3855b4810",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mens-sweatpants-halloween-pumpkin-face-sport-pants-joggers-pants-soft-casual-pants.html",
+      "snapshotName": "after@call@9e3f395d1a993481a476237818dd9433",
+      "timestamp": 10113.764,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ba7a777d4ae22e65804fc87513a514d4",
+      "frameId": "frame@7c007ecb1671f1d14e8e01b3855b4810",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mens-sweatpants-halloween-pumpkin-face-sport-pants-joggers-pants-soft-casual-pants.html",
+      "snapshotName": "before@call@a66db9257e04fec6c6f79fe0649f21e7",
+      "timestamp": 11009.763,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ba7a777d4ae22e65804fc87513a514d4",
+      "frameId": "frame@7c007ecb1671f1d14e8e01b3855b4810",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mens-sweatpants-halloween-pumpkin-face-sport-pants-joggers-pants-soft-casual-pants.html",
+      "snapshotName": "input@call@a66db9257e04fec6c6f79fe0649f21e7",
+      "timestamp": 11041.275,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ba7a777d4ae22e65804fc87513a514d4",
+      "frameId": "frame@7c007ecb1671f1d14e8e01b3855b4810",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mens-sweatpants-halloween-pumpkin-face-sport-pants-joggers-pants-soft-casual-pants.html",
+      "snapshotName": "after@call@a66db9257e04fec6c6f79fe0649f21e7",
+      "timestamp": 11068.907,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@ba7a777d4ae22e65804fc87513a514d4",
+      "timestamp": 13976.39,
+      "resource": "page@ba7a777d4ae22e65804fc87513a514d4-1703275193.28693.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_72__page0.jpg",
+      "sha256": "33bef9087474c52ee85b1e79fe03a9fd00b0d37505025ab661b31175d5c6dfc2",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_72__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

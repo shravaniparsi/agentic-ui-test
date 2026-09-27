@@ -1,0 +1,711 @@
+{
+  "instance_id": "vwa_shopping_328",
+  "domain": "shopping",
+  "filename_task_id": 328,
+  "source_url": "https://drive.usercontent.google.com/download?id=1KLsIfF9frQOvIxkohPRSSAGOCZBy_oMT&export=download&confirm=t",
+  "source_file_id": "1KLsIfF9frQOvIxkohPRSSAGOCZBy_oMT",
+  "archive_sha256": "7bc81a33e43d46b7b67f0f997ccc7cd039fcdb28357edee50590a55b9c4397df",
+  "archive_bytes": 25317971,
+  "event_types": {
+    "context-options": 1,
+    "event": 116,
+    "screencast-frame": 541,
+    "before": 19,
+    "frame-snapshot": 55,
+    "input": 19,
+    "after": 19
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703284034490,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@a5844936ada150116dd6867bb22561f9",
+      "timestamp": 21511.048,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@a5844936ada150116dd6867bb22561f9",
+      "timestamp": 21572.125,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@a5844936ada150116dd6867bb22561f9",
+      "timestamp": 21623.983,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@6bdd3cafcc09bcb664080929839319aa",
+      "timestamp": 22303.856,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@6bdd3cafcc09bcb664080929839319aa",
+      "timestamp": 22320.097,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=EBL",
+      "snapshotName": "before@call@4d7ae49f07928fa9fcdddf646ff690dc",
+      "timestamp": 56027.95,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=EBL",
+      "snapshotName": "input@call@4d7ae49f07928fa9fcdddf646ff690dc",
+      "timestamp": 56066.305,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=EBL",
+      "snapshotName": "after@call@4d7ae49f07928fa9fcdddf646ff690dc",
+      "timestamp": 56105.81,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=EBL",
+      "snapshotName": "before@call@63705f10fecd9ba305777be705a21562",
+      "timestamp": 56564.784,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=EBL",
+      "snapshotName": "input@call@63705f10fecd9ba305777be705a21562",
+      "timestamp": 56589.409,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=EBL",
+      "snapshotName": "after@call@63705f10fecd9ba305777be705a21562",
+      "timestamp": 56602.599,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=EBL",
+      "snapshotName": "before@call@72ba2ce3a5f94863b83f53bad61b4b50",
+      "timestamp": 56946.226,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=EBL",
+      "snapshotName": "input@call@72ba2ce3a5f94863b83f53bad61b4b50",
+      "timestamp": 56970.483,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=EBL",
+      "snapshotName": "after@call@72ba2ce3a5f94863b83f53bad61b4b50",
+      "timestamp": 56982.046,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=EBL",
+      "snapshotName": "before@call@42b0b872deb544145b34c8d70911de3b",
+      "timestamp": 57173.533,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=EBL",
+      "snapshotName": "input@call@42b0b872deb544145b34c8d70911de3b",
+      "timestamp": 57204.715,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=EBL",
+      "snapshotName": "after@call@42b0b872deb544145b34c8d70911de3b",
+      "timestamp": 57216.223,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=EBL",
+      "snapshotName": "before@call@5d342aa9f98fb2fb70c1da3324ea6652",
+      "timestamp": 57337.77,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=EBL",
+      "snapshotName": "input@call@5d342aa9f98fb2fb70c1da3324ea6652",
+      "timestamp": 57370.484,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=EBL",
+      "snapshotName": "after@call@5d342aa9f98fb2fb70c1da3324ea6652",
+      "timestamp": 57378.599,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=EBL",
+      "snapshotName": "before@call@92cea682dd54c7aaccfd7ce06620f2f4",
+      "timestamp": 58769.984,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=EBL",
+      "snapshotName": "input@call@92cea682dd54c7aaccfd7ce06620f2f4",
+      "timestamp": 58785.575,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AAA",
+      "snapshotName": "after@call@92cea682dd54c7aaccfd7ce06620f2f4",
+      "timestamp": 60252.506,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=AAA&product_list_order=price",
+      "snapshotName": "input@call@ff2f652aee3ee5e02e21dfada2b69c47",
+      "timestamp": 63802.579,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=AAA&product_list_order=price",
+      "snapshotName": "before@call@cfff56dab9fe4bcfb88e367d50992da0",
+      "timestamp": 63831.289,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=AAA&product_list_order=price",
+      "snapshotName": "after@call@ff2f652aee3ee5e02e21dfada2b69c47",
+      "timestamp": 63849.999,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=AAA&product_list_order=price",
+      "snapshotName": "input@call@cfff56dab9fe4bcfb88e367d50992da0",
+      "timestamp": 63865.441,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=AAA&product_list_order=price",
+      "snapshotName": "after@call@cfff56dab9fe4bcfb88e367d50992da0",
+      "timestamp": 63876.941,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=AAA&product_list_order=price",
+      "snapshotName": "before@call@0ba5329fd447d082dc8f995904f51545",
+      "timestamp": 64365.53,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=AAA&product_list_order=price",
+      "snapshotName": "input@call@0ba5329fd447d082dc8f995904f51545",
+      "timestamp": 64384.674,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=AAA&product_list_dir=asc",
+      "snapshotName": "after@call@0ba5329fd447d082dc8f995904f51545",
+      "timestamp": 65924.257,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=AAA&product_list_dir=asc",
+      "snapshotName": "before@call@914afa5160259f41d1ff480213ed2bcc",
+      "timestamp": 78488.255,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=AAA&product_list_dir=asc",
+      "snapshotName": "input@call@914afa5160259f41d1ff480213ed2bcc",
+      "timestamp": 78555.691,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=AAA&product_list_dir=asc",
+      "snapshotName": "after@call@914afa5160259f41d1ff480213ed2bcc",
+      "timestamp": 78593.984,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=AAA&product_list_dir=asc",
+      "snapshotName": "before@call@47a8b9f702adc67ff9744a8cd7c86464",
+      "timestamp": 78953.988,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=AAA&product_list_dir=asc",
+      "snapshotName": "input@call@47a8b9f702adc67ff9744a8cd7c86464",
+      "timestamp": 79008.371,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gp-batteries-30310-battery-alkaline-aaa.html",
+      "snapshotName": "after@call@47a8b9f702adc67ff9744a8cd7c86464",
+      "timestamp": 80394.37,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gp-batteries-30310-battery-alkaline-aaa.html",
+      "snapshotName": "before@call@17e0278150cc32bd6d60ab6ceef6f991",
+      "timestamp": 83725.308,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gp-batteries-30310-battery-alkaline-aaa.html",
+      "snapshotName": "input@call@17e0278150cc32bd6d60ab6ceef6f991",
+      "timestamp": 83787.241,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gp-batteries-30310-battery-alkaline-aaa.html",
+      "snapshotName": "after@call@17e0278150cc32bd6d60ab6ceef6f991",
+      "timestamp": 83816.54,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gp-batteries-30310-battery-alkaline-aaa.html",
+      "snapshotName": "before@call@2b2ca0545af16cb143ce28a0626a61e7",
+      "timestamp": 92083.704,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gp-batteries-30310-battery-alkaline-aaa.html",
+      "snapshotName": "input@call@2b2ca0545af16cb143ce28a0626a61e7",
+      "timestamp": 92121.828,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gp-batteries-30310-battery-alkaline-aaa.html",
+      "snapshotName": "after@call@2b2ca0545af16cb143ce28a0626a61e7",
+      "timestamp": 92144.785,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gp-batteries-30310-battery-alkaline-aaa.html",
+      "snapshotName": "before@call@c6f8e0cc28c2d8cc5e2f492e38872ba6",
+      "timestamp": 94437.93,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gp-batteries-30310-battery-alkaline-aaa.html",
+      "snapshotName": "input@call@c6f8e0cc28c2d8cc5e2f492e38872ba6",
+      "timestamp": 94494.634,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gp-batteries-30310-battery-alkaline-aaa.html",
+      "snapshotName": "after@call@c6f8e0cc28c2d8cc5e2f492e38872ba6",
+      "timestamp": 94532.362,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gp-batteries-30310-battery-alkaline-aaa.html",
+      "snapshotName": "before@call@551e0ea4e3aeb458820314d8df2e1d57",
+      "timestamp": 95985.513,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gp-batteries-30310-battery-alkaline-aaa.html",
+      "snapshotName": "input@call@551e0ea4e3aeb458820314d8df2e1d57",
+      "timestamp": 96024.327,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/",
+      "snapshotName": "after@call@551e0ea4e3aeb458820314d8df2e1d57",
+      "timestamp": 97291.725,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "before@call@3d9d2ec8c1e2adb47488a2921e0d5207",
+      "timestamp": 104142.723,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "input@call@3d9d2ec8c1e2adb47488a2921e0d5207",
+      "timestamp": 104202.323,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "after@call@3d9d2ec8c1e2adb47488a2921e0d5207",
+      "timestamp": 104222.871,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "before@call@4d5c129f933fe2108864baa3dca1ebcf",
+      "timestamp": 107893.534,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "input@call@4d5c129f933fe2108864baa3dca1ebcf",
+      "timestamp": 107950.339,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3085c98c06d1d380789458a8c638edc7",
+      "frameId": "frame@54e35aa7fd9c1f8cddfc41ce8001300d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "after@call@4d5c129f933fe2108864baa3dca1ebcf",
+      "timestamp": 107978.828,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@3085c98c06d1d380789458a8c638edc7",
+      "timestamp": 117375.206,
+      "resource": "page@3085c98c06d1d380789458a8c638edc7-1703284151.006816.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_328__page0.jpg",
+      "sha256": "e3269570fbd2baf5be98c0a6e7d92b5326ad7d30ae2533037f4f8292b0c40780",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_328__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

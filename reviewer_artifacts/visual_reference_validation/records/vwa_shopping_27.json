@@ -1,0 +1,522 @@
+{
+  "instance_id": "vwa_shopping_27",
+  "domain": "shopping",
+  "filename_task_id": 27,
+  "source_url": "https://drive.usercontent.google.com/download?id=1SJlJFNtwgejlD_RRK9CT6CJqfrC8X_Ex&export=download&confirm=t",
+  "source_file_id": "1SJlJFNtwgejlD_RRK9CT6CJqfrC8X_Ex",
+  "archive_sha256": "3f71298fb910e0fc13a5aee9744fd6b98ba9e7ed3c24009af66e740bf33211db",
+  "archive_bytes": 12923357,
+  "event_types": {
+    "context-options": 1,
+    "event": 87,
+    "screencast-frame": 219,
+    "before": 3,
+    "frame-snapshot": 8,
+    "input": 3,
+    "after": 3
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703274796697,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "frameId": "frame@b2bdfd0dc9bf39b3b0cd4640350f6593",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@2a1681af7e4927b45a94a95756c7a426",
+      "timestamp": 4623.009,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "frameId": "frame@b2bdfd0dc9bf39b3b0cd4640350f6593",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@2a1681af7e4927b45a94a95756c7a426",
+      "timestamp": 4674.662,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "frameId": "frame@b2bdfd0dc9bf39b3b0cd4640350f6593",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@2a1681af7e4927b45a94a95756c7a426",
+      "timestamp": 4690.589,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "frameId": "frame@b2bdfd0dc9bf39b3b0cd4640350f6593",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@9c8bd1119dc02d898ee806a852a71864",
+      "timestamp": 5775.994,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "frameId": "frame@b2bdfd0dc9bf39b3b0cd4640350f6593",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@9c8bd1119dc02d898ee806a852a71864",
+      "timestamp": 5795.237,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "frameId": "frame@b2bdfd0dc9bf39b3b0cd4640350f6593",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=table",
+      "snapshotName": "before@call@03c3b5486c97a166b48dc04b4cdf6714",
+      "timestamp": 31008.979,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "frameId": "frame@b2bdfd0dc9bf39b3b0cd4640350f6593",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=table",
+      "snapshotName": "input@call@03c3b5486c97a166b48dc04b4cdf6714",
+      "timestamp": 31040.459,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "frameId": "frame@b2bdfd0dc9bf39b3b0cd4640350f6593",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/n-a-yyhen-beautiful-three-legged-wooden-coffee-tableiving-room-balcony-simple-end-table-white.html",
+      "snapshotName": "after@call@03c3b5486c97a166b48dc04b4cdf6714",
+      "timestamp": 31325.653,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@18522789d1bca35209b6754eab0446a2",
+      "timestamp": 21003.489,
+      "resource": "page@18522789d1bca35209b6754eab0446a2-1703274816.910789.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__page0.jpg",
+      "sha256": "d737877d97f61a5f74bf9b701371c7c2c4cdc86fbf92e9869b3d1798b741a549",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@c14da31de856ae8e97692a51cee1111b",
+      "timestamp": 24961.138,
+      "resource": "page@c14da31de856ae8e97692a51cee1111b-1703274820.869491.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__page1.jpg",
+      "sha256": "25398b3812d1cfd9aacdee9265ec2c3367e3fed0f34c8e04c884f654177497e5",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@2308bbc18d25aafc3acb3bf1ba7a3d37",
+      "timestamp": 27635.332,
+      "resource": "page@2308bbc18d25aafc3acb3bf1ba7a3d37-1703274823.54223.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__page2.jpg",
+      "sha256": "10d4e5ad9170f6ab7e9dc0b1b08a5242d696b29944d710318f1cd1adcb14ad46",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@cc84066d3874a0f9088667f3ee56f7be",
+      "timestamp": 30162.577,
+      "resource": "page@cc84066d3874a0f9088667f3ee56f7be-1703274826.070688.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__page3.jpg",
+      "sha256": "b37dcdbe23ca2881af500bea6f3f76d644ab759970f52b12fe25551849033579",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 37637.737,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274833.542711.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__page4.jpg",
+      "sha256": "37dd33d02161ea603a40086cad80d4c577327584ba4e37a8e988ac28ad4f9cc0",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_27__page4.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false,
+  "candidate_frames": [
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 19292.531,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274815.198992.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate68.jpg",
+      "sha256": "c1e863b8bc58156a71ee01af4f2cec7e9bcc481938ec215f48d490384bfc66fd",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 19545.881,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274815.452819.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate70.jpg",
+      "sha256": "c1e863b8bc58156a71ee01af4f2cec7e9bcc481938ec215f48d490384bfc66fd",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 30418.857,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274826.325506.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate72.jpg",
+      "sha256": "26b01013bc434b9f4a3120dc3b5cddfdf629dbb84530ae3f8bba2ba9ae34d808",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 30452.138,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274826.359964.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate74.jpg",
+      "sha256": "26b01013bc434b9f4a3120dc3b5cddfdf629dbb84530ae3f8bba2ba9ae34d808",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 30761.064,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274826.669362.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate76.jpg",
+      "sha256": "fc25d70ff41bfa1ee6e514e13cd3a4f20da7e39abb646bfd27cc8b28f418801b",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 31118.166,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274827.025476.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate78.jpg",
+      "sha256": "d3dbd38ccb04487922a600fa3185e6ec669f10b29b98b5167246bd848233bdab",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 31312.441,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274827.221101.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate80.jpg",
+      "sha256": "d97c057ac408c720e7132da81c186653e11f8071a37c05d81c11e722e8e9b90f",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 31372.624,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274827.270428.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate82.jpg",
+      "sha256": "2edd5ca78c02b3691bdb9f71d62e96615b1f10d623297c6f7e3e3dc3ec2fa6b7",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 31551.198,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274827.459915.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate84.jpg",
+      "sha256": "beb24a8cc8c12310f9fee3a8a899daee44aebc59f2b21173ce7f70a15e1ece65",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 31624.98,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274827.533719.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate86.jpg",
+      "sha256": "be086b3dcae06dac5df66a048847adac91c6c6acc07cadcc7334b349a3f6ffc4",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 31654.39,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274827.563578.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate88.jpg",
+      "sha256": "41f201f4dab6a6f9fa832071d90e8e3d7f079363285793515ec103839230fbaa",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 31703.69,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274827.612784.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate90.jpg",
+      "sha256": "3ef140d6085224272ed3505ba74693e45b33892e9f4717dd674b85471c42e43f",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 31776.995,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274827.685546.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate92.jpg",
+      "sha256": "3ef140d6085224272ed3505ba74693e45b33892e9f4717dd674b85471c42e43f",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 32242.784,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274828.149806.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate94.jpg",
+      "sha256": "71c251eab2ce6c4dce4a5fe46fb82278535757b57e2d1d81bfeb232a057278d3",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 32593.367,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274828.501686.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate96.jpg",
+      "sha256": "71c251eab2ce6c4dce4a5fe46fb82278535757b57e2d1d81bfeb232a057278d3",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 32993.995,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274828.901532.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate98.jpg",
+      "sha256": "71c251eab2ce6c4dce4a5fe46fb82278535757b57e2d1d81bfeb232a057278d3",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 33571.944,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274829.480393.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate100.jpg",
+      "sha256": "65ab76af33a1fe8fa393fb04455193bfbdc1176e40aa9bd8d81b6f2e5fdc2142",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 34885.73,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274830.792536.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate102.jpg",
+      "sha256": "71c251eab2ce6c4dce4a5fe46fb82278535757b57e2d1d81bfeb232a057278d3",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 35097.517,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274831.005777.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate104.jpg",
+      "sha256": "d97c057ac408c720e7132da81c186653e11f8071a37c05d81c11e722e8e9b90f",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 35280.289,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274831.189127.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate106.jpg",
+      "sha256": "6f463616d9eb179e4d3f1676547c73339242460581ab3ef1a8a5cccb2deabd4e",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 35610.76,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274831.517257.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate108.jpg",
+      "sha256": "f84da97e0b97462bfd6283a9007760499c0ec5af5b972e7bf20aba6dda350072",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 36018.837,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274831.925722.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate110.jpg",
+      "sha256": "6eec1513b027b3b8fd2e845a92315333024d20f2904683d67abd3bce83d371d6",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 36406.293,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274832.314393.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate112.jpg",
+      "sha256": "9629b580980fa966937cde5f709aeb10283f51f927bf6bac72304f1ef9a7dd9d",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 37276.998,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274833.185638.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate114.jpg",
+      "sha256": "a6e12d092306a1b97bc20398b3562f1c9fa253756fda9091a78a125ee46ce532",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "timestamp": 37307.766,
+      "resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274833.216844.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_27__candidate116.jpg",
+      "sha256": "1abeaafbbbe88b78b5d4e972a2ce37f3221288cea2b42d135e3f021f7eb7d127",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    }
+  ]
+}

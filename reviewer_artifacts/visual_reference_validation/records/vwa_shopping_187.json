@@ -1,0 +1,747 @@
+{
+  "instance_id": "vwa_shopping_187",
+  "domain": "shopping",
+  "filename_task_id": 187,
+  "source_url": "https://drive.usercontent.google.com/download?id=1eFaMwwf1yQPb2oAVupaW4T94aAFSzoJn&export=download&confirm=t",
+  "source_file_id": "1eFaMwwf1yQPb2oAVupaW4T94aAFSzoJn",
+  "archive_sha256": "2ec8bbfdb27e745c95fddb73ed0882833a7f9a9cca944b2cd0d0b6e29591fbdb",
+  "archive_bytes": 54653814,
+  "event_types": {
+    "context-options": 1,
+    "event": 240,
+    "screencast-frame": 921,
+    "before": 22,
+    "frame-snapshot": 58,
+    "input": 22,
+    "after": 22
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703278555838,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@0c3d737615b4f6d5b2920309a7e72147",
+      "timestamp": 15044.751,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@0c3d737615b4f6d5b2920309a7e72147",
+      "timestamp": 15087.619,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html",
+      "snapshotName": "after@call@0c3d737615b4f6d5b2920309a7e72147",
+      "timestamp": 15499.55,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?product_list_order=price",
+      "snapshotName": "input@call@4705027f026b5d4b079853de1ec5661c",
+      "timestamp": 21589.468,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?product_list_order=price",
+      "snapshotName": "after@call@4705027f026b5d4b079853de1ec5661c",
+      "timestamp": 21610.702,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?product_list_order=price",
+      "snapshotName": "before@call@169ba7f6052734fa7833d4b59d82cb23",
+      "timestamp": 77588.528,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?product_list_order=price",
+      "snapshotName": "input@call@169ba7f6052734fa7833d4b59d82cb23",
+      "timestamp": 77642.063,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=2&product_list_order=price",
+      "snapshotName": "after@call@169ba7f6052734fa7833d4b59d82cb23",
+      "timestamp": 78930.894,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=2&product_list_order=price",
+      "snapshotName": "before@call@8396b2c449935374a62d2be5b3e8dd34",
+      "timestamp": 105310.137,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=2&product_list_order=price",
+      "snapshotName": "input@call@8396b2c449935374a62d2be5b3e8dd34",
+      "timestamp": 105374.315,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/asuwish-compatible-with-iphone-xs-x-10-10s-wallet-case-tempered-glass-screen-protector-leather-flip-cover-card-holder-phone-cases-for-iphonex-iphonexs-iphone10-i-phonex-sx-10x-10xs-x-s-women-men-black.html",
+      "snapshotName": "after@call@8396b2c449935374a62d2be5b3e8dd34",
+      "timestamp": 106596.377,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/asuwish-compatible-with-iphone-xs-x-10-10s-wallet-case-tempered-glass-screen-protector-leather-flip-cover-card-holder-phone-cases-for-iphonex-iphonexs-iphone10-i-phonex-sx-10x-10xs-x-s-women-men-black.html",
+      "snapshotName": "before@call@7b3e9655c1bdbf1037a8895dc2a628e8",
+      "timestamp": 109839.504,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/asuwish-compatible-with-iphone-xs-x-10-10s-wallet-case-tempered-glass-screen-protector-leather-flip-cover-card-holder-phone-cases-for-iphonex-iphonexs-iphone10-i-phonex-sx-10x-10xs-x-s-women-men-black.html",
+      "snapshotName": "input@call@7b3e9655c1bdbf1037a8895dc2a628e8",
+      "timestamp": 109890.972,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/asuwish-compatible-with-iphone-xs-x-10-10s-wallet-case-tempered-glass-screen-protector-leather-flip-cover-card-holder-phone-cases-for-iphonex-iphonexs-iphone10-i-phonex-sx-10x-10xs-x-s-women-men-black.html",
+      "snapshotName": "after@call@7b3e9655c1bdbf1037a8895dc2a628e8",
+      "timestamp": 109904.618,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=2&product_list_order=price",
+      "snapshotName": "before@call@beb343100078fc118bdce265ca7e6bca",
+      "timestamp": 127337.01,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=2&product_list_order=price",
+      "snapshotName": "input@call@beb343100078fc118bdce265ca7e6bca",
+      "timestamp": 127389.453,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=2&product_list_order=price",
+      "snapshotName": "after@call@beb343100078fc118bdce265ca7e6bca",
+      "timestamp": 127433.234,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=2&product_list_order=price",
+      "snapshotName": "before@call@408b2a0d3218858680edbfc6c58c9472",
+      "timestamp": 128634.25,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=2&product_list_order=price",
+      "snapshotName": "input@call@408b2a0d3218858680edbfc6c58c9472",
+      "timestamp": 128657.349,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=2&product_list_order=price",
+      "snapshotName": "after@call@408b2a0d3218858680edbfc6c58c9472",
+      "timestamp": 128668.446,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=2&product_list_order=price",
+      "snapshotName": "before@call@b15fdf0fbc6346476954be56d8f01457",
+      "timestamp": 129857.324,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=2&product_list_order=price",
+      "snapshotName": "input@call@b15fdf0fbc6346476954be56d8f01457",
+      "timestamp": 129873.683,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=iPhone%20X&product_list_order=price",
+      "snapshotName": "input@call@df533bcfd9319a59b871812244931106",
+      "timestamp": 136946.898,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=iPhone%20X&product_list_order=price",
+      "snapshotName": "before@call@d70ccdf0d3cac221645fbdd58b18301c",
+      "timestamp": 136956.999,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=iPhone%20X&product_list_order=price",
+      "snapshotName": "after@call@df533bcfd9319a59b871812244931106",
+      "timestamp": 136975.55,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=iPhone%20X&product_list_order=price",
+      "snapshotName": "input@call@d70ccdf0d3cac221645fbdd58b18301c",
+      "timestamp": 136990.522,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=iPhone%20X&product_list_order=price",
+      "snapshotName": "after@call@d70ccdf0d3cac221645fbdd58b18301c",
+      "timestamp": 137002.57,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=iPhone%20X&product_list_order=price",
+      "snapshotName": "before@call@8248b4d32794bf4e9bcdbf23049ab2db",
+      "timestamp": 137709.358,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=iPhone%20X&product_list_order=price",
+      "snapshotName": "input@call@8248b4d32794bf4e9bcdbf23049ab2db",
+      "timestamp": 137738.695,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=iPhone%20X&product_list_dir=asc",
+      "snapshotName": "after@call@8248b4d32794bf4e9bcdbf23049ab2db",
+      "timestamp": 139310.641,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=iPhone%20X&product_list_dir=asc",
+      "snapshotName": "before@call@1bbee2f831e23f31bc40f9842875d264",
+      "timestamp": 144593.198,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=iPhone%20X&product_list_dir=asc",
+      "snapshotName": "input@call@1bbee2f831e23f31bc40f9842875d264",
+      "timestamp": 144640.844,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=iPhone%20X&product_list_dir=asc",
+      "snapshotName": "after@call@1bbee2f831e23f31bc40f9842875d264",
+      "timestamp": 144673.72,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=iPhone%20X&product_list_dir=asc",
+      "snapshotName": "before@call@adcc9fbb604e2b2d7ae9c7d41dd82e7e",
+      "timestamp": 145467.232,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=iPhone%20X&product_list_dir=asc",
+      "snapshotName": "input@call@adcc9fbb604e2b2d7ae9c7d41dd82e7e",
+      "timestamp": 145481.098,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=iPhone+X+case",
+      "snapshotName": "after@call@adcc9fbb604e2b2d7ae9c7d41dd82e7e",
+      "timestamp": 146987.673,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=iPhone+X+case",
+      "snapshotName": "before@call@262e4be3eca0771957ef38a9d137d8a2",
+      "timestamp": 148627.974,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=iPhone+X+case",
+      "snapshotName": "input@call@262e4be3eca0771957ef38a9d137d8a2",
+      "timestamp": 148671.669,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=iPhone+X+case",
+      "snapshotName": "after@call@262e4be3eca0771957ef38a9d137d8a2",
+      "timestamp": 148690.331,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=iPhone%20X%20case&product_list_order=price",
+      "snapshotName": "input@call@a21c88f8ff387ac9f28e394039c805d6",
+      "timestamp": 152174.17,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=iPhone%20X%20case&product_list_dir=asc",
+      "snapshotName": "input@call@dc40317bd5dc51105e799a0a482a1f17",
+      "timestamp": 154418.297,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=iPhone%20X%20case&product_list_dir=asc",
+      "snapshotName": "after@call@dc40317bd5dc51105e799a0a482a1f17",
+      "timestamp": 154424.99,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=iPhone%20X%20case&product_list_dir=asc",
+      "snapshotName": "before@call@3c7cd698f2ca8278200a13f139758398",
+      "timestamp": 159865.176,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=iPhone%20X%20case&product_list_dir=asc",
+      "snapshotName": "input@call@3c7cd698f2ca8278200a13f139758398",
+      "timestamp": 159907.036,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html",
+      "snapshotName": "after@call@3c7cd698f2ca8278200a13f139758398",
+      "timestamp": 160361.379,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?product_list_order=price",
+      "snapshotName": "input@call@aa51d660aa9683130ad11168690c87e6",
+      "timestamp": 163749.917,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?product_list_order=price",
+      "snapshotName": "before@call@efc81ac207212d84da283e2d6007739a",
+      "timestamp": 173194.635,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?product_list_order=price",
+      "snapshotName": "input@call@efc81ac207212d84da283e2d6007739a",
+      "timestamp": 173237.947,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=2&product_list_order=price",
+      "snapshotName": "after@call@efc81ac207212d84da283e2d6007739a",
+      "timestamp": 173646.272,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=2&product_list_order=price",
+      "snapshotName": "before@call@7fd5e5ae2055f8d9a5d811267e588bf9",
+      "timestamp": 185532.786,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=2&product_list_order=price",
+      "snapshotName": "input@call@7fd5e5ae2055f8d9a5d811267e588bf9",
+      "timestamp": 185592.765,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/asuwish-compatible-with-iphone-xs-x-10-10s-wallet-case-tempered-glass-screen-protector-leather-flip-cover-card-holder-phone-cases-for-iphonex-iphonexs-iphone10-i-phonex-sx-10x-10xs-x-s-women-men-black.html",
+      "snapshotName": "after@call@7fd5e5ae2055f8d9a5d811267e588bf9",
+      "timestamp": 186532.363,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/asuwish-compatible-with-iphone-xs-x-10-10s-wallet-case-tempered-glass-screen-protector-leather-flip-cover-card-holder-phone-cases-for-iphonex-iphonexs-iphone10-i-phonex-sx-10x-10xs-x-s-women-men-black.html",
+      "snapshotName": "before@call@a4c33d2fc0b870a4e5f58950d9d9becd",
+      "timestamp": 190049.983,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/asuwish-compatible-with-iphone-xs-x-10-10s-wallet-case-tempered-glass-screen-protector-leather-flip-cover-card-holder-phone-cases-for-iphonex-iphonexs-iphone10-i-phonex-sx-10x-10xs-x-s-women-men-black.html",
+      "snapshotName": "input@call@a4c33d2fc0b870a4e5f58950d9d9becd",
+      "timestamp": 190091.77,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/asuwish-compatible-with-iphone-xs-x-10-10s-wallet-case-tempered-glass-screen-protector-leather-flip-cover-card-holder-phone-cases-for-iphonex-iphonexs-iphone10-i-phonex-sx-10x-10xs-x-s-women-men-black.html",
+      "snapshotName": "after@call@a4c33d2fc0b870a4e5f58950d9d9becd",
+      "timestamp": 190104.599,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/asuwish-compatible-with-iphone-xs-x-10-10s-wallet-case-tempered-glass-screen-protector-leather-flip-cover-card-holder-phone-cases-for-iphonex-iphonexs-iphone10-i-phonex-sx-10x-10xs-x-s-women-men-black.html",
+      "snapshotName": "before@call@5ed113ded04338ffe2f509a0b527fb66",
+      "timestamp": 194379.89,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/asuwish-compatible-with-iphone-xs-x-10-10s-wallet-case-tempered-glass-screen-protector-leather-flip-cover-card-holder-phone-cases-for-iphonex-iphonexs-iphone10-i-phonex-sx-10x-10xs-x-s-women-men-black.html",
+      "snapshotName": "input@call@5ed113ded04338ffe2f509a0b527fb66",
+      "timestamp": 194431.436,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/asuwish-compatible-with-iphone-xs-x-10-10s-wallet-case-tempered-glass-screen-protector-leather-flip-cover-card-holder-phone-cases-for-iphonex-iphonexs-iphone10-i-phonex-sx-10x-10xs-x-s-women-men-black.html",
+      "snapshotName": "after@call@5ed113ded04338ffe2f509a0b527fb66",
+      "timestamp": 194461.493,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "timestamp": 200182.421,
+      "resource": "page@039db90f6aae8eb6eb48eaf2098418ae-1703278755.192599.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_187__page0.jpg",
+      "sha256": "cbf0e53d37c4a13d273f07cddfbc0068a239e2c2d7b0e82023947d3487eed5bd",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_187__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

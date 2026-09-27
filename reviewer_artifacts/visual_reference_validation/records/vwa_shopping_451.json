@@ -1,0 +1,123 @@
+{
+  "instance_id": "vwa_shopping_451",
+  "domain": "shopping",
+  "filename_task_id": 451,
+  "source_url": "https://drive.usercontent.google.com/download?id=1CKuKc7SxhADW8-f1ot4A_p9BLUQ17nYm&export=download&confirm=t",
+  "source_file_id": "1CKuKc7SxhADW8-f1ot4A_p9BLUQ17nYm",
+  "archive_sha256": "853465a3b2a84806727bd203768c4822676388b6a03c54a81cedb030d4bfad2f",
+  "archive_bytes": 38477953,
+  "event_types": {
+    "context-options": 1,
+    "event": 284,
+    "screencast-frame": 725,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703217927894,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@b9e0a505a70bde27b7022abc9f064d67",
+      "frameId": "frame@c1ad44ad326d65d830c9bfb794b0390f",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/women/shoes.html?product_list_order=price&product_list_dir=desc",
+      "snapshotName": "before@call@416551dd0dc141e578317d225000fcbd",
+      "timestamp": 113103.174,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b9e0a505a70bde27b7022abc9f064d67",
+      "frameId": "frame@c1ad44ad326d65d830c9bfb794b0390f",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/women/shoes.html?product_list_order=price&product_list_dir=desc",
+      "snapshotName": "input@call@416551dd0dc141e578317d225000fcbd",
+      "timestamp": 113136.715,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b9e0a505a70bde27b7022abc9f064d67",
+      "frameId": "frame@c1ad44ad326d65d830c9bfb794b0390f",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/women/shoes.html?product_list_order=price",
+      "snapshotName": "after@call@416551dd0dc141e578317d225000fcbd",
+      "timestamp": 113319.599,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b9e0a505a70bde27b7022abc9f064d67",
+      "frameId": "frame@c1ad44ad326d65d830c9bfb794b0390f",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/women/shoes.html?p=2&product_list_order=price",
+      "snapshotName": "before@call@59d686aff90a00d67dfc7f9d47d96e52",
+      "timestamp": 135142.761,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b9e0a505a70bde27b7022abc9f064d67",
+      "frameId": "frame@c1ad44ad326d65d830c9bfb794b0390f",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/women/shoes.html?p=2&product_list_order=price",
+      "snapshotName": "input@call@59d686aff90a00d67dfc7f9d47d96e52",
+      "timestamp": 135178.105,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b9e0a505a70bde27b7022abc9f064d67",
+      "frameId": "frame@c1ad44ad326d65d830c9bfb794b0390f",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/women/shoes.html?p=3&product_list_order=price",
+      "snapshotName": "after@call@59d686aff90a00d67dfc7f9d47d96e52",
+      "timestamp": 135493.112,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@b9e0a505a70bde27b7022abc9f064d67",
+      "timestamp": 193620.466,
+      "resource": "page@b9e0a505a70bde27b7022abc9f064d67-1703218121.084785.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_451__page0.jpg",
+      "sha256": "9fdc5d9f30897cd0eef34258ab1d3beddd5cc7fc573aeab05a7e06bc6bedaf10",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_451__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

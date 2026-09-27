@@ -1,0 +1,267 @@
+{
+  "instance_id": "vwa_shopping_461",
+  "domain": "shopping",
+  "filename_task_id": 461,
+  "source_url": "https://drive.usercontent.google.com/download?id=1BOQX7H-qy5CrunsaNBRNISxbF7v9zbON&export=download&confirm=t",
+  "source_file_id": "1BOQX7H-qy5CrunsaNBRNISxbF7v9zbON",
+  "archive_sha256": "40d44fbd36f6c28010c9f1a4c0e1df8c52924cf9cbd07c4e0c9364e6881e2059",
+  "archive_bytes": 12310704,
+  "event_types": {
+    "context-options": 1,
+    "event": 59,
+    "screencast-frame": 244,
+    "before": 6,
+    "frame-snapshot": 18,
+    "input": 6,
+    "after": 6
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703218269225,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/novelty-more/clothing.html",
+      "snapshotName": "before@call@9d9647ca969788dae34204c33b5cfcdb",
+      "timestamp": 37842.417,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/novelty-more/clothing.html",
+      "snapshotName": "input@call@9d9647ca969788dae34204c33b5cfcdb",
+      "timestamp": 37872.761,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/novelty-more/clothing.html",
+      "snapshotName": "after@call@9d9647ca969788dae34204c33b5cfcdb",
+      "timestamp": 37889.42,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/novelty-more/clothing.html",
+      "snapshotName": "before@call@b936bbec3b953e09b4b37d8e81d072e9",
+      "timestamp": 43796.587,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/novelty-more/clothing.html",
+      "snapshotName": "input@call@b936bbec3b953e09b4b37d8e81d072e9",
+      "timestamp": 43807.214,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=blue+wig",
+      "snapshotName": "after@call@b936bbec3b953e09b4b37d8e81d072e9",
+      "timestamp": 44175.271,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=blue+wig",
+      "snapshotName": "before@call@7e5228873d24fa61b7ff32b9afaab01e",
+      "timestamp": 52858.391,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=blue+wig",
+      "snapshotName": "input@call@7e5228873d24fa61b7ff32b9afaab01e",
+      "timestamp": 52880.466,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/anime-vocaloid-hatsune-miku-synthetic-wig-costume-game-play-wigs-cosplay-miku-long-wavy-blue-hair-wigs-wig-cap-one-size-pl-823.html",
+      "snapshotName": "after@call@7e5228873d24fa61b7ff32b9afaab01e",
+      "timestamp": 53406.205,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/anime-vocaloid-hatsune-miku-synthetic-wig-costume-game-play-wigs-cosplay-miku-long-wavy-blue-hair-wigs-wig-cap-one-size-pl-823.html",
+      "snapshotName": "before@call@9103d7360e271b98344c3b5be9ebfbae",
+      "timestamp": 59769.845,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/anime-vocaloid-hatsune-miku-synthetic-wig-costume-game-play-wigs-cosplay-miku-long-wavy-blue-hair-wigs-wig-cap-one-size-pl-823.html",
+      "snapshotName": "input@call@9103d7360e271b98344c3b5be9ebfbae",
+      "timestamp": 59797.612,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/anime-vocaloid-hatsune-miku-synthetic-wig-costume-game-play-wigs-cosplay-miku-long-wavy-blue-hair-wigs-wig-cap-one-size-pl-823.html",
+      "snapshotName": "after@call@9103d7360e271b98344c3b5be9ebfbae",
+      "timestamp": 59813.983,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/anime-vocaloid-hatsune-miku-synthetic-wig-costume-game-play-wigs-cosplay-miku-long-wavy-blue-hair-wigs-wig-cap-one-size-pl-823.html",
+      "snapshotName": "before@call@d923bdb6be85cf0b8bf90bb255bce2f7",
+      "timestamp": 62872.531,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/anime-vocaloid-hatsune-miku-synthetic-wig-costume-game-play-wigs-cosplay-miku-long-wavy-blue-hair-wigs-wig-cap-one-size-pl-823.html",
+      "snapshotName": "input@call@d923bdb6be85cf0b8bf90bb255bce2f7",
+      "timestamp": 62897.537,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/anime-vocaloid-hatsune-miku-synthetic-wig-costume-game-play-wigs-cosplay-miku-long-wavy-blue-hair-wigs-wig-cap-one-size-pl-823.html",
+      "snapshotName": "after@call@d923bdb6be85cf0b8bf90bb255bce2f7",
+      "timestamp": 62910.431,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/anime-vocaloid-hatsune-miku-synthetic-wig-costume-game-play-wigs-cosplay-miku-long-wavy-blue-hair-wigs-wig-cap-one-size-pl-823.html",
+      "snapshotName": "before@call@5a702bf3d2123c46a53fc3f05660b3f4",
+      "timestamp": 65853.126,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/anime-vocaloid-hatsune-miku-synthetic-wig-costume-game-play-wigs-cosplay-miku-long-wavy-blue-hair-wigs-wig-cap-one-size-pl-823.html",
+      "snapshotName": "input@call@5a702bf3d2123c46a53fc3f05660b3f4",
+      "timestamp": 65882.142,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/anime-vocaloid-hatsune-miku-synthetic-wig-costume-game-play-wigs-cosplay-miku-long-wavy-blue-hair-wigs-wig-cap-one-size-pl-823.html",
+      "snapshotName": "after@call@5a702bf3d2123c46a53fc3f05660b3f4",
+      "timestamp": 65909.263,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "timestamp": 69969.051,
+      "resource": "page@278b7291f6fe85acb1f08118c9252ae2-1703218338.836428.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_461__page0.jpg",
+      "sha256": "311e26c58058aeef4577c1f4562badee339c6dad721f36387f03f3f7eb2d858c",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_461__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

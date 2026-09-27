@@ -1,0 +1,292 @@
+{
+  "instance_id": "vwa_classifieds_36",
+  "domain": "classifieds",
+  "filename_task_id": 36,
+  "source_url": "https://drive.usercontent.google.com/download?id=1kd7-F7os0eGQaFM5_z8q203VkVo2bGgO&export=download&confirm=t",
+  "source_file_id": "1kd7-F7os0eGQaFM5_z8q203VkVo2bGgO",
+  "archive_sha256": "f0265ff9ca1618c62323a06e5cfbbc1629dd9ebc2d01c20461cc515632aa85a8",
+  "archive_bytes": 18907767,
+  "event_types": {
+    "context-options": 1,
+    "event": 143,
+    "screencast-frame": 275,
+    "object": 13,
+    "before": 7,
+    "frame-snapshot": 18,
+    "input": 7,
+    "after": 7
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704177620723,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@7fff01e7712ae25cf844a28269fb3336",
+      "frameId": "frame@aad2fcf19042c8ab6e180a97f7b8fd98",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@36d6c756ac8f1d3322c6b3deef25cd52",
+      "timestamp": 61279.708,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7fff01e7712ae25cf844a28269fb3336",
+      "frameId": "frame@aad2fcf19042c8ab6e180a97f7b8fd98",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@36d6c756ac8f1d3322c6b3deef25cd52",
+      "timestamp": 61310.732,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7fff01e7712ae25cf844a28269fb3336",
+      "frameId": "frame@aad2fcf19042c8ab6e180a97f7b8fd98",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@36d6c756ac8f1d3322c6b3deef25cd52",
+      "timestamp": 61334.45,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7fff01e7712ae25cf844a28269fb3336",
+      "frameId": "frame@aad2fcf19042c8ab6e180a97f7b8fd98",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@f250cd345513e89841ff72886ae4d9f8",
+      "timestamp": 65760.173,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7fff01e7712ae25cf844a28269fb3336",
+      "frameId": "frame@aad2fcf19042c8ab6e180a97f7b8fd98",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@f250cd345513e89841ff72886ae4d9f8",
+      "timestamp": 65770.923,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7fff01e7712ae25cf844a28269fb3336",
+      "frameId": "frame@aad2fcf19042c8ab6e180a97f7b8fd98",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=luigi+mission",
+      "snapshotName": "before@call@e3dd75c595cc18d6bb758022d4938f95",
+      "timestamp": 72961.577,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7fff01e7712ae25cf844a28269fb3336",
+      "frameId": "frame@aad2fcf19042c8ab6e180a97f7b8fd98",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=luigi+mission",
+      "snapshotName": "input@call@e3dd75c595cc18d6bb758022d4938f95",
+      "timestamp": 72987.999,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7fff01e7712ae25cf844a28269fb3336",
+      "frameId": "frame@aad2fcf19042c8ab6e180a97f7b8fd98",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=luigi+mission",
+      "snapshotName": "after@call@e3dd75c595cc18d6bb758022d4938f95",
+      "timestamp": 73001.977,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7fff01e7712ae25cf844a28269fb3336",
+      "frameId": "frame@aad2fcf19042c8ab6e180a97f7b8fd98",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=luigi+mission",
+      "snapshotName": "before@call@df5b6d223a93baaba0638142475fcc9c",
+      "timestamp": 75032.637,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7fff01e7712ae25cf844a28269fb3336",
+      "frameId": "frame@aad2fcf19042c8ab6e180a97f7b8fd98",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=luigi+mission",
+      "snapshotName": "input@call@df5b6d223a93baaba0638142475fcc9c",
+      "timestamp": 75041.939,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@326c66db91949e16f9b8d612540ac0b0",
+      "frameId": "frame@0df53f43a3c4931316527e4a6431854f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "before@call@f4386c17b3fd49ddaab9d9d8cc94606d",
+      "timestamp": 87411.225,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@326c66db91949e16f9b8d612540ac0b0",
+      "frameId": "frame@0df53f43a3c4931316527e4a6431854f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "input@call@f4386c17b3fd49ddaab9d9d8cc94606d",
+      "timestamp": 87440.09,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@326c66db91949e16f9b8d612540ac0b0",
+      "frameId": "frame@0df53f43a3c4931316527e4a6431854f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "after@call@f4386c17b3fd49ddaab9d9d8cc94606d",
+      "timestamp": 87450.776,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@326c66db91949e16f9b8d612540ac0b0",
+      "frameId": "frame@0df53f43a3c4931316527e4a6431854f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "before@call@e814f3bf746648ea7144fb8753a57a87",
+      "timestamp": 89043.889,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@326c66db91949e16f9b8d612540ac0b0",
+      "frameId": "frame@0df53f43a3c4931316527e4a6431854f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "input@call@e814f3bf746648ea7144fb8753a57a87",
+      "timestamp": 89052.703,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7fff01e7712ae25cf844a28269fb3336",
+      "frameId": "frame@aad2fcf19042c8ab6e180a97f7b8fd98",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=luigi",
+      "snapshotName": "before@call@aa7c89d367e2ef432d2873e2400cd116",
+      "timestamp": 117419.212,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7fff01e7712ae25cf844a28269fb3336",
+      "frameId": "frame@aad2fcf19042c8ab6e180a97f7b8fd98",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=luigi",
+      "snapshotName": "input@call@aa7c89d367e2ef432d2873e2400cd116",
+      "timestamp": 117455.599,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7fff01e7712ae25cf844a28269fb3336",
+      "frameId": "frame@aad2fcf19042c8ab6e180a97f7b8fd98",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/luigi-s-mansion-3-nintendo-switch.html",
+      "snapshotName": "after@call@aa7c89d367e2ef432d2873e2400cd116",
+      "timestamp": 118803.503,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@6032bf9e8aa9d05db15636cd9328897e",
+      "timestamp": 85777.852,
+      "resource": "page@6032bf9e8aa9d05db15636cd9328897e-1704177706.180225.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_36__page0.jpg",
+      "sha256": "9778e8d2b6324e7d506b471e89df28a4ff707cce57c9b1f9a53ffb00e9bcb451",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@326c66db91949e16f9b8d612540ac0b0",
+      "timestamp": 115988.421,
+      "resource": "page@326c66db91949e16f9b8d612540ac0b0-1704177736.368206.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_36__page1.jpg",
+      "sha256": "128da795368676eff6b485a65ef3f78e9462bd89dd03cd3145152fc9391cd566",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@7fff01e7712ae25cf844a28269fb3336",
+      "timestamp": 125705.96,
+      "resource": "page@7fff01e7712ae25cf844a28269fb3336-1704177746.075543.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_36__page2.jpg",
+      "sha256": "e16843afb76f93ef400abb71f5ead17ca811d0d1259069260c29edd7ecc5658e",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_classifieds_36__page2.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

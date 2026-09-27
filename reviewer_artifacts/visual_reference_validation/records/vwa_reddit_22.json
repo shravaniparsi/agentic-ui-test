@@ -1,0 +1,280 @@
+{
+  "instance_id": "vwa_reddit_22",
+  "domain": "reddit",
+  "filename_task_id": 22,
+  "source_url": "https://drive.usercontent.google.com/download?id=1V-pfULpBgTkPPat8n-wJK0nyFyRqqR20&export=download&confirm=t",
+  "source_file_id": "1V-pfULpBgTkPPat8n-wJK0nyFyRqqR20",
+  "archive_sha256": "594f911967d642f10f2648e1304bf9d39d8ccc1fefcbbb3a0e43321a0ce51345",
+  "archive_bytes": 5551103,
+  "event_types": {
+    "context-options": 1,
+    "event": 111,
+    "screencast-frame": 150,
+    "object": 45,
+    "before": 6,
+    "frame-snapshot": 18,
+    "input": 6,
+    "after": 6
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704254348935,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@4f71d4c3c419bc84e002461e33183ea0",
+      "timestamp": 35349.829,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@4f71d4c3c419bc84e002461e33183ea0",
+      "timestamp": 35404.273,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/consoles",
+      "snapshotName": "after@call@4f71d4c3c419bc84e002461e33183ea0",
+      "timestamp": 36309.209,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/consoles",
+      "snapshotName": "before@call@58ad26ff3ddda170e046e9ec69f2d00b",
+      "timestamp": 42041.873,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/consoles",
+      "snapshotName": "input@call@58ad26ff3ddda170e046e9ec69f2d00b",
+      "timestamp": 42111.963,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/consoles/103611/my-mt-dew-xbox",
+      "snapshotName": "after@call@58ad26ff3ddda170e046e9ec69f2d00b",
+      "timestamp": 42761.57,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/consoles/103611/my-mt-dew-xbox",
+      "snapshotName": "before@call@78c74379f153ccad9182ba1ad11e76b4",
+      "timestamp": 48796.184,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/consoles/103611/my-mt-dew-xbox",
+      "snapshotName": "input@call@78c74379f153ccad9182ba1ad11e76b4",
+      "timestamp": 48842.538,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/consoles/103611/my-mt-dew-xbox",
+      "snapshotName": "after@call@78c74379f153ccad9182ba1ad11e76b4",
+      "timestamp": 48859.37,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/consoles/103611/my-mt-dew-xbox",
+      "snapshotName": "before@call@66bbfae6700f4ac2d099fddd18e44db4",
+      "timestamp": 50881.732,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/consoles/103611/my-mt-dew-xbox",
+      "snapshotName": "input@call@66bbfae6700f4ac2d099fddd18e44db4",
+      "timestamp": 50920.36,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/consoles/103611/my-mt-dew-xbox",
+      "snapshotName": "after@call@66bbfae6700f4ac2d099fddd18e44db4",
+      "timestamp": 50932.205,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/consoles/103611/my-mt-dew-xbox",
+      "snapshotName": "before@call@81e841a85fec04580b5a9eae4e34603d",
+      "timestamp": 56037.283,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/consoles/103611/my-mt-dew-xbox",
+      "snapshotName": "input@call@81e841a85fec04580b5a9eae4e34603d",
+      "timestamp": 56073.127,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/consoles/103611/my-mt-dew-xbox",
+      "snapshotName": "after@call@81e841a85fec04580b5a9eae4e34603d",
+      "timestamp": 56084.262,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/consoles/103611/my-mt-dew-xbox",
+      "snapshotName": "before@call@53664cc2d662407c581cbea964f2d268",
+      "timestamp": 57236.533,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/consoles/103611/my-mt-dew-xbox",
+      "snapshotName": "input@call@53664cc2d662407c581cbea964f2d268",
+      "timestamp": 57252.836,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "frameId": "frame@ceed7cb38ab0cfb6a8bc445bdcdb0a75",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/consoles/103611/my-mt-dew-xbox",
+      "snapshotName": "after@call@53664cc2d662407c581cbea964f2d268",
+      "timestamp": 57267.103,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@7544276a97fc24bd4c2c7faafbf979dd",
+      "timestamp": 29933.282,
+      "resource": "page@7544276a97fc24bd4c2c7faafbf979dd-1704254378.065487.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_22__page0.jpg",
+      "sha256": "675a82c61caa6d9e4b1fb5df8da651b64f0436fdcc0a836176f543b479400793",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@856b952e53ac42ab4c8c8dce01c58914",
+      "timestamp": 107270.339,
+      "resource": "page@856b952e53ac42ab4c8c8dce01c58914-1704254455.405869.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_22__page1.jpg",
+      "sha256": "4de8ce9c920889074ca3f3c1b3ceba335db14ebcc00e3d29f82eb3c988a7cc25",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_22__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

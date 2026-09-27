@@ -1,0 +1,267 @@
+{
+  "instance_id": "vwa_shopping_272",
+  "domain": "shopping",
+  "filename_task_id": 272,
+  "source_url": "https://drive.usercontent.google.com/download?id=1HYxdjy1TQkUottiH2GtPDbIE68PJadAE&export=download&confirm=t",
+  "source_file_id": "1HYxdjy1TQkUottiH2GtPDbIE68PJadAE",
+  "archive_sha256": "32729ef0e6705af8edc1882fdb74e886d74671ee7c9c6b99e5e99a19873b2c80",
+  "archive_bytes": 10085082,
+  "event_types": {
+    "context-options": 1,
+    "event": 60,
+    "screencast-frame": 212,
+    "before": 6,
+    "frame-snapshot": 18,
+    "input": 6,
+    "after": 6
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703282529507,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@df1faef2725c4d1b36b6cb3451f4d023",
+      "timestamp": 12852.874,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@df1faef2725c4d1b36b6cb3451f4d023",
+      "timestamp": 12902.712,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@df1faef2725c4d1b36b6cb3451f4d023",
+      "timestamp": 12950.619,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@51b46d8fefb07b3726086145a0dd7845",
+      "timestamp": 14329.941,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@51b46d8fefb07b3726086145a0dd7845",
+      "timestamp": 14344.147,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=Cheerios",
+      "snapshotName": "after@call@51b46d8fefb07b3726086145a0dd7845",
+      "timestamp": 15598.251,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=Cheerios",
+      "snapshotName": "before@call@c87ca2c242540e6f6711d5f4bdd668ed",
+      "timestamp": 26115.688,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=Cheerios",
+      "snapshotName": "input@call@c87ca2c242540e6f6711d5f4bdd668ed",
+      "timestamp": 26165.539,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/frosted-cheerios-breakfast-cereal-with-oats-gluten-free-18-4-oz-pack-of-7.html",
+      "snapshotName": "after@call@c87ca2c242540e6f6711d5f4bdd668ed",
+      "timestamp": 27578.593,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/frosted-cheerios-breakfast-cereal-with-oats-gluten-free-18-4-oz-pack-of-7.html",
+      "snapshotName": "before@call@99fc25f4c17328f922fafa89b876a5bc",
+      "timestamp": 30404.285,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/frosted-cheerios-breakfast-cereal-with-oats-gluten-free-18-4-oz-pack-of-7.html",
+      "snapshotName": "input@call@99fc25f4c17328f922fafa89b876a5bc",
+      "timestamp": 30449.497,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/frosted-cheerios-breakfast-cereal-with-oats-gluten-free-18-4-oz-pack-of-7.html",
+      "snapshotName": "after@call@99fc25f4c17328f922fafa89b876a5bc",
+      "timestamp": 30476.282,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/frosted-cheerios-breakfast-cereal-with-oats-gluten-free-18-4-oz-pack-of-7.html",
+      "snapshotName": "before@call@3db0b0fc6429553164af3c957833e005",
+      "timestamp": 35312.109,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/frosted-cheerios-breakfast-cereal-with-oats-gluten-free-18-4-oz-pack-of-7.html",
+      "snapshotName": "input@call@3db0b0fc6429553164af3c957833e005",
+      "timestamp": 35365.751,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/frosted-cheerios-breakfast-cereal-with-oats-gluten-free-18-4-oz-pack-of-7.html",
+      "snapshotName": "after@call@3db0b0fc6429553164af3c957833e005",
+      "timestamp": 35396.882,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/frosted-cheerios-breakfast-cereal-with-oats-gluten-free-18-4-oz-pack-of-7.html",
+      "snapshotName": "before@call@3fda232ba740f969221a62e259859ddb",
+      "timestamp": 36180.412,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/frosted-cheerios-breakfast-cereal-with-oats-gluten-free-18-4-oz-pack-of-7.html",
+      "snapshotName": "input@call@3fda232ba740f969221a62e259859ddb",
+      "timestamp": 36213.664,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "frameId": "frame@45fdc7e6488a67f81b6f817ff320ce53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/",
+      "snapshotName": "after@call@3fda232ba740f969221a62e259859ddb",
+      "timestamp": 37370.893,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@9203308e3c67624a89b7c83d07f24ac6",
+      "timestamp": 46007.444,
+      "resource": "page@9203308e3c67624a89b7c83d07f24ac6-1703282574.770953.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_272__page0.jpg",
+      "sha256": "8742815057b90d617ca55d6e27d7101e3c2fdb8e7435f61c1478601e84bda624",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_272__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

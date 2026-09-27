@@ -1,0 +1,508 @@
+{
+  "instance_id": "vwa_reddit_182",
+  "domain": "reddit",
+  "filename_task_id": 182,
+  "source_url": "https://drive.usercontent.google.com/download?id=1OZ4CU5jiD2yOQ7OgnDqkNgnDDZDCuu0s&export=download&confirm=t",
+  "source_file_id": "1OZ4CU5jiD2yOQ7OgnDqkNgnDDZDCuu0s",
+  "archive_sha256": "2b5b155953bd038964640ed90a1a4515895bfd6efef6cd682634cd6e4879b9c2",
+  "archive_bytes": 12549446,
+  "event_types": {
+    "context-options": 1,
+    "event": 276,
+    "screencast-frame": 440,
+    "object": 82,
+    "before": 12,
+    "frame-snapshot": 36,
+    "input": 12,
+    "after": 12
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704270858772,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@597b13049e0023dcc1dec3efe5ff25ab",
+      "timestamp": 43370.472,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@597b13049e0023dcc1dec3efe5ff25ab",
+      "timestamp": 43435.094,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@597b13049e0023dcc1dec3efe5ff25ab",
+      "timestamp": 44349.371,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@a5351fbdcb9196a645afbed5fe4b044e",
+      "timestamp": 60418.276,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@a5351fbdcb9196a645afbed5fe4b044e",
+      "timestamp": 60482.678,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/by_submissions/2",
+      "snapshotName": "after@call@a5351fbdcb9196a645afbed5fe4b044e",
+      "timestamp": 61104.622,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/by_submissions/2",
+      "snapshotName": "before@call@2375f7bd139ea60bfee1090eee93c28a",
+      "timestamp": 67936.6,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/by_submissions/2",
+      "snapshotName": "input@call@2375f7bd139ea60bfee1090eee93c28a",
+      "timestamp": 67966.673,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/by_submissions/3",
+      "snapshotName": "after@call@2375f7bd139ea60bfee1090eee93c28a",
+      "timestamp": 68621.261,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/by_submissions/3",
+      "snapshotName": "before@call@5de47e163af0414ff2e0c43a1f6c0136",
+      "timestamp": 75669.451,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/by_submissions/3",
+      "snapshotName": "input@call@5de47e163af0414ff2e0c43a1f6c0136",
+      "timestamp": 75726.604,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/newhaven",
+      "snapshotName": "after@call@5de47e163af0414ff2e0c43a1f6c0136",
+      "timestamp": 76294.286,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/newhaven",
+      "snapshotName": "before@call@f022f882696a7a468f71c0e9ed174360",
+      "timestamp": 79758.038,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/newhaven",
+      "snapshotName": "input@call@f022f882696a7a468f71c0e9ed174360",
+      "timestamp": 79827.262,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "after@call@f022f882696a7a468f71c0e9ed174360",
+      "timestamp": 81850.988,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "before@call@4058bebc6493af580571d34dc2414f4f",
+      "timestamp": 89749.187,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "input@call@4058bebc6493af580571d34dc2414f4f",
+      "timestamp": 89788.537,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "after@call@4058bebc6493af580571d34dc2414f4f",
+      "timestamp": 89881.848,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "before@call@2fdc67245d80dc858308e2abadd4c7dd",
+      "timestamp": 96049.206,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "input@call@2fdc67245d80dc858308e2abadd4c7dd",
+      "timestamp": 96061.214,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "after@call@2fdc67245d80dc858308e2abadd4c7dd",
+      "timestamp": 96103.843,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "before@call@47a4a3e80f09bc3ad92b6701fd4f1f15",
+      "timestamp": 98652.547,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "input@call@47a4a3e80f09bc3ad92b6701fd4f1f15",
+      "timestamp": 98665.762,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "after@call@47a4a3e80f09bc3ad92b6701fd4f1f15",
+      "timestamp": 98695.681,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "before@call@3842e77283916e3ad291a628f578fbc9",
+      "timestamp": 99146.227,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "input@call@3842e77283916e3ad291a628f578fbc9",
+      "timestamp": 99157.397,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "after@call@3842e77283916e3ad291a628f578fbc9",
+      "timestamp": 99169.305,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "before@call@da27f5e9784e8402a3ea7127a24d0767",
+      "timestamp": 99829.725,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "input@call@da27f5e9784e8402a3ea7127a24d0767",
+      "timestamp": 99867.89,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "after@call@da27f5e9784e8402a3ea7127a24d0767",
+      "timestamp": 99917.335,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "before@call@a747fdc806b9256518771ca3c7ec845e",
+      "timestamp": 101657.015,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "input@call@a747fdc806b9256518771ca3c7ec845e",
+      "timestamp": 101667.6,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "after@call@a747fdc806b9256518771ca3c7ec845e",
+      "timestamp": 101680.344,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "before@call@63ef105c597fd03e9a8e0572a2fc658b",
+      "timestamp": 115305.089,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/newhaven",
+      "snapshotName": "input@call@63ef105c597fd03e9a8e0572a2fc658b",
+      "timestamp": 115336.732,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "frameId": "frame@fcb71425bff763afb5eaac9ceb271069",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/newhaven/2/best-pizza-in-the-city",
+      "snapshotName": "after@call@63ef105c597fd03e9a8e0572a2fc658b",
+      "timestamp": 116316.926,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@bdc4574527c93cf27c344d7eea7671ae",
+      "timestamp": 34946.484,
+      "resource": "page@bdc4574527c93cf27c344d7eea7671ae-1704270892.961402.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_182__page0.jpg",
+      "sha256": "beb18212c60e9c00941c65745d41d6d4348fb364895e6cb016edff3d8a1930b5",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@c6aff0602e73faff4aa647d1bae0bdb0",
+      "timestamp": 56047.437,
+      "resource": "page@c6aff0602e73faff4aa647d1bae0bdb0-1704270914.057949.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_182__page1.jpg",
+      "sha256": "307a2fe10882cf1dc6009c03a7095aec61b586e45cdbae2cfecb830239805684",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@e39b3c64e4a5217f92a84b0b64e8ff6a",
+      "timestamp": 136157.002,
+      "resource": "page@e39b3c64e4a5217f92a84b0b64e8ff6a-1704270994.168278.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_182__page2.jpg",
+      "sha256": "d90f39be61c5213afa96a7093ebb07e1696ef55b4c420864872dfcf1d7853e29",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_182__page2.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,231 @@
+{
+  "instance_id": "vwa_shopping_282",
+  "domain": "shopping",
+  "filename_task_id": 282,
+  "source_url": "https://drive.usercontent.google.com/download?id=1mP4TBv9U9XnrQCMfM1gZnKR11aAMkFL0&export=download&confirm=t",
+  "source_file_id": "1mP4TBv9U9XnrQCMfM1gZnKR11aAMkFL0",
+  "archive_sha256": "5058627e7838047611e285b767ba16b421972558fad4f3fbecf4c3a7fff3df44",
+  "archive_bytes": 7849039,
+  "event_types": {
+    "context-options": 1,
+    "event": 47,
+    "screencast-frame": 226,
+    "before": 5,
+    "frame-snapshot": 15,
+    "input": 5,
+    "after": 5
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703283006115,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@07e8d5a74ce791e443e0a7a704cbca56",
+      "frameId": "frame@0022aa5ef07239388028152127476f76",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/women/shoes.html?p=10",
+      "snapshotName": "before@call@85a2c8c675e1caf2b50302d91a79aad5",
+      "timestamp": 17080.292,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07e8d5a74ce791e443e0a7a704cbca56",
+      "frameId": "frame@0022aa5ef07239388028152127476f76",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/women/shoes.html?p=10",
+      "snapshotName": "input@call@85a2c8c675e1caf2b50302d91a79aad5",
+      "timestamp": 17131.819,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07e8d5a74ce791e443e0a7a704cbca56",
+      "frameId": "frame@0022aa5ef07239388028152127476f76",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/women/shoes.html?p=10",
+      "snapshotName": "after@call@85a2c8c675e1caf2b50302d91a79aad5",
+      "timestamp": 17253.934,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07e8d5a74ce791e443e0a7a704cbca56",
+      "frameId": "frame@0022aa5ef07239388028152127476f76",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/women/shoes.html?p=10",
+      "snapshotName": "before@call@3ffd3fef820dc4b3659687ce3c09967d",
+      "timestamp": 20329.567,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07e8d5a74ce791e443e0a7a704cbca56",
+      "frameId": "frame@0022aa5ef07239388028152127476f76",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/women/shoes.html?p=10",
+      "snapshotName": "input@call@3ffd3fef820dc4b3659687ce3c09967d",
+      "timestamp": 20384.148,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07e8d5a74ce791e443e0a7a704cbca56",
+      "frameId": "frame@0022aa5ef07239388028152127476f76",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/women/shoes.html?p=10",
+      "snapshotName": "after@call@3ffd3fef820dc4b3659687ce3c09967d",
+      "timestamp": 20426.026,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07e8d5a74ce791e443e0a7a704cbca56",
+      "frameId": "frame@0022aa5ef07239388028152127476f76",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/women/shoes.html?p=10",
+      "snapshotName": "before@call@fc87cc39c8cc2b80c68c98ba25b98022",
+      "timestamp": 21624.333,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07e8d5a74ce791e443e0a7a704cbca56",
+      "frameId": "frame@0022aa5ef07239388028152127476f76",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/women/shoes.html?p=10",
+      "snapshotName": "input@call@fc87cc39c8cc2b80c68c98ba25b98022",
+      "timestamp": 21685.058,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07e8d5a74ce791e443e0a7a704cbca56",
+      "frameId": "frame@0022aa5ef07239388028152127476f76",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/",
+      "snapshotName": "after@call@fc87cc39c8cc2b80c68c98ba25b98022",
+      "timestamp": 23009.582,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07e8d5a74ce791e443e0a7a704cbca56",
+      "frameId": "frame@0022aa5ef07239388028152127476f76",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "before@call@97919bbcc38bdd1a9fedb276a6c601a3",
+      "timestamp": 31304.172,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07e8d5a74ce791e443e0a7a704cbca56",
+      "frameId": "frame@0022aa5ef07239388028152127476f76",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "input@call@97919bbcc38bdd1a9fedb276a6c601a3",
+      "timestamp": 31344.988,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07e8d5a74ce791e443e0a7a704cbca56",
+      "frameId": "frame@0022aa5ef07239388028152127476f76",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "after@call@97919bbcc38bdd1a9fedb276a6c601a3",
+      "timestamp": 31365.858,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07e8d5a74ce791e443e0a7a704cbca56",
+      "frameId": "frame@0022aa5ef07239388028152127476f76",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "before@call@7eb65d36094ac827662461bff7f39368",
+      "timestamp": 36354.032,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07e8d5a74ce791e443e0a7a704cbca56",
+      "frameId": "frame@0022aa5ef07239388028152127476f76",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "input@call@7eb65d36094ac827662461bff7f39368",
+      "timestamp": 36382.331,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07e8d5a74ce791e443e0a7a704cbca56",
+      "frameId": "frame@0022aa5ef07239388028152127476f76",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "after@call@7eb65d36094ac827662461bff7f39368",
+      "timestamp": 36406.816,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@07e8d5a74ce791e443e0a7a704cbca56",
+      "timestamp": 56838.791,
+      "resource": "page@07e8d5a74ce791e443e0a7a704cbca56-1703283062.135355.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_282__page0.jpg",
+      "sha256": "61aaa4fda19edfc4bd8c7a30786c14f01cbc7c44f8f8dbb2fc534c2255ccd0ea",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_282__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

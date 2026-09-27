@@ -1,0 +1,219 @@
+{
+  "instance_id": "vwa_shopping_261",
+  "domain": "shopping",
+  "filename_task_id": 261,
+  "source_url": "https://drive.usercontent.google.com/download?id=1RaJc_YLtmgIzFasfq8EZXbhG6rdft1fz&export=download&confirm=t",
+  "source_file_id": "1RaJc_YLtmgIzFasfq8EZXbhG6rdft1fz",
+  "archive_sha256": "597a6f6526648a6287c863c897ad0072f579e0f47d188142331bd1d89819bf47",
+  "archive_bytes": 12546542,
+  "event_types": {
+    "context-options": 1,
+    "event": 61,
+    "screencast-frame": 283,
+    "before": 5,
+    "frame-snapshot": 14,
+    "input": 4,
+    "after": 5
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703281456883,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@c598ce510a7aba35fef0841b6d73309c",
+      "frameId": "frame@0afcac160d8fa272f83de41f357aa0aa",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/computers-accessories/computer-accessories-peripherals.html?product_list_order=name&product_list_limit=36",
+      "snapshotName": "before@call@ec9b15a2fa3c12f6d82d12be11ef643f",
+      "timestamp": 25513.885,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c598ce510a7aba35fef0841b6d73309c",
+      "frameId": "frame@0afcac160d8fa272f83de41f357aa0aa",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/computers-accessories/computer-accessories-peripherals.html?product_list_order=name&product_list_limit=36",
+      "snapshotName": "input@call@ec9b15a2fa3c12f6d82d12be11ef643f",
+      "timestamp": 25563.745,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c598ce510a7aba35fef0841b6d73309c",
+      "frameId": "frame@0afcac160d8fa272f83de41f357aa0aa",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/24-pcs-cable-protector-cute-charging-cable-saver-plastic-fruit-food-animal-charger-cord-protector-phone-cord-bites-phone-cord-protector-for-cellphone-usb-cable-tablet-data-lines-accessories.html",
+      "snapshotName": "after@call@ec9b15a2fa3c12f6d82d12be11ef643f",
+      "timestamp": 26787.159,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c598ce510a7aba35fef0841b6d73309c",
+      "frameId": "frame@0afcac160d8fa272f83de41f357aa0aa",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/24-pcs-cable-protector-cute-charging-cable-saver-plastic-fruit-food-animal-charger-cord-protector-phone-cord-bites-phone-cord-protector-for-cellphone-usb-cable-tablet-data-lines-accessories.html",
+      "snapshotName": "before@call@cd4fdf1db396993f68c62af40fc5ce40",
+      "timestamp": 28860.105,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c598ce510a7aba35fef0841b6d73309c",
+      "frameId": "frame@0afcac160d8fa272f83de41f357aa0aa",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/24-pcs-cable-protector-cute-charging-cable-saver-plastic-fruit-food-animal-charger-cord-protector-phone-cord-bites-phone-cord-protector-for-cellphone-usb-cable-tablet-data-lines-accessories.html",
+      "snapshotName": "input@call@cd4fdf1db396993f68c62af40fc5ce40",
+      "timestamp": 28912.146,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c598ce510a7aba35fef0841b6d73309c",
+      "frameId": "frame@0afcac160d8fa272f83de41f357aa0aa",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/24-pcs-cable-protector-cute-charging-cable-saver-plastic-fruit-food-animal-charger-cord-protector-phone-cord-bites-phone-cord-protector-for-cellphone-usb-cable-tablet-data-lines-accessories.html",
+      "snapshotName": "after@call@cd4fdf1db396993f68c62af40fc5ce40",
+      "timestamp": 28942.102,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c598ce510a7aba35fef0841b6d73309c",
+      "frameId": "frame@0afcac160d8fa272f83de41f357aa0aa",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/24-pcs-cable-protector-cute-charging-cable-saver-plastic-fruit-food-animal-charger-cord-protector-phone-cord-bites-phone-cord-protector-for-cellphone-usb-cable-tablet-data-lines-accessories.html",
+      "snapshotName": "before@call@097ea8d2325f9e8bb48a7663a702425a",
+      "timestamp": 31233.799,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c598ce510a7aba35fef0841b6d73309c",
+      "frameId": "frame@0afcac160d8fa272f83de41f357aa0aa",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/",
+      "snapshotName": "after@call@097ea8d2325f9e8bb48a7663a702425a",
+      "timestamp": 36238.153,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c598ce510a7aba35fef0841b6d73309c",
+      "frameId": "frame@0afcac160d8fa272f83de41f357aa0aa",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "before@call@781606271252d728dce9b576e294fdad",
+      "timestamp": 43867.559,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c598ce510a7aba35fef0841b6d73309c",
+      "frameId": "frame@0afcac160d8fa272f83de41f357aa0aa",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "input@call@781606271252d728dce9b576e294fdad",
+      "timestamp": 43914.94,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c598ce510a7aba35fef0841b6d73309c",
+      "frameId": "frame@0afcac160d8fa272f83de41f357aa0aa",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "after@call@781606271252d728dce9b576e294fdad",
+      "timestamp": 43937.546,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c598ce510a7aba35fef0841b6d73309c",
+      "frameId": "frame@0afcac160d8fa272f83de41f357aa0aa",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "before@call@77f1127546156cd594bdae82e0020037",
+      "timestamp": 48466.032,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c598ce510a7aba35fef0841b6d73309c",
+      "frameId": "frame@0afcac160d8fa272f83de41f357aa0aa",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "input@call@77f1127546156cd594bdae82e0020037",
+      "timestamp": 48511.782,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c598ce510a7aba35fef0841b6d73309c",
+      "frameId": "frame@0afcac160d8fa272f83de41f357aa0aa",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "after@call@77f1127546156cd594bdae82e0020037",
+      "timestamp": 48529.792,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@c598ce510a7aba35fef0841b6d73309c",
+      "timestamp": 53956.084,
+      "resource": "page@c598ce510a7aba35fef0841b6d73309c-1703281510.04233.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_261__page0.jpg",
+      "sha256": "13b201748d113bc794a636e68fadde087e7182338e825d93e2ae9821b55af2a3",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_261__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

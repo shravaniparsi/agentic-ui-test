@@ -1,0 +1,124 @@
+{
+  "instance_id": "vwa_reddit_147",
+  "domain": "reddit",
+  "filename_task_id": 147,
+  "source_url": "https://drive.usercontent.google.com/download?id=1fMjCiTIwHqg6iSgUSyj-pTX3cSh4rj_a&export=download&confirm=t",
+  "source_file_id": "1fMjCiTIwHqg6iSgUSyj-pTX3cSh4rj_a",
+  "archive_sha256": "df4a63ab78fb585c483e801710adf592b553d293e5ee82c14737a3ec79142d1a",
+  "archive_bytes": 3446012,
+  "event_types": {
+    "context-options": 1,
+    "event": 77,
+    "screencast-frame": 134,
+    "object": 41,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704261173380,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@7a66484112da79da04ad5e11fa0d8391",
+      "frameId": "frame@4bfb4d867fc9ae314f88c0e699000b19",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets/50335",
+      "snapshotName": "before@call@66e5bda6b21e89a88071b482a22dfbd6",
+      "timestamp": 10221.092,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7a66484112da79da04ad5e11fa0d8391",
+      "frameId": "frame@4bfb4d867fc9ae314f88c0e699000b19",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets/50335",
+      "snapshotName": "input@call@66e5bda6b21e89a88071b482a22dfbd6",
+      "timestamp": 10287.337,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7a66484112da79da04ad5e11fa0d8391",
+      "frameId": "frame@4bfb4d867fc9ae314f88c0e699000b19",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets/50335",
+      "snapshotName": "after@call@66e5bda6b21e89a88071b482a22dfbd6",
+      "timestamp": 10365.975,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7a66484112da79da04ad5e11fa0d8391",
+      "frameId": "frame@4bfb4d867fc9ae314f88c0e699000b19",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets/50335",
+      "snapshotName": "before@call@fb3dfb5f55a91c11327bb063661c9849",
+      "timestamp": 39270.305,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7a66484112da79da04ad5e11fa0d8391",
+      "frameId": "frame@4bfb4d867fc9ae314f88c0e699000b19",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets/50335",
+      "snapshotName": "input@call@fb3dfb5f55a91c11327bb063661c9849",
+      "timestamp": 39341.186,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7a66484112da79da04ad5e11fa0d8391",
+      "frameId": "frame@4bfb4d867fc9ae314f88c0e699000b19",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets/50335/loss-porn-this-year/comment/2",
+      "snapshotName": "after@call@fb3dfb5f55a91c11327bb063661c9849",
+      "timestamp": 39928.731,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@7a66484112da79da04ad5e11fa0d8391",
+      "timestamp": 42684.451,
+      "resource": "page@7a66484112da79da04ad5e11fa0d8391-1704261215.256896.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_147__page0.jpg",
+      "sha256": "9c52db48d0a372dac861ef6507f81cb088af4a17a14ce53aba3fe1726b513400",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_147__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

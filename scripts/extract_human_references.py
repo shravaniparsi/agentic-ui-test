@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-extract_human_references.py - Extract visual references from human Playwright traces.
+extract_human_references.py - Extract unvalidated candidates from human traces.
 
 The VisualWebArena authors published human demonstrations as Playwright
 trace.zip recordings, one per task id, laid out as
@@ -9,13 +9,12 @@ trace.zip recordings, one per task id, laid out as
 
 Each trace embeds a screencast: a stream of `screencast-frame` events, each
 naming a JPEG in the archive's resources/ directory and carrying a timestamp.
-The frame with the largest timestamp is the page as the human left it, i.e. the
-final state of a successfully completed task. That frame is this script's
-output, written to <ref-dir>/<instance_id>.png -- the visual reference used by
-Conditions C and D.
-
-Only a subset of dataset instances have a matching human trace; the instances
-that do are exactly the visual-reference subset.
+The largest-timestamp frame is only a candidate. It does not prove correct
+task identity, successful completion, or sufficient visible evidence. Filename
+matching also does not validate identity. The public inventory has 233 traces;
+the historical C/D analysis pool has 147 IDs. These are distinct populations.
+This legacy extraction converts recorded JPEGs to PNG. A curated validation
+manifest should instead preserve the selected original frame bytes and hashes.
 
 Usage:
     python3 scripts/extract_human_references.py --human-dir data/human_trajectories
@@ -80,11 +79,13 @@ def main():
     ap.add_argument("--human-dir", default=str(DATA_DIR / "human_trajectories"),
                     help="directory containing human_trajectories_<domain>/ folders")
     ap.add_argument("--dataset", default=str(DATA_DIR / "verification_dataset.jsonl"))
-    ap.add_argument("--ref-dir", default=str(DATA_DIR / "references"))
+    ap.add_argument("--ref-dir", default=str(DATA_DIR / "reference_candidates"),
+                    help="unvalidated candidate output; historical references are not overwritten by default")
     ap.add_argument("--id-list", default="",
                     help="optional path to write the matched instance ids")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
+    print("WARNING: outputs are unvalidated candidates, not certified successful references.", file=sys.stderr)
 
     try:
         from PIL import Image
@@ -137,7 +138,7 @@ def main():
     print(f"no dataset instance : {stats['unmatched']}")
     print(f"no screencast frame : {stats['no_frame']}")
     print(f"{'[dry-run] would write' if args.dry_run else 'wrote'} "
-          f"{stats['written']} references to {ref_dir}")
+          f"{stats['written']} unvalidated candidates to {ref_dir}")
 
     if args.id_list and not args.dry_run:
         Path(args.id_list).write_text("\n".join(sorted(matched)) + "\n")

@@ -1,0 +1,1395 @@
+{
+  "instance_id": "vwa_shopping_326",
+  "domain": "shopping",
+  "filename_task_id": 326,
+  "source_url": "https://drive.usercontent.google.com/download?id=1fnmo6rDQh_kgl_cAHIWtff6gv9eRHq66&export=download&confirm=t",
+  "source_file_id": "1fnmo6rDQh_kgl_cAHIWtff6gv9eRHq66",
+  "archive_sha256": "678605e4aa9726244ae4b24a25ad4be47dbeadc4ce3ee24d92f2abbdd4f14da5",
+  "archive_bytes": 92188363,
+  "event_types": {
+    "context-options": 1,
+    "event": 533,
+    "screencast-frame": 1765,
+    "before": 40,
+    "frame-snapshot": 112,
+    "input": 40,
+    "after": 40
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703283654392,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@b683409eefb4aa3ef2a28bd0de0d9e5e",
+      "timestamp": 46456.706,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@b683409eefb4aa3ef2a28bd0de0d9e5e",
+      "timestamp": 46499.05,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html",
+      "snapshotName": "after@call@b683409eefb4aa3ef2a28bd0de0d9e5e",
+      "timestamp": 46966.396,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?product_list_order=price",
+      "snapshotName": "input@call@a3e6611ef7ac3746bb72ed55c56a415d",
+      "timestamp": 50469.499,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?product_list_order=price",
+      "snapshotName": "after@call@a3e6611ef7ac3746bb72ed55c56a415d",
+      "timestamp": 50486.325,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?product_list_order=price",
+      "snapshotName": "before@call@c0733d9b8d8a8b8a6d0c5a184c52282b",
+      "timestamp": 91451.98,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?product_list_order=price",
+      "snapshotName": "input@call@c0733d9b8d8a8b8a6d0c5a184c52282b",
+      "timestamp": 91482.951,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=2&product_list_order=price",
+      "snapshotName": "after@call@c0733d9b8d8a8b8a6d0c5a184c52282b",
+      "timestamp": 93082.753,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=2&product_list_order=price",
+      "snapshotName": "before@call@a7230e216de64246033c41bd9fb04b84",
+      "timestamp": 97697.661,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=2&product_list_order=price",
+      "snapshotName": "input@call@a7230e216de64246033c41bd9fb04b84",
+      "timestamp": 97733.051,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=2&product_list_order=price",
+      "snapshotName": "after@call@a7230e216de64246033c41bd9fb04b84",
+      "timestamp": 97777.826,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=2&product_list_order=price",
+      "snapshotName": "before@call@4ab0df1594ace29ce6176e8c8f9c59ad",
+      "timestamp": 99381.364,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=2&product_list_order=price",
+      "snapshotName": "input@call@4ab0df1594ace29ce6176e8c8f9c59ad",
+      "timestamp": 99401.765,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=logitech&product_list_order=price",
+      "snapshotName": "input@call@5fe0a0eebf124516ed51a04ca4a6f947",
+      "timestamp": 104546.671,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=logitech&product_list_order=price",
+      "snapshotName": "before@call@0e1e18ddaf34c64647f3f0631c5722d1",
+      "timestamp": 104555.209,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=logitech&product_list_order=price",
+      "snapshotName": "after@call@5fe0a0eebf124516ed51a04ca4a6f947",
+      "timestamp": 104568.656,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=logitech&product_list_order=price",
+      "snapshotName": "input@call@0e1e18ddaf34c64647f3f0631c5722d1",
+      "timestamp": 104582.929,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=logitech&product_list_order=price",
+      "snapshotName": "after@call@0e1e18ddaf34c64647f3f0631c5722d1",
+      "timestamp": 104591.062,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=logitech&product_list_order=price",
+      "snapshotName": "before@call@2839db5b7ebc5461393a8d3f42156d9a",
+      "timestamp": 105842.281,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=logitech&product_list_order=price",
+      "snapshotName": "input@call@2839db5b7ebc5461393a8d3f42156d9a",
+      "timestamp": 105883.447,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=logitech&product_list_dir=asc",
+      "snapshotName": "after@call@2839db5b7ebc5461393a8d3f42156d9a",
+      "timestamp": 107101.831,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=logitech&product_list_dir=asc",
+      "snapshotName": "before@call@675a799fd94763ebe2599d365e5a76c3",
+      "timestamp": 107766.546,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=logitech&product_list_dir=asc",
+      "snapshotName": "input@call@675a799fd94763ebe2599d365e5a76c3",
+      "timestamp": 107837.767,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=logitech&product_list_dir=asc",
+      "snapshotName": "after@call@675a799fd94763ebe2599d365e5a76c3",
+      "timestamp": 107848.801,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=logitech&product_list_dir=asc",
+      "snapshotName": "before@call@0fe208609a0d8fc48ed2db12c6372885",
+      "timestamp": 113064.27,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=logitech&product_list_dir=asc",
+      "snapshotName": "input@call@0fe208609a0d8fc48ed2db12c6372885",
+      "timestamp": 113122.986,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "after@call@0fe208609a0d8fc48ed2db12c6372885",
+      "timestamp": 114388.853,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "before@call@9d9ba7ca877ea580044976e599284ea9",
+      "timestamp": 118820.438,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "input@call@9d9ba7ca877ea580044976e599284ea9",
+      "timestamp": 118869.682,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "after@call@9d9ba7ca877ea580044976e599284ea9",
+      "timestamp": 119976.62,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "before@call@9105f47c96b3e5de2f55a3bdfedfc0e0",
+      "timestamp": 129437.814,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "input@call@9105f47c96b3e5de2f55a3bdfedfc0e0",
+      "timestamp": 129482.359,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=4&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "after@call@9105f47c96b3e5de2f55a3bdfedfc0e0",
+      "timestamp": 130759.562,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=4&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "before@call@8407fb67d545c8645028a59f9d0a5957",
+      "timestamp": 134854.717,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=4&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "input@call@8407fb67d545c8645028a59f9d0a5957",
+      "timestamp": 134902.709,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=5&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "after@call@8407fb67d545c8645028a59f9d0a5957",
+      "timestamp": 136198.478,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=5&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "before@call@c66e41451904880f1889125c603bec12",
+      "timestamp": 139737.426,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=5&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "input@call@c66e41451904880f1889125c603bec12",
+      "timestamp": 139804.539,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "after@call@c66e41451904880f1889125c603bec12",
+      "timestamp": 140986.372,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "before@call@829ed106614777c6e18b5484281b9d65",
+      "timestamp": 147694.219,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "input@call@829ed106614777c6e18b5484281b9d65",
+      "timestamp": 147753.529,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html",
+      "snapshotName": "after@call@829ed106614777c6e18b5484281b9d65",
+      "timestamp": 148188.705,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?product_list_order=price",
+      "snapshotName": "input@call@80598c2f021ce72de04efd4291461913",
+      "timestamp": 163749.092,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?product_list_order=price",
+      "snapshotName": "after@call@80598c2f021ce72de04efd4291461913",
+      "timestamp": 164185.416,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?product_list_order=price",
+      "snapshotName": "before@call@86b046a64567703520d503f62668dc20",
+      "timestamp": 171206.467,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?product_list_order=price",
+      "snapshotName": "input@call@86b046a64567703520d503f62668dc20",
+      "timestamp": 171250.464,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=2&product_list_order=price",
+      "snapshotName": "after@call@86b046a64567703520d503f62668dc20",
+      "timestamp": 172154.188,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=2&product_list_order=price",
+      "snapshotName": "before@call@434c9632a4c0960b3f5d18840f8fc646",
+      "timestamp": 177269.536,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=2&product_list_order=price",
+      "snapshotName": "input@call@434c9632a4c0960b3f5d18840f8fc646",
+      "timestamp": 177339.708,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=3&product_list_order=price",
+      "snapshotName": "after@call@434c9632a4c0960b3f5d18840f8fc646",
+      "timestamp": 178508.554,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=3&product_list_order=price",
+      "snapshotName": "before@call@40be26299ba0b69375ab12c8f6e444e0",
+      "timestamp": 189607.366,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=3&product_list_order=price",
+      "snapshotName": "input@call@40be26299ba0b69375ab12c8f6e444e0",
+      "timestamp": 189650.993,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=4&product_list_order=price",
+      "snapshotName": "after@call@40be26299ba0b69375ab12c8f6e444e0",
+      "timestamp": 190971.329,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=4&product_list_order=price",
+      "snapshotName": "before@call@1a80d68153eaa34d46559af427ba57e3",
+      "timestamp": 198307.489,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=4&product_list_order=price",
+      "snapshotName": "input@call@1a80d68153eaa34d46559af427ba57e3",
+      "timestamp": 198372.528,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=5&product_list_order=price",
+      "snapshotName": "after@call@1a80d68153eaa34d46559af427ba57e3",
+      "timestamp": 199564.929,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=5&product_list_order=price",
+      "snapshotName": "before@call@14cad33f4a379c2247d28626b2f47968",
+      "timestamp": 211074.96,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=5&product_list_order=price",
+      "snapshotName": "input@call@14cad33f4a379c2247d28626b2f47968",
+      "timestamp": 211138.808,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=6&product_list_order=price",
+      "snapshotName": "after@call@14cad33f4a379c2247d28626b2f47968",
+      "timestamp": 212414.635,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=6&product_list_order=price",
+      "snapshotName": "before@call@fa5fef19ab5f2861091bce3a76af210d",
+      "timestamp": 222244.001,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=6&product_list_order=price",
+      "snapshotName": "input@call@fa5fef19ab5f2861091bce3a76af210d",
+      "timestamp": 222282.47,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=7&product_list_order=price",
+      "snapshotName": "after@call@fa5fef19ab5f2861091bce3a76af210d",
+      "timestamp": 223475.196,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=7&product_list_order=price",
+      "snapshotName": "before@call@c517fca41c0b216cc17d017929ad3aca",
+      "timestamp": 230947.94,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=7&product_list_order=price",
+      "snapshotName": "input@call@c517fca41c0b216cc17d017929ad3aca",
+      "timestamp": 231004.22,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=8&product_list_order=price",
+      "snapshotName": "after@call@c517fca41c0b216cc17d017929ad3aca",
+      "timestamp": 232253.635,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=8&product_list_order=price",
+      "snapshotName": "before@call@096ed969ec1260dd9bdb2ff2f11b850a",
+      "timestamp": 239752.79,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=8&product_list_order=price",
+      "snapshotName": "input@call@096ed969ec1260dd9bdb2ff2f11b850a",
+      "timestamp": 239819.384,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=9&product_list_order=price",
+      "snapshotName": "after@call@096ed969ec1260dd9bdb2ff2f11b850a",
+      "timestamp": 241054.371,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=9&product_list_order=price",
+      "snapshotName": "before@call@3564aaa6419dbee3d4764a6b7f6c5ed6",
+      "timestamp": 245756.94,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=9&product_list_order=price",
+      "snapshotName": "input@call@3564aaa6419dbee3d4764a6b7f6c5ed6",
+      "timestamp": 245820.186,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=10&product_list_order=price",
+      "snapshotName": "after@call@3564aaa6419dbee3d4764a6b7f6c5ed6",
+      "timestamp": 247084.251,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=10&product_list_order=price",
+      "snapshotName": "before@call@92cf98b3e7b1b2fa78de3e4420799d7c",
+      "timestamp": 255107.155,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=10&product_list_order=price",
+      "snapshotName": "input@call@92cf98b3e7b1b2fa78de3e4420799d7c",
+      "timestamp": 255151.18,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=11&product_list_order=price",
+      "snapshotName": "after@call@92cf98b3e7b1b2fa78de3e4420799d7c",
+      "timestamp": 256257.253,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=11&product_list_order=price",
+      "snapshotName": "before@call@01d851d0ccc20c36199651d9134b34b7",
+      "timestamp": 271638.269,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=11&product_list_order=price",
+      "snapshotName": "input@call@01d851d0ccc20c36199651d9134b34b7",
+      "timestamp": 271685.841,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=12&product_list_order=price",
+      "snapshotName": "after@call@01d851d0ccc20c36199651d9134b34b7",
+      "timestamp": 272974.42,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=12&product_list_order=price",
+      "snapshotName": "before@call@f83063e09a2d92d123bf0542de579af2",
+      "timestamp": 278290.793,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=12&product_list_order=price",
+      "snapshotName": "input@call@f83063e09a2d92d123bf0542de579af2",
+      "timestamp": 278336.521,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=13&product_list_order=price",
+      "snapshotName": "after@call@f83063e09a2d92d123bf0542de579af2",
+      "timestamp": 279734.474,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=13&product_list_order=price",
+      "snapshotName": "before@call@0c931caa94a4ccb88cb4e93d081b12c1",
+      "timestamp": 286623.815,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=13&product_list_order=price",
+      "snapshotName": "input@call@0c931caa94a4ccb88cb4e93d081b12c1",
+      "timestamp": 286668.287,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=14&product_list_order=price",
+      "snapshotName": "after@call@0c931caa94a4ccb88cb4e93d081b12c1",
+      "timestamp": 287743.77,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=14&product_list_order=price",
+      "snapshotName": "before@call@f9c80fde51e34b38c06c4de4c5f65604",
+      "timestamp": 291455.523,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=14&product_list_order=price",
+      "snapshotName": "input@call@f9c80fde51e34b38c06c4de4c5f65604",
+      "timestamp": 291522.85,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=15&product_list_order=price",
+      "snapshotName": "after@call@f9c80fde51e34b38c06c4de4c5f65604",
+      "timestamp": 292770.376,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=15&product_list_order=price",
+      "snapshotName": "before@call@6b634d3f015a0503ab0375ca96ec4a45",
+      "timestamp": 297656.676,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=15&product_list_order=price",
+      "snapshotName": "input@call@6b634d3f015a0503ab0375ca96ec4a45",
+      "timestamp": 297706.338,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=15&product_list_order=price",
+      "snapshotName": "after@call@6b634d3f015a0503ab0375ca96ec4a45",
+      "timestamp": 297747.619,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=15&product_list_order=price",
+      "snapshotName": "before@call@32d7d4a6efb68fcc1d6636cd5b898ff6",
+      "timestamp": 299024.977,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?p=15&product_list_order=price",
+      "snapshotName": "input@call@32d7d4a6efb68fcc1d6636cd5b898ff6",
+      "timestamp": 299048.915,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=logitech",
+      "snapshotName": "before@call@5f3c4039971c971fe727d2b9f744cad3",
+      "timestamp": 309825.501,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=logitech",
+      "snapshotName": "input@call@5f3c4039971c971fe727d2b9f744cad3",
+      "timestamp": 309869.56,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=logitech",
+      "snapshotName": "after@call@5f3c4039971c971fe727d2b9f744cad3",
+      "timestamp": 309880.606,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=logitech&product_list_order=price",
+      "snapshotName": "input@call@4672a7d10aa31f00d3ccb5ef591ea80c",
+      "timestamp": 312692.592,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=logitech",
+      "snapshotName": "input@call@1af4d7c0f2f5c0dc8d2c6deb2a549f2e",
+      "timestamp": 314042.245,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=logitech",
+      "snapshotName": "before@call@551ef0914c298ec0e9608cb0e86afbae",
+      "timestamp": 314103.213,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=logitech",
+      "snapshotName": "after@call@1af4d7c0f2f5c0dc8d2c6deb2a549f2e",
+      "timestamp": 314125.923,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=logitech",
+      "snapshotName": "input@call@551ef0914c298ec0e9608cb0e86afbae",
+      "timestamp": 314370.037,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=logitech&product_list_dir=asc",
+      "snapshotName": "after@call@551ef0914c298ec0e9608cb0e86afbae",
+      "timestamp": 315451.612,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=logitech&product_list_dir=asc",
+      "snapshotName": "before@call@4c17b3758bf8d7692fe3a11e38678bd9",
+      "timestamp": 325570.679,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=logitech&product_list_dir=asc",
+      "snapshotName": "input@call@4c17b3758bf8d7692fe3a11e38678bd9",
+      "timestamp": 325621.266,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "after@call@4c17b3758bf8d7692fe3a11e38678bd9",
+      "timestamp": 326827.773,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "before@call@d89bbd62e7d3ef498fb4851163d6514d",
+      "timestamp": 332392.213,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "input@call@d89bbd62e7d3ef498fb4851163d6514d",
+      "timestamp": 332436.736,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "after@call@d89bbd62e7d3ef498fb4851163d6514d",
+      "timestamp": 333720.503,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "before@call@f6f71a666908c7d76d441b8b4baf69c4",
+      "timestamp": 341392.907,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "input@call@f6f71a666908c7d76d441b8b4baf69c4",
+      "timestamp": 341455.616,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=4&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "after@call@f6f71a666908c7d76d441b8b4baf69c4",
+      "timestamp": 342557.622,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=4&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "before@call@ead427af6c8f5460ca312687d51fc91b",
+      "timestamp": 346537.249,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=4&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "input@call@ead427af6c8f5460ca312687d51fc91b",
+      "timestamp": 346603.202,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "frameId": "frame@c0ebef292c9d0140a9ea9535520681b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=5&product_list_dir=asc&product_list_order=price&q=logitech",
+      "snapshotName": "after@call@ead427af6c8f5460ca312687d51fc91b",
+      "timestamp": 347852.514,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@a322f5a62c6f09ae36427acec6b431f9",
+      "timestamp": 353929.396,
+      "resource": "page@a322f5a62c6f09ae36427acec6b431f9-1703284007.547687.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_326__page0.jpg",
+      "sha256": "d731a0a41d3f77b1349bc54aeff7b88ad2b82b0c655b0c5df762f086960b91d4",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_326__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

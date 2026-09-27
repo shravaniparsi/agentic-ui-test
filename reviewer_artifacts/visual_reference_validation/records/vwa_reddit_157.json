@@ -1,0 +1,232 @@
+{
+  "instance_id": "vwa_reddit_157",
+  "domain": "reddit",
+  "filename_task_id": 157,
+  "source_url": "https://drive.usercontent.google.com/download?id=1CG-F3HNX2j-z84VhBzXoLLi5EArQf650&export=download&confirm=t",
+  "source_file_id": "1CG-F3HNX2j-z84VhBzXoLLi5EArQf650",
+  "archive_sha256": "45c6ea78f24e5c1a6f0ab5779c2929a385c591e6981caf258fe2ba39274e4f24",
+  "archive_bytes": 7160449,
+  "event_types": {
+    "context-options": 1,
+    "event": 141,
+    "screencast-frame": 174,
+    "object": 54,
+    "before": 5,
+    "frame-snapshot": 15,
+    "input": 5,
+    "after": 5
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704270229910,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@3570c2607f02657892868014b26651f8",
+      "frameId": "frame@84fd76b6d35243bd3811ac8c2d20310a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@5836034f14a8144b438e06df554e085c",
+      "timestamp": 30075.635,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3570c2607f02657892868014b26651f8",
+      "frameId": "frame@84fd76b6d35243bd3811ac8c2d20310a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@5836034f14a8144b438e06df554e085c",
+      "timestamp": 30133.439,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3570c2607f02657892868014b26651f8",
+      "frameId": "frame@84fd76b6d35243bd3811ac8c2d20310a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@5836034f14a8144b438e06df554e085c",
+      "timestamp": 30856.114,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3570c2607f02657892868014b26651f8",
+      "frameId": "frame@84fd76b6d35243bd3811ac8c2d20310a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@5ee7b47e4b4b662cda4c0ccd345bf804",
+      "timestamp": 34081.454,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3570c2607f02657892868014b26651f8",
+      "frameId": "frame@84fd76b6d35243bd3811ac8c2d20310a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@5ee7b47e4b4b662cda4c0ccd345bf804",
+      "timestamp": 34134.656,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3570c2607f02657892868014b26651f8",
+      "frameId": "frame@84fd76b6d35243bd3811ac8c2d20310a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes",
+      "snapshotName": "after@call@5ee7b47e4b4b662cda4c0ccd345bf804",
+      "timestamp": 34645.238,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3570c2607f02657892868014b26651f8",
+      "frameId": "frame@84fd76b6d35243bd3811ac8c2d20310a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming",
+      "snapshotName": "before@call@c5e04db547dfb9649027eef6c96b5605",
+      "timestamp": 44110.47,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3570c2607f02657892868014b26651f8",
+      "frameId": "frame@84fd76b6d35243bd3811ac8c2d20310a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming",
+      "snapshotName": "input@call@c5e04db547dfb9649027eef6c96b5605",
+      "timestamp": 44189.73,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3570c2607f02657892868014b26651f8",
+      "frameId": "frame@84fd76b6d35243bd3811ac8c2d20310a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming?next%5Branking%5D=2111&next%5Bid%5D=61422",
+      "snapshotName": "after@call@c5e04db547dfb9649027eef6c96b5605",
+      "timestamp": 44691.584,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3570c2607f02657892868014b26651f8",
+      "frameId": "frame@84fd76b6d35243bd3811ac8c2d20310a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming?next%5Branking%5D=2111&next%5Bid%5D=61422",
+      "snapshotName": "before@call@b301b838edf2e343645c9b9700d9f951",
+      "timestamp": 47942.405,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3570c2607f02657892868014b26651f8",
+      "frameId": "frame@84fd76b6d35243bd3811ac8c2d20310a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming?next%5Branking%5D=2111&next%5Bid%5D=61422",
+      "snapshotName": "input@call@b301b838edf2e343645c9b9700d9f951",
+      "timestamp": 47987.927,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3570c2607f02657892868014b26651f8",
+      "frameId": "frame@84fd76b6d35243bd3811ac8c2d20310a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming/19625/finally-found-her-and-all-i-got-was-a-kiss-on-the-cheek",
+      "snapshotName": "after@call@b301b838edf2e343645c9b9700d9f951",
+      "timestamp": 48564.589,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3570c2607f02657892868014b26651f8",
+      "frameId": "frame@84fd76b6d35243bd3811ac8c2d20310a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming/19625/finally-found-her-and-all-i-got-was-a-kiss-on-the-cheek",
+      "snapshotName": "before@call@068554f5aee31f3768d6b880a7a6c213",
+      "timestamp": 52444.19,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3570c2607f02657892868014b26651f8",
+      "frameId": "frame@84fd76b6d35243bd3811ac8c2d20310a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming/19625/finally-found-her-and-all-i-got-was-a-kiss-on-the-cheek",
+      "snapshotName": "input@call@068554f5aee31f3768d6b880a7a6c213",
+      "timestamp": 52484.664,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3570c2607f02657892868014b26651f8",
+      "frameId": "frame@84fd76b6d35243bd3811ac8c2d20310a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming/19625/finally-found-her-and-all-i-got-was-a-kiss-on-the-cheek",
+      "snapshotName": "after@call@068554f5aee31f3768d6b880a7a6c213",
+      "timestamp": 52494.089,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@3570c2607f02657892868014b26651f8",
+      "timestamp": 54945.989,
+      "resource": "page@3570c2607f02657892868014b26651f8-1704270284.202106.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_157__page0.jpg",
+      "sha256": "d885dbf0027eb718b04d806c16c1790c860a271f6c48d98a0bcfcb46687df5d2",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_157__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

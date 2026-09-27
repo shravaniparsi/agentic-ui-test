@@ -1,0 +1,183 @@
+{
+  "instance_id": "vwa_shopping_137",
+  "domain": "shopping",
+  "filename_task_id": 137,
+  "source_url": "https://drive.usercontent.google.com/download?id=1q0Z2STnfO5mPi5pqyMzEYq_AQR0e1N6u&export=download&confirm=t",
+  "source_file_id": "1q0Z2STnfO5mPi5pqyMzEYq_AQR0e1N6u",
+  "archive_sha256": "4110c46992b30f8454553c8ee9540f83486529cc4c965fce1219b75e607bfa6e",
+  "archive_bytes": 20228556,
+  "event_types": {
+    "context-options": 1,
+    "event": 75,
+    "screencast-frame": 292,
+    "before": 4,
+    "frame-snapshot": 11,
+    "input": 4,
+    "after": 4
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703285439179,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@a4b36643037968096a7424f81982fff8",
+      "frameId": "frame@b3ff0eefeeacd6cadca6343ca0d4136e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@7b45bbdea290131c03684178eabe17a7",
+      "timestamp": 51569.282,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a4b36643037968096a7424f81982fff8",
+      "frameId": "frame@b3ff0eefeeacd6cadca6343ca0d4136e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@7b45bbdea290131c03684178eabe17a7",
+      "timestamp": 51614.718,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a4b36643037968096a7424f81982fff8",
+      "frameId": "frame@b3ff0eefeeacd6cadca6343ca0d4136e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/office-products/office-electronics/printers-accessories.html",
+      "snapshotName": "after@call@7b45bbdea290131c03684178eabe17a7",
+      "timestamp": 53101.617,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a4b36643037968096a7424f81982fff8",
+      "frameId": "frame@b3ff0eefeeacd6cadca6343ca0d4136e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/office-products/office-electronics/printers-accessories.html?product_list_order=price",
+      "snapshotName": "input@call@ec19c4c1e15252b1016ddd460a8ac233",
+      "timestamp": 56502.221,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a4b36643037968096a7424f81982fff8",
+      "frameId": "frame@b3ff0eefeeacd6cadca6343ca0d4136e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/office-products/office-electronics/printers-accessories.html?product_list_order=price",
+      "snapshotName": "after@call@ec19c4c1e15252b1016ddd460a8ac233",
+      "timestamp": 57058.463,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a4b36643037968096a7424f81982fff8",
+      "frameId": "frame@b3ff0eefeeacd6cadca6343ca0d4136e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/office-products/office-electronics/printers-accessories.html?product_list_order=price",
+      "snapshotName": "before@call@8fde07b0b452ba85d701f54fb7fcc434",
+      "timestamp": 62969.147,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a4b36643037968096a7424f81982fff8",
+      "frameId": "frame@b3ff0eefeeacd6cadca6343ca0d4136e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/office-products/office-electronics/printers-accessories.html?product_list_order=price",
+      "snapshotName": "input@call@8fde07b0b452ba85d701f54fb7fcc434",
+      "timestamp": 63063.863,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a4b36643037968096a7424f81982fff8",
+      "frameId": "frame@b3ff0eefeeacd6cadca6343ca0d4136e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/canon-pixma-mg2120-color-photo-printer-with-scanner-and-copier.html",
+      "snapshotName": "after@call@8fde07b0b452ba85d701f54fb7fcc434",
+      "timestamp": 64618.042,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a4b36643037968096a7424f81982fff8",
+      "frameId": "frame@b3ff0eefeeacd6cadca6343ca0d4136e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/canon-pixma-mg2120-color-photo-printer-with-scanner-and-copier.html",
+      "snapshotName": "before@call@ccd4ebf010987831e4d930ed1b3b0e0a",
+      "timestamp": 67970.039,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a4b36643037968096a7424f81982fff8",
+      "frameId": "frame@b3ff0eefeeacd6cadca6343ca0d4136e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/canon-pixma-mg2120-color-photo-printer-with-scanner-and-copier.html",
+      "snapshotName": "input@call@ccd4ebf010987831e4d930ed1b3b0e0a",
+      "timestamp": 68032.045,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a4b36643037968096a7424f81982fff8",
+      "frameId": "frame@b3ff0eefeeacd6cadca6343ca0d4136e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/canon-pixma-mg2120-color-photo-printer-with-scanner-and-copier.html",
+      "snapshotName": "after@call@ccd4ebf010987831e4d930ed1b3b0e0a",
+      "timestamp": 68044.784,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@a4b36643037968096a7424f81982fff8",
+      "timestamp": 70305.657,
+      "resource": "page@a4b36643037968096a7424f81982fff8-1703285508.897326.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_137__page0.jpg",
+      "sha256": "525f6dc7a5ea2dc67a87d016b1dd35f441194c4dc9b99ce7e9558a420bf9a5cc",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_137__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

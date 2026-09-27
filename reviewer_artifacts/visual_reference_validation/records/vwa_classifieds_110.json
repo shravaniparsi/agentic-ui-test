@@ -1,0 +1,183 @@
+{
+  "instance_id": "vwa_classifieds_110",
+  "domain": "classifieds",
+  "filename_task_id": 110,
+  "source_url": "https://drive.usercontent.google.com/download?id=1cVqkA-ah2f51Fd2Yho6qgPat4WOqGcEP&export=download&confirm=t",
+  "source_file_id": "1cVqkA-ah2f51Fd2Yho6qgPat4WOqGcEP",
+  "archive_sha256": "821b1a05337b9df9997565c4876d01488aba61d6c08b413a032795b15ef57b82",
+  "archive_bytes": 20305689,
+  "event_types": {
+    "context-options": 1,
+    "event": 90,
+    "screencast-frame": 313,
+    "before": 4,
+    "frame-snapshot": 11,
+    "input": 4,
+    "after": 4
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704178011531,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@131875884b71f3a8d81cd430a7e9f155",
+      "frameId": "frame@8f2b5c589688af0e546300b8cf0b3ecb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "before@call@e2295d8b5598946ad7f84bc3fd95ea8a",
+      "timestamp": 5989.504,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@131875884b71f3a8d81cd430a7e9f155",
+      "frameId": "frame@8f2b5c589688af0e546300b8cf0b3ecb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "input@call@e2295d8b5598946ad7f84bc3fd95ea8a",
+      "timestamp": 6028.877,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@131875884b71f3a8d81cd430a7e9f155",
+      "frameId": "frame@8f2b5c589688af0e546300b8cf0b3ecb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "after@call@e2295d8b5598946ad7f84bc3fd95ea8a",
+      "timestamp": 6042.46,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@131875884b71f3a8d81cd430a7e9f155",
+      "frameId": "frame@8f2b5c589688af0e546300b8cf0b3ecb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "before@call@0734d0e9b0ea202d82b10d4e62ce6dc7",
+      "timestamp": 9770.756,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@131875884b71f3a8d81cd430a7e9f155",
+      "frameId": "frame@8f2b5c589688af0e546300b8cf0b3ecb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "input@call@0734d0e9b0ea202d82b10d4e62ce6dc7",
+      "timestamp": 9779.46,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@131875884b71f3a8d81cd430a7e9f155",
+      "frameId": "frame@8f2b5c589688af0e546300b8cf0b3ecb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=mario+kart",
+      "snapshotName": "before@call@bc1531414b5eb40cb9791da6175f98ac",
+      "timestamp": 22230.371,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@131875884b71f3a8d81cd430a7e9f155",
+      "frameId": "frame@8f2b5c589688af0e546300b8cf0b3ecb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=mario+kart",
+      "snapshotName": "input@call@bc1531414b5eb40cb9791da6175f98ac",
+      "timestamp": 22260.165,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@131875884b71f3a8d81cd430a7e9f155",
+      "frameId": "frame@8f2b5c589688af0e546300b8cf0b3ecb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=81838",
+      "snapshotName": "after@call@bc1531414b5eb40cb9791da6175f98ac",
+      "timestamp": 22718.152000000002,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@131875884b71f3a8d81cd430a7e9f155",
+      "frameId": "frame@8f2b5c589688af0e546300b8cf0b3ecb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=mario+kart",
+      "snapshotName": "before@call@38022a5e83399d09c204d855cbc19281",
+      "timestamp": 44990.591,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@131875884b71f3a8d81cd430a7e9f155",
+      "frameId": "frame@8f2b5c589688af0e546300b8cf0b3ecb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=mario+kart",
+      "snapshotName": "input@call@38022a5e83399d09c204d855cbc19281",
+      "timestamp": 45020.566,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@131875884b71f3a8d81cd430a7e9f155",
+      "frameId": "frame@8f2b5c589688af0e546300b8cf0b3ecb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=1190",
+      "snapshotName": "after@call@38022a5e83399d09c204d855cbc19281",
+      "timestamp": 45673.22,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@131875884b71f3a8d81cd430a7e9f155",
+      "timestamp": 114227.635,
+      "resource": "page@131875884b71f3a8d81cd430a7e9f155-1704178125.383755.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_110__page0.jpg",
+      "sha256": "d595ec463820f1daeaa2c8de5df92fecb109e98e9baa8fea5d3da59ede7dd521",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_classifieds_110__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

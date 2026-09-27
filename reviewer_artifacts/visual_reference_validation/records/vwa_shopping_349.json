@@ -1,0 +1,532 @@
+{
+  "instance_id": "vwa_shopping_349",
+  "domain": "shopping",
+  "filename_task_id": 349,
+  "source_url": "https://drive.usercontent.google.com/download?id=1MXWKbzppgkzOkLNt0JUnE5EheLY64TXC&export=download&confirm=t",
+  "source_file_id": "1MXWKbzppgkzOkLNt0JUnE5EheLY64TXC",
+  "archive_sha256": "f488d9a77fe987ec890542b53e46e209de31a2666f3316da60e9cc3eb1101f70",
+  "archive_bytes": 47081993,
+  "event_types": {
+    "context-options": 1,
+    "event": 199,
+    "screencast-frame": 747,
+    "before": 13,
+    "frame-snapshot": 40,
+    "input": 14,
+    "after": 13,
+    "object": 53
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703284679237,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=travel+adapter",
+      "snapshotName": "before@call@5cbbf0b6b6950f1bd763f18f493e8ef4",
+      "timestamp": 17870.584,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=travel+adapter",
+      "snapshotName": "input@call@5cbbf0b6b6950f1bd763f18f493e8ef4",
+      "timestamp": 17925.119,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=travel+adapter",
+      "snapshotName": "after@call@5cbbf0b6b6950f1bd763f18f493e8ef4",
+      "timestamp": 18022.637,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/europe-travel-adapter-ceptics-ultra-compact-dual-usb-power-plug-for-european-type-c-3-inputs-iphone-laptop-galaxy-cell-phones-camera-chargers-iwatch-more-ctu-9c.html?options=cart",
+      "snapshotName": "before@call@ff96b38aa7dc5a314619e1c482c7a115",
+      "timestamp": 30228.013,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/europe-travel-adapter-ceptics-ultra-compact-dual-usb-power-plug-for-european-type-c-3-inputs-iphone-laptop-galaxy-cell-phones-camera-chargers-iwatch-more-ctu-9c.html?options=cart",
+      "snapshotName": "input@call@ff96b38aa7dc5a314619e1c482c7a115",
+      "timestamp": 30275.923,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/europe-travel-adapter-ceptics-ultra-compact-dual-usb-power-plug-for-european-type-c-3-inputs-iphone-laptop-galaxy-cell-phones-camera-chargers-iwatch-more-ctu-9c.html?options=cart",
+      "snapshotName": "after@call@ff96b38aa7dc5a314619e1c482c7a115",
+      "timestamp": 30319.238,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/europe-travel-adapter-ceptics-ultra-compact-dual-usb-power-plug-for-european-type-c-3-inputs-iphone-laptop-galaxy-cell-phones-camera-chargers-iwatch-more-ctu-9c.html?options=cart",
+      "snapshotName": "before@call@2b70c474d1fc5bad40ebb02b7ffe837d",
+      "timestamp": 31270.845,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/europe-travel-adapter-ceptics-ultra-compact-dual-usb-power-plug-for-european-type-c-3-inputs-iphone-laptop-galaxy-cell-phones-camera-chargers-iwatch-more-ctu-9c.html?options=cart",
+      "snapshotName": "input@call@2b70c474d1fc5bad40ebb02b7ffe837d",
+      "timestamp": 31331.721,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/europe-travel-adapter-ceptics-ultra-compact-dual-usb-power-plug-for-european-type-c-3-inputs-iphone-laptop-galaxy-cell-phones-camera-chargers-iwatch-more-ctu-9c.html?options=cart",
+      "snapshotName": "after@call@2b70c474d1fc5bad40ebb02b7ffe837d",
+      "timestamp": 31357.971,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/europe-travel-adapter-ceptics-ultra-compact-dual-usb-power-plug-for-european-type-c-3-inputs-iphone-laptop-galaxy-cell-phones-camera-chargers-iwatch-more-ctu-9c.html?options=cart",
+      "snapshotName": "before@call@4dd5ae74b67049dc4536632c13428ec8",
+      "timestamp": 32713.376,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/europe-travel-adapter-ceptics-ultra-compact-dual-usb-power-plug-for-european-type-c-3-inputs-iphone-laptop-galaxy-cell-phones-camera-chargers-iwatch-more-ctu-9c.html?options=cart",
+      "snapshotName": "input@call@4dd5ae74b67049dc4536632c13428ec8",
+      "timestamp": 32742.71,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/europe-travel-adapter-ceptics-ultra-compact-dual-usb-power-plug-for-european-type-c-3-inputs-iphone-laptop-galaxy-cell-phones-camera-chargers-iwatch-more-ctu-9c.html?options=cart",
+      "snapshotName": "after@call@4dd5ae74b67049dc4536632c13428ec8",
+      "timestamp": 32761.181,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/europe-travel-adapter-ceptics-ultra-compact-dual-usb-power-plug-for-european-type-c-3-inputs-iphone-laptop-galaxy-cell-phones-camera-chargers-iwatch-more-ctu-9c.html?options=cart",
+      "snapshotName": "before@call@abc6f4cb90d912835b6b5eb5df9f3b56",
+      "timestamp": 34456.709,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/europe-travel-adapter-ceptics-ultra-compact-dual-usb-power-plug-for-european-type-c-3-inputs-iphone-laptop-galaxy-cell-phones-camera-chargers-iwatch-more-ctu-9c.html?options=cart",
+      "snapshotName": "input@call@abc6f4cb90d912835b6b5eb5df9f3b56",
+      "timestamp": 34511.037,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/europe-travel-adapter-ceptics-ultra-compact-dual-usb-power-plug-for-european-type-c-3-inputs-iphone-laptop-galaxy-cell-phones-camera-chargers-iwatch-more-ctu-9c.html?options=cart",
+      "snapshotName": "after@call@abc6f4cb90d912835b6b5eb5df9f3b56",
+      "timestamp": 34543.971,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=travel+adapter",
+      "snapshotName": "before@call@d18dfcc86d8173bdbc8f4c8195b838e0",
+      "timestamp": 66310.341,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=travel+adapter",
+      "snapshotName": "input@call@d18dfcc86d8173bdbc8f4c8195b838e0",
+      "timestamp": 66374.357,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/universal-power-supply-notebook-laptop-charger-120-w-car-home-laptop-adapter-plug-for-car-home-travel-with-overheating-overload-short-circuit-protection-us-plug.html",
+      "snapshotName": "after@call@d18dfcc86d8173bdbc8f4c8195b838e0",
+      "timestamp": 67778.89,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=travel+adapter",
+      "snapshotName": "before@call@adf5dcb506fe2169fef2e99eba664694",
+      "timestamp": 77763.659,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=travel+adapter",
+      "snapshotName": "input@call@adf5dcb506fe2169fef2e99eba664694",
+      "timestamp": 77808.696,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=travel+adapter",
+      "snapshotName": "input@call@adf5dcb506fe2169fef2e99eba664694",
+      "timestamp": 77842.982,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/scoofex-universal-travel-adapter-international-power-electric-outlet-converters-with-usb-ports-wall-charger-ac-plug-type-c-type-a-type-g-type-i-for-us-eu-uk-au-asia-china-japan-150-countries.html",
+      "snapshotName": "after@call@adf5dcb506fe2169fef2e99eba664694",
+      "timestamp": 79343.181,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/scoofex-universal-travel-adapter-international-power-electric-outlet-converters-with-usb-ports-wall-charger-ac-plug-type-c-type-a-type-g-type-i-for-us-eu-uk-au-asia-china-japan-150-countries.html",
+      "snapshotName": "before@call@7dc4d19a50b52a833bdd63c3f2832b02",
+      "timestamp": 95316.22,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/scoofex-universal-travel-adapter-international-power-electric-outlet-converters-with-usb-ports-wall-charger-ac-plug-type-c-type-a-type-g-type-i-for-us-eu-uk-au-asia-china-japan-150-countries.html",
+      "snapshotName": "input@call@7dc4d19a50b52a833bdd63c3f2832b02",
+      "timestamp": 95373.799,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/scoofex-universal-travel-adapter-international-power-electric-outlet-converters-with-usb-ports-wall-charger-ac-plug-type-c-type-a-type-g-type-i-for-us-eu-uk-au-asia-china-japan-150-countries.html",
+      "snapshotName": "after@call@7dc4d19a50b52a833bdd63c3f2832b02",
+      "timestamp": 95438.008,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/scoofex-universal-travel-adapter-international-power-electric-outlet-converters-with-usb-ports-wall-charger-ac-plug-type-c-type-a-type-g-type-i-for-us-eu-uk-au-asia-china-japan-150-countries.html",
+      "snapshotName": "before@call@ed84bd7ba8c3b4bf28c563c6124a927f",
+      "timestamp": 95991.175,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/scoofex-universal-travel-adapter-international-power-electric-outlet-converters-with-usb-ports-wall-charger-ac-plug-type-c-type-a-type-g-type-i-for-us-eu-uk-au-asia-china-japan-150-countries.html",
+      "snapshotName": "input@call@ed84bd7ba8c3b4bf28c563c6124a927f",
+      "timestamp": 96050.173,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/scoofex-universal-travel-adapter-international-power-electric-outlet-converters-with-usb-ports-wall-charger-ac-plug-type-c-type-a-type-g-type-i-for-us-eu-uk-au-asia-china-japan-150-countries.html",
+      "snapshotName": "after@call@ed84bd7ba8c3b4bf28c563c6124a927f",
+      "timestamp": 96093.582,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=travel+adapter",
+      "snapshotName": "before@call@25f4a812759eebaf4485614504115204",
+      "timestamp": 116313.154,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=travel+adapter",
+      "snapshotName": "input@call@25f4a812759eebaf4485614504115204",
+      "timestamp": 116362.641,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/key-power-230-watt-step-down-220v-to-110v-voltage-converter-international-travel-adapter-power-converter-with-type-c-port-18w-use-for-usa-appliance-overseas-in-europe-au-uk-ireland-etc.html",
+      "snapshotName": "after@call@25f4a812759eebaf4485614504115204",
+      "timestamp": 117720.175,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/key-power-230-watt-step-down-220v-to-110v-voltage-converter-international-travel-adapter-power-converter-with-type-c-port-18w-use-for-usa-appliance-overseas-in-europe-au-uk-ireland-etc.html",
+      "snapshotName": "before@call@ffb555d0c5124d63f9f9e6c9695b49d7",
+      "timestamp": 141891.117,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/key-power-230-watt-step-down-220v-to-110v-voltage-converter-international-travel-adapter-power-converter-with-type-c-port-18w-use-for-usa-appliance-overseas-in-europe-au-uk-ireland-etc.html",
+      "snapshotName": "input@call@ffb555d0c5124d63f9f9e6c9695b49d7",
+      "timestamp": 141929.087,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/key-power-230-watt-step-down-220v-to-110v-voltage-converter-international-travel-adapter-power-converter-with-type-c-port-18w-use-for-usa-appliance-overseas-in-europe-au-uk-ireland-etc.html",
+      "snapshotName": "after@call@ffb555d0c5124d63f9f9e6c9695b49d7",
+      "timestamp": 141945.807,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/key-power-230-watt-step-down-220v-to-110v-voltage-converter-international-travel-adapter-power-converter-with-type-c-port-18w-use-for-usa-appliance-overseas-in-europe-au-uk-ireland-etc.html",
+      "snapshotName": "before@call@cc650884df0eda6cacddde4fc5f1a869",
+      "timestamp": 144377.967,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/key-power-230-watt-step-down-220v-to-110v-voltage-converter-international-travel-adapter-power-converter-with-type-c-port-18w-use-for-usa-appliance-overseas-in-europe-au-uk-ireland-etc.html",
+      "snapshotName": "input@call@cc650884df0eda6cacddde4fc5f1a869",
+      "timestamp": 144415.033,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/key-power-230-watt-step-down-220v-to-110v-voltage-converter-international-travel-adapter-power-converter-with-type-c-port-18w-use-for-usa-appliance-overseas-in-europe-au-uk-ireland-etc.html",
+      "snapshotName": "after@call@cc650884df0eda6cacddde4fc5f1a869",
+      "timestamp": 144454.253,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=travel+adapter",
+      "snapshotName": "before@call@f4c3477f6f9a7ee44291e02d295bb755",
+      "timestamp": 159848.13,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=travel+adapter",
+      "snapshotName": "input@call@f4c3477f6f9a7ee44291e02d295bb755",
+      "timestamp": 159914.377,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "frameId": "frame@f33a5ea831dc12c6e3d24eb745d39bb8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/macbook-charger-case-cover-with-cord-winder-travel-cord-organizer-for-macbook-pro-adapter-85w-87w-96w-mac-charging-cable-management-computer-accessories-for-macbook-pro-15-16-inch-15-16.html",
+      "snapshotName": "after@call@f4c3477f6f9a7ee44291e02d295bb755",
+      "timestamp": 161456.631,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@6d441b1cfd735285d4f9c61385cccc20",
+      "timestamp": 169131.284,
+      "resource": "page@6d441b1cfd735285d4f9c61385cccc20-1703284847.50792.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_349__page0.jpg",
+      "sha256": "ff7e2055525ebeda4f41092289cf2d7616f41c1748c46281c52c5d63368546cb",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_349__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

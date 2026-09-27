@@ -1,0 +1,232 @@
+{
+  "instance_id": "vwa_reddit_124",
+  "domain": "reddit",
+  "filename_task_id": 124,
+  "source_url": "https://drive.usercontent.google.com/download?id=1vBmdZX0_k094XbtZaW41xRRPVq_M01Fe&export=download&confirm=t",
+  "source_file_id": "1vBmdZX0_k094XbtZaW41xRRPVq_M01Fe",
+  "archive_sha256": "7220621359308b3df8e42ca4b0c6dd2c48e749a3c70a4da8a7cc0dffd8a355b3",
+  "archive_bytes": 14127512,
+  "event_types": {
+    "context-options": 1,
+    "event": 177,
+    "screencast-frame": 278,
+    "object": 90,
+    "before": 5,
+    "frame-snapshot": 15,
+    "input": 5,
+    "after": 5
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704320646911,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@10f379168a29a5c298cc2f83247e1b57",
+      "frameId": "frame@9734f04f8d3f8ddb7849eebdc368ca90",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@721f9f006fecb1706b90e3245c1f9b4b",
+      "timestamp": 7786.674,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@10f379168a29a5c298cc2f83247e1b57",
+      "frameId": "frame@9734f04f8d3f8ddb7849eebdc368ca90",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@721f9f006fecb1706b90e3245c1f9b4b",
+      "timestamp": 7843.969,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@10f379168a29a5c298cc2f83247e1b57",
+      "frameId": "frame@9734f04f8d3f8ddb7849eebdc368ca90",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@721f9f006fecb1706b90e3245c1f9b4b",
+      "timestamp": 8402.124,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@10f379168a29a5c298cc2f83247e1b57",
+      "frameId": "frame@9734f04f8d3f8ddb7849eebdc368ca90",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@9a015e4cf14d74871e751951c07fa3c7",
+      "timestamp": 9440.89,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@10f379168a29a5c298cc2f83247e1b57",
+      "frameId": "frame@9734f04f8d3f8ddb7849eebdc368ca90",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@9a015e4cf14d74871e751951c07fa3c7",
+      "timestamp": 9494.87,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@10f379168a29a5c298cc2f83247e1b57",
+      "frameId": "frame@9734f04f8d3f8ddb7849eebdc368ca90",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "after@call@9a015e4cf14d74871e751951c07fa3c7",
+      "timestamp": 9713.041,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@10f379168a29a5c298cc2f83247e1b57",
+      "frameId": "frame@9734f04f8d3f8ddb7849eebdc368ca90",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@9641e445c6d76635b615607204287c29",
+      "timestamp": 12881.735,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@10f379168a29a5c298cc2f83247e1b57",
+      "frameId": "frame@9734f04f8d3f8ddb7849eebdc368ca90",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@9641e445c6d76635b615607204287c29",
+      "timestamp": 12944.195,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@10f379168a29a5c298cc2f83247e1b57",
+      "frameId": "frame@9734f04f8d3f8ddb7849eebdc368ca90",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets",
+      "snapshotName": "after@call@9641e445c6d76635b615607204287c29",
+      "timestamp": 13362.562,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@10f379168a29a5c298cc2f83247e1b57",
+      "frameId": "frame@9734f04f8d3f8ddb7849eebdc368ca90",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets",
+      "snapshotName": "before@call@fe0e5bc61e67cf53ae3dab23458b8431",
+      "timestamp": 42766.173,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@10f379168a29a5c298cc2f83247e1b57",
+      "frameId": "frame@9734f04f8d3f8ddb7849eebdc368ca90",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets",
+      "snapshotName": "input@call@fe0e5bc61e67cf53ae3dab23458b8431",
+      "timestamp": 42842.489,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@10f379168a29a5c298cc2f83247e1b57",
+      "frameId": "frame@9734f04f8d3f8ddb7849eebdc368ca90",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=1369&next%5Bid%5D=136140",
+      "snapshotName": "after@call@fe0e5bc61e67cf53ae3dab23458b8431",
+      "timestamp": 43323.947,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@10f379168a29a5c298cc2f83247e1b57",
+      "frameId": "frame@9734f04f8d3f8ddb7849eebdc368ca90",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=1369&next%5Bid%5D=136140",
+      "snapshotName": "before@call@cba4c16a1761e17edf4eb6b3be517254",
+      "timestamp": 69885.891,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@10f379168a29a5c298cc2f83247e1b57",
+      "frameId": "frame@9734f04f8d3f8ddb7849eebdc368ca90",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=1369&next%5Bid%5D=136140",
+      "snapshotName": "input@call@cba4c16a1761e17edf4eb6b3be517254",
+      "timestamp": 69932.639,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@10f379168a29a5c298cc2f83247e1b57",
+      "frameId": "frame@9734f04f8d3f8ddb7849eebdc368ca90",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets/29340/visual-breakdown-of-amzn-q3-fy22-income-statement",
+      "snapshotName": "after@call@cba4c16a1761e17edf4eb6b3be517254",
+      "timestamp": 70806.275,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@10f379168a29a5c298cc2f83247e1b57",
+      "timestamp": 98791.083,
+      "resource": "page@10f379168a29a5c298cc2f83247e1b57-1704320744.85402.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_124__page0.jpg",
+      "sha256": "5477a05d99f35de8594ea583ed668723f8323f2a28972e9e81f29d7d6310af64",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_124__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

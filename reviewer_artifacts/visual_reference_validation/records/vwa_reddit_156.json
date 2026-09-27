@@ -1,0 +1,952 @@
+{
+  "instance_id": "vwa_reddit_156",
+  "domain": "reddit",
+  "filename_task_id": 156,
+  "source_url": "https://drive.usercontent.google.com/download?id=1XfNUHBbomlzERWi8cWmJWfby1Y4LyOYQ&export=download&confirm=t",
+  "source_file_id": "1XfNUHBbomlzERWi8cWmJWfby1Y4LyOYQ",
+  "archive_sha256": "99b042bfababb391cbdafb28e586373bcd167cbc27f4bd4c14d5012155f8482c",
+  "archive_bytes": 48544439,
+  "event_types": {
+    "context-options": 1,
+    "event": 402,
+    "screencast-frame": 646,
+    "object": 189,
+    "before": 26,
+    "frame-snapshot": 75,
+    "input": 26,
+    "after": 26
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704276324910,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pics",
+      "snapshotName": "before@call@39a5a9de2d930be8c457ec1a74a0fed0",
+      "timestamp": 57570.183,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pics",
+      "snapshotName": "input@call@39a5a9de2d930be8c457ec1a74a0fed0",
+      "timestamp": 57609.37,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pics",
+      "snapshotName": "after@call@39a5a9de2d930be8c457ec1a74a0fed0",
+      "timestamp": 57669.433,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pics",
+      "snapshotName": "before@call@6ae8b8a234f947c2a3990553ad1a9ca8",
+      "timestamp": 57962.509,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pics",
+      "snapshotName": "input@call@6ae8b8a234f947c2a3990553ad1a9ca8",
+      "timestamp": 57975.392,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "after@call@6ae8b8a234f947c2a3990553ad1a9ca8",
+      "timestamp": 58828.803,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "before@call@c37e54be43efd5f5610c54bfcd55e8bb",
+      "timestamp": 67355.262,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "input@call@c37e54be43efd5f5610c54bfcd55e8bb",
+      "timestamp": 67481.509,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "after@call@c37e54be43efd5f5610c54bfcd55e8bb",
+      "timestamp": 67495.501,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "before@call@c7fda4b4d2c454d2d43ff5e24ef2da6e",
+      "timestamp": 67628.376,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "input@call@c7fda4b4d2c454d2d43ff5e24ef2da6e",
+      "timestamp": 67659.149,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "after@call@c7fda4b4d2c454d2d43ff5e24ef2da6e",
+      "timestamp": 67672.486,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "before@call@996a59d711363a737e2bc1df7667c735",
+      "timestamp": 68659.953,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "input@call@996a59d711363a737e2bc1df7667c735",
+      "timestamp": 68715.251,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "after@call@996a59d711363a737e2bc1df7667c735",
+      "timestamp": 68737.096,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "before@call@4550ff14f00087fd136082cfb7e9c4d2",
+      "timestamp": 69002.892,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "input@call@4550ff14f00087fd136082cfb7e9c4d2",
+      "timestamp": 69026.466,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "after@call@4550ff14f00087fd136082cfb7e9c4d2",
+      "timestamp": 69038.114,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "before@call@16cb05a8144fe6cb6cccd3c5c3288320",
+      "timestamp": 69477.616,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "input@call@16cb05a8144fe6cb6cccd3c5c3288320",
+      "timestamp": 69533.128,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "after@call@16cb05a8144fe6cb6cccd3c5c3288320",
+      "timestamp": 69548.527,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "before@call@889e9f149166fda6863ba1671d76d5ad",
+      "timestamp": 70274.339,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "input@call@889e9f149166fda6863ba1671d76d5ad",
+      "timestamp": 70412.717,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "after@call@889e9f149166fda6863ba1671d76d5ad",
+      "timestamp": 70427.862,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "before@call@bc83de9c6e5f0612c55ccb40ddf2ff06",
+      "timestamp": 70542.207,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "input@call@bc83de9c6e5f0612c55ccb40ddf2ff06",
+      "timestamp": 70572.987,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "after@call@bc83de9c6e5f0612c55ccb40ddf2ff06",
+      "timestamp": 70585.243,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "before@call@9689a5fa219a16bda0e0c27e0e106064",
+      "timestamp": 71715.702,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=Everything+Everywhere+All+at+Once",
+      "snapshotName": "input@call@9689a5fa219a16bda0e0c27e0e106064",
+      "timestamp": 71740.646,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=IRS",
+      "snapshotName": "before@call@ff08829c8dc70090640f2e719a9f2d4c",
+      "timestamp": 78214.013,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=IRS",
+      "snapshotName": "input@call@ff08829c8dc70090640f2e719a9f2d4c",
+      "timestamp": 78271.32,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@ff08829c8dc70090640f2e719a9f2d4c",
+      "timestamp": 78947.561,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@21a0a1c906feb764d4dc1433604a71c6",
+      "timestamp": 80940.529,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@21a0a1c906feb764d4dc1433604a71c6",
+      "timestamp": 81023.201,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies",
+      "snapshotName": "after@call@21a0a1c906feb764d4dc1433604a71c6",
+      "timestamp": 81486.15,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies",
+      "snapshotName": "before@call@85de2dfbbfb0ac50e60eebda98ca8e8d",
+      "timestamp": 87960.264,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies",
+      "snapshotName": "input@call@85de2dfbbfb0ac50e60eebda98ca8e8d",
+      "timestamp": 88022.022,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=817&next%5Bid%5D=22057",
+      "snapshotName": "after@call@85de2dfbbfb0ac50e60eebda98ca8e8d",
+      "timestamp": 88500.152,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=817&next%5Bid%5D=22057",
+      "snapshotName": "before@call@c04c52e5e735d4ca4d035920702c52c2",
+      "timestamp": 95057.612,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=817&next%5Bid%5D=22057",
+      "snapshotName": "input@call@c04c52e5e735d4ca4d035920702c52c2",
+      "timestamp": 95121.552,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=328&next%5Bid%5D=128394",
+      "snapshotName": "after@call@c04c52e5e735d4ca4d035920702c52c2",
+      "timestamp": 95574.265,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=328&next%5Bid%5D=128394",
+      "snapshotName": "before@call@e7b06cab6614335c78a41ad9d7da04d1",
+      "timestamp": 98903.856,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=328&next%5Bid%5D=128394",
+      "snapshotName": "input@call@e7b06cab6614335c78a41ad9d7da04d1",
+      "timestamp": 98965.092,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=176&next%5Bid%5D=22056",
+      "snapshotName": "after@call@e7b06cab6614335c78a41ad9d7da04d1",
+      "timestamp": 99409.712,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=176&next%5Bid%5D=22056",
+      "snapshotName": "before@call@d8756d1da5af1dfbf3d5d24fa4b3967e",
+      "timestamp": 102337.078,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=176&next%5Bid%5D=22056",
+      "snapshotName": "input@call@d8756d1da5af1dfbf3d5d24fa4b3967e",
+      "timestamp": 102406.617,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=123&next%5Bid%5D=42568",
+      "snapshotName": "after@call@d8756d1da5af1dfbf3d5d24fa4b3967e",
+      "timestamp": 102847.594,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=123&next%5Bid%5D=42568",
+      "snapshotName": "before@call@e4d6aff5b56f0eae44a2e6cffb326a7d",
+      "timestamp": 105712.681,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=123&next%5Bid%5D=42568",
+      "snapshotName": "input@call@e4d6aff5b56f0eae44a2e6cffb326a7d",
+      "timestamp": 105754.437,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=79&next%5Bid%5D=42659",
+      "snapshotName": "after@call@e4d6aff5b56f0eae44a2e6cffb326a7d",
+      "timestamp": 106248.489,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=79&next%5Bid%5D=42659",
+      "snapshotName": "before@call@7ed1a1031bf372de1b4787dccf313952",
+      "timestamp": 108705.542,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=79&next%5Bid%5D=42659",
+      "snapshotName": "input@call@7ed1a1031bf372de1b4787dccf313952",
+      "timestamp": 108755.987,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=79&next%5Bid%5D=42659",
+      "snapshotName": "after@call@7ed1a1031bf372de1b4787dccf313952",
+      "timestamp": 108765.205,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=79&next%5Bid%5D=42659",
+      "snapshotName": "before@call@836a8782a3705891656a05f7e6f66f5c",
+      "timestamp": 109072.092,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=79&next%5Bid%5D=42659",
+      "snapshotName": "input@call@836a8782a3705891656a05f7e6f66f5c",
+      "timestamp": 109120.139,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=59&next%5Bid%5D=128367",
+      "snapshotName": "after@call@836a8782a3705891656a05f7e6f66f5c",
+      "timestamp": 109594.74,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=59&next%5Bid%5D=128367",
+      "snapshotName": "before@call@e6756cb28c5b539059134d20357c95e6",
+      "timestamp": 111781.53,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=59&next%5Bid%5D=128367",
+      "snapshotName": "input@call@e6756cb28c5b539059134d20357c95e6",
+      "timestamp": 111855.817,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=43&next%5Bid%5D=63843",
+      "snapshotName": "after@call@e6756cb28c5b539059134d20357c95e6",
+      "timestamp": 112342.824,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=43&next%5Bid%5D=63843",
+      "snapshotName": "before@call@ce24f285ab6e9b521f07bd986935c5b4",
+      "timestamp": 115269.675,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=43&next%5Bid%5D=63843",
+      "snapshotName": "input@call@ce24f285ab6e9b521f07bd986935c5b4",
+      "timestamp": 115343.259,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=43&next%5Bid%5D=63843",
+      "snapshotName": "after@call@ce24f285ab6e9b521f07bd986935c5b4",
+      "timestamp": 115381.89,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=43&next%5Bid%5D=63843",
+      "snapshotName": "before@call@af5acae00cb39d6fda5233dd820a2655",
+      "timestamp": 118181.522,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies?next%5Branking%5D=43&next%5Bid%5D=63843",
+      "snapshotName": "input@call@af5acae00cb39d6fda5233dd820a2655",
+      "timestamp": 118192.306,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=everything+everywhere",
+      "snapshotName": "before@call@4b3be1545c339cce82060400eac29624",
+      "timestamp": 128416.553,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=everything+everywhere",
+      "snapshotName": "input@call@4b3be1545c339cce82060400eac29624",
+      "timestamp": 128518.397,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=everything+everywhere",
+      "snapshotName": "after@call@4b3be1545c339cce82060400eac29624",
+      "timestamp": 128531.398,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=everything+everywhere",
+      "snapshotName": "before@call@01817ab88ab147e48fe226e6e344a847",
+      "timestamp": 128677.052,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=everything+everywhere",
+      "snapshotName": "input@call@01817ab88ab147e48fe226e6e344a847",
+      "timestamp": 128707.506,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=everything+everywhere",
+      "snapshotName": "after@call@01817ab88ab147e48fe226e6e344a847",
+      "timestamp": 128724.037,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=everything+everywhere",
+      "snapshotName": "before@call@c5cfeb9f1e7692c418fc258956f527a4",
+      "timestamp": 132033.524,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=everything+everywhere",
+      "snapshotName": "input@call@c5cfeb9f1e7692c418fc258956f527a4",
+      "timestamp": 132043.583,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=jamie+lee+curtis",
+      "snapshotName": "before@call@d15772835a9010b01ee39ba23ae06ce5",
+      "timestamp": 138153.67,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=jamie+lee+curtis",
+      "snapshotName": "input@call@d15772835a9010b01ee39ba23ae06ce5",
+      "timestamp": 138205.838,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@449cb3e1b632ff45409969efd48462cc",
+      "frameId": "frame@8d4483739231c99978f2b4aeb0c13f5e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pics/131632/the-photo-that-was-the-inspiration-for-jamie-lee-curtis",
+      "snapshotName": "after@call@d15772835a9010b01ee39ba23ae06ce5",
+      "timestamp": 141477.88,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@449cb3e1b632ff45409969efd48462cc",
+      "timestamp": 144917.417,
+      "resource": "page@449cb3e1b632ff45409969efd48462cc-1704276469.279667.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_156__page0.jpg",
+      "sha256": "c0c3f2f9cddd60be5d4ba9976161ba1d544924c3d0e479d3f6f06e895397f1be",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_156__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

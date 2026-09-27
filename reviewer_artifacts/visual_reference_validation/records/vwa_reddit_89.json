@@ -1,0 +1,328 @@
+{
+  "instance_id": "vwa_reddit_89",
+  "domain": "reddit",
+  "filename_task_id": 89,
+  "source_url": "https://drive.usercontent.google.com/download?id=1sUW6iVX_JYq1NbU2Y1Uuc1kI-qxCOvqY&export=download&confirm=t",
+  "source_file_id": "1sUW6iVX_JYq1NbU2Y1Uuc1kI-qxCOvqY",
+  "archive_sha256": "4afdb476997337769751b92ddd6332814a1e71b83229f55a8073bfc869c08e43",
+  "archive_bytes": 18646352,
+  "event_types": {
+    "context-options": 1,
+    "event": 107,
+    "screencast-frame": 316,
+    "object": 62,
+    "before": 7,
+    "frame-snapshot": 23,
+    "input": 9,
+    "after": 7
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704275289761,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "before@call@ad2e962ee28b60757ee887dddd3e920f",
+      "timestamp": 26567.699,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "input@call@ad2e962ee28b60757ee887dddd3e920f",
+      "timestamp": 26606.94,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "input@call@ad2e962ee28b60757ee887dddd3e920f",
+      "timestamp": 26639.035,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "after@call@ad2e962ee28b60757ee887dddd3e920f",
+      "timestamp": 26726.5,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "before@call@a3d94e1250cc09e9278da83c1ce84329",
+      "timestamp": 35129.988,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "input@call@a3d94e1250cc09e9278da83c1ce84329",
+      "timestamp": 35156.04,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "input@call@a3d94e1250cc09e9278da83c1ce84329",
+      "timestamp": 35187.688,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/550559e7b1a24b3b1d2f9cc22bc2694a4452baf579e22f3f7c6bba0d77135307.jpg",
+      "snapshotName": "after@call@a3d94e1250cc09e9278da83c1ce84329",
+      "timestamp": 35555.855,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "before@call@05d54bf2915bef6032e3bd6c5aa47e1c",
+      "timestamp": 44617.289,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "input@call@05d54bf2915bef6032e3bd6c5aa47e1c",
+      "timestamp": 44655.533,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "after@call@05d54bf2915bef6032e3bd6c5aa47e1c",
+      "timestamp": 44735.304,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "before@call@d879838b89ece05c53ada0d462701bfe",
+      "timestamp": 50552.603,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "input@call@d879838b89ece05c53ada0d462701bfe",
+      "timestamp": 50608.466,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "after@call@d879838b89ece05c53ada0d462701bfe",
+      "timestamp": 50695.648,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "before@call@e7c2874fdf27a08c2ff7a66ef0b872f0",
+      "timestamp": 55321.461,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "input@call@e7c2874fdf27a08c2ff7a66ef0b872f0",
+      "timestamp": 55375.405,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "after@call@e7c2874fdf27a08c2ff7a66ef0b872f0",
+      "timestamp": 55473.518,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "before@call@af80e607d7c916c481c9f8805d2a858c",
+      "timestamp": 56832.154,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "input@call@af80e607d7c916c481c9f8805d2a858c",
+      "timestamp": 56873.572,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "after@call@af80e607d7c916c481c9f8805d2a858c",
+      "timestamp": 56968.091,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "before@call@8818dfe27d5fc7e6fe69228fa4db236a",
+      "timestamp": 58183.53,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "input@call@8818dfe27d5fc7e6fe69228fa4db236a",
+      "timestamp": 58224.541,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "frameId": "frame@f26b481cdb9247cd111c826820ef01db",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/headphones?next%5Branking%5D=514&next%5Bid%5D=126662",
+      "snapshotName": "after@call@8818dfe27d5fc7e6fe69228fa4db236a",
+      "timestamp": 58281.852,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@8d2e8e56068e6b3f417f160437dc1f07",
+      "timestamp": 60065.81,
+      "resource": "page@8d2e8e56068e6b3f417f160437dc1f07-1704275349.251423.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_89__page0.jpg",
+      "sha256": "06586b828cbaa8230801bfb2d9bef9f412edb626789d6c4978dee5dd6cb4598b",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_89__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,87 @@
+{
+  "instance_id": "vwa_shopping_162",
+  "domain": "shopping",
+  "filename_task_id": 162,
+  "source_url": "https://drive.usercontent.google.com/download?id=1z_7IsIf1Te8ZQ5D9i6-FoOZPurJq2YKq&export=download&confirm=t",
+  "source_file_id": "1z_7IsIf1Te8ZQ5D9i6-FoOZPurJq2YKq",
+  "archive_sha256": "a6723a7a23b7b86cdd21b9387b8ee2d83e777de59817aec6d2e8fb81ed39f69e",
+  "archive_bytes": 3597693,
+  "event_types": {
+    "context-options": 1,
+    "event": 36,
+    "screencast-frame": 57,
+    "before": 1,
+    "frame-snapshot": 3,
+    "input": 1,
+    "after": 1
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703276662044,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@eb2af137ba063ce6c552cf398edde0f5",
+      "frameId": "frame@9955a723dd5ecfac6b5872e0be35a235",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves/basic-cases.html?p=2",
+      "snapshotName": "before@call@e9574e347c3b512a1e0d80ffdf2db50b",
+      "timestamp": 26296.5,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@eb2af137ba063ce6c552cf398edde0f5",
+      "frameId": "frame@9955a723dd5ecfac6b5872e0be35a235",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves/basic-cases.html?p=2",
+      "snapshotName": "input@call@e9574e347c3b512a1e0d80ffdf2db50b",
+      "timestamp": 26341.349,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@eb2af137ba063ce6c552cf398edde0f5",
+      "frameId": "frame@9955a723dd5ecfac6b5872e0be35a235",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@e9574e347c3b512a1e0d80ffdf2db50b",
+      "timestamp": 27844.559,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@eb2af137ba063ce6c552cf398edde0f5",
+      "timestamp": 28647.12,
+      "resource": "page@eb2af137ba063ce6c552cf398edde0f5-1703276689.914528.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_162__page0.jpg",
+      "sha256": "76ccb90bd92a9198050dd348bf6467fa9194c4305fb7dbb3188a676a402217da",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_162__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

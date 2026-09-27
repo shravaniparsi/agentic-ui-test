@@ -1,0 +1,244 @@
+{
+  "instance_id": "vwa_reddit_122",
+  "domain": "reddit",
+  "filename_task_id": 122,
+  "source_url": "https://drive.usercontent.google.com/download?id=1TicHh28lLfnne9JcL2PdJdMn_vvZ08qt&export=download&confirm=t",
+  "source_file_id": "1TicHh28lLfnne9JcL2PdJdMn_vvZ08qt",
+  "archive_sha256": "7ac2a92f416791d08cc17ec0774481e366f80564a1deac3a928c03e702495bec",
+  "archive_bytes": 9854144,
+  "event_types": {
+    "context-options": 1,
+    "event": 190,
+    "screencast-frame": 212,
+    "object": 82,
+    "before": 5,
+    "frame-snapshot": 15,
+    "input": 5,
+    "after": 5
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704320784787,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@078604f385f3cc16bf2b5faa6ac3ceaf",
+      "frameId": "frame@dbaf411fb693e1a3d2d3440d50e1c94a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@cb5e0619ae0d67c4e67b0e0ceebdbef0",
+      "timestamp": 16537.947,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@078604f385f3cc16bf2b5faa6ac3ceaf",
+      "frameId": "frame@dbaf411fb693e1a3d2d3440d50e1c94a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@cb5e0619ae0d67c4e67b0e0ceebdbef0",
+      "timestamp": 16588.635,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@078604f385f3cc16bf2b5faa6ac3ceaf",
+      "frameId": "frame@dbaf411fb693e1a3d2d3440d50e1c94a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@cb5e0619ae0d67c4e67b0e0ceebdbef0",
+      "timestamp": 17192.223,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@078604f385f3cc16bf2b5faa6ac3ceaf",
+      "frameId": "frame@dbaf411fb693e1a3d2d3440d50e1c94a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@15d3cf698538d8a7e0372986a9c1f92d",
+      "timestamp": 19107.598,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@078604f385f3cc16bf2b5faa6ac3ceaf",
+      "frameId": "frame@dbaf411fb693e1a3d2d3440d50e1c94a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@15d3cf698538d8a7e0372986a9c1f92d",
+      "timestamp": 19157.193,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@078604f385f3cc16bf2b5faa6ac3ceaf",
+      "frameId": "frame@dbaf411fb693e1a3d2d3440d50e1c94a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "after@call@15d3cf698538d8a7e0372986a9c1f92d",
+      "timestamp": 19411.821,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@078604f385f3cc16bf2b5faa6ac3ceaf",
+      "frameId": "frame@dbaf411fb693e1a3d2d3440d50e1c94a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@7754c424a762f19535901cbddc091115",
+      "timestamp": 22793.143,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@078604f385f3cc16bf2b5faa6ac3ceaf",
+      "frameId": "frame@dbaf411fb693e1a3d2d3440d50e1c94a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@7754c424a762f19535901cbddc091115",
+      "timestamp": 22824.345,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@078604f385f3cc16bf2b5faa6ac3ceaf",
+      "frameId": "frame@dbaf411fb693e1a3d2d3440d50e1c94a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food",
+      "snapshotName": "after@call@7754c424a762f19535901cbddc091115",
+      "timestamp": 23248.717,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@078604f385f3cc16bf2b5faa6ac3ceaf",
+      "frameId": "frame@dbaf411fb693e1a3d2d3440d50e1c94a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food",
+      "snapshotName": "before@call@6a8d5fdde304a6769f0da2ec9ea6c02d",
+      "timestamp": 28085.857,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@078604f385f3cc16bf2b5faa6ac3ceaf",
+      "frameId": "frame@dbaf411fb693e1a3d2d3440d50e1c94a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food",
+      "snapshotName": "input@call@6a8d5fdde304a6769f0da2ec9ea6c02d",
+      "timestamp": 28153.772,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@078604f385f3cc16bf2b5faa6ac3ceaf",
+      "frameId": "frame@dbaf411fb693e1a3d2d3440d50e1c94a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food/125525/homemade-margherita-pizza",
+      "snapshotName": "after@call@6a8d5fdde304a6769f0da2ec9ea6c02d",
+      "timestamp": 30647.549,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@078604f385f3cc16bf2b5faa6ac3ceaf",
+      "frameId": "frame@dbaf411fb693e1a3d2d3440d50e1c94a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food/125525/homemade-margherita-pizza",
+      "snapshotName": "before@call@96192f4d5c69610ce5ea87fcb3931c4b",
+      "timestamp": 40131.279,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@078604f385f3cc16bf2b5faa6ac3ceaf",
+      "frameId": "frame@dbaf411fb693e1a3d2d3440d50e1c94a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food/125525/homemade-margherita-pizza",
+      "snapshotName": "input@call@96192f4d5c69610ce5ea87fcb3931c4b",
+      "timestamp": 40262.302,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@078604f385f3cc16bf2b5faa6ac3ceaf",
+      "frameId": "frame@dbaf411fb693e1a3d2d3440d50e1c94a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food/125525/-/comment/2481750",
+      "snapshotName": "after@call@96192f4d5c69610ce5ea87fcb3931c4b",
+      "timestamp": 41408.318,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@f03c476d459d9539bdcdc38068f95769",
+      "timestamp": 26766.633,
+      "resource": "page@f03c476d459d9539bdcdc38068f95769-1704320810.721827.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_122__page0.jpg",
+      "sha256": "31fe5f5605733ee8a86943e9fdcd12c463224cb5fc0174577144d02e4cba6efc",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@078604f385f3cc16bf2b5faa6ac3ceaf",
+      "timestamp": 43816.881,
+      "resource": "page@078604f385f3cc16bf2b5faa6ac3ceaf-1704320827.771871.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_122__page1.jpg",
+      "sha256": "2340574db6f453b19c342d3daa9e0d9d2f96624d3af6d9367f84fcb456dd8158",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_122__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

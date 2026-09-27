@@ -1,0 +1,232 @@
+{
+  "instance_id": "vwa_reddit_119",
+  "domain": "reddit",
+  "filename_task_id": 119,
+  "source_url": "https://drive.usercontent.google.com/download?id=1_xtHncFilw4TO3-IbhiblPgDv7zRCinn&export=download&confirm=t",
+  "source_file_id": "1_xtHncFilw4TO3-IbhiblPgDv7zRCinn",
+  "archive_sha256": "8eacd4753bb0766f7201089ed612fd00eb3ad37145376797c978df802a131ae0",
+  "archive_bytes": 9162141,
+  "event_types": {
+    "context-options": 1,
+    "event": 113,
+    "screencast-frame": 129,
+    "object": 25,
+    "before": 5,
+    "frame-snapshot": 14,
+    "input": 5,
+    "after": 5
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704258399466,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@76644253ff3faee63fb26223fc0a5bfb",
+      "frameId": "frame@4183fbdce6fcae5abb842d571f187636",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:8888/?lang=eng",
+      "snapshotName": "before@call@a168075251caeea3caf7a089ada34acd",
+      "timestamp": 15870.27,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@76644253ff3faee63fb26223fc0a5bfb",
+      "frameId": "frame@4183fbdce6fcae5abb842d571f187636",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:8888/?lang=eng",
+      "snapshotName": "input@call@a168075251caeea3caf7a089ada34acd",
+      "timestamp": 15933.507,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@76644253ff3faee63fb26223fc0a5bfb",
+      "frameId": "frame@4183fbdce6fcae5abb842d571f187636",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:8888/wikipedia_en_all_maxi_2022-05/A/User:The_other_Kiwix_guy/Landing",
+      "snapshotName": "after@call@a168075251caeea3caf7a089ada34acd",
+      "timestamp": 16587.563,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@76644253ff3faee63fb26223fc0a5bfb",
+      "frameId": "frame@4183fbdce6fcae5abb842d571f187636",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:8888/wikipedia_en_all_maxi_2022-05/A/User:The_other_Kiwix_guy/Landing",
+      "snapshotName": "before@call@f10bfd608dc695e159bb5202ff980f39",
+      "timestamp": 18260.791,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@76644253ff3faee63fb26223fc0a5bfb",
+      "frameId": "frame@4183fbdce6fcae5abb842d571f187636",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:8888/wikipedia_en_all_maxi_2022-05/A/User:The_other_Kiwix_guy/Landing",
+      "snapshotName": "input@call@f10bfd608dc695e159bb5202ff980f39",
+      "timestamp": 18292.048,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@76644253ff3faee63fb26223fc0a5bfb",
+      "frameId": "frame@4183fbdce6fcae5abb842d571f187636",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:8888/wikipedia_en_all_maxi_2022-05/A/User:The_other_Kiwix_guy/Landing",
+      "snapshotName": "after@call@f10bfd608dc695e159bb5202ff980f39",
+      "timestamp": 18335.499,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@76644253ff3faee63fb26223fc0a5bfb",
+      "frameId": "frame@4183fbdce6fcae5abb842d571f187636",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:8888/wikipedia_en_all_maxi_2022-05/A/User:The_other_Kiwix_guy/Landing",
+      "snapshotName": "before@call@247ecd7fdbcda3526996a62fe96c6362",
+      "timestamp": 19591.575,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@76644253ff3faee63fb26223fc0a5bfb",
+      "frameId": "frame@4183fbdce6fcae5abb842d571f187636",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:8888/wikipedia_en_all_maxi_2022-05/A/User:The_other_Kiwix_guy/Landing",
+      "snapshotName": "input@call@247ecd7fdbcda3526996a62fe96c6362",
+      "timestamp": 19630.686,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@76644253ff3faee63fb26223fc0a5bfb",
+      "frameId": "frame@4183fbdce6fcae5abb842d571f187636",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:8888/wikipedia_en_all_maxi_2022-05/A/User:The_other_Kiwix_guy/Landing",
+      "snapshotName": "after@call@247ecd7fdbcda3526996a62fe96c6362",
+      "timestamp": 19638.335,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@76644253ff3faee63fb26223fc0a5bfb",
+      "frameId": "frame@4183fbdce6fcae5abb842d571f187636",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:8888/wikipedia_en_all_maxi_2022-05/A/User:The_other_Kiwix_guy/Landing",
+      "snapshotName": "before@call@6f8be42651b94c57b1ad44d9a417b4b9",
+      "timestamp": 21167.329,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@76644253ff3faee63fb26223fc0a5bfb",
+      "frameId": "frame@4183fbdce6fcae5abb842d571f187636",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:8888/wikipedia_en_all_maxi_2022-05/A/User:The_other_Kiwix_guy/Landing",
+      "snapshotName": "input@call@6f8be42651b94c57b1ad44d9a417b4b9",
+      "timestamp": 21176.926,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@76644253ff3faee63fb26223fc0a5bfb",
+      "frameId": "frame@4183fbdce6fcae5abb842d571f187636",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:8888/search?content=wikipedia_en_all_maxi_2022-05&pattern=Drake",
+      "snapshotName": "before@call@a25ead071bcabf46cb3cb2bad96ae567",
+      "timestamp": 27997.886,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@76644253ff3faee63fb26223fc0a5bfb",
+      "frameId": "frame@4183fbdce6fcae5abb842d571f187636",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:8888/search?content=wikipedia_en_all_maxi_2022-05&pattern=Drake",
+      "snapshotName": "input@call@a25ead071bcabf46cb3cb2bad96ae567",
+      "timestamp": 28028.647,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@76644253ff3faee63fb26223fc0a5bfb",
+      "frameId": "frame@4183fbdce6fcae5abb842d571f187636",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:8888/wikipedia_en_all_maxi_2022-05/A/Drake_(musician)",
+      "snapshotName": "after@call@a25ead071bcabf46cb3cb2bad96ae567",
+      "timestamp": 28294.465,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@d5b85b4797f67db6b8ea4f725fad36c5",
+      "timestamp": 11086.656,
+      "resource": "page@d5b85b4797f67db6b8ea4f725fad36c5-1704258409.061437.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_119__page0.jpg",
+      "sha256": "48460852a82279fa5d95f344ad965b9d5f46e2741acf8a7c1e480279d05d213f",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@76644253ff3faee63fb26223fc0a5bfb",
+      "timestamp": 41705.102,
+      "resource": "page@76644253ff3faee63fb26223fc0a5bfb-1704258439.675282.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_119__page1.jpg",
+      "sha256": "522957e7e98c775f451bc3d72fe27193dbf490408124402fef38a2b695c841b8",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_119__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

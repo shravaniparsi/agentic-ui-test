@@ -1,0 +1,568 @@
+{
+  "instance_id": "vwa_shopping_31",
+  "domain": "shopping",
+  "filename_task_id": 31,
+  "source_url": "https://drive.usercontent.google.com/download?id=1YIQBH8NJry1taYRoxxF_cyQOXriJ85Zm&export=download&confirm=t",
+  "source_file_id": "1YIQBH8NJry1taYRoxxF_cyQOXriJ85Zm",
+  "archive_sha256": "37751164b7d1d1a6cdf81d6b7dfa37b2dc20ec5e3b34f9553cb7b3a0f456b8d2",
+  "archive_bytes": 26558304,
+  "event_types": {
+    "context-options": 1,
+    "event": 190,
+    "screencast-frame": 477,
+    "before": 13,
+    "frame-snapshot": 38,
+    "input": 13,
+    "after": 13,
+    "object": 22
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703274859435,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@11898c6e0204c11e248e52387e9779ad",
+      "timestamp": 21969.455,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@11898c6e0204c11e248e52387e9779ad",
+      "timestamp": 22020.9,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html",
+      "snapshotName": "after@call@11898c6e0204c11e248e52387e9779ad",
+      "timestamp": 23644.246,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?product_list_order=price",
+      "snapshotName": "input@call@211576adc171a0b93d51c1f041b3e360",
+      "timestamp": 28871.975,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?product_list_order=price",
+      "snapshotName": "after@call@211576adc171a0b93d51c1f041b3e360",
+      "timestamp": 28887.539,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?product_list_order=price",
+      "snapshotName": "before@call@8ebfcab380ef33d25866fc7b6628b87b",
+      "timestamp": 39660.956,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?product_list_order=price",
+      "snapshotName": "input@call@8ebfcab380ef33d25866fc7b6628b87b",
+      "timestamp": 39708.681,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/audio-technica-ath-clr100isbl-sonicfuel-in-ear-headphones-with-in-line-microphone-control-blue.html",
+      "snapshotName": "after@call@8ebfcab380ef33d25866fc7b6628b87b",
+      "timestamp": 40632.374,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@08257a70a32a26431fd1a02f064e31a8",
+      "frameId": "frame@74003085999ce95c131ce3884045c315",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/audio-technica-ath-clr100isbl-sonicfuel-in-ear-headphones-with-in-line-microphone-control-blue.html",
+      "snapshotName": "before@call@6eb7df5349ad919014a499f2e1787e10",
+      "timestamp": 43477.915,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@08257a70a32a26431fd1a02f064e31a8",
+      "frameId": "frame@74003085999ce95c131ce3884045c315",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/audio-technica-ath-clr100isbl-sonicfuel-in-ear-headphones-with-in-line-microphone-control-blue.html",
+      "snapshotName": "input@call@6eb7df5349ad919014a499f2e1787e10",
+      "timestamp": 43505.605,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@08257a70a32a26431fd1a02f064e31a8",
+      "frameId": "frame@74003085999ce95c131ce3884045c315",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/audio-technica-ath-clr100isbl-sonicfuel-in-ear-headphones-with-in-line-microphone-control-blue.html",
+      "snapshotName": "after@call@6eb7df5349ad919014a499f2e1787e10",
+      "timestamp": 43554.054,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f275715cb2dbfc0aba31f303344d4f80",
+      "frameId": "frame@51482542766b1885d958362759069fec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "before@call@8aa01c98b1066b49e75a890dbe9740e0",
+      "timestamp": 57419.577,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f275715cb2dbfc0aba31f303344d4f80",
+      "frameId": "frame@51482542766b1885d958362759069fec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "input@call@8aa01c98b1066b49e75a890dbe9740e0",
+      "timestamp": 57489.605,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f275715cb2dbfc0aba31f303344d4f80",
+      "frameId": "frame@51482542766b1885d958362759069fec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "after@call@8aa01c98b1066b49e75a890dbe9740e0",
+      "timestamp": 57512.606,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f275715cb2dbfc0aba31f303344d4f80",
+      "frameId": "frame@51482542766b1885d958362759069fec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "before@call@89189fcc069ea8465fa7eef113decc8d",
+      "timestamp": 59943.539,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f275715cb2dbfc0aba31f303344d4f80",
+      "frameId": "frame@51482542766b1885d958362759069fec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "input@call@89189fcc069ea8465fa7eef113decc8d",
+      "timestamp": 59990.017,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f275715cb2dbfc0aba31f303344d4f80",
+      "frameId": "frame@51482542766b1885d958362759069fec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "after@call@89189fcc069ea8465fa7eef113decc8d",
+      "timestamp": 60018.387,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f275715cb2dbfc0aba31f303344d4f80",
+      "frameId": "frame@51482542766b1885d958362759069fec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "before@call@b9366dded152807fbd271f0b0498e286",
+      "timestamp": 63462.362,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f275715cb2dbfc0aba31f303344d4f80",
+      "frameId": "frame@51482542766b1885d958362759069fec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "input@call@b9366dded152807fbd271f0b0498e286",
+      "timestamp": 63488.013,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f275715cb2dbfc0aba31f303344d4f80",
+      "frameId": "frame@51482542766b1885d958362759069fec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "after@call@b9366dded152807fbd271f0b0498e286",
+      "timestamp": 63495.463,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f275715cb2dbfc0aba31f303344d4f80",
+      "frameId": "frame@51482542766b1885d958362759069fec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "before@call@a46947320986ef1ba483b5c4c9a1958a",
+      "timestamp": 63873.832,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f275715cb2dbfc0aba31f303344d4f80",
+      "frameId": "frame@51482542766b1885d958362759069fec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "input@call@a46947320986ef1ba483b5c4c9a1958a",
+      "timestamp": 63910.347,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f275715cb2dbfc0aba31f303344d4f80",
+      "frameId": "frame@51482542766b1885d958362759069fec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "after@call@a46947320986ef1ba483b5c4c9a1958a",
+      "timestamp": 63946.904,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f275715cb2dbfc0aba31f303344d4f80",
+      "frameId": "frame@51482542766b1885d958362759069fec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "before@call@988322ec3f1a8701fdc8e7c296720074",
+      "timestamp": 65560.333,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f275715cb2dbfc0aba31f303344d4f80",
+      "frameId": "frame@51482542766b1885d958362759069fec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "input@call@988322ec3f1a8701fdc8e7c296720074",
+      "timestamp": 65590.419,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f275715cb2dbfc0aba31f303344d4f80",
+      "frameId": "frame@51482542766b1885d958362759069fec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/",
+      "snapshotName": "after@call@988322ec3f1a8701fdc8e7c296720074",
+      "timestamp": 66610.223,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?product_list_order=price",
+      "snapshotName": "before@call@a72cc5ca2767f1d36913a086f036f658",
+      "timestamp": 79758.555,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?product_list_order=price",
+      "snapshotName": "input@call@a72cc5ca2767f1d36913a086f036f658",
+      "timestamp": 79812.709,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/luyanhapy9-bluetooth-5-0-wireless-earphone-1pc-xt-5-mini-hifi-sound-in-ear-earbuds-headset-with-mic-for-noise-cancelling-comfortable-premium-sound-with-deep-bass-for-sport-black-one-size.html",
+      "snapshotName": "after@call@a72cc5ca2767f1d36913a086f036f658",
+      "timestamp": 80169.263,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?product_list_order=price",
+      "snapshotName": "before@call@09ec95bdbb49c346ba45387442ae06a5",
+      "timestamp": 83427.627,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones.html?product_list_order=price",
+      "snapshotName": "input@call@09ec95bdbb49c346ba45387442ae06a5",
+      "timestamp": 83477.569,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "after@call@09ec95bdbb49c346ba45387442ae06a5",
+      "timestamp": 83838.184,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "before@call@9c26e00ce4ac59dee27e8696cf51fbca",
+      "timestamp": 85460.342,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "input@call@9c26e00ce4ac59dee27e8696cf51fbca",
+      "timestamp": 85510.552,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "after@call@9c26e00ce4ac59dee27e8696cf51fbca",
+      "timestamp": 85546.889,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "before@call@a6ab89b0ae7de732c8d20bb8f4007e7e",
+      "timestamp": 88537.305,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "input@call@a6ab89b0ae7de732c8d20bb8f4007e7e",
+      "timestamp": 88598.775,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "frameId": "frame@646696611c4f325722ddbad7b7464c27",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/bluetooth-single-ear-ultra-long-standby-fast-charge-anti-noise-5-0-bluetooth-over-ear-headphones-a1-red.html",
+      "snapshotName": "after@call@a6ab89b0ae7de732c8d20bb8f4007e7e",
+      "timestamp": 88618.878,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@6379e8de5ccf99ada8846d6504fb6575",
+      "timestamp": 41358.781,
+      "resource": "page@6379e8de5ccf99ada8846d6504fb6575-1703274900.005611.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_31__page0.jpg",
+      "sha256": "17322680ef1ba1c956fbfdc93299f714f9b5faefa84c512ff21cf508f17ea2c6",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@08257a70a32a26431fd1a02f064e31a8",
+      "timestamp": 53270.634,
+      "resource": "page@08257a70a32a26431fd1a02f064e31a8-1703274911.918639.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_31__page1.jpg",
+      "sha256": "a413eb04832e45a0dfd2b37bf736167c1a02432c155b8684a4779e5d65166b1a",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@5a471a50ae50190630bc92946c442535",
+      "timestamp": 53696.761,
+      "resource": "page@5a471a50ae50190630bc92946c442535-1703274912.341752.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_31__page2.jpg",
+      "sha256": "8c3a864a818de781f9d253861470277ea8ec4980779cf169e3b252a11fcc38f3",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@148c00ba9bed3045c743715fd26697c2",
+      "timestamp": 54303.98,
+      "resource": "page@148c00ba9bed3045c743715fd26697c2-1703274912.950647.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_31__page3.jpg",
+      "sha256": "bd80a65bf164cf189560c32355b3c9b333409974085245e7055425c01cb326b2",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@f275715cb2dbfc0aba31f303344d4f80",
+      "timestamp": 75182.751,
+      "resource": "page@f275715cb2dbfc0aba31f303344d4f80-1703274933.829988.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_31__page4.jpg",
+      "sha256": "fb2c458cd1949b2d110e2d919db1f3225f018501a8a3620c34f54e391964d364",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@0eb7c3bcd46f3de37fdb6d04246cc14d",
+      "timestamp": 90427.38,
+      "resource": "page@0eb7c3bcd46f3de37fdb6d04246cc14d-1703274949.071692.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_31__page5.jpg",
+      "sha256": "f51beb1a557fc8500ed8326c230c4b775977d17228b49c8fefc9668adb1ab9b5",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_31__page5.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,147 @@
+{
+  "instance_id": "vwa_shopping_166",
+  "domain": "shopping",
+  "filename_task_id": 166,
+  "source_url": "https://drive.usercontent.google.com/download?id=1JPxekNpTq9YaWzKLFWGOCoQ5pA0u3f15&export=download&confirm=t",
+  "source_file_id": "1JPxekNpTq9YaWzKLFWGOCoQ5pA0u3f15",
+  "archive_sha256": "dce32b2e6e1ff48414bc8bb974ebbc005aaba2c9d3571634302535958e5af726",
+  "archive_bytes": 8437198,
+  "event_types": {
+    "context-options": 1,
+    "event": 59,
+    "screencast-frame": 132,
+    "before": 3,
+    "frame-snapshot": 8,
+    "input": 3,
+    "after": 3
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703276699662,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@50feb842cdaa0eaa5a277762c9e28ec1",
+      "frameId": "frame@1679e2cef1d183d42f4de8f0840ef2b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@dbf673b2792d6fb179c35e4ae1a29bd6",
+      "timestamp": 33982.389,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@50feb842cdaa0eaa5a277762c9e28ec1",
+      "frameId": "frame@1679e2cef1d183d42f4de8f0840ef2b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@dbf673b2792d6fb179c35e4ae1a29bd6",
+      "timestamp": 34015.529,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@50feb842cdaa0eaa5a277762c9e28ec1",
+      "frameId": "frame@1679e2cef1d183d42f4de8f0840ef2b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@dbf673b2792d6fb179c35e4ae1a29bd6",
+      "timestamp": 34030.787,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@50feb842cdaa0eaa5a277762c9e28ec1",
+      "frameId": "frame@1679e2cef1d183d42f4de8f0840ef2b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@905cfe8c162adf72e5fd63c836a27486",
+      "timestamp": 42669.317,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@50feb842cdaa0eaa5a277762c9e28ec1",
+      "frameId": "frame@1679e2cef1d183d42f4de8f0840ef2b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@905cfe8c162adf72e5fd63c836a27486",
+      "timestamp": 42687.006,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@50feb842cdaa0eaa5a277762c9e28ec1",
+      "frameId": "frame@1679e2cef1d183d42f4de8f0840ef2b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=red+adidas+basketball+shoes",
+      "snapshotName": "before@call@2dcb10c78c09c66ce6977546d1fedf63",
+      "timestamp": 71706.207,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@50feb842cdaa0eaa5a277762c9e28ec1",
+      "frameId": "frame@1679e2cef1d183d42f4de8f0840ef2b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=red+adidas+basketball+shoes",
+      "snapshotName": "input@call@2dcb10c78c09c66ce6977546d1fedf63",
+      "timestamp": 71753.12,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@50feb842cdaa0eaa5a277762c9e28ec1",
+      "frameId": "frame@1679e2cef1d183d42f4de8f0840ef2b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/adidas-mens-sm-d-o-n-issue-2-team-basketball-sneakers-shoes-casual-red.html",
+      "snapshotName": "after@call@2dcb10c78c09c66ce6977546d1fedf63",
+      "timestamp": 73389.904,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@50feb842cdaa0eaa5a277762c9e28ec1",
+      "timestamp": 78813.069,
+      "resource": "page@50feb842cdaa0eaa5a277762c9e28ec1-1703276777.674955.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_166__page0.jpg",
+      "sha256": "8a26ddc5e9c060a9662de1be596d1c6688b2c459f25b24f96bc1295c242255ce",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_166__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,592 @@
+{
+  "instance_id": "vwa_shopping_239",
+  "domain": "shopping",
+  "filename_task_id": 239,
+  "source_url": "https://drive.usercontent.google.com/download?id=19p23TXds2vk5QCJBj45YDXLQRdmKW9HL&export=download&confirm=t",
+  "source_file_id": "19p23TXds2vk5QCJBj45YDXLQRdmKW9HL",
+  "archive_sha256": "2ced42dc4a0113280c91ae67784db62b81c5fcfa89913bad1a65d4674b6a41c7",
+  "archive_bytes": 27890776,
+  "event_types": {
+    "context-options": 1,
+    "event": 237,
+    "screencast-frame": 493,
+    "before": 15,
+    "frame-snapshot": 45,
+    "input": 15,
+    "after": 15,
+    "object": 48
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703280042607,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves/basic-cases.html?p=12",
+      "snapshotName": "before@call@bc1c71013789a17f09e66fcd3d7c4e3f",
+      "timestamp": 8665.147,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves/basic-cases.html?p=12",
+      "snapshotName": "input@call@bc1c71013789a17f09e66fcd3d7c4e3f",
+      "timestamp": 8730.655,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gviewin-designed-for-iphone-13-case-6-1-inch-2021-clear-flower-soft-flexible-tpu-shockproof-women-girls-phone-cover-floral-pattern-design-bumper-protective-case-magnolia-white.html",
+      "snapshotName": "after@call@bc1c71013789a17f09e66fcd3d7c4e3f",
+      "timestamp": 10193.608,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gviewin-designed-for-iphone-13-case-6-1-inch-2021-clear-flower-soft-flexible-tpu-shockproof-women-girls-phone-cover-floral-pattern-design-bumper-protective-case-magnolia-white.html",
+      "snapshotName": "before@call@ed45531d8d8f59440b745e1bc74e28b6",
+      "timestamp": 14320.478,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gviewin-designed-for-iphone-13-case-6-1-inch-2021-clear-flower-soft-flexible-tpu-shockproof-women-girls-phone-cover-floral-pattern-design-bumper-protective-case-magnolia-white.html",
+      "snapshotName": "input@call@ed45531d8d8f59440b745e1bc74e28b6",
+      "timestamp": 14388.301,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gviewin-designed-for-iphone-13-case-6-1-inch-2021-clear-flower-soft-flexible-tpu-shockproof-women-girls-phone-cover-floral-pattern-design-bumper-protective-case-magnolia-white.html",
+      "snapshotName": "after@call@ed45531d8d8f59440b745e1bc74e28b6",
+      "timestamp": 14454.24,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gviewin-designed-for-iphone-13-case-6-1-inch-2021-clear-flower-soft-flexible-tpu-shockproof-women-girls-phone-cover-floral-pattern-design-bumper-protective-case-magnolia-white.html",
+      "snapshotName": "before@call@32872edab4b7f5f56ec32bd8561cad7c",
+      "timestamp": 15271.535,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gviewin-designed-for-iphone-13-case-6-1-inch-2021-clear-flower-soft-flexible-tpu-shockproof-women-girls-phone-cover-floral-pattern-design-bumper-protective-case-magnolia-white.html",
+      "snapshotName": "input@call@32872edab4b7f5f56ec32bd8561cad7c",
+      "timestamp": 15300.26,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gviewin-designed-for-iphone-13-case-6-1-inch-2021-clear-flower-soft-flexible-tpu-shockproof-women-girls-phone-cover-floral-pattern-design-bumper-protective-case-magnolia-white.html",
+      "snapshotName": "after@call@32872edab4b7f5f56ec32bd8561cad7c",
+      "timestamp": 15333.777,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves/basic-cases.html?p=12",
+      "snapshotName": "before@call@47c1af78f16672c6ed788f8d83a486d8",
+      "timestamp": 19944.285,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves/basic-cases.html?p=12",
+      "snapshotName": "input@call@47c1af78f16672c6ed788f8d83a486d8",
+      "timestamp": 19997.827,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves/basic-cases.html?p=12",
+      "snapshotName": "after@call@47c1af78f16672c6ed788f8d83a486d8",
+      "timestamp": 20009.565,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves/basic-cases.html?p=12",
+      "snapshotName": "before@call@9ae08115f66b666869351c3f656aab9b",
+      "timestamp": 30447.141,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves/basic-cases.html?p=12",
+      "snapshotName": "input@call@9ae08115f66b666869351c3f656aab9b",
+      "timestamp": 30499.219,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gviewin-designed-for-iphone-13-case-6-1-inch-2021-clear-flower-soft-flexible-tpu-shockproof-women-girls-phone-cover-floral-pattern-design-bumper-protective-case-magnolia-white.html",
+      "snapshotName": "after@call@9ae08115f66b666869351c3f656aab9b",
+      "timestamp": 30961.508,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gviewin-designed-for-iphone-13-case-6-1-inch-2021-clear-flower-soft-flexible-tpu-shockproof-women-girls-phone-cover-floral-pattern-design-bumper-protective-case-magnolia-white.html",
+      "snapshotName": "before@call@7c813b1dde818af100f33a59289f52a3",
+      "timestamp": 35028.876,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gviewin-designed-for-iphone-13-case-6-1-inch-2021-clear-flower-soft-flexible-tpu-shockproof-women-girls-phone-cover-floral-pattern-design-bumper-protective-case-magnolia-white.html",
+      "snapshotName": "input@call@7c813b1dde818af100f33a59289f52a3",
+      "timestamp": 35064.746,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gviewin-designed-for-iphone-13-case-6-1-inch-2021-clear-flower-soft-flexible-tpu-shockproof-women-girls-phone-cover-floral-pattern-design-bumper-protective-case-magnolia-white.html",
+      "snapshotName": "after@call@7c813b1dde818af100f33a59289f52a3",
+      "timestamp": 35106.751,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gviewin-designed-for-iphone-13-case-6-1-inch-2021-clear-flower-soft-flexible-tpu-shockproof-women-girls-phone-cover-floral-pattern-design-bumper-protective-case-magnolia-white.html",
+      "snapshotName": "before@call@23c1608d41232130e7d575d1e0efb793",
+      "timestamp": 46224.891,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gviewin-designed-for-iphone-13-case-6-1-inch-2021-clear-flower-soft-flexible-tpu-shockproof-women-girls-phone-cover-floral-pattern-design-bumper-protective-case-magnolia-white.html",
+      "snapshotName": "input@call@23c1608d41232130e7d575d1e0efb793",
+      "timestamp": 46251.876,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gviewin-designed-for-iphone-13-case-6-1-inch-2021-clear-flower-soft-flexible-tpu-shockproof-women-girls-phone-cover-floral-pattern-design-bumper-protective-case-magnolia-white.html",
+      "snapshotName": "after@call@23c1608d41232130e7d575d1e0efb793",
+      "timestamp": 46350.235,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gviewin-designed-for-iphone-13-case-6-1-inch-2021-clear-flower-soft-flexible-tpu-shockproof-women-girls-phone-cover-floral-pattern-design-bumper-protective-case-magnolia-white.html",
+      "snapshotName": "before@call@90f6d750cd1206f08f6aced81d29a818",
+      "timestamp": 46587.535,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gviewin-designed-for-iphone-13-case-6-1-inch-2021-clear-flower-soft-flexible-tpu-shockproof-women-girls-phone-cover-floral-pattern-design-bumper-protective-case-magnolia-white.html",
+      "snapshotName": "input@call@90f6d750cd1206f08f6aced81d29a818",
+      "timestamp": 46618.087,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/gviewin-designed-for-iphone-13-case-6-1-inch-2021-clear-flower-soft-flexible-tpu-shockproof-women-girls-phone-cover-floral-pattern-design-bumper-protective-case-magnolia-white.html",
+      "snapshotName": "after@call@90f6d750cd1206f08f6aced81d29a818",
+      "timestamp": 46646.361,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves/basic-cases.html?p=12",
+      "snapshotName": "before@call@44082445498efcfdcf2a0126e63516b9",
+      "timestamp": 55122.948,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves/basic-cases.html?p=12",
+      "snapshotName": "input@call@44082445498efcfdcf2a0126e63516b9",
+      "timestamp": 55181.273,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/case-for-iphone-se-2020-iphone-7-8-for-boys-teen-itsfaxinke-soft-sturdy-slim-anti-scratch-durable-shell-nonslip-flexible-iphone-se2-2nd-generation-phone-cover-rbshark.html",
+      "snapshotName": "after@call@44082445498efcfdcf2a0126e63516b9",
+      "timestamp": 56709.818,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/case-for-iphone-se-2020-iphone-7-8-for-boys-teen-itsfaxinke-soft-sturdy-slim-anti-scratch-durable-shell-nonslip-flexible-iphone-se2-2nd-generation-phone-cover-rbshark.html",
+      "snapshotName": "before@call@7ccc3ff9a3ac2802b13f802794e7a9b1",
+      "timestamp": 57828.51,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/case-for-iphone-se-2020-iphone-7-8-for-boys-teen-itsfaxinke-soft-sturdy-slim-anti-scratch-durable-shell-nonslip-flexible-iphone-se2-2nd-generation-phone-cover-rbshark.html",
+      "snapshotName": "input@call@7ccc3ff9a3ac2802b13f802794e7a9b1",
+      "timestamp": 57880.55,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/case-for-iphone-se-2020-iphone-7-8-for-boys-teen-itsfaxinke-soft-sturdy-slim-anti-scratch-durable-shell-nonslip-flexible-iphone-se2-2nd-generation-phone-cover-rbshark.html",
+      "snapshotName": "after@call@7ccc3ff9a3ac2802b13f802794e7a9b1",
+      "timestamp": 57911.637,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves/basic-cases.html?p=12",
+      "snapshotName": "before@call@ff61648bbec30012da5d970f29220299",
+      "timestamp": 62804.282,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves/basic-cases.html?p=12",
+      "snapshotName": "input@call@ff61648bbec30012da5d970f29220299",
+      "timestamp": 62846.614,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@ff61648bbec30012da5d970f29220299",
+      "timestamp": 64727.954,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "before@call@416ca7f2e2d53cd5d766e8f0d0c04fbc",
+      "timestamp": 73510.486,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "input@call@416ca7f2e2d53cd5d766e8f0d0c04fbc",
+      "timestamp": 73544.674,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/?p=2",
+      "snapshotName": "after@call@416ca7f2e2d53cd5d766e8f0d0c04fbc",
+      "timestamp": 74492.619,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves/basic-cases.html?p=12",
+      "snapshotName": "before@call@a0d3ec5dc0e5f112ed84a74b16fdb688",
+      "timestamp": 79622.432,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves/basic-cases.html?p=12",
+      "snapshotName": "input@call@a0d3ec5dc0e5f112ed84a74b16fdb688",
+      "timestamp": 79663.019,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/samsung-galaxy-a71-5g-case-flash-ultrathin-silicone-soft-case-flower-intimate-butterfly-flash-stand-samsung-a71-5g-mobile-case-not-applicable-to-a71-4g-rose-gold.html",
+      "snapshotName": "after@call@a0d3ec5dc0e5f112ed84a74b16fdb688",
+      "timestamp": 81261.165,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/samsung-galaxy-a71-5g-case-flash-ultrathin-silicone-soft-case-flower-intimate-butterfly-flash-stand-samsung-a71-5g-mobile-case-not-applicable-to-a71-4g-rose-gold.html",
+      "snapshotName": "before@call@ed73ffe15085e3fd731eb96d8b108410",
+      "timestamp": 83768.598,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/samsung-galaxy-a71-5g-case-flash-ultrathin-silicone-soft-case-flower-intimate-butterfly-flash-stand-samsung-a71-5g-mobile-case-not-applicable-to-a71-4g-rose-gold.html",
+      "snapshotName": "input@call@ed73ffe15085e3fd731eb96d8b108410",
+      "timestamp": 83816.606,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/samsung-galaxy-a71-5g-case-flash-ultrathin-silicone-soft-case-flower-intimate-butterfly-flash-stand-samsung-a71-5g-mobile-case-not-applicable-to-a71-4g-rose-gold.html",
+      "snapshotName": "after@call@ed73ffe15085e3fd731eb96d8b108410",
+      "timestamp": 83891.587,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/samsung-galaxy-a71-5g-case-flash-ultrathin-silicone-soft-case-flower-intimate-butterfly-flash-stand-samsung-a71-5g-mobile-case-not-applicable-to-a71-4g-rose-gold.html",
+      "snapshotName": "before@call@8ad3b2800c1a3b7349065998c200eb85",
+      "timestamp": 85362.536,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/samsung-galaxy-a71-5g-case-flash-ultrathin-silicone-soft-case-flower-intimate-butterfly-flash-stand-samsung-a71-5g-mobile-case-not-applicable-to-a71-4g-rose-gold.html",
+      "snapshotName": "input@call@8ad3b2800c1a3b7349065998c200eb85",
+      "timestamp": 85416.224,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@02f3364594a933734786309d14bba062",
+      "frameId": "frame@fe3a6776c77df67c1b343f752cc5d64e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@8ad3b2800c1a3b7349065998c200eb85",
+      "timestamp": 87003.459,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@02f3364594a933734786309d14bba062",
+      "timestamp": 94499.969,
+      "resource": "page@02f3364594a933734786309d14bba062-1703280136.35017.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_239__page0.jpg",
+      "sha256": "31880629cdbdf3df3d3fc6cb5d410db7d7833b97810697eae96717674f18bfb4",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_239__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

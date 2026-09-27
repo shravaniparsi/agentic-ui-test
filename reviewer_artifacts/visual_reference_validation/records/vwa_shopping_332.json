@@ -1,0 +1,447 @@
+{
+  "instance_id": "vwa_shopping_332",
+  "domain": "shopping",
+  "filename_task_id": 332,
+  "source_url": "https://drive.usercontent.google.com/download?id=1KWEdJ5buQhf7IPPgowkDM66Mk67m5CyN&export=download&confirm=t",
+  "source_file_id": "1KWEdJ5buQhf7IPPgowkDM66Mk67m5CyN",
+  "archive_sha256": "85fab3734491455faefb1b30b54eeeaca3310041f1cca5de5be405d001866a0d",
+  "archive_bytes": 21233575,
+  "event_types": {
+    "context-options": 1,
+    "event": 85,
+    "screencast-frame": 404,
+    "before": 11,
+    "frame-snapshot": 33,
+    "input": 11,
+    "after": 11
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703284161455,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@e3413244f313f784c1e0b13ff444dde3",
+      "timestamp": 6429.898,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@e3413244f313f784c1e0b13ff444dde3",
+      "timestamp": 6491.644,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@e3413244f313f784c1e0b13ff444dde3",
+      "timestamp": 6540.559,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@1ea8ef036f4a539ff08030d0f4e316cc",
+      "timestamp": 7921.808,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@1ea8ef036f4a539ff08030d0f4e316cc",
+      "timestamp": 7939.099,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=canon",
+      "snapshotName": "after@call@1ea8ef036f4a539ff08030d0f4e316cc",
+      "timestamp": 9259.744,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=canon",
+      "snapshotName": "before@call@2f47e129ce29eaa74712c68e2ec9e0d3",
+      "timestamp": 34528.021,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=canon",
+      "snapshotName": "input@call@2f47e129ce29eaa74712c68e2ec9e0d3",
+      "timestamp": 34595.237,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=canon",
+      "snapshotName": "after@call@2f47e129ce29eaa74712c68e2ec9e0d3",
+      "timestamp": 34629.764,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=canon",
+      "snapshotName": "before@call@1a2f78d06fd2316a65e8c38fe3538fce",
+      "timestamp": 37154.688,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=canon",
+      "snapshotName": "input@call@1a2f78d06fd2316a65e8c38fe3538fce",
+      "timestamp": 37174.404,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=canon+EOS+R6",
+      "snapshotName": "after@call@1a2f78d06fd2316a65e8c38fe3538fce",
+      "timestamp": 38619.085,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=canon+EOS+R6",
+      "snapshotName": "before@call@b1cb401ededb331f617da90657c25152",
+      "timestamp": 59969.095,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=canon+EOS+R6",
+      "snapshotName": "input@call@b1cb401ededb331f617da90657c25152",
+      "timestamp": 60008.749,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/canon-eos-r6-mirrorless-digital-camera-body-bundle-128gb-memory-case-tripod-18pc-bundle.html",
+      "snapshotName": "after@call@b1cb401ededb331f617da90657c25152",
+      "timestamp": 61706.808,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/canon-eos-r6-mirrorless-digital-camera-body-bundle-128gb-memory-case-tripod-18pc-bundle.html",
+      "snapshotName": "before@call@75d121b77a4b59401514f624e90c3553",
+      "timestamp": 64042.056,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/canon-eos-r6-mirrorless-digital-camera-body-bundle-128gb-memory-case-tripod-18pc-bundle.html",
+      "snapshotName": "input@call@75d121b77a4b59401514f624e90c3553",
+      "timestamp": 64110.907,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/canon-eos-r6-mirrorless-digital-camera-body-bundle-128gb-memory-case-tripod-18pc-bundle.html",
+      "snapshotName": "after@call@75d121b77a4b59401514f624e90c3553",
+      "timestamp": 64139.538,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/canon-eos-r6-mirrorless-digital-camera-body-bundle-128gb-memory-case-tripod-18pc-bundle.html",
+      "snapshotName": "before@call@553e15e6b04e66872b7bce2c8cae6f70",
+      "timestamp": 66879.434,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/canon-eos-r6-mirrorless-digital-camera-body-bundle-128gb-memory-case-tripod-18pc-bundle.html",
+      "snapshotName": "input@call@553e15e6b04e66872b7bce2c8cae6f70",
+      "timestamp": 66912.943,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/canon-eos-r6-mirrorless-digital-camera-body-bundle-128gb-memory-case-tripod-18pc-bundle.html",
+      "snapshotName": "after@call@553e15e6b04e66872b7bce2c8cae6f70",
+      "timestamp": 66952.857,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/canon-eos-r6-mirrorless-digital-camera-body-bundle-128gb-memory-case-tripod-18pc-bundle.html",
+      "snapshotName": "before@call@c3eb773631778f800484e1665730c61c",
+      "timestamp": 67975.976,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/canon-eos-r6-mirrorless-digital-camera-body-bundle-128gb-memory-case-tripod-18pc-bundle.html",
+      "snapshotName": "input@call@c3eb773631778f800484e1665730c61c",
+      "timestamp": 67996.345,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/",
+      "snapshotName": "after@call@c3eb773631778f800484e1665730c61c",
+      "timestamp": 69230.641,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "before@call@9b7ee9a310932b57fdb7236f940de959",
+      "timestamp": 75728.382,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "input@call@9b7ee9a310932b57fdb7236f940de959",
+      "timestamp": 75782.651,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "after@call@9b7ee9a310932b57fdb7236f940de959",
+      "timestamp": 75804.693,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "before@call@b2e66539a2a81f8fddf51fdc0fe22c62",
+      "timestamp": 76237.399,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "input@call@b2e66539a2a81f8fddf51fdc0fe22c62",
+      "timestamp": 76263.823,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "after@call@b2e66539a2a81f8fddf51fdc0fe22c62",
+      "timestamp": 76287.878,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "before@call@4e6b7f3a66d5a700c5f4cba8cf0848be",
+      "timestamp": 80100.105,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "input@call@4e6b7f3a66d5a700c5f4cba8cf0848be",
+      "timestamp": 80150.226,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "frameId": "frame@ea3ee102e762521f44755efc59b41f7d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "after@call@4e6b7f3a66d5a700c5f4cba8cf0848be",
+      "timestamp": 80175.648,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@f80962d44d69b93a462fc0ee0b9882e6",
+      "timestamp": 85056.406,
+      "resource": "page@f80962d44d69b93a462fc0ee0b9882e6-1703284245.994348.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_332__page0.jpg",
+      "sha256": "6c90cfbafa4e316d13b5b29d8117ac229d0b45034acfe93e55d43433a7d6abf9",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_332__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,183 @@
+{
+  "instance_id": "vwa_classifieds_140",
+  "domain": "classifieds",
+  "filename_task_id": 140,
+  "source_url": "https://drive.usercontent.google.com/download?id=1ZM2tkTyU-CMbqsZPoPNzzrJVRogb59mp&export=download&confirm=t",
+  "source_file_id": "1ZM2tkTyU-CMbqsZPoPNzzrJVRogb59mp",
+  "archive_sha256": "656ca88a26ff3f3deb95dbc42a9fb10c258920a45d7dbc4d6af2b1eea166aaf6",
+  "archive_bytes": 5978779,
+  "event_types": {
+    "context-options": 1,
+    "event": 45,
+    "screencast-frame": 84,
+    "before": 4,
+    "frame-snapshot": 11,
+    "input": 4,
+    "after": 4
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704258699892,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@5f66c394afc8ef1b42d1a1b382d6fa4b",
+      "frameId": "frame@b383a1b5702c2e7322ce037e963d0b0a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "before@call@9853b548596325b95044bacd42053251",
+      "timestamp": 8546.447,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5f66c394afc8ef1b42d1a1b382d6fa4b",
+      "frameId": "frame@b383a1b5702c2e7322ce037e963d0b0a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "input@call@9853b548596325b95044bacd42053251",
+      "timestamp": 8581.111,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5f66c394afc8ef1b42d1a1b382d6fa4b",
+      "frameId": "frame@b383a1b5702c2e7322ce037e963d0b0a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "after@call@9853b548596325b95044bacd42053251",
+      "timestamp": 8590.583,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5f66c394afc8ef1b42d1a1b382d6fa4b",
+      "frameId": "frame@b383a1b5702c2e7322ce037e963d0b0a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "before@call@cdc69682c3cc6133e9438fc41f18ded0",
+      "timestamp": 9130.385,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5f66c394afc8ef1b42d1a1b382d6fa4b",
+      "frameId": "frame@b383a1b5702c2e7322ce037e963d0b0a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "input@call@cdc69682c3cc6133e9438fc41f18ded0",
+      "timestamp": 9148.412,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5f66c394afc8ef1b42d1a1b382d6fa4b",
+      "frameId": "frame@b383a1b5702c2e7322ce037e963d0b0a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "after@call@cdc69682c3cc6133e9438fc41f18ded0",
+      "timestamp": 9158.012,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5f66c394afc8ef1b42d1a1b382d6fa4b",
+      "frameId": "frame@b383a1b5702c2e7322ce037e963d0b0a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "before@call@8ddf2bc73a202eefbf34418ce0b7123c",
+      "timestamp": 10142.039,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5f66c394afc8ef1b42d1a1b382d6fa4b",
+      "frameId": "frame@b383a1b5702c2e7322ce037e963d0b0a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "input@call@8ddf2bc73a202eefbf34418ce0b7123c",
+      "timestamp": 10146.443,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5f66c394afc8ef1b42d1a1b382d6fa4b",
+      "frameId": "frame@b383a1b5702c2e7322ce037e963d0b0a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=nascar&sCategory=12",
+      "snapshotName": "before@call@f531e2c833e3cb8a8b83ba325f2cc7a1",
+      "timestamp": 15323.696,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5f66c394afc8ef1b42d1a1b382d6fa4b",
+      "frameId": "frame@b383a1b5702c2e7322ce037e963d0b0a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=nascar&sCategory=12",
+      "snapshotName": "input@call@f531e2c833e3cb8a8b83ba325f2cc7a1",
+      "timestamp": 15343.615,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5f66c394afc8ef1b42d1a1b382d6fa4b",
+      "frameId": "frame@b383a1b5702c2e7322ce037e963d0b0a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=3984",
+      "snapshotName": "after@call@f531e2c833e3cb8a8b83ba325f2cc7a1",
+      "timestamp": 15558.375,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@5f66c394afc8ef1b42d1a1b382d6fa4b",
+      "timestamp": 24273.087,
+      "resource": "page@5f66c394afc8ef1b42d1a1b382d6fa4b-1704258723.806189.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_140__page0.jpg",
+      "sha256": "493499c6b3f6df32ae3edcd44fbcf11ee7c79097f88fa5778b5f6386cfb9bdbd",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_classifieds_140__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

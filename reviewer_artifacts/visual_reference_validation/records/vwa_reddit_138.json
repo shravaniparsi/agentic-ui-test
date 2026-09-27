@@ -1,0 +1,484 @@
+{
+  "instance_id": "vwa_reddit_138",
+  "domain": "reddit",
+  "filename_task_id": 138,
+  "source_url": "https://drive.usercontent.google.com/download?id=1v7pGHS7g8cHXmfAA5ShZk6gpxsrAXNuR&export=download&confirm=t",
+  "source_file_id": "1v7pGHS7g8cHXmfAA5ShZk6gpxsrAXNuR",
+  "archive_sha256": "cd29f56aa578addd536775cc743f47d649ea8572f2464784364537c7fde7ecbf",
+  "archive_bytes": 17732616,
+  "event_types": {
+    "context-options": 1,
+    "event": 289,
+    "screencast-frame": 369,
+    "object": 112,
+    "before": 12,
+    "frame-snapshot": 36,
+    "input": 12,
+    "after": 12
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704320249580,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@73f69690baddb47421a53848e34ac7f6",
+      "timestamp": 9318.224,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@73f69690baddb47421a53848e34ac7f6",
+      "timestamp": 9367.963,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@73f69690baddb47421a53848e34ac7f6",
+      "timestamp": 10037.043,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@94549d2fb0fba341d4bd7c6189c34a24",
+      "timestamp": 11358.701000000001,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@94549d2fb0fba341d4bd7c6189c34a24",
+      "timestamp": 11418.606,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "after@call@94549d2fb0fba341d4bd7c6189c34a24",
+      "timestamp": 11655.61,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@1eb9b1cbca3cfd038c707141e550a936",
+      "timestamp": 13882.562,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@1eb9b1cbca3cfd038c707141e550a936",
+      "timestamp": 13912.815,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets",
+      "snapshotName": "after@call@1eb9b1cbca3cfd038c707141e550a936",
+      "timestamp": 14277.272,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets",
+      "snapshotName": "before@call@7641786b67b21852fdcb295081efc39e",
+      "timestamp": 26958.596,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets",
+      "snapshotName": "input@call@7641786b67b21852fdcb295081efc39e",
+      "timestamp": 27002.679,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=1369&next%5Bid%5D=136140",
+      "snapshotName": "after@call@7641786b67b21852fdcb295081efc39e",
+      "timestamp": 27461.442,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=1369&next%5Bid%5D=136140",
+      "snapshotName": "before@call@d4521c82452232c8c17d22123e5528dc",
+      "timestamp": 36194.957,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=1369&next%5Bid%5D=136140",
+      "snapshotName": "input@call@d4521c82452232c8c17d22123e5528dc",
+      "timestamp": 36232.985,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=811&next%5Bid%5D=136234",
+      "snapshotName": "after@call@d4521c82452232c8c17d22123e5528dc",
+      "timestamp": 36783.679,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=811&next%5Bid%5D=136234",
+      "snapshotName": "before@call@69eadce75d811941d8d949f65b6e4111",
+      "timestamp": 40895.453,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=811&next%5Bid%5D=136234",
+      "snapshotName": "input@call@69eadce75d811941d8d949f65b6e4111",
+      "timestamp": 40934.127,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=547&next%5Bid%5D=72221",
+      "snapshotName": "after@call@69eadce75d811941d8d949f65b6e4111",
+      "timestamp": 41354.936,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=547&next%5Bid%5D=72221",
+      "snapshotName": "before@call@007098ec9e0f15cf8f751c41e80d8017",
+      "timestamp": 43012.495,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=547&next%5Bid%5D=72221",
+      "snapshotName": "input@call@007098ec9e0f15cf8f751c41e80d8017",
+      "timestamp": 43049.096,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=335&next%5Bid%5D=50405",
+      "snapshotName": "after@call@007098ec9e0f15cf8f751c41e80d8017",
+      "timestamp": 44579.532,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=335&next%5Bid%5D=50405",
+      "snapshotName": "before@call@c4329183dec5a3626ef65335fef6b81b",
+      "timestamp": 55117.239,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=335&next%5Bid%5D=50405",
+      "snapshotName": "input@call@c4329183dec5a3626ef65335fef6b81b",
+      "timestamp": 55186.005,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=252&next%5Bid%5D=115277",
+      "snapshotName": "after@call@c4329183dec5a3626ef65335fef6b81b",
+      "timestamp": 55728.791,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=252&next%5Bid%5D=115277",
+      "snapshotName": "before@call@fe99558ac3fa5369576727a68581e52e",
+      "timestamp": 62908.854,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=252&next%5Bid%5D=115277",
+      "snapshotName": "input@call@fe99558ac3fa5369576727a68581e52e",
+      "timestamp": 62953.67,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=198&next%5Bid%5D=136208",
+      "snapshotName": "after@call@fe99558ac3fa5369576727a68581e52e",
+      "timestamp": 63417.7,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=198&next%5Bid%5D=136208",
+      "snapshotName": "before@call@93001fefa4114ea7c501bcafe18e6b6f",
+      "timestamp": 76419,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=198&next%5Bid%5D=136208",
+      "snapshotName": "input@call@93001fefa4114ea7c501bcafe18e6b6f",
+      "timestamp": 76487.445,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=160&next%5Bid%5D=136112",
+      "snapshotName": "after@call@93001fefa4114ea7c501bcafe18e6b6f",
+      "timestamp": 77009.496,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=160&next%5Bid%5D=136112",
+      "snapshotName": "before@call@dac97e0839f9c7237e4b4a7e43d9170d",
+      "timestamp": 81298.899,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=160&next%5Bid%5D=136112",
+      "snapshotName": "input@call@dac97e0839f9c7237e4b4a7e43d9170d",
+      "timestamp": 81351.146,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=131&next%5Bid%5D=50344",
+      "snapshotName": "after@call@dac97e0839f9c7237e4b4a7e43d9170d",
+      "timestamp": 81837.611,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=131&next%5Bid%5D=50344",
+      "snapshotName": "before@call@4384d0a9c066d3c1d3e0fce0a3941c15",
+      "timestamp": 91892.409,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets?next%5Branking%5D=131&next%5Bid%5D=50344",
+      "snapshotName": "input@call@4384d0a9c066d3c1d3e0fce0a3941c15",
+      "timestamp": 91934.006,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "frameId": "frame@56f312b5bae991aaf2373473632de189",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/wallstreetbets/50264/money-vacuum-go-shhloooop",
+      "snapshotName": "after@call@4384d0a9c066d3c1d3e0fce0a3941c15",
+      "timestamp": 92434.264,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@795a8f3f649eb952f7cf40876064bbe0",
+      "timestamp": 94900.698,
+      "resource": "page@795a8f3f649eb952f7cf40876064bbe0-1704320343.636497.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_138__page0.jpg",
+      "sha256": "e44a53fed5e8b28edb88996f19c5b36accd49b7044d65efde7926cae470dcee6",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_138__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

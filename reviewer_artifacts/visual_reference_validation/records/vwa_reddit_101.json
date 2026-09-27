@@ -1,0 +1,160 @@
+{
+  "instance_id": "vwa_reddit_101",
+  "domain": "reddit",
+  "filename_task_id": 101,
+  "source_url": "https://drive.usercontent.google.com/download?id=1CVmM8uWcRZzWI1kbDmCnXutScVgKXoRj&export=download&confirm=t",
+  "source_file_id": "1CVmM8uWcRZzWI1kbDmCnXutScVgKXoRj",
+  "archive_sha256": "d92f39dbdd1a5051c514e400dd015f4ab5cc5dd3a4c367ce8d56fef3de5f92d8",
+  "archive_bytes": 23402517,
+  "event_types": {
+    "context-options": 1,
+    "event": 84,
+    "screencast-frame": 112,
+    "object": 39,
+    "before": 3,
+    "frame-snapshot": 9,
+    "input": 3,
+    "after": 3
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704275439527,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@3556cd01179a057d974e0cda491e574c",
+      "frameId": "frame@a9924701bfa79ec16b89c1287e42eca5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@1644650e7ecf4f33e7d85da495ee8a4d",
+      "timestamp": 5291.372,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3556cd01179a057d974e0cda491e574c",
+      "frameId": "frame@a9924701bfa79ec16b89c1287e42eca5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@1644650e7ecf4f33e7d85da495ee8a4d",
+      "timestamp": 5330,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3556cd01179a057d974e0cda491e574c",
+      "frameId": "frame@a9924701bfa79ec16b89c1287e42eca5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "after@call@1644650e7ecf4f33e7d85da495ee8a4d",
+      "timestamp": 5375.379,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3556cd01179a057d974e0cda491e574c",
+      "frameId": "frame@a9924701bfa79ec16b89c1287e42eca5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@ca0c0eca45eacd5686542e021affc0ac",
+      "timestamp": 6401.633,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3556cd01179a057d974e0cda491e574c",
+      "frameId": "frame@a9924701bfa79ec16b89c1287e42eca5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@ca0c0eca45eacd5686542e021affc0ac",
+      "timestamp": 6414.5779999999995,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3556cd01179a057d974e0cda491e574c",
+      "frameId": "frame@a9924701bfa79ec16b89c1287e42eca5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=cake",
+      "snapshotName": "after@call@ca0c0eca45eacd5686542e021affc0ac",
+      "timestamp": 7275.03,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3556cd01179a057d974e0cda491e574c",
+      "frameId": "frame@a9924701bfa79ec16b89c1287e42eca5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=cake",
+      "snapshotName": "before@call@8424619318d22449c99739fb3e4336df",
+      "timestamp": 16209.582,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3556cd01179a057d974e0cda491e574c",
+      "frameId": "frame@a9924701bfa79ec16b89c1287e42eca5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=cake",
+      "snapshotName": "input@call@8424619318d22449c99739fb3e4336df",
+      "timestamp": 16270.985,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3556cd01179a057d974e0cda491e574c",
+      "frameId": "frame@a9924701bfa79ec16b89c1287e42eca5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/funny/83344/neighbor-purchased-generic-birthday-cake-for-his-wife-asked",
+      "snapshotName": "after@call@8424619318d22449c99739fb3e4336df",
+      "timestamp": 16832.306,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@3556cd01179a057d974e0cda491e574c",
+      "timestamp": 19938.937,
+      "resource": "page@3556cd01179a057d974e0cda491e574c-1704275458.912237.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_101__page0.jpg",
+      "sha256": "4d03ad9dce8dfd4ef1a9dd4964dc898507475825678e9f26bbef045a57c583cd",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_101__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

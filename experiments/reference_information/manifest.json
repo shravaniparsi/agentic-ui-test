@@ -1,0 +1,26 @@
+{
+  "task_count": 147,
+  "generation_calls": 294,
+  "verification_calls": 1470,
+  "screenshots_present": 147,
+  "generation_manifest_sha256": "5e368419d2c0ab4d3426ce3d615dfba5ebe90f2e4aca24359d2158717ace7610",
+  "seed": 20260927,
+  "models": {
+    "gpt-4.1": "gpt-4.1",
+    "gpt-4.1-mini": "gpt-4.1-mini",
+    "gpt-4.1-nano": "gpt-4.1-nano",
+    "claude-sonnet-4": "claude-sonnet-4-6",
+    "gemini-3.6-flash": "gemini-3.6-flash"
+  },
+  "status": "complete",
+  "generation_completed": 294,
+  "image_dimensions_exception": {
+    "vwa_shopping_310": [
+      844,
+      393
+    ]
+  },
+  "verification_successes": 1470,
+  "gemini_remaining": 0,
+  "gemini_remaining_at_resume": 273
+}

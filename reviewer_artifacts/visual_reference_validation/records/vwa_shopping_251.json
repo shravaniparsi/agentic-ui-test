@@ -1,0 +1,712 @@
+{
+  "instance_id": "vwa_shopping_251",
+  "domain": "shopping",
+  "filename_task_id": 251,
+  "source_url": "https://drive.usercontent.google.com/download?id=1REouRh6E-f_Nhd0Mky7ZZMejBqLK1aFR&export=download&confirm=t",
+  "source_file_id": "1REouRh6E-f_Nhd0Mky7ZZMejBqLK1aFR",
+  "archive_sha256": "b32f5b59c1994cf0f1236679fcc893be4b7ccddfd38b23fab869b24a09a2b66e",
+  "archive_bytes": 17559443,
+  "event_types": {
+    "context-options": 1,
+    "event": 62,
+    "screencast-frame": 504,
+    "before": 17,
+    "frame-snapshot": 55,
+    "input": 21,
+    "after": 17,
+    "object": 1
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703280881710,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/alcoholic-beverages/wine.html",
+      "snapshotName": "before@call@6b06ef04e9a62bfbbd76559de7c02593",
+      "timestamp": 15728.385,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/alcoholic-beverages/wine.html",
+      "snapshotName": "input@call@6b06ef04e9a62bfbbd76559de7c02593",
+      "timestamp": 15770.492,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "after@call@6b06ef04e9a62bfbbd76559de7c02593",
+      "timestamp": 17284.989,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "before@call@863ecfc9d01f4baf1a76c856c955c5d8",
+      "timestamp": 26404.335,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@863ecfc9d01f4baf1a76c856c955c5d8",
+      "timestamp": 26471.262,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "after@call@863ecfc9d01f4baf1a76c856c955c5d8",
+      "timestamp": 26500.02,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "before@call@f6e1dae5cdb0ac2fdab52762d6fb814a",
+      "timestamp": 29498.591,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@f6e1dae5cdb0ac2fdab52762d6fb814a",
+      "timestamp": 29557.958,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "after@call@f6e1dae5cdb0ac2fdab52762d6fb814a",
+      "timestamp": 29581.471,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "before@call@06fb65d284703c53c6d43cd542e44054",
+      "timestamp": 33325.968,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@06fb65d284703c53c6d43cd542e44054",
+      "timestamp": 33358.812,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "after@call@06fb65d284703c53c6d43cd542e44054",
+      "timestamp": 33387.11,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "before@call@e3ddb11f3d4c0eb438dbf5e6cfcb46b6",
+      "timestamp": 35571.252,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@e3ddb11f3d4c0eb438dbf5e6cfcb46b6",
+      "timestamp": 35626.271,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "after@call@e3ddb11f3d4c0eb438dbf5e6cfcb46b6",
+      "timestamp": 35650.455,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "before@call@957fdc2371a5a9414ad0150ff2feab7f",
+      "timestamp": 37954.874,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@957fdc2371a5a9414ad0150ff2feab7f",
+      "timestamp": 38009.848,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "after@call@957fdc2371a5a9414ad0150ff2feab7f",
+      "timestamp": 38036.877,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "before@call@959405ab45ebb7cff75e5a66f8270b57",
+      "timestamp": 40320.206,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@959405ab45ebb7cff75e5a66f8270b57",
+      "timestamp": 44288.976,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "after@call@959405ab45ebb7cff75e5a66f8270b57",
+      "timestamp": 44303.179,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "before@call@4a095e6f5b9728fef742650db94ae417",
+      "timestamp": 48690.782,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@4a095e6f5b9728fef742650db94ae417",
+      "timestamp": 48743.412,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "after@call@4a095e6f5b9728fef742650db94ae417",
+      "timestamp": 48773.558,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "before@call@1545bd6aebf3f180e482f4d6ed6bbe14",
+      "timestamp": 53390.37,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@1545bd6aebf3f180e482f4d6ed6bbe14",
+      "timestamp": 57845.164,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@1545bd6aebf3f180e482f4d6ed6bbe14",
+      "timestamp": 57876.164,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@1545bd6aebf3f180e482f4d6ed6bbe14",
+      "timestamp": 57921.252,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@1545bd6aebf3f180e482f4d6ed6bbe14",
+      "timestamp": 58056.328,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@1545bd6aebf3f180e482f4d6ed6bbe14",
+      "timestamp": 58194.354,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "after@call@1545bd6aebf3f180e482f4d6ed6bbe14",
+      "timestamp": 58407.005,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "before@call@bf92d015c371c37b34f6f2fc7da6ad8e",
+      "timestamp": 60012.996,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@bf92d015c371c37b34f6f2fc7da6ad8e",
+      "timestamp": 60057.382,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "after@call@bf92d015c371c37b34f6f2fc7da6ad8e",
+      "timestamp": 60074.676,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "before@call@bb94809303d58488393f6bf97a49a94a",
+      "timestamp": 64103.621,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@bb94809303d58488393f6bf97a49a94a",
+      "timestamp": 64142.707,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "after@call@bb94809303d58488393f6bf97a49a94a",
+      "timestamp": 64165.097,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "before@call@40fcd7a05a77ee3344c66714a9e1fd6f",
+      "timestamp": 67618.006,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@40fcd7a05a77ee3344c66714a9e1fd6f",
+      "timestamp": 67659.531,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "after@call@40fcd7a05a77ee3344c66714a9e1fd6f",
+      "timestamp": 67686.836,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "before@call@cebb930f533968f28af2588587a1f756",
+      "timestamp": 72134.305,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@cebb930f533968f28af2588587a1f756",
+      "timestamp": 72194.933,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "after@call@cebb930f533968f28af2588587a1f756",
+      "timestamp": 72222.234,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "before@call@f91ee9cf6132d111441fe8b60cb604a9",
+      "timestamp": 75654.45,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@f91ee9cf6132d111441fe8b60cb604a9",
+      "timestamp": 75710.455,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "after@call@f91ee9cf6132d111441fe8b60cb604a9",
+      "timestamp": 75748.833,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "before@call@581b62afa8cd4be84ee8282a5fbbc908",
+      "timestamp": 77170.275,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/st-regis-chardonnay-non-alcoholic-wine-25-4-fl-oz.html",
+      "snapshotName": "input@call@581b62afa8cd4be84ee8282a5fbbc908",
+      "timestamp": 77228.334,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/",
+      "snapshotName": "after@call@581b62afa8cd4be84ee8282a5fbbc908",
+      "timestamp": 78469.422,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "before@call@2ccefeaf60965e0a04972f55d9ba36dd",
+      "timestamp": 85543.72,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "input@call@2ccefeaf60965e0a04972f55d9ba36dd",
+      "timestamp": 85589.405,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "after@call@2ccefeaf60965e0a04972f55d9ba36dd",
+      "timestamp": 85615.098,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "before@call@e1a70c1e5fb0aacc9cae941afb62a999",
+      "timestamp": 92329.207,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "input@call@e1a70c1e5fb0aacc9cae941afb62a999",
+      "timestamp": 92372.397,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@62fb81db6987d1dc74e716865a3e9415",
+      "frameId": "frame@2a81754cea9e3921e7b18771e62d253a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "after@call@e1a70c1e5fb0aacc9cae941afb62a999",
+      "timestamp": 92393.385,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@62fb81db6987d1dc74e716865a3e9415",
+      "timestamp": 96910.421,
+      "resource": "page@62fb81db6987d1dc74e716865a3e9415-1703280977.803873.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_251__page0.jpg",
+      "sha256": "25e047565bbb1108c1f846cb8b0a7ed855a4dcc16349de22404329b67ccf7b34",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_251__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,12 @@
+{
+  "audited_traces": 233,
+  "historical_pool": 147,
+  "flags": {
+    "task_image_context": 97,
+    "no_dom_snapshots": 31,
+    "multiple_pages": 56,
+    "no_final_snapshot_gold_url_match": 21,
+    "first_snapshot_differs_from_start": 38
+  },
+  "historical_gold_url_candidates": 23
+}

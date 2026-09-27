@@ -1,0 +1,88 @@
+{
+  "instance_id": "vwa_shopping_314",
+  "domain": "shopping",
+  "filename_task_id": 314,
+  "source_url": "https://drive.usercontent.google.com/download?id=1a5RCxkZ_HEfhLsw4wy7jr9fp2cTu_Ebv&export=download&confirm=t",
+  "source_file_id": "1a5RCxkZ_HEfhLsw4wy7jr9fp2cTu_Ebv",
+  "archive_sha256": "78bc59ca46e5b9152147cb1dcdfb753b8cdb7d1ac6d18a484a9cae07aaaf7f79",
+  "archive_bytes": 6913443,
+  "event_types": {
+    "context-options": 1,
+    "event": 42,
+    "screencast-frame": 92,
+    "before": 1,
+    "frame-snapshot": 3,
+    "input": 1,
+    "after": 1,
+    "object": 10
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703283525019,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@94b7ce147eaff504f44bdd18d745048d",
+      "frameId": "frame@4cc50ea033b7edc1367275be941631ec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=adapter",
+      "snapshotName": "before@call@8b776344cbf7cf51f75106977c192e5a",
+      "timestamp": 25456.907,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@94b7ce147eaff504f44bdd18d745048d",
+      "frameId": "frame@4cc50ea033b7edc1367275be941631ec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=adapter",
+      "snapshotName": "input@call@8b776344cbf7cf51f75106977c192e5a",
+      "timestamp": 25497.219,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@94b7ce147eaff504f44bdd18d745048d",
+      "frameId": "frame@4cc50ea033b7edc1367275be941631ec",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/adapters-for-macbook-pro-usb-hdmi-adapter-multiport-usb-c-hub-macbook-pro-adapter-dongle-7-in-2-macbook-pro-usb-c-docking-station-dual-monitor-hdmi-adapter-with-dual-hdmi-2-usb-3-0-tf-sd-usb-c-100w.html",
+      "snapshotName": "after@call@8b776344cbf7cf51f75106977c192e5a",
+      "timestamp": 26746.816,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@94b7ce147eaff504f44bdd18d745048d",
+      "timestamp": 30730.915,
+      "resource": "page@94b7ce147eaff504f44bdd18d745048d-1703283555.12351.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_314__page0.jpg",
+      "sha256": "27abf1499a44e493cc306108c4486b6c6e1c2d3fd57cd128230bd113332d526b",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_314__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

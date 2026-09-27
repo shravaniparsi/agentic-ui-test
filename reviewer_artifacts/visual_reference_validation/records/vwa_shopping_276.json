@@ -1,0 +1,195 @@
+{
+  "instance_id": "vwa_shopping_276",
+  "domain": "shopping",
+  "filename_task_id": 276,
+  "source_url": "https://drive.usercontent.google.com/download?id=1ibbwyMp1jR2t-ASqhBAHiEq2UkFuP4m6&export=download&confirm=t",
+  "source_file_id": "1ibbwyMp1jR2t-ASqhBAHiEq2UkFuP4m6",
+  "archive_sha256": "93a99cb4ab279394bf0b93e99b699a751ea79428e61a60cb588f444b3705520c",
+  "archive_bytes": 13820462,
+  "event_types": {
+    "context-options": 1,
+    "event": 73,
+    "screencast-frame": 222,
+    "before": 4,
+    "frame-snapshot": 12,
+    "input": 4,
+    "after": 4
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703282917207,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@838c005a8e70870d05ad48dc34a2738a",
+      "frameId": "frame@c683cfe71f603dc05bfdaad3ffc2f687",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@d3d7583c773d9e78708b56987dd61e94",
+      "timestamp": 37075.965,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@838c005a8e70870d05ad48dc34a2738a",
+      "frameId": "frame@c683cfe71f603dc05bfdaad3ffc2f687",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@d3d7583c773d9e78708b56987dd61e94",
+      "timestamp": 37118.291,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@838c005a8e70870d05ad48dc34a2738a",
+      "frameId": "frame@c683cfe71f603dc05bfdaad3ffc2f687",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/playstation-4.html",
+      "snapshotName": "after@call@d3d7583c773d9e78708b56987dd61e94",
+      "timestamp": 38481.472,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@838c005a8e70870d05ad48dc34a2738a",
+      "frameId": "frame@c683cfe71f603dc05bfdaad3ffc2f687",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/playstation-4.html",
+      "snapshotName": "before@call@03dddeb950722e96fe2e4a6afb0bcb75",
+      "timestamp": 41868.112,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@838c005a8e70870d05ad48dc34a2738a",
+      "frameId": "frame@c683cfe71f603dc05bfdaad3ffc2f687",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/playstation-4.html",
+      "snapshotName": "input@call@03dddeb950722e96fe2e4a6afb0bcb75",
+      "timestamp": 41937.85,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@838c005a8e70870d05ad48dc34a2738a",
+      "frameId": "frame@c683cfe71f603dc05bfdaad3ffc2f687",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/playstation-4.html?p=2",
+      "snapshotName": "after@call@03dddeb950722e96fe2e4a6afb0bcb75",
+      "timestamp": 43302.868,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@838c005a8e70870d05ad48dc34a2738a",
+      "frameId": "frame@c683cfe71f603dc05bfdaad3ffc2f687",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/playstation-4.html?p=2",
+      "snapshotName": "before@call@3d423effbea9d35fbf7fefb482c308a7",
+      "timestamp": 48777.892,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@838c005a8e70870d05ad48dc34a2738a",
+      "frameId": "frame@c683cfe71f603dc05bfdaad3ffc2f687",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/playstation-4.html?p=2",
+      "snapshotName": "input@call@3d423effbea9d35fbf7fefb482c308a7",
+      "timestamp": 48819.333,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@838c005a8e70870d05ad48dc34a2738a",
+      "frameId": "frame@c683cfe71f603dc05bfdaad3ffc2f687",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/playstation-4.html?p=3",
+      "snapshotName": "after@call@3d423effbea9d35fbf7fefb482c308a7",
+      "timestamp": 50048.604,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@838c005a8e70870d05ad48dc34a2738a",
+      "frameId": "frame@c683cfe71f603dc05bfdaad3ffc2f687",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/playstation-4.html?p=3",
+      "snapshotName": "before@call@0ab36797466fadcf14d717bb6518315c",
+      "timestamp": 62339.577,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@838c005a8e70870d05ad48dc34a2738a",
+      "frameId": "frame@c683cfe71f603dc05bfdaad3ffc2f687",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/playstation-4.html?p=3",
+      "snapshotName": "input@call@0ab36797466fadcf14d717bb6518315c",
+      "timestamp": 62388.03,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@838c005a8e70870d05ad48dc34a2738a",
+      "frameId": "frame@c683cfe71f603dc05bfdaad3ffc2f687",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/vanknight-playstation-4-dualshock-ps4-controller-skin-vinyl-decals-skins-stickers-2-pack-for-ps4-controller-skins-ps4-skins-deadpool.html",
+      "snapshotName": "after@call@0ab36797466fadcf14d717bb6518315c",
+      "timestamp": 63725.837,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@838c005a8e70870d05ad48dc34a2738a",
+      "timestamp": 72247.119,
+      "resource": "page@838c005a8e70870d05ad48dc34a2738a-1703282988.654888.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_276__page0.jpg",
+      "sha256": "b7065fd6c92f0481c9f5b6905418d1cad34a8b3c9b19385d27f72e411604b97f",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_276__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

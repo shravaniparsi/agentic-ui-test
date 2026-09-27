@@ -1,0 +1,87 @@
+{
+  "instance_id": "vwa_shopping_439",
+  "domain": "shopping",
+  "filename_task_id": 439,
+  "source_url": "https://drive.usercontent.google.com/download?id=1YfjHSG2GD71KngQaI-OCtRRas6YNL1ti&export=download&confirm=t",
+  "source_file_id": "1YfjHSG2GD71KngQaI-OCtRRas6YNL1ti",
+  "archive_sha256": "e89d38c745be958f506de90307a93686f40d040ad38de2f687a26d097ccf0f93",
+  "archive_bytes": 5924883,
+  "event_types": {
+    "context-options": 1,
+    "event": 71,
+    "screencast-frame": 89,
+    "before": 1,
+    "frame-snapshot": 3,
+    "input": 1,
+    "after": 1
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703217342562,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@d9378e5b0a4a1c3b9fce07d2fb7c42fb",
+      "frameId": "frame@aa8b9c8b6ee6d1edc40f1098bb475730",
+      "frameUrl": "http://localhost:7770/electronics/camera-photo/underwater-photography.html",
+      "snapshotName": "before@call@06e58d415090f2d72e353dc97c0f7c33",
+      "timestamp": 26805.8,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d9378e5b0a4a1c3b9fce07d2fb7c42fb",
+      "frameId": "frame@aa8b9c8b6ee6d1edc40f1098bb475730",
+      "frameUrl": "http://localhost:7770/electronics/camera-photo/underwater-photography.html",
+      "snapshotName": "input@call@06e58d415090f2d72e353dc97c0f7c33",
+      "timestamp": 26833.38,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d9378e5b0a4a1c3b9fce07d2fb7c42fb",
+      "frameId": "frame@aa8b9c8b6ee6d1edc40f1098bb475730",
+      "frameUrl": "http://localhost:7770/electronics/camera-photo/underwater-photography.html?product_list_dir=desc",
+      "snapshotName": "after@call@06e58d415090f2d72e353dc97c0f7c33",
+      "timestamp": 27194.749,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@d9378e5b0a4a1c3b9fce07d2fb7c42fb",
+      "timestamp": 43028.61,
+      "resource": "page@d9378e5b0a4a1c3b9fce07d2fb7c42fb-1703217385.139996.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_439__page0.jpg",
+      "sha256": "5ae4e8288e8b6209be5dcde6824d09b646ce618910662beb15eaf6513895df35",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_439__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

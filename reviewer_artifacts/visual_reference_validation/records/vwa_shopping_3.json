@@ -1,0 +1,460 @@
+{
+  "instance_id": "vwa_shopping_3",
+  "domain": "shopping",
+  "filename_task_id": 3,
+  "source_url": "https://drive.usercontent.google.com/download?id=1JZfsoGLZ6FEhnQm16eNRuOCXuBX6fPZP&export=download&confirm=t",
+  "source_file_id": "1JZfsoGLZ6FEhnQm16eNRuOCXuBX6fPZP",
+  "archive_sha256": "4c4a39504e9e69c86edde03e402a89b94397cfadad4e6845bbfc38ad433c9b1b",
+  "archive_bytes": 21966035,
+  "event_types": {
+    "context-options": 1,
+    "event": 146,
+    "screencast-frame": 415,
+    "before": 8,
+    "frame-snapshot": 32,
+    "input": 8,
+    "after": 8,
+    "object": 26
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703274243870,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@ed3bb5d205f6ac96295a55ffb6256e33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@413c6280c4750a39d9f20acfb09a2e11",
+      "timestamp": 13211.901,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@ed3bb5d205f6ac96295a55ffb6256e33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@413c6280c4750a39d9f20acfb09a2e11",
+      "timestamp": 13259.758,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@ed3bb5d205f6ac96295a55ffb6256e33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/playstation-4/accessories.html",
+      "snapshotName": "after@call@413c6280c4750a39d9f20acfb09a2e11",
+      "timestamp": 14852.462,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@ed3bb5d205f6ac96295a55ffb6256e33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/playstation-4/accessories.html?product_list_order=price",
+      "snapshotName": "input@call@50994df9f6f2b79202eb7d41825f2607",
+      "timestamp": 23996.416,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@ed3bb5d205f6ac96295a55ffb6256e33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/playstation-4/accessories.html?product_list_order=price",
+      "snapshotName": "after@call@50994df9f6f2b79202eb7d41825f2607",
+      "timestamp": 24034.326,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@ed3bb5d205f6ac96295a55ffb6256e33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/playstation-4/accessories.html?product_list_order=price",
+      "snapshotName": "before@call@009fce62d6109fdf64ef2a33e44c2717",
+      "timestamp": 25063.116,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@ed3bb5d205f6ac96295a55ffb6256e33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/playstation-4/accessories.html?product_list_order=price",
+      "snapshotName": "input@call@009fce62d6109fdf64ef2a33e44c2717",
+      "timestamp": 25093.97,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@ed3bb5d205f6ac96295a55ffb6256e33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/playstation-4/accessories.html?product_list_order=price&product_list_dir=desc",
+      "snapshotName": "after@call@009fce62d6109fdf64ef2a33e44c2717",
+      "timestamp": 26214.292,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7a74dda4991e568849668df55e7ff2e7",
+      "frameId": "frame@d305ee6cf7fdcf317b8164bd35a674f7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/blue-stripe-flag-custom-wireless-un-modded-pro-controller-compatible-with-ps5-exclusive-unique-design.html",
+      "snapshotName": "before@call@4ffe6c69c7990e2da5ece600d4f444cf",
+      "timestamp": 50572.962,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7a74dda4991e568849668df55e7ff2e7",
+      "frameId": "frame@d305ee6cf7fdcf317b8164bd35a674f7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/blue-stripe-flag-custom-wireless-un-modded-pro-controller-compatible-with-ps5-exclusive-unique-design.html",
+      "snapshotName": "input@call@4ffe6c69c7990e2da5ece600d4f444cf",
+      "timestamp": 50608.325,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7a74dda4991e568849668df55e7ff2e7",
+      "frameId": "frame@d305ee6cf7fdcf317b8164bd35a674f7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/blue-stripe-flag-custom-wireless-un-modded-pro-controller-compatible-with-ps5-exclusive-unique-design.html",
+      "snapshotName": "after@call@4ffe6c69c7990e2da5ece600d4f444cf",
+      "timestamp": 50644.801,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@dbc60e17cb3b00d620833f357c7893e2",
+      "frameId": "frame@a5c51e98e25d535a2e4945d8883a0238",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dualshock-4-wireless-controller-for-playstation-4-magma-red.html",
+      "snapshotName": "before@call@95485746cef02a99e8f397b3f1c9734a",
+      "timestamp": 69879.906,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@dbc60e17cb3b00d620833f357c7893e2",
+      "frameId": "frame@24fce811ccc7e775b69b0bc0a2f821e5",
+      "frameUrl": "about:blank",
+      "snapshotName": "before@call@95485746cef02a99e8f397b3f1c9734a",
+      "timestamp": 69883.899,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@dbc60e17cb3b00d620833f357c7893e2",
+      "frameId": "frame@a5c51e98e25d535a2e4945d8883a0238",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dualshock-4-wireless-controller-for-playstation-4-magma-red.html",
+      "snapshotName": "input@call@95485746cef02a99e8f397b3f1c9734a",
+      "timestamp": 69932.754,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@dbc60e17cb3b00d620833f357c7893e2",
+      "frameId": "frame@24fce811ccc7e775b69b0bc0a2f821e5",
+      "frameUrl": "about:blank",
+      "snapshotName": "input@call@95485746cef02a99e8f397b3f1c9734a",
+      "timestamp": 69933.324,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@dbc60e17cb3b00d620833f357c7893e2",
+      "frameId": "frame@a5c51e98e25d535a2e4945d8883a0238",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dualshock-4-wireless-controller-for-playstation-4-magma-red.html",
+      "snapshotName": "after@call@95485746cef02a99e8f397b3f1c9734a",
+      "timestamp": 69967.686,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@dbc60e17cb3b00d620833f357c7893e2",
+      "frameId": "frame@24fce811ccc7e775b69b0bc0a2f821e5",
+      "frameUrl": "about:blank",
+      "snapshotName": "after@call@95485746cef02a99e8f397b3f1c9734a",
+      "timestamp": 69968.139,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@ed3bb5d205f6ac96295a55ffb6256e33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/playstation-4/accessories.html?product_list_order=price&product_list_dir=desc",
+      "snapshotName": "before@call@0e0e935e655f0782861ef0c31b895321",
+      "timestamp": 76268.748,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@ed3bb5d205f6ac96295a55ffb6256e33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/playstation-4/accessories.html?product_list_order=price&product_list_dir=desc",
+      "snapshotName": "input@call@0e0e935e655f0782861ef0c31b895321",
+      "timestamp": 76311.182,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@ed3bb5d205f6ac96295a55ffb6256e33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dualshock-4-wireless-controller-for-playstation-4-magma-red.html",
+      "snapshotName": "after@call@0e0e935e655f0782861ef0c31b895321",
+      "timestamp": 76643.888,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@ed3bb5d205f6ac96295a55ffb6256e33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dualshock-4-wireless-controller-for-playstation-4-magma-red.html",
+      "snapshotName": "before@call@38429ece5cab926c30146f237346c666",
+      "timestamp": 80252.47,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@c9d8bcea6bcad56753aca688e13ca3eb",
+      "frameUrl": "about:blank",
+      "snapshotName": "before@call@38429ece5cab926c30146f237346c666",
+      "timestamp": 80255.873,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@ed3bb5d205f6ac96295a55ffb6256e33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dualshock-4-wireless-controller-for-playstation-4-magma-red.html",
+      "snapshotName": "input@call@38429ece5cab926c30146f237346c666",
+      "timestamp": 80293.999,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@c9d8bcea6bcad56753aca688e13ca3eb",
+      "frameUrl": "about:blank",
+      "snapshotName": "input@call@38429ece5cab926c30146f237346c666",
+      "timestamp": 80294.28,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@ed3bb5d205f6ac96295a55ffb6256e33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dualshock-4-wireless-controller-for-playstation-4-magma-red.html",
+      "snapshotName": "after@call@38429ece5cab926c30146f237346c666",
+      "timestamp": 80323.568,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@c9d8bcea6bcad56753aca688e13ca3eb",
+      "frameUrl": "about:blank",
+      "snapshotName": "after@call@38429ece5cab926c30146f237346c666",
+      "timestamp": 80325.457,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@ed3bb5d205f6ac96295a55ffb6256e33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dualshock-4-wireless-controller-for-playstation-4-magma-red.html",
+      "snapshotName": "before@call@54863381885bf79282c8d067a5e120c0",
+      "timestamp": 87252.967,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@c9d8bcea6bcad56753aca688e13ca3eb",
+      "frameUrl": "about:blank",
+      "snapshotName": "before@call@54863381885bf79282c8d067a5e120c0",
+      "timestamp": 87253.434,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@ed3bb5d205f6ac96295a55ffb6256e33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dualshock-4-wireless-controller-for-playstation-4-magma-red.html",
+      "snapshotName": "input@call@54863381885bf79282c8d067a5e120c0",
+      "timestamp": 87319.11,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@c9d8bcea6bcad56753aca688e13ca3eb",
+      "frameUrl": "about:blank",
+      "snapshotName": "input@call@54863381885bf79282c8d067a5e120c0",
+      "timestamp": 87319.7,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@ed3bb5d205f6ac96295a55ffb6256e33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dualshock-4-wireless-controller-for-playstation-4-magma-red.html",
+      "snapshotName": "after@call@54863381885bf79282c8d067a5e120c0",
+      "timestamp": 87346.939,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "frameId": "frame@c9d8bcea6bcad56753aca688e13ca3eb",
+      "frameUrl": "about:blank",
+      "snapshotName": "after@call@54863381885bf79282c8d067a5e120c0",
+      "timestamp": 87347.012,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@7a74dda4991e568849668df55e7ff2e7",
+      "timestamp": 83638.617,
+      "resource": "page@7a74dda4991e568849668df55e7ff2e7-1703274326.724684.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_3__page0.jpg",
+      "sha256": "5be995ae3fa6e1c4c1128030b3638b9f35883e42d3c7c1d0f88bb0fe44c9c023",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@dbc60e17cb3b00d620833f357c7893e2",
+      "timestamp": 85176.653,
+      "resource": "page@dbc60e17cb3b00d620833f357c7893e2-1703274328.261571.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_3__page1.jpg",
+      "sha256": "e775148f907c1e4152bd263c6a1e03f20da9028ec8494b36ab4ac2f5f03ba9d0",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@3ff2cccc21bce7cb21a3fee8619892b7",
+      "timestamp": 90472.046,
+      "resource": "page@3ff2cccc21bce7cb21a3fee8619892b7-1703274333.556758.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_3__page2.jpg",
+      "sha256": "d3da46bef74e45c783464cf8a8bd47dfa38ed294389940f1cb6dd003ecf8bfb2",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_3__page2.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

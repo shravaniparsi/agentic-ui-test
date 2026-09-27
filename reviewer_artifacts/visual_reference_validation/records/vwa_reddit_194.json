@@ -1,0 +1,160 @@
+{
+  "instance_id": "vwa_reddit_194",
+  "domain": "reddit",
+  "filename_task_id": 194,
+  "source_url": "https://drive.usercontent.google.com/download?id=1EwlMi1rybSYznSxjmCik25D81QP2ZL9w&export=download&confirm=t",
+  "source_file_id": "1EwlMi1rybSYznSxjmCik25D81QP2ZL9w",
+  "archive_sha256": "9f170c662d3a0ce4dfd2693fb11e6a15817b64f3a2f91d3802d92fb1e38fb543",
+  "archive_bytes": 10590470,
+  "event_types": {
+    "context-options": 1,
+    "event": 119,
+    "screencast-frame": 193,
+    "object": 69,
+    "before": 3,
+    "frame-snapshot": 9,
+    "input": 3,
+    "after": 3
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704271464233,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@1ee00e0c7183b1dcca0f4fd29923dc0c",
+      "frameId": "frame@c43c542fcc67d3fc2f8baabfb22bbc10",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/EarthPorn/top?t=all",
+      "snapshotName": "before@call@e3fbd86b0d41ad1b16d35f0b74ad173c",
+      "timestamp": 60863.127,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1ee00e0c7183b1dcca0f4fd29923dc0c",
+      "frameId": "frame@c43c542fcc67d3fc2f8baabfb22bbc10",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/EarthPorn/top?t=all",
+      "snapshotName": "input@call@e3fbd86b0d41ad1b16d35f0b74ad173c",
+      "timestamp": 60930.857,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1ee00e0c7183b1dcca0f4fd29923dc0c",
+      "frameId": "frame@c43c542fcc67d3fc2f8baabfb22bbc10",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/EarthPorn/119058/aurora-and-crescent-moon-near-svolvaer-norway-2500x1668-oc",
+      "snapshotName": "after@call@e3fbd86b0d41ad1b16d35f0b74ad173c",
+      "timestamp": 62557.472,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1ee00e0c7183b1dcca0f4fd29923dc0c",
+      "frameId": "frame@c43c542fcc67d3fc2f8baabfb22bbc10",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/EarthPorn/119058/aurora-and-crescent-moon-near-svolvaer-norway-2500x1668-oc",
+      "snapshotName": "before@call@e44ffacbde38324ecc468f8a9a2fe59f",
+      "timestamp": 72212.709,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1ee00e0c7183b1dcca0f4fd29923dc0c",
+      "frameId": "frame@c43c542fcc67d3fc2f8baabfb22bbc10",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/EarthPorn/119058/aurora-and-crescent-moon-near-svolvaer-norway-2500x1668-oc",
+      "snapshotName": "input@call@e44ffacbde38324ecc468f8a9a2fe59f",
+      "timestamp": 72348.019,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1ee00e0c7183b1dcca0f4fd29923dc0c",
+      "frameId": "frame@c43c542fcc67d3fc2f8baabfb22bbc10",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/EarthPorn/119058/aurora-and-crescent-moon-near-svolvaer-norway-2500x1668-oc",
+      "snapshotName": "after@call@e44ffacbde38324ecc468f8a9a2fe59f",
+      "timestamp": 72516.853,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1ee00e0c7183b1dcca0f4fd29923dc0c",
+      "frameId": "frame@c43c542fcc67d3fc2f8baabfb22bbc10",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/EarthPorn/119058/aurora-and-crescent-moon-near-svolvaer-norway-2500x1668-oc",
+      "snapshotName": "before@call@64f8a74076e8ea6564e71e931d578038",
+      "timestamp": 74790.005,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1ee00e0c7183b1dcca0f4fd29923dc0c",
+      "frameId": "frame@c43c542fcc67d3fc2f8baabfb22bbc10",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/EarthPorn/119058/aurora-and-crescent-moon-near-svolvaer-norway-2500x1668-oc",
+      "snapshotName": "input@call@64f8a74076e8ea6564e71e931d578038",
+      "timestamp": 74895.322,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1ee00e0c7183b1dcca0f4fd29923dc0c",
+      "frameId": "frame@c43c542fcc67d3fc2f8baabfb22bbc10",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/EarthPorn/119058/aurora-and-crescent-moon-near-svolvaer-norway-2500x1668-oc/comment/4",
+      "snapshotName": "after@call@64f8a74076e8ea6564e71e931d578038",
+      "timestamp": 75762.077,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@1ee00e0c7183b1dcca0f4fd29923dc0c",
+      "timestamp": 77856.861,
+      "resource": "page@1ee00e0c7183b1dcca0f4fd29923dc0c-1704271541.525751.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_194__page0.jpg",
+      "sha256": "c495b0d057443345d3c27323e5575f9e4b8afc37f05b0e5cdbad65ad009794aa",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_194__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

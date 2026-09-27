@@ -1,0 +1,327 @@
+{
+  "instance_id": "vwa_shopping_135",
+  "domain": "shopping",
+  "filename_task_id": 135,
+  "source_url": "https://drive.usercontent.google.com/download?id=12ZTet8xoOw_G5bMngp20BkY41Zb4RNyE&export=download&confirm=t",
+  "source_file_id": "12ZTet8xoOw_G5bMngp20BkY41Zb4RNyE",
+  "archive_sha256": "af3c551a317c71e59c12ab190a2241189e77482c1fee7b0901616ac8fb2a1135",
+  "archive_bytes": 10919193,
+  "event_types": {
+    "context-options": 1,
+    "event": 45,
+    "screencast-frame": 192,
+    "before": 8,
+    "frame-snapshot": 23,
+    "input": 8,
+    "after": 8
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703285383886,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "before@call@f3567b123796de954156b3f1af556d4a",
+      "timestamp": 10537.919,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "input@call@f3567b123796de954156b3f1af556d4a",
+      "timestamp": 10578.72,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "after@call@f3567b123796de954156b3f1af556d4a",
+      "timestamp": 10588.487,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "before@call@4212501d514b6375c6ca30212b6f10bd",
+      "timestamp": 11224.161,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "input@call@4212501d514b6375c6ca30212b6f10bd",
+      "timestamp": 11267.192,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "after@call@4212501d514b6375c6ca30212b6f10bd",
+      "timestamp": 11278.282,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "before@call@31e32fb492c130a5544da89bad6e2998",
+      "timestamp": 13933.469000000001,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "input@call@31e32fb492c130a5544da89bad6e2998",
+      "timestamp": 13983.768,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "after@call@31e32fb492c130a5544da89bad6e2998",
+      "timestamp": 14034.638,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "before@call@2ec06160d12bbb4b0a509831d893788e",
+      "timestamp": 14757.568,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "input@call@2ec06160d12bbb4b0a509831d893788e",
+      "timestamp": 14784.538,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "after@call@2ec06160d12bbb4b0a509831d893788e",
+      "timestamp": 14795.171,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "before@call@6faff26ea5d4eb45d2db66091f318abb",
+      "timestamp": 16650.664,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "input@call@6faff26ea5d4eb45d2db66091f318abb",
+      "timestamp": 16659.873,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "before@call@ad6a553b973c634866c03ce89ec836f9",
+      "timestamp": 34099,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "input@call@ad6a553b973c634866c03ce89ec836f9",
+      "timestamp": 34165.163,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "after@call@ad6a553b973c634866c03ce89ec836f9",
+      "timestamp": 34178.331,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "before@call@b480979a7c9c3a009ff76ef4401973a7",
+      "timestamp": 34367.691,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "input@call@b480979a7c9c3a009ff76ef4401973a7",
+      "timestamp": 34398.253,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "after@call@b480979a7c9c3a009ff76ef4401973a7",
+      "timestamp": 34407.517,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "before@call@7ed2b6e2fb11e925b4b661548e36c4ac",
+      "timestamp": 35885.961,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "input@call@7ed2b6e2fb11e925b4b661548e36c4ac",
+      "timestamp": 35930.133,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "frameId": "frame@7edfa132ec1f214c6b74051d69b8f32f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/schlumbergera-hybrid-zygocactus-christmas-cactus-plant-3-5-inch-pot-1-plant.html",
+      "snapshotName": "after@call@7ed2b6e2fb11e925b4b661548e36c4ac",
+      "timestamp": 35940.033,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@0cfce398c1a107b805abfa8b9d09dc32",
+      "timestamp": 39765.206,
+      "resource": "page@0cfce398c1a107b805abfa8b9d09dc32-1703285422.87601.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_135__page0.jpg",
+      "sha256": "3ed660223b8924c3bf2c813b428bdd13ccf7f638f9d3fe067e197b6897c5cd29",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_135__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

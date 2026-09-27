@@ -1,0 +1,1720 @@
+{
+  "instance_id": "vwa_shopping_222",
+  "domain": "shopping",
+  "filename_task_id": 222,
+  "source_url": "https://drive.usercontent.google.com/download?id=1e68bSt6bM0xpYCEh6F3rwcHNUdPzjR2t&export=download&confirm=t",
+  "source_file_id": "1e68bSt6bM0xpYCEh6F3rwcHNUdPzjR2t",
+  "archive_sha256": "18d48ae3181f5ebeb6ab7d383d36686fa8cfe06a667d82184b6affd18675110b",
+  "archive_bytes": 77395656,
+  "event_types": {
+    "context-options": 1,
+    "event": 581,
+    "screencast-frame": 1399,
+    "before": 49,
+    "frame-snapshot": 139,
+    "input": 50,
+    "after": 49,
+    "object": 10
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703279109118,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@8855be300c757d2db34edb71fdb79b81",
+      "timestamp": 5528.373,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@8855be300c757d2db34edb71fdb79b81",
+      "timestamp": 5572.575,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@8855be300c757d2db34edb71fdb79b81",
+      "timestamp": 5584.385,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@7487ddc2c1e085a72b01c9290e5cb341",
+      "timestamp": 28682.558,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@7487ddc2c1e085a72b01c9290e5cb341",
+      "timestamp": 28724.683,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@7487ddc2c1e085a72b01c9290e5cb341",
+      "timestamp": 28777.762,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@cc31f736f2971a9a1496fe22bbcb75e6",
+      "timestamp": 30784.501,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@cc31f736f2971a9a1496fe22bbcb75e6",
+      "timestamp": 30802.481,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=USB+adapter",
+      "snapshotName": "after@call@cc31f736f2971a9a1496fe22bbcb75e6",
+      "timestamp": 32178.834,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=USB%20adapter&product_list_order=price",
+      "snapshotName": "input@call@6cb59d602b236f6a762a787765d9c153",
+      "timestamp": 38646.532,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=USB%20adapter&product_list_order=price",
+      "snapshotName": "after@call@6cb59d602b236f6a762a787765d9c153",
+      "timestamp": 38667.957,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=USB%20adapter&product_list_order=price",
+      "snapshotName": "before@call@63af5d39620dd2cfb2100545b9b3884d",
+      "timestamp": 42670.081,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=USB%20adapter&product_list_order=price",
+      "snapshotName": "input@call@63af5d39620dd2cfb2100545b9b3884d",
+      "timestamp": 42709.834,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=5&product_list_order=price&q=USB+adapter",
+      "snapshotName": "after@call@63af5d39620dd2cfb2100545b9b3884d",
+      "timestamp": 43984.199,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=5&product_list_order=price&q=USB+adapter",
+      "snapshotName": "before@call@5c1e1dc867942b9af8f74e7cd0a88a20",
+      "timestamp": 46277.246,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=5&product_list_order=price&q=USB+adapter",
+      "snapshotName": "input@call@5c1e1dc867942b9af8f74e7cd0a88a20",
+      "timestamp": 46323.176,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=7&product_list_order=price&q=USB+adapter",
+      "snapshotName": "after@call@5c1e1dc867942b9af8f74e7cd0a88a20",
+      "timestamp": 47626.049,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=7&product_list_order=price&q=USB+adapter",
+      "snapshotName": "before@call@3a248487085779c6e11ec1ab308caf14",
+      "timestamp": 49677.407,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=7&product_list_order=price&q=USB+adapter",
+      "snapshotName": "input@call@3a248487085779c6e11ec1ab308caf14",
+      "timestamp": 49722.774,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=9&product_list_order=price&q=USB+adapter",
+      "snapshotName": "after@call@3a248487085779c6e11ec1ab308caf14",
+      "timestamp": 51028.093,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=9&product_list_order=price&q=USB+adapter",
+      "snapshotName": "before@call@6ed1f1834044f3dd359ef7adb4304fea",
+      "timestamp": 53362.984,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=9&product_list_order=price&q=USB+adapter",
+      "snapshotName": "input@call@6ed1f1834044f3dd359ef7adb4304fea",
+      "timestamp": 53406.032,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=11&product_list_order=price&q=USB+adapter",
+      "snapshotName": "after@call@6ed1f1834044f3dd359ef7adb4304fea",
+      "timestamp": 55011.004,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=11&product_list_order=price&q=USB+adapter",
+      "snapshotName": "before@call@2c92b2781646adea52d12caa87616a3a",
+      "timestamp": 56422.993,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=11&product_list_order=price&q=USB+adapter",
+      "snapshotName": "input@call@2c92b2781646adea52d12caa87616a3a",
+      "timestamp": 56475.012,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=13&product_list_order=price&q=USB+adapter",
+      "snapshotName": "after@call@2c92b2781646adea52d12caa87616a3a",
+      "timestamp": 57977.305,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=13&product_list_order=price&q=USB+adapter",
+      "snapshotName": "before@call@2d72afc3b6a57acff4deb797b59ec9b0",
+      "timestamp": 59656.809,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=13&product_list_order=price&q=USB+adapter",
+      "snapshotName": "input@call@2d72afc3b6a57acff4deb797b59ec9b0",
+      "timestamp": 59706.398,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=15&product_list_order=price&q=USB+adapter",
+      "snapshotName": "after@call@2d72afc3b6a57acff4deb797b59ec9b0",
+      "timestamp": 60859.522,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=15&product_list_order=price&q=USB+adapter",
+      "snapshotName": "before@call@a198cebc07cd085c75c9080ac60e96b9",
+      "timestamp": 62728.069,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=15&product_list_order=price&q=USB+adapter",
+      "snapshotName": "input@call@a198cebc07cd085c75c9080ac60e96b9",
+      "timestamp": 62792.034,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=17&product_list_order=price&q=USB+adapter",
+      "snapshotName": "after@call@a198cebc07cd085c75c9080ac60e96b9",
+      "timestamp": 64076.113,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=17&product_list_order=price&q=USB+adapter",
+      "snapshotName": "before@call@e2a34227901fc059dedb011d530f9d4c",
+      "timestamp": 65842.297,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=17&product_list_order=price&q=USB+adapter",
+      "snapshotName": "input@call@e2a34227901fc059dedb011d530f9d4c",
+      "timestamp": 65892.79,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=19&product_list_order=price&q=USB+adapter",
+      "snapshotName": "after@call@e2a34227901fc059dedb011d530f9d4c",
+      "timestamp": 67186.915,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=19&product_list_order=price&q=USB+adapter",
+      "snapshotName": "before@call@1abbb8ddc9a3bafa4c1ad57db67c8184",
+      "timestamp": 68881.174,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=19&product_list_order=price&q=USB+adapter",
+      "snapshotName": "input@call@1abbb8ddc9a3bafa4c1ad57db67c8184",
+      "timestamp": 68922.384,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=21&product_list_order=price&q=USB+adapter",
+      "snapshotName": "after@call@1abbb8ddc9a3bafa4c1ad57db67c8184",
+      "timestamp": 70214.867,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=21&product_list_order=price&q=USB+adapter",
+      "snapshotName": "before@call@1be70c910211fc775c64e81f7a3a6b22",
+      "timestamp": 72680.211,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=21&product_list_order=price&q=USB+adapter",
+      "snapshotName": "input@call@1be70c910211fc775c64e81f7a3a6b22",
+      "timestamp": 72723.762,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=23&product_list_order=price&q=USB+adapter",
+      "snapshotName": "after@call@1be70c910211fc775c64e81f7a3a6b22",
+      "timestamp": 74533.8,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=23&product_list_order=price&q=USB+adapter",
+      "snapshotName": "before@call@9a1dc116d064a10d0bcf43a200ef2bc1",
+      "timestamp": 78830.769,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=23&product_list_order=price&q=USB+adapter",
+      "snapshotName": "input@call@9a1dc116d064a10d0bcf43a200ef2bc1",
+      "timestamp": 78912.567,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=25&product_list_order=price&q=USB+adapter",
+      "snapshotName": "after@call@9a1dc116d064a10d0bcf43a200ef2bc1",
+      "timestamp": 80300.641,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=25&product_list_order=price&q=USB+adapter",
+      "snapshotName": "before@call@b0146e7aa8a051bd01ff270e69c48b72",
+      "timestamp": 83022.896,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=25&product_list_order=price&q=USB+adapter",
+      "snapshotName": "input@call@b0146e7aa8a051bd01ff270e69c48b72",
+      "timestamp": 83076.18,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=27&product_list_order=price&q=USB+adapter",
+      "snapshotName": "after@call@b0146e7aa8a051bd01ff270e69c48b72",
+      "timestamp": 84441.862,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=27&product_list_order=price&q=USB+adapter",
+      "snapshotName": "before@call@7b55993d174b9201d654e958c9cbfe6d",
+      "timestamp": 89815.588,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=27&product_list_order=price&q=USB+adapter",
+      "snapshotName": "input@call@7b55993d174b9201d654e958c9cbfe6d",
+      "timestamp": 89857.556,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=27&product_list_order=price&q=USB+adapter",
+      "snapshotName": "after@call@7b55993d174b9201d654e958c9cbfe6d",
+      "timestamp": 89895.241,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=27&product_list_order=price&q=USB+adapter",
+      "snapshotName": "before@call@a4e4d95efac7349d93c9f637938b0eda",
+      "timestamp": 89940.179,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=27&product_list_order=price&q=USB+adapter",
+      "snapshotName": "input@call@a4e4d95efac7349d93c9f637938b0eda",
+      "timestamp": 89953.786,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=USB+adapter",
+      "snapshotName": "after@call@a4e4d95efac7349d93c9f637938b0eda",
+      "timestamp": 91457.112,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=USB%20adapter&product_list_order=price",
+      "snapshotName": "input@call@70223a0ee8e7f21db6e9478c30074b00",
+      "timestamp": 95431.768,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=USB%20adapter",
+      "snapshotName": "input@call@5a8b0dca6f510488718ca0fa19313648",
+      "timestamp": 96909.319,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=USB%20adapter",
+      "snapshotName": "input@call@5a8b0dca6f510488718ca0fa19313648",
+      "timestamp": 96992.492,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=USB%20adapter",
+      "snapshotName": "after@call@5a8b0dca6f510488718ca0fa19313648",
+      "timestamp": 97002.267,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=USB%20adapter",
+      "snapshotName": "before@call@39f02b012693bd13531578074deb13c4",
+      "timestamp": 100291.659,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=USB%20adapter",
+      "snapshotName": "input@call@39f02b012693bd13531578074deb13c4",
+      "timestamp": 100345.077,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=USB%20adapter",
+      "snapshotName": "after@call@39f02b012693bd13531578074deb13c4",
+      "timestamp": 100376.804,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=USB%20adapter",
+      "snapshotName": "before@call@f08ecf5a50e6773d824475e2a9e7dafc",
+      "timestamp": 101718.356,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=USB%20adapter",
+      "snapshotName": "input@call@f08ecf5a50e6773d824475e2a9e7dafc",
+      "timestamp": 101735.539,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=USB+adapter+switch",
+      "snapshotName": "before@call@b77eabbd3c1e243e83081a279bc939e2",
+      "timestamp": 109994.516,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=USB+adapter+switch",
+      "snapshotName": "input@call@b77eabbd3c1e243e83081a279bc939e2",
+      "timestamp": 110040.617,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=USB+adapter+switch",
+      "snapshotName": "after@call@b77eabbd3c1e243e83081a279bc939e2",
+      "timestamp": 111482.566,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=USB+adapter+switch",
+      "snapshotName": "before@call@ade973251f2811f57d71f355882f04f3",
+      "timestamp": 114542.79,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=USB+adapter+switch",
+      "snapshotName": "input@call@ade973251f2811f57d71f355882f04f3",
+      "timestamp": 114608.634,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=USB+adapter+switch",
+      "snapshotName": "after@call@ade973251f2811f57d71f355882f04f3",
+      "timestamp": 115907.947,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=USB%20adapter%20switch&product_list_order=price",
+      "snapshotName": "input@call@8e0d9f60ccc2fcb7f2f29073d58b4d06",
+      "timestamp": 120178.839,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=USB%20adapter%20switch&product_list_order=price",
+      "snapshotName": "after@call@8e0d9f60ccc2fcb7f2f29073d58b4d06",
+      "timestamp": 120228.669,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=USB%20adapter%20switch&product_list_order=price",
+      "snapshotName": "before@call@ca92f4aa5999b75f9942f6a50bc5a268",
+      "timestamp": 121340.497,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=USB%20adapter%20switch&product_list_order=price",
+      "snapshotName": "input@call@ca92f4aa5999b75f9942f6a50bc5a268",
+      "timestamp": 121373.664,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=USB%20adapter%20switch&product_list_dir=asc",
+      "snapshotName": "after@call@ca92f4aa5999b75f9942f6a50bc5a268",
+      "timestamp": 122742.026,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=USB%20adapter%20switch&product_list_dir=asc",
+      "snapshotName": "before@call@aff7b8400f7c09098b74e77e107da2c3",
+      "timestamp": 126461.984,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?product_list_order=price&q=USB%20adapter%20switch&product_list_dir=asc",
+      "snapshotName": "input@call@aff7b8400f7c09098b74e77e107da2c3",
+      "timestamp": 126507.472,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=USB+adapter+switch",
+      "snapshotName": "after@call@aff7b8400f7c09098b74e77e107da2c3",
+      "timestamp": 127937.435,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=USB+adapter+switch",
+      "snapshotName": "before@call@6120ce1406cf2374c2a661f645d96027",
+      "timestamp": 133798.871,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=USB+adapter+switch",
+      "snapshotName": "input@call@6120ce1406cf2374c2a661f645d96027",
+      "timestamp": 133840.599,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=USB+adapter+switch",
+      "snapshotName": "after@call@6120ce1406cf2374c2a661f645d96027",
+      "timestamp": 133874.051,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=USB+adapter+switch",
+      "snapshotName": "before@call@dd22c1d48fd030a8c427c4868b00e419",
+      "timestamp": 134853.863,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=USB+adapter+switch",
+      "snapshotName": "input@call@dd22c1d48fd030a8c427c4868b00e419",
+      "timestamp": 134916.027,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=USB+adapter+switch",
+      "snapshotName": "after@call@dd22c1d48fd030a8c427c4868b00e419",
+      "timestamp": 134931.284,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=USB+adapter+switch",
+      "snapshotName": "before@call@7520061b52efe1e107b69814e5e23fd8",
+      "timestamp": 135593.981,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=USB+adapter+switch",
+      "snapshotName": "input@call@7520061b52efe1e107b69814e5e23fd8",
+      "timestamp": 135607.656,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=USB+adapter+switch",
+      "snapshotName": "after@call@7520061b52efe1e107b69814e5e23fd8",
+      "timestamp": 135618.841,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=USB+adapter+switch",
+      "snapshotName": "before@call@f0593acf16a040a0f51f1ab440c6ab83",
+      "timestamp": 135765.642,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=USB+adapter+switch",
+      "snapshotName": "input@call@f0593acf16a040a0f51f1ab440c6ab83",
+      "timestamp": 135775.462,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=USB+adapter+switch",
+      "snapshotName": "after@call@f0593acf16a040a0f51f1ab440c6ab83",
+      "timestamp": 135783.15,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=USB+adapter+switch",
+      "snapshotName": "before@call@8523a395684b26ccd3a35761998b6efe",
+      "timestamp": 137151.229,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&product_list_dir=asc&product_list_order=price&q=USB+adapter+switch",
+      "snapshotName": "input@call@8523a395684b26ccd3a35761998b6efe",
+      "timestamp": 137160.356,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=USB+adapter+nintendo+switch",
+      "snapshotName": "before@call@cc5d3d9decd3b6d392c91e95d0f2e46c",
+      "timestamp": 144307.482,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=USB+adapter+nintendo+switch",
+      "snapshotName": "input@call@cc5d3d9decd3b6d392c91e95d0f2e46c",
+      "timestamp": 144360.248,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=USB+adapter+nintendo+switch",
+      "snapshotName": "after@call@cc5d3d9decd3b6d392c91e95d0f2e46c",
+      "timestamp": 145695.865,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=USB+adapter+nintendo+switch",
+      "snapshotName": "before@call@3c594ca73f79fbfc68047ab478e6bda0",
+      "timestamp": 149154.517,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=USB+adapter+nintendo+switch",
+      "snapshotName": "input@call@3c594ca73f79fbfc68047ab478e6bda0",
+      "timestamp": 149208.093,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&q=USB+adapter+nintendo+switch",
+      "snapshotName": "after@call@3c594ca73f79fbfc68047ab478e6bda0",
+      "timestamp": 150700.78,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&q=USB+adapter+nintendo+switch",
+      "snapshotName": "before@call@827f89b48f8f6f3e40d7196f6fd73d08",
+      "timestamp": 154328.615,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&q=USB+adapter+nintendo+switch",
+      "snapshotName": "input@call@827f89b48f8f6f3e40d7196f6fd73d08",
+      "timestamp": 154374.916,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=4&q=USB+adapter+nintendo+switch",
+      "snapshotName": "after@call@827f89b48f8f6f3e40d7196f6fd73d08",
+      "timestamp": 155877.608,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=4&q=USB+adapter+nintendo+switch",
+      "snapshotName": "before@call@52e16f3c7112cb06b5c44cf30b171fb3",
+      "timestamp": 160294.536,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=4&q=USB+adapter+nintendo+switch",
+      "snapshotName": "input@call@52e16f3c7112cb06b5c44cf30b171fb3",
+      "timestamp": 160342.07,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/8bitdo-wireless-usb-adapter-1-for-switch-switch-oled-windows-mac-raspberry-pi-compatible-with-switch-pro-switch-joy-con-ps5-ps4-controller-and-more.html",
+      "snapshotName": "after@call@52e16f3c7112cb06b5c44cf30b171fb3",
+      "timestamp": 161868.798,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/8bitdo-wireless-usb-adapter-1-for-switch-switch-oled-windows-mac-raspberry-pi-compatible-with-switch-pro-switch-joy-con-ps5-ps4-controller-and-more.html",
+      "snapshotName": "before@call@e049c5412d71ec7539601ae0361bd7c1",
+      "timestamp": 168294.321,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/8bitdo-wireless-usb-adapter-1-for-switch-switch-oled-windows-mac-raspberry-pi-compatible-with-switch-pro-switch-joy-con-ps5-ps4-controller-and-more.html",
+      "snapshotName": "input@call@e049c5412d71ec7539601ae0361bd7c1",
+      "timestamp": 168340.33,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html",
+      "snapshotName": "after@call@e049c5412d71ec7539601ae0361bd7c1",
+      "timestamp": 168838.877,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html",
+      "snapshotName": "before@call@99d768e837ccc827df5f06cd15cfefdd",
+      "timestamp": 170733.205,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html",
+      "snapshotName": "input@call@99d768e837ccc827df5f06cd15cfefdd",
+      "timestamp": 170807.68,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nintendo-switch-pro-controller-xenoblade-2-edition-japan-import.html",
+      "snapshotName": "after@call@99d768e837ccc827df5f06cd15cfefdd",
+      "timestamp": 173064.532,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nintendo-switch-pro-controller-xenoblade-2-edition-japan-import.html",
+      "snapshotName": "before@call@13df724e9b216abb5ff3a1af11ec7ead",
+      "timestamp": 175540.9,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nintendo-switch-pro-controller-xenoblade-2-edition-japan-import.html",
+      "snapshotName": "input@call@13df724e9b216abb5ff3a1af11ec7ead",
+      "timestamp": 175591.916,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html",
+      "snapshotName": "after@call@13df724e9b216abb5ff3a1af11ec7ead",
+      "timestamp": 176046.308,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?product_list_order=price",
+      "snapshotName": "input@call@866c3cdeefd1dcebcd74e4e24f8d7a0e",
+      "timestamp": 179723.664,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?product_list_order=price",
+      "snapshotName": "before@call@2e6fae3a2980fbf11873af3811f12b2d",
+      "timestamp": 183782.231,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?product_list_order=price",
+      "snapshotName": "input@call@2e6fae3a2980fbf11873af3811f12b2d",
+      "timestamp": 183824.205,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=2&product_list_order=price",
+      "snapshotName": "after@call@2e6fae3a2980fbf11873af3811f12b2d",
+      "timestamp": 184890.023,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=2&product_list_order=price",
+      "snapshotName": "before@call@e1a64bb83ee9c436d7caf06fc5cf9eeb",
+      "timestamp": 188496.666,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=2&product_list_order=price",
+      "snapshotName": "input@call@e1a64bb83ee9c436d7caf06fc5cf9eeb",
+      "timestamp": 188560.968,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=3&product_list_order=price",
+      "snapshotName": "after@call@e1a64bb83ee9c436d7caf06fc5cf9eeb",
+      "timestamp": 189704.735,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=3&product_list_order=price",
+      "snapshotName": "before@call@814be0189152604560643b4dfa6825dd",
+      "timestamp": 192114.382,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=3&product_list_order=price",
+      "snapshotName": "input@call@814be0189152604560643b4dfa6825dd",
+      "timestamp": 192178.483,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=4&product_list_order=price",
+      "snapshotName": "after@call@814be0189152604560643b4dfa6825dd",
+      "timestamp": 193471.803,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=4&product_list_order=price",
+      "snapshotName": "before@call@8dd79201546b611466efd7d1b0b8a29b",
+      "timestamp": 195948.664,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=4&product_list_order=price",
+      "snapshotName": "input@call@8dd79201546b611466efd7d1b0b8a29b",
+      "timestamp": 195989.667,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=4&product_list_order=price",
+      "snapshotName": "after@call@8dd79201546b611466efd7d1b0b8a29b",
+      "timestamp": 196044.983,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=4&product_list_order=price",
+      "snapshotName": "before@call@bf9a4259500736adb80ef3a9fffb54c4",
+      "timestamp": 196259.195,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=4&product_list_order=price",
+      "snapshotName": "input@call@bf9a4259500736adb80ef3a9fffb54c4",
+      "timestamp": 196308.536,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=5&product_list_order=price",
+      "snapshotName": "after@call@bf9a4259500736adb80ef3a9fffb54c4",
+      "timestamp": 198150.452,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=5&product_list_order=price",
+      "snapshotName": "before@call@fb550ba579be55517d8d7e9a9fec59eb",
+      "timestamp": 200956.83,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=5&product_list_order=price",
+      "snapshotName": "input@call@fb550ba579be55517d8d7e9a9fec59eb",
+      "timestamp": 201009.772,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=2&product_list_order=price",
+      "snapshotName": "after@call@fb550ba579be55517d8d7e9a9fec59eb",
+      "timestamp": 201440.717,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=2&product_list_order=price",
+      "snapshotName": "before@call@48b7159028aff8706f20330cc665046c",
+      "timestamp": 205784.617,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/nintendo-switch.html?p=2&product_list_order=price",
+      "snapshotName": "input@call@48b7159028aff8706f20330cc665046c",
+      "timestamp": 205823.786,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/8bitdo-wireless-usb-adapter-1-for-switch-switch-oled-windows-mac-raspberry-pi-compatible-with-switch-pro-switch-joy-con-ps5-ps4-controller-and-more.html",
+      "snapshotName": "after@call@48b7159028aff8706f20330cc665046c",
+      "timestamp": 206260.939,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/8bitdo-wireless-usb-adapter-1-for-switch-switch-oled-windows-mac-raspberry-pi-compatible-with-switch-pro-switch-joy-con-ps5-ps4-controller-and-more.html",
+      "snapshotName": "before@call@296154f3340649592e39f779bfe7865c",
+      "timestamp": 209432.187,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/8bitdo-wireless-usb-adapter-1-for-switch-switch-oled-windows-mac-raspberry-pi-compatible-with-switch-pro-switch-joy-con-ps5-ps4-controller-and-more.html",
+      "snapshotName": "input@call@296154f3340649592e39f779bfe7865c",
+      "timestamp": 209508.482,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/8bitdo-wireless-usb-adapter-1-for-switch-switch-oled-windows-mac-raspberry-pi-compatible-with-switch-pro-switch-joy-con-ps5-ps4-controller-and-more.html",
+      "snapshotName": "after@call@296154f3340649592e39f779bfe7865c",
+      "timestamp": 209568.322,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/8bitdo-wireless-usb-adapter-1-for-switch-switch-oled-windows-mac-raspberry-pi-compatible-with-switch-pro-switch-joy-con-ps5-ps4-controller-and-more.html",
+      "snapshotName": "before@call@a55b9369433a5210daa45162882764cf",
+      "timestamp": 210663.661,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/8bitdo-wireless-usb-adapter-1-for-switch-switch-oled-windows-mac-raspberry-pi-compatible-with-switch-pro-switch-joy-con-ps5-ps4-controller-and-more.html",
+      "snapshotName": "input@call@a55b9369433a5210daa45162882764cf",
+      "timestamp": 210691.78,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/8bitdo-wireless-usb-adapter-1-for-switch-switch-oled-windows-mac-raspberry-pi-compatible-with-switch-pro-switch-joy-con-ps5-ps4-controller-and-more.html",
+      "snapshotName": "after@call@a55b9369433a5210daa45162882764cf",
+      "timestamp": 210729.337,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@e0b3febea306678a318296c3819c2f2b",
+      "timestamp": 214819.978,
+      "resource": "page@e0b3febea306678a318296c3819c2f2b-1703279323.062984.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_222__page0.jpg",
+      "sha256": "c2f131337d897e2188c17945f2fc8e57c5a419bf23c2c5f0fd7695f3747e91a2",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_222__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

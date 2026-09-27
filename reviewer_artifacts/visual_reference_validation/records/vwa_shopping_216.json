@@ -1,0 +1,124 @@
+{
+  "instance_id": "vwa_shopping_216",
+  "domain": "shopping",
+  "filename_task_id": 216,
+  "source_url": "https://drive.usercontent.google.com/download?id=12LTUAi3g1yzXRF8Ge_tAHULjqUsAeotJ&export=download&confirm=t",
+  "source_file_id": "12LTUAi3g1yzXRF8Ge_tAHULjqUsAeotJ",
+  "archive_sha256": "14ccf5351415e7df0a4b3966351fd499da73f936625c6c77f753749bbda5ddcc",
+  "archive_bytes": 10345252,
+  "event_types": {
+    "context-options": 1,
+    "event": 57,
+    "screencast-frame": 162,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2,
+    "object": 6
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703278959811,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@e24e29c5120a6a3d5c2448e9dd5dd016",
+      "frameId": "frame@49c7aacf55ac960fee78d0e60af62cf9",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/beauty-personal-care/foot-hand-nail-care/nail-art-polish.html?p=5",
+      "snapshotName": "before@call@eba53c5c9c50f87b140d062fbc1a9504",
+      "timestamp": 26043.834,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e24e29c5120a6a3d5c2448e9dd5dd016",
+      "frameId": "frame@49c7aacf55ac960fee78d0e60af62cf9",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/beauty-personal-care/foot-hand-nail-care/nail-art-polish.html?p=5",
+      "snapshotName": "input@call@eba53c5c9c50f87b140d062fbc1a9504",
+      "timestamp": 26093.512,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e24e29c5120a6a3d5c2448e9dd5dd016",
+      "frameId": "frame@49c7aacf55ac960fee78d0e60af62cf9",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jj-care-sterilizer-for-salon-15l-capacity-2-in1-sanitizer-box-and-dry-heat-sterilizer-cabinet-tabletop-with-stainless-tray-sterilizer-cabinet-sanitizing-machine.html",
+      "snapshotName": "after@call@eba53c5c9c50f87b140d062fbc1a9504",
+      "timestamp": 27481.937,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e24e29c5120a6a3d5c2448e9dd5dd016",
+      "frameId": "frame@49c7aacf55ac960fee78d0e60af62cf9",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jj-care-sterilizer-for-salon-15l-capacity-2-in1-sanitizer-box-and-dry-heat-sterilizer-cabinet-tabletop-with-stainless-tray-sterilizer-cabinet-sanitizing-machine.html",
+      "snapshotName": "before@call@7770a75b2c49316bcefc46f5bd76b3c4",
+      "timestamp": 31328.471,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e24e29c5120a6a3d5c2448e9dd5dd016",
+      "frameId": "frame@49c7aacf55ac960fee78d0e60af62cf9",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jj-care-sterilizer-for-salon-15l-capacity-2-in1-sanitizer-box-and-dry-heat-sterilizer-cabinet-tabletop-with-stainless-tray-sterilizer-cabinet-sanitizing-machine.html",
+      "snapshotName": "input@call@7770a75b2c49316bcefc46f5bd76b3c4",
+      "timestamp": 31379.183,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e24e29c5120a6a3d5c2448e9dd5dd016",
+      "frameId": "frame@49c7aacf55ac960fee78d0e60af62cf9",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@7770a75b2c49316bcefc46f5bd76b3c4",
+      "timestamp": 33120.023,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@e24e29c5120a6a3d5c2448e9dd5dd016",
+      "timestamp": 37088.923,
+      "resource": "page@e24e29c5120a6a3d5c2448e9dd5dd016-1703278996.120158.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_216__page0.jpg",
+      "sha256": "53b54b7385aafe21a2359da90cf8a3e0a165efde06aa4a89f184dd763df1038c",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_216__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

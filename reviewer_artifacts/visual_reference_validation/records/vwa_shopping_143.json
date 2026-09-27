@@ -1,0 +1,160 @@
+{
+  "instance_id": "vwa_shopping_143",
+  "domain": "shopping",
+  "filename_task_id": 143,
+  "source_url": "https://drive.usercontent.google.com/download?id=11NNPyOwcQkNUQdGT2kXsyFcMPEpzeFS4&export=download&confirm=t",
+  "source_file_id": "11NNPyOwcQkNUQdGT2kXsyFcMPEpzeFS4",
+  "archive_sha256": "0fd6f19d185727a2661f082e3083850dc247f932e1b7dc173fbab584efb75491",
+  "archive_bytes": 5440204,
+  "event_types": {
+    "context-options": 1,
+    "event": 35,
+    "screencast-frame": 99,
+    "before": 3,
+    "frame-snapshot": 9,
+    "input": 3,
+    "after": 3,
+    "object": 7
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703285593799,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@f1b14b9f3c18e89a8d7d9a5c795838ea",
+      "frameId": "frame@105a63ed5e3608853d0832984eb1c938",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/beauty-personal-care/skin-care/face.html",
+      "snapshotName": "before@call@9df6e0899dc403f1bf4f4bba1509a803",
+      "timestamp": 6419.903,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f1b14b9f3c18e89a8d7d9a5c795838ea",
+      "frameId": "frame@105a63ed5e3608853d0832984eb1c938",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/beauty-personal-care/skin-care/face.html",
+      "snapshotName": "input@call@9df6e0899dc403f1bf4f4bba1509a803",
+      "timestamp": 6460.432,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f1b14b9f3c18e89a8d7d9a5c795838ea",
+      "frameId": "frame@105a63ed5e3608853d0832984eb1c938",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/beauty-personal-care/skin-care/face.html",
+      "snapshotName": "after@call@9df6e0899dc403f1bf4f4bba1509a803",
+      "timestamp": 6468.783,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f1b14b9f3c18e89a8d7d9a5c795838ea",
+      "frameId": "frame@105a63ed5e3608853d0832984eb1c938",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/beauty-personal-care/skin-care/face.html",
+      "snapshotName": "before@call@8d435727c19350d362497a34ef2c1cb3",
+      "timestamp": 12075.011,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f1b14b9f3c18e89a8d7d9a5c795838ea",
+      "frameId": "frame@105a63ed5e3608853d0832984eb1c938",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/beauty-personal-care/skin-care/face.html",
+      "snapshotName": "input@call@8d435727c19350d362497a34ef2c1cb3",
+      "timestamp": 12137.617,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f1b14b9f3c18e89a8d7d9a5c795838ea",
+      "frameId": "frame@105a63ed5e3608853d0832984eb1c938",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/manuka-honey-cream-face-moisturizer-and-body-lotion-eczema-honey-organic-moisturizing-cream-dry-itchy-sensitive-skin-face-lotion-for-redness-eczema-and-rosacea-orange-vanilla-scent-4oz.html",
+      "snapshotName": "after@call@8d435727c19350d362497a34ef2c1cb3",
+      "timestamp": 13651.13,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f1b14b9f3c18e89a8d7d9a5c795838ea",
+      "frameId": "frame@105a63ed5e3608853d0832984eb1c938",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/manuka-honey-cream-face-moisturizer-and-body-lotion-eczema-honey-organic-moisturizing-cream-dry-itchy-sensitive-skin-face-lotion-for-redness-eczema-and-rosacea-orange-vanilla-scent-4oz.html",
+      "snapshotName": "before@call@d8b159f52db6e9776c56cdfcb7270d47",
+      "timestamp": 14455.212,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f1b14b9f3c18e89a8d7d9a5c795838ea",
+      "frameId": "frame@105a63ed5e3608853d0832984eb1c938",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/manuka-honey-cream-face-moisturizer-and-body-lotion-eczema-honey-organic-moisturizing-cream-dry-itchy-sensitive-skin-face-lotion-for-redness-eczema-and-rosacea-orange-vanilla-scent-4oz.html",
+      "snapshotName": "input@call@d8b159f52db6e9776c56cdfcb7270d47",
+      "timestamp": 14493.419,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f1b14b9f3c18e89a8d7d9a5c795838ea",
+      "frameId": "frame@105a63ed5e3608853d0832984eb1c938",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/manuka-honey-cream-face-moisturizer-and-body-lotion-eczema-honey-organic-moisturizing-cream-dry-itchy-sensitive-skin-face-lotion-for-redness-eczema-and-rosacea-orange-vanilla-scent-4oz.html",
+      "snapshotName": "after@call@d8b159f52db6e9776c56cdfcb7270d47",
+      "timestamp": 14501.887,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@f1b14b9f3c18e89a8d7d9a5c795838ea",
+      "timestamp": 24823.012,
+      "resource": "page@f1b14b9f3c18e89a8d7d9a5c795838ea-1703285617.966895.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_143__page0.jpg",
+      "sha256": "55d7f978cff13908d3f3e7d316e42926f1ab60b704548535113df36e75dba629",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_143__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

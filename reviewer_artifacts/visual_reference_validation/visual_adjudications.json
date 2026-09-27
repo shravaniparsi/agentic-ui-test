@@ -1,0 +1,474 @@
+{
+  "vwa_classifieds_11": [
+    "approved",
+    "Blue bicycle and description explicitly stating 26-inch wheels are visible; recorded page is benchmark item 66613."
+  ],
+  "vwa_classifieds_128": [
+    "unresolved",
+    "Magazine covers are visible but all four required jersey numbers cannot be read reliably at the recorded resolution."
+  ],
+  "vwa_classifieds_135": [
+    "unresolved",
+    "A tinted partial results page cannot establish the absence of pink items across the required page/context."
+  ],
+  "vwa_classifieds_14": [
+    "approved",
+    "Fox painting page visibly shows the exact benchmark seller email olga.jones341@example.com; painting and seller identity agree with the requested lookup."
+  ],
+  "vwa_classifieds_140": [
+    "approved",
+    "NASCAR jacket page visibly shows the exact benchmark answer juan_ortiz@example.com and the named jacket; specific target and lookup evidence agree."
+  ],
+  "vwa_classifieds_144": [
+    "approved",
+    "Posted comment shows Commentary by Blake Sullivan and exact text How funky...; target-page URL must match item 41127 in export validation."
+  ],
+  "vwa_classifieds_15": [
+    "approved",
+    "Guitar in a red-lined case and the exact benchmark seller email haruto_abdullah497@example.com are visible."
+  ],
+  "vwa_classifieds_163": [
+    "approved",
+    "Amazon screenshot within the listing visibly shows $40.92, matching the task-specific answer; reference supports the price lookup."
+  ],
+  "vwa_classifieds_167": [
+    "unresolved",
+    "Partial search-page footer cannot establish that no green instrument exists; no DOM corroboration."
+  ],
+  "vwa_classifieds_179": [
+    "unresolved",
+    "Pac-Man arcade visible, but target page has no URL snapshot and input character has not been corroborated."
+  ],
+  "vwa_classifieds_182": [
+    "unresolved",
+    "PS4 home screen and listing visible, but final page lacks URL snapshot linking it to required item 41845; recency cannot be established from this frame."
+  ],
+  "vwa_classifieds_184": [
+    "unresolved",
+    "Frame is below the main item image; exact requested item and target URL are not corroborated."
+  ],
+  "vwa_classifieds_186": [
+    "approved",
+    "Yellow car on the THUNDERBIRD book cover is visible, with Books listing and date; task-specific color agrees with published answer."
+  ],
+  "vwa_classifieds_189": [
+    "unresolved",
+    "Only lower portion of search results visible; absence of Mario across the complete page cannot be established."
+  ],
+  "vwa_classifieds_22": [
+    "approved",
+    "Red Porsche and its description stating 103K miles are visible, matching the task-specific answer."
+  ],
+  "vwa_classifieds_27": [
+    "unresolved",
+    "Only a portion of the dated listings is visible; count of three interior photographs cannot be established."
+  ],
+  "vwa_classifieds_31": [
+    "approved",
+    "Posted counter-offer by Blake Sullivan visibly says can I get this for $250? on the benchmark target listing."
+  ],
+  "vwa_classifieds_38": [
+    "unresolved",
+    "Final frame supports only one of three requested cars/mileages; multi-page evidence is required."
+  ],
+  "vwa_classifieds_43": [
+    "unresolved",
+    "Only a portion of results is visible, including $7800 but not the maximum $9999; complete range unsupported."
+  ],
+  "vwa_classifieds_7": [
+    "unresolved",
+    "Final category page does not show the two required white phones or their links."
+  ],
+  "vwa_classifieds_8": [
+    "approved",
+    "Published Nintendo Switch photograph was visually compared and matches new listing image; $270 price, Blake Sullivan ownership and Edit item are visible."
+  ],
+  "vwa_classifieds_83": [
+    "approved",
+    "Rabbit photograph and publisher Sarah Nowak are visible; exact task-specific surname and target listing corroborate identity."
+  ],
+  "vwa_shopping_104": [
+    "unresolved",
+    "Wishlist banner names the exact benchmark dress, but item is below viewport and supplied input-image comparison remains missing."
+  ],
+  "vwa_shopping_111": [
+    "unresolved",
+    "Chipotle cinnamon rub and partially obscured add-to-cart banner visible; input-image comparison and complete confirmation require corroboration."
+  ],
+  "vwa_shopping_131": [
+    "unresolved",
+    "Material close-up and correct SKU visible, but selected image URL (.1.jpg) is not established by the frame."
+  ],
+  "vwa_shopping_135": [
+    "unresolved",
+    "Flowering cactus is visible, but task identity and requested image URL are not established by the frame alone."
+  ],
+  "vwa_shopping_137": [
+    "unresolved",
+    "Canon printer printing a photograph is visible, but cheapest-product identity and exact requested image URL require corroboration."
+  ],
+  "vwa_shopping_14": [
+    "approved",
+    "All four products in the last row and their prices are visible: $7.99, $14.98, $4.95 and $43.00, supporting the required range."
+  ],
+  "vwa_shopping_140": [
+    "unresolved",
+    "Category screenshot does not show a single blue toothbrush or its image URL."
+  ],
+  "vwa_shopping_141": [
+    "unresolved",
+    "Alternate animal toothbrush cases visible, but exact requested image URL not corroborated."
+  ],
+  "vwa_shopping_143": [
+    "unresolved",
+    "Benefits infographic visible, but exact requested image URL and third-item correspondence not corroborated."
+  ],
+  "vwa_shopping_148": [
+    "unresolved",
+    "Nutrition-label image and two thumbnails visible; full absence claim requires gallery/source corroboration."
+  ],
+  "vwa_shopping_150": [
+    "unresolved",
+    "Order detail is visible but required order ID 161 and supplied image correspondence are not corroborated on the final page."
+  ],
+  "vwa_shopping_154": [
+    "approved",
+    "SONY H900N headphone title and headphone image visible; brand and product type match both published task evaluation constraints. Input brand is corroborated through published evaluation, not a fresh input-image comparison."
+  ],
+  "vwa_shopping_166": [
+    "approved",
+    "Adidas basketball sneaker title and visibly red shoe jointly satisfy all published brand, sport and color constraints. Input-image semantics corroborated through published evaluation."
+  ],
+  "vwa_shopping_173": [
+    "approved",
+    "Visible banner confirms Jo Malone Grapefruit Cologne Spray 1 Ounce added; selected 1 Fl Oz option agrees with published item/size criteria. Input fruit corroborated through named benchmark target."
+  ],
+  "vwa_shopping_179": [
+    "unresolved",
+    "Generic purchase confirmation does not identify both protein bars, package sizes or quantities."
+  ],
+  "vwa_shopping_181": [
+    "unresolved",
+    "Generic purchase confirmation omits requested item and Cute Elephant option."
+  ],
+  "vwa_shopping_185": [
+    "unresolved",
+    "Generic purchase confirmation omits bedding identity, Twin XL size and quantity two."
+  ],
+  "vwa_shopping_187": [
+    "approved",
+    "Exact benchmark Asuwish iPhone X wallet-case title and full successful add-to-cart banner visible; cheapest-item correspondence relies on published target."
+  ],
+  "vwa_shopping_195": [
+    "approved",
+    "Black shoes worn with black pants and $26.99 price visible, matching task-specific answer."
+  ],
+  "vwa_shopping_197": [
+    "unresolved",
+    "Correct target product and selected size visible, but no completed add-to-cart confirmation; cart icon appears loading."
+  ],
+  "vwa_shopping_201": [
+    "unresolved",
+    "Correct skull PS4 sticker visible but requested 3.84-ounce weight is outside viewport."
+  ],
+  "vwa_shopping_205": [
+    "unresolved",
+    "Dog cuddling image visible but exact requested image URL not corroborated."
+  ],
+  "vwa_shopping_209": [
+    "unresolved",
+    "Cereal package colors visible but original bottom-row search context and absence of green box not established."
+  ],
+  "vwa_shopping_21": [
+    "unresolved",
+    "Final frame shows specifications below product, omitting requested headphone color."
+  ],
+  "vwa_shopping_210": [
+    "approved",
+    "Unicorn cereal box and text Fortified with 12 vitamins and minerals visible, matching task-specific answer."
+  ],
+  "vwa_shopping_212": [
+    "approved",
+    "Full success banner names exact Red Roselle Seeds benchmark item; approximately four-star rating visible."
+  ],
+  "vwa_shopping_216": [
+    "approved",
+    "Wishlist shows exact JJ CARE sterilizer product and microwave-like image with Remove item control."
+  ],
+  "vwa_shopping_219": [
+    "approved",
+    "Colorful shirt visibly includes toucan and parrots, consistent with both required bird types. Fine details are small at native resolution."
+  ],
+  "vwa_shopping_222": [
+    "approved",
+    "Full add-to-cart banner names exact 8Bitdo adapter benchmark target; $19.99 and USB Adapter 1 option visible."
+  ],
+  "vwa_shopping_225": [
+    "unresolved",
+    "Heart mirror and correct item title visible but recorder overlay hides beginning of success banner; complete confirmation requires cleaner frame."
+  ],
+  "vwa_shopping_230": [
+    "unresolved",
+    "Polka-dot pants partly visible in wishlist, but identifying title is below viewport."
+  ],
+  "vwa_shopping_233": [
+    "unresolved",
+    "Wishlist addition of Volcano Shadow confirmed, but required second controller cart addition is not visible."
+  ],
+  "vwa_shopping_237": [
+    "approved",
+    "Saved-address banner and default billing address visibly contain all requested street, city, state, ZIP and phone fields."
+  ],
+  "vwa_shopping_239": [
+    "unresolved",
+    "Only one wishlist addition is visible; full four-item cart/wishlist distribution cannot be verified."
+  ],
+  "vwa_shopping_245": [
+    "approved",
+    "Spenco Mens Tribal Elite Sandal title and successful add-to-cart banner match exact benchmark target; supplied destination image is corroborated through benchmark mapping."
+  ],
+  "vwa_shopping_247": [
+    "unresolved",
+    "Final plant product page provides no order or required shipping-address confirmation."
+  ],
+  "vwa_shopping_251": [
+    "unresolved",
+    "Generic purchase confirmation omits wine SKU and quantity twelve."
+  ],
+  "vwa_shopping_255": [
+    "unresolved",
+    "Generic purchase confirmation omits chair, black option, quantity two and final price."
+  ],
+  "vwa_shopping_258": [
+    "unresolved",
+    "Shipping step remains open; final frame does not confirm the required order or the other item retained in cart."
+  ],
+  "vwa_shopping_261": [
+    "unresolved",
+    "Generic purchase confirmation omits charger-protector identity and requested pack contents."
+  ],
+  "vwa_shopping_265": [
+    "unresolved",
+    "Generic purchase confirmation omits required product and color."
+  ],
+  "vwa_shopping_268": [
+    "unresolved",
+    "Final search-results page is not requested final checkout/payment screen and does not show required necklace."
+  ],
+  "vwa_shopping_272": [
+    "unresolved",
+    "Shipping screen hides item identity and total; conditional purchase requirement unsupported."
+  ],
+  "vwa_shopping_282": [
+    "unresolved",
+    "Generic purchase confirmation omits required shoe identity."
+  ],
+  "vwa_shopping_286": [
+    "unresolved",
+    "Visible banner confirms sofa added to cart, not required comparison page; comparison state is unverified."
+  ],
+  "vwa_shopping_288": [
+    "unresolved",
+    "Wishlist contains Hotel Reed Diffuser, which differs from the two accepted benchmark products; correspondence requires resolution."
+  ],
+  "vwa_shopping_291": [
+    "unresolved",
+    "Feet height 15.75 is visible, but target end table with clock is not shown; task-specific entity needs corroboration."
+  ],
+  "vwa_shopping_294": [
+    "approved",
+    "Supplied pillow has red-and-white paisley pattern matching selected shirt; $0.99 is visible."
+  ],
+  "vwa_shopping_297": [
+    "approved",
+    "Visible hoodie bears Champion logo; recorder title also names Champion Hoodie, satisfying published brand and garment constraints."
+  ],
+  "vwa_shopping_298": [
+    "unresolved",
+    "Promotional Champion image omits dark-green target item and required 120cm size chart."
+  ],
+  "vwa_shopping_303": [
+    "approved",
+    "Nutrition label visibly states 10 servings per container and 420 calories per serving, supporting 4200 calories."
+  ],
+  "vwa_shopping_31": [
+    "unresolved",
+    "Cart shows Bluetooth Single Ear product, not required Audio-Technica target; task/benchmark correspondence disagrees."
+  ],
+  "vwa_shopping_320": [
+    "approved",
+    "Cart visibly shows exact Protein Wafer Peanut Butter box of 12 with quantity 4, supporting 48 bars; successful addition banner present."
+  ],
+  "vwa_shopping_323": [
+    "unresolved",
+    "Switch search page shows no purple drink in visible portion, but full-page absence and correct starting context require corroboration."
+  ],
+  "vwa_shopping_326": [
+    "unresolved",
+    "Final image shows search-result footer, no headphones or purchase confirmation."
+  ],
+  "vwa_shopping_328": [
+    "unresolved",
+    "Generic purchase confirmation omits battery SKU, count and price."
+  ],
+  "vwa_shopping_332": [
+    "unresolved",
+    "Generic purchase confirmation omits Canon EOS R6 identity."
+  ],
+  "vwa_shopping_337": [
+    "unresolved",
+    "Partial bike-related search results cannot establish site-wide absence of bikes."
+  ],
+  "vwa_shopping_343": [
+    "unresolved",
+    "Generic purchase confirmation omits desktop identity and AMD CPU."
+  ],
+  "vwa_shopping_346": [
+    "approved",
+    "Saved-address banner and default billing phone visibly begin +65, agreeing with published country-code criterion; original number follows."
+  ],
+  "vwa_shopping_349": [
+    "unresolved",
+    "MacBook charger-case page does not establish required three compatible adapters in an otherwise emptied cart."
+  ],
+  "vwa_shopping_35": [
+    "unresolved",
+    "Gold cushion and title visible, but required fourth position in ascending-price category not corroborated; generic color answer alone insufficient."
+  ],
+  "vwa_shopping_361": [
+    "unresolved",
+    "Generic purchase confirmation omits owl-snack identity."
+  ],
+  "vwa_shopping_366": [
+    "unresolved",
+    "Generic purchase confirmation omits cherry-blossom controller identity."
+  ],
+  "vwa_shopping_37": [
+    "unresolved",
+    "Banner confirms cart addition, not requested wishlist addition; final page does not show wishlist state."
+  ],
+  "vwa_shopping_370": [
+    "approved",
+    "Order detail visibly contains exact target SKU B07NVKVYZR, car-shaped phone title and Ordered: 1."
+  ],
+  "vwa_shopping_373": [
+    "approved",
+    "Chargers category is visibly sorted by ascending price; first car charger is black with blue trim and $5.99 price, supporting required black color."
+  ],
+  "vwa_shopping_377": [
+    "approved",
+    "Order detail visibly contains exact SKU B07P9R993T and Red option, with Ordered: 1. Graphic identity relies on benchmark SKU mapping."
+  ],
+  "vwa_shopping_383": [
+    "approved",
+    "Order detail visibly contains exact benchmark SKU B081ZNFZZJ and Ordered: 1. Theme identity relies on benchmark SKU mapping."
+  ],
+  "vwa_shopping_386": [
+    "unresolved",
+    "Generic purchase confirmation omits incorrectly labeled Bud Light SKU."
+  ],
+  "vwa_shopping_397": [
+    "unresolved",
+    "Generic purchase confirmation omits banana-themed item SKU."
+  ],
+  "vwa_shopping_40": [
+    "unresolved",
+    "Round chocolates and $1.04 visible, but cheapest-category selection context requires corroboration."
+  ],
+  "vwa_shopping_409": [
+    "unresolved",
+    "Generic purchase confirmation omits skyline hoodie identity and Large size."
+  ],
+  "vwa_shopping_420": [
+    "unresolved",
+    "Generic purchase confirmation omits wine-making kit identity."
+  ],
+  "vwa_shopping_428": [
+    "unresolved",
+    "Search results and cart count do not identify required wheeled item in cart or establish completeness."
+  ],
+  "vwa_shopping_434": [
+    "approved",
+    "Successful add-to-cart banner explicitly names exact REESES pack-of-2-pounds benchmark item; search and ascending price context visible."
+  ],
+  "vwa_shopping_436": [
+    "approved",
+    "Exact Sony VPL-VW1000ES benchmark title, $7.21 price and complete add-to-cart banner visible."
+  ],
+  "vwa_shopping_439": [
+    "approved",
+    "Full add-to-cart banner names exact Action Camera target; ascending-price results also show it at $3.71."
+  ],
+  "vwa_shopping_443": [
+    "approved",
+    "Wishlist success banner names exact Deadpool controller-skins benchmark target and matching item image visible."
+  ],
+  "vwa_shopping_444": [
+    "approved",
+    "Successful add-to-cart banner names exact Garden Of Life Fit Bar Smores Organic 1.9 Ounce target; highest-protein correspondence relies on benchmark mapping."
+  ],
+  "vwa_shopping_447": [
+    "unresolved",
+    "Category screenshot and cart count do not establish both required strapped cases in cart."
+  ],
+  "vwa_shopping_453": [
+    "approved",
+    "Cart visibly contains exact HUTSENDOX slippers with Green option and quantity one, matching benchmark target."
+  ],
+  "vwa_shopping_461": [
+    "approved",
+    "Exact Hatsune Miku wig title, $98 price, selected option and full successful add-to-cart banner visible."
+  ],
+  "vwa_shopping_47": [
+    "unresolved",
+    "Final page shows different succulent product, no required yellow daisy cart confirmation."
+  ],
+  "vwa_shopping_6": [
+    "unresolved",
+    "Partial results show only some requested red slippers; all four names and complete price range are not visible."
+  ],
+  "vwa_shopping_64": [
+    "approved",
+    "First Cookies row visibly contains green GrandShell apple-cookie box with $25.99 price."
+  ],
+  "vwa_shopping_70": [
+    "unresolved",
+    "Mrs. Renfro review contains cute, but Lou HS and complete reviewer set are not visible."
+  ],
+  "vwa_shopping_72": [
+    "approved",
+    "Orange pumpkin pants and exact target title visible with complete successful add-to-cart banner."
+  ],
+  "vwa_shopping_83": [
+    "unresolved",
+    "Orange shoes are visible but no cart confirmation; other-tab comparison and completion need additional evidence."
+  ],
+  "vwa_shopping_87": [
+    "unresolved",
+    "Mustard addition is confirmed, but hot dog and buns/rolls are not visible in cart."
+  ],
+  "vwa_shopping_90": [
+    "unresolved",
+    "Only first four of eight kite search results visible; site-wide absence of actual kites not established."
+  ],
+  "vwa_shopping_95": [
+    "unresolved",
+    "Tie product page shows no wishlist confirmation and brand differs from named benchmark alternative."
+  ],
+  "vwa_shopping_98": [
+    "approved",
+    "Complete banner confirms wall clock added to wishlist; clock images and wishlist state visible, matching published clock criterion."
+  ],
+  "vwa_shopping_102": [
+    "approved",
+    "Supplied cat image shows a beanie; wishlist visibly contains Fashionable Rainbow Knitted Beanie Hats, satisfying published beanie criterion."
+  ],
+  "vwa_shopping_162": [
+    "approved",
+    "Supplied picture shows phone protection; full wishlist success banner names exact KSELF ring-kickstand case required by benchmark."
+  ],
+  "vwa_shopping_463": [
+    "unresolved",
+    "Task requires absence of target posters from cart; product-only screenshot cannot establish cart absence or inspect all ten posters for inspire."
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "instance_id": "vwa_shopping_83",
+  "domain": "shopping",
+  "filename_task_id": 83,
+  "source_url": "https://drive.usercontent.google.com/download?id=1uia0h9SjrQGwNHd3-sDsG3L-CAhw4em0&export=download&confirm=t",
+  "source_file_id": "1uia0h9SjrQGwNHd3-sDsG3L-CAhw4em0",
+  "archive_sha256": "032f7f1de69a1681b70cdd4345eb82df46e576b1e321b92bdc29ee0b2b303bf2",
+  "archive_bytes": 7594540,
+  "event_types": {
+    "context-options": 1,
+    "event": 67,
+    "screencast-frame": 167,
+    "object": 14,
+    "before": 1,
+    "frame-snapshot": 3,
+    "input": 1,
+    "after": 1
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703275394288,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@e7c1caab3abaf465f7b87530a189dfb7",
+      "frameId": "frame@4cd17b45bf1005671d79ee17e0671951",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/adidas-originals-mens-geodiver-primeblue-athletic-and-training-shoes-orange.html",
+      "snapshotName": "before@call@c8fa938885e5fc3424cdc8de37dbd0c4",
+      "timestamp": 60697.812,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e7c1caab3abaf465f7b87530a189dfb7",
+      "frameId": "frame@4cd17b45bf1005671d79ee17e0671951",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/adidas-originals-mens-geodiver-primeblue-athletic-and-training-shoes-orange.html",
+      "snapshotName": "input@call@c8fa938885e5fc3424cdc8de37dbd0c4",
+      "timestamp": 60762.209,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e7c1caab3abaf465f7b87530a189dfb7",
+      "frameId": "frame@4cd17b45bf1005671d79ee17e0671951",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/adidas-originals-mens-geodiver-primeblue-athletic-and-training-shoes-orange.html",
+      "snapshotName": "after@call@c8fa938885e5fc3424cdc8de37dbd0c4",
+      "timestamp": 60790.316,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@6b4df209c2d28521938dded9b641cdca",
+      "timestamp": 66453.49,
+      "resource": "page@6b4df209c2d28521938dded9b641cdca-1703275459.911375.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_83__page0.jpg",
+      "sha256": "98334fd2dcd92011d6ca335056494b6b55eb10078f4ae2454517bec1bf92f54c",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@e7c1caab3abaf465f7b87530a189dfb7",
+      "timestamp": 68020.318,
+      "resource": "page@e7c1caab3abaf465f7b87530a189dfb7-1703275461.478904.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_83__page1.jpg",
+      "sha256": "d4db7fcea3c95f610b653faba4d33dd34a5b89f717b7cf9ae46891509703f934",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_83__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

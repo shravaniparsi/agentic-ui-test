@@ -1,0 +1,363 @@
+{
+  "instance_id": "vwa_classifieds_116",
+  "domain": "classifieds",
+  "filename_task_id": 116,
+  "source_url": "https://drive.usercontent.google.com/download?id=1kPsy5UK-lp0NC-2sVGwQyjetlGkiSMnw&export=download&confirm=t",
+  "source_file_id": "1kPsy5UK-lp0NC-2sVGwQyjetlGkiSMnw",
+  "archive_sha256": "628a24bbb6caad64713050a636822c640f4cc3c486b8108637f909e90ba1feb4",
+  "archive_bytes": 21621888,
+  "event_types": {
+    "context-options": 1,
+    "event": 106,
+    "screencast-frame": 318,
+    "before": 7,
+    "frame-snapshot": 26,
+    "input": 12,
+    "after": 7
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704257440929,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "before@call@b7ab22d9dd659a58b5951332ce50d411",
+      "timestamp": 12154.586,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "input@call@b7ab22d9dd659a58b5951332ce50d411",
+      "timestamp": 12176.281,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "after@call@b7ab22d9dd659a58b5951332ce50d411",
+      "timestamp": 12184.993,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "before@call@4d74d404441fd46a13afce2623c89b66",
+      "timestamp": 13052.943,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "input@call@4d74d404441fd46a13afce2623c89b66",
+      "timestamp": 13058.389,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace",
+      "snapshotName": "after@call@4d74d404441fd46a13afce2623c89b66",
+      "timestamp": 13432.614,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace",
+      "snapshotName": "before@call@ab4dedf637c3ce6bd449a065c8874b77",
+      "timestamp": 30424.735,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace",
+      "snapshotName": "input@call@ab4dedf637c3ce6bd449a065c8874b77",
+      "timestamp": 30444.685,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace",
+      "snapshotName": "input@call@ab4dedf637c3ce6bd449a065c8874b77",
+      "timestamp": 30463.013,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace",
+      "snapshotName": "input@call@ab4dedf637c3ce6bd449a065c8874b77",
+      "timestamp": 30503.566,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace",
+      "snapshotName": "input@call@ab4dedf637c3ce6bd449a065c8874b77",
+      "timestamp": 30625.392,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace",
+      "snapshotName": "input@call@ab4dedf637c3ce6bd449a065c8874b77",
+      "timestamp": 30759.499,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace",
+      "snapshotName": "input@call@ab4dedf637c3ce6bd449a065c8874b77",
+      "timestamp": 31295.675,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace&iPage=2",
+      "snapshotName": "after@call@ab4dedf637c3ce6bd449a065c8874b77",
+      "timestamp": 31555.148,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace&iPage=2",
+      "snapshotName": "before@call@b919581fe943bab1be44772c2c6839a4",
+      "timestamp": 40977.593,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace&iPage=2",
+      "snapshotName": "input@call@b919581fe943bab1be44772c2c6839a4",
+      "timestamp": 41009.392,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace&iPage=3",
+      "snapshotName": "after@call@b919581fe943bab1be44772c2c6839a4",
+      "timestamp": 41225.536,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace&iPage=3",
+      "snapshotName": "before@call@74204afdbad5f7946f22b13ec1ae25b8",
+      "timestamp": 50434.64,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace&iPage=3",
+      "snapshotName": "input@call@74204afdbad5f7946f22b13ec1ae25b8",
+      "timestamp": 50463.758,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace&iPage=3&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "after@call@74204afdbad5f7946f22b13ec1ae25b8",
+      "timestamp": 50670.226,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace&iPage=3&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "before@call@27905e024057789390e4f9a3a182d67b",
+      "timestamp": 55200.312,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace&iPage=3&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "input@call@27905e024057789390e4f9a3a182d67b",
+      "timestamp": 55229.966,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "after@call@27905e024057789390e4f9a3a182d67b",
+      "timestamp": 55469.374,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "before@call@7f581c754309531dcaa7c757ddf1afeb",
+      "timestamp": 61136.177,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=brace&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "input@call@7f581c754309531dcaa7c757ddf1afeb",
+      "timestamp": 61162.831,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6dfbf184d796f587d0e2064912922ce3",
+      "frameId": "frame@bf01bb33cc8ece0723111fc92bb53369",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=42654",
+      "snapshotName": "after@call@7f581c754309531dcaa7c757ddf1afeb",
+      "timestamp": 61385.871,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@6dfbf184d796f587d0e2064912922ce3",
+      "timestamp": 67325.307,
+      "resource": "page@6dfbf184d796f587d0e2064912922ce3-1704257507.869061.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_116__page0.jpg",
+      "sha256": "faac7822c8380b5c7de89dca7f3484473a804959ebe4570ec69f142099f63590",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_classifieds_116__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

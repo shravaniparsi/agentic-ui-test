@@ -1,0 +1,246 @@
+{
+  "instance_id": "vwa_shopping_310",
+  "domain": "shopping",
+  "filename_task_id": 310,
+  "source_url": "https://drive.usercontent.google.com/download?id=122QXWj5BbA-gaCVqrE5Z0cp1jGjDBSVW&export=download&confirm=t",
+  "source_file_id": "122QXWj5BbA-gaCVqrE5Z0cp1jGjDBSVW",
+  "archive_sha256": "c1dc077dd6fc71a0f77e65e6ffdc725e35d03b3c62e3622a50a5bdc8f2d4aa99",
+  "archive_bytes": 4121281,
+  "event_types": {
+    "context-options": 1,
+    "event": 44,
+    "screencast-frame": 106,
+    "before": 1,
+    "frame-snapshot": 3,
+    "input": 1,
+    "after": 1,
+    "object": 12
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703283484952,
+      "viewport": {
+        "width": 844,
+        "height": 393
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@96289c6c8722bd122115d58e8e78a621",
+      "frameId": "frame@24a159918e636b09f30660ea4b5d1302",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household.html",
+      "snapshotName": "before@call@94c6bf1c25511a9775cfc54820db3e0f",
+      "timestamp": 22463.254,
+      "viewport": {
+        "width": 844,
+        "height": 393
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@96289c6c8722bd122115d58e8e78a621",
+      "frameId": "frame@24a159918e636b09f30660ea4b5d1302",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household.html",
+      "snapshotName": "input@call@94c6bf1c25511a9775cfc54820db3e0f",
+      "timestamp": 22516.608,
+      "viewport": {
+        "width": 844,
+        "height": 393
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@96289c6c8722bd122115d58e8e78a621",
+      "frameId": "frame@24a159918e636b09f30660ea4b5d1302",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/lr1130-ag10-battery-1-5v-long-lasting-alkaline-button-cell-batteries-20-batteries-5-year-warranty.html",
+      "snapshotName": "after@call@94c6bf1c25511a9775cfc54820db3e0f",
+      "timestamp": 23971.729,
+      "viewport": {
+        "width": 844,
+        "height": 393
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@96289c6c8722bd122115d58e8e78a621",
+      "timestamp": 27941.681,
+      "resource": "page@96289c6c8722bd122115d58e8e78a621-1703283512.157297.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_310__page0.jpg",
+      "sha256": "4433ff30d257f67db6a126b5c39b47dda1b6af067977007a18ea0b3bc2757e23",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        295
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_310__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false,
+  "candidate_frames": [
+    {
+      "page_id": "page@96289c6c8722bd122115d58e8e78a621",
+      "timestamp": 2459.2,
+      "resource": "page@96289c6c8722bd122115d58e8e78a621-1703283486.678351.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_310__candidate0.jpg",
+      "sha256": "e200c53c5dbbca13eb3fe4e23d02857bb6f219cb9fc66b855ecb2803b849f2c8",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        367
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@96289c6c8722bd122115d58e8e78a621",
+      "timestamp": 5390.431,
+      "resource": "page@96289c6c8722bd122115d58e8e78a621-1703283489.608501.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_310__candidate10.jpg",
+      "sha256": "8cde90d23f5d4f9a5b1d22dc3d3f161397db4bba4ecf5d0f550d9f0349e30be0",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        367
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@96289c6c8722bd122115d58e8e78a621",
+      "timestamp": 6787.195,
+      "resource": "page@96289c6c8722bd122115d58e8e78a621-1703283491.004835.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_310__candidate19.jpg",
+      "sha256": "5cab8680b93837eae9a71670f495b4a01319feca8e25a153e89226b59150a623",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        453
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@96289c6c8722bd122115d58e8e78a621",
+      "timestamp": 11126.043,
+      "resource": "page@96289c6c8722bd122115d58e8e78a621-1703283495.343024.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_310__candidate29.jpg",
+      "sha256": "fed010cd5fcbd568452221f06ef0d71d843205117f89b511b55f40f965a62c67",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        453
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@96289c6c8722bd122115d58e8e78a621",
+      "timestamp": 12401.547,
+      "resource": "page@96289c6c8722bd122115d58e8e78a621-1703283496.619604.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_310__candidate38.jpg",
+      "sha256": "a6e7d688d7d2c760237cb6aa33456ac59d0613912494699a259bb19ccc5902a7",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        453
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@96289c6c8722bd122115d58e8e78a621",
+      "timestamp": 16004.476,
+      "resource": "page@96289c6c8722bd122115d58e8e78a621-1703283500.221289.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_310__candidate48.jpg",
+      "sha256": "4847cf7a60cde3894632d444f98018e1dd8f4f05a5330a178d2e5b7fdd6e89b5",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        367
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@96289c6c8722bd122115d58e8e78a621",
+      "timestamp": 17841.835,
+      "resource": "page@96289c6c8722bd122115d58e8e78a621-1703283502.059536.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_310__candidate57.jpg",
+      "sha256": "96f5e22242b41e34cccf82a9e4c25b322bbe204219d21a46210a894a4398ef75",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        295
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@96289c6c8722bd122115d58e8e78a621",
+      "timestamp": 19900.458,
+      "resource": "page@96289c6c8722bd122115d58e8e78a621-1703283504.114353.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_310__candidate67.jpg",
+      "sha256": "55437dbb2174f82839a5c047aabf6e96febb0102ee64dfc2603e2d32f7f587c8",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        295
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@96289c6c8722bd122115d58e8e78a621",
+      "timestamp": 22609.672,
+      "resource": "page@96289c6c8722bd122115d58e8e78a621-1703283506.828024.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_310__candidate76.jpg",
+      "sha256": "ec7f0c9fb810b5255b952f0c1c4713e6382f086eddbb42a08935b58db364ad31",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        295
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@96289c6c8722bd122115d58e8e78a621",
+      "timestamp": 24610.976,
+      "resource": "page@96289c6c8722bd122115d58e8e78a621-1703283508.826486.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_310__candidate86.jpg",
+      "sha256": "3da3d432ffaa6dcfddc786c2c0079e74f3d3ada3fbe1359044b3559729bf57fd",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        295
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@96289c6c8722bd122115d58e8e78a621",
+      "timestamp": 25680.466,
+      "resource": "page@96289c6c8722bd122115d58e8e78a621-1703283509.899157.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_310__candidate95.jpg",
+      "sha256": "0fddb565ffa32ea059e66be76cca75b7e57a1494e01f84d50f0b845212cbb8c4",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        295
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@96289c6c8722bd122115d58e8e78a621",
+      "timestamp": 27941.681,
+      "resource": "page@96289c6c8722bd122115d58e8e78a621-1703283512.157297.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_310__candidate105.jpg",
+      "sha256": "4433ff30d257f67db6a126b5c39b47dda1b6af067977007a18ea0b3bc2757e23",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        295
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    }
+  ]
+}

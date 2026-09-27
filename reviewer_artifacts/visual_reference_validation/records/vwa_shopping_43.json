@@ -1,0 +1,147 @@
+{
+  "instance_id": "vwa_shopping_43",
+  "domain": "shopping",
+  "filename_task_id": 43,
+  "source_url": "https://drive.usercontent.google.com/download?id=1ipfCpI2HtNZpbCchbNG1y6ODk7X998ph&export=download&confirm=t",
+  "source_file_id": "1ipfCpI2HtNZpbCchbNG1y6ODk7X998ph",
+  "archive_sha256": "08da7ee2c95d19820c05067f43f49c9e57c1b1c66c9ff5dba6057b959c7c5cf9",
+  "archive_bytes": 11684346,
+  "event_types": {
+    "context-options": 1,
+    "event": 74,
+    "screencast-frame": 182,
+    "before": 3,
+    "frame-snapshot": 8,
+    "input": 3,
+    "after": 3
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703275001567,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@9e5488fe54d3b25968a0066a5b488d71",
+      "frameId": "frame@b83818cc286c27467e756fc92453dd5b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@cfd7cfc06f5c65263b3e3dc68574c178",
+      "timestamp": 27814.159,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9e5488fe54d3b25968a0066a5b488d71",
+      "frameId": "frame@b83818cc286c27467e756fc92453dd5b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@cfd7cfc06f5c65263b3e3dc68574c178",
+      "timestamp": 27876.196,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9e5488fe54d3b25968a0066a5b488d71",
+      "frameId": "frame@b83818cc286c27467e756fc92453dd5b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/pantry-staples/soups-stocks-broths.html",
+      "snapshotName": "after@call@cfd7cfc06f5c65263b3e3dc68574c178",
+      "timestamp": 29294.817,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9e5488fe54d3b25968a0066a5b488d71",
+      "frameId": "frame@b83818cc286c27467e756fc92453dd5b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/pantry-staples/soups-stocks-broths.html?product_list_order=price",
+      "snapshotName": "input@call@96f94561f967776785f7bcd8a72f5aeb",
+      "timestamp": 46126.387,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9e5488fe54d3b25968a0066a5b488d71",
+      "frameId": "frame@b83818cc286c27467e756fc92453dd5b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/pantry-staples/soups-stocks-broths.html?product_list_order=price",
+      "snapshotName": "after@call@96f94561f967776785f7bcd8a72f5aeb",
+      "timestamp": 46162.575,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9e5488fe54d3b25968a0066a5b488d71",
+      "frameId": "frame@b83818cc286c27467e756fc92453dd5b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/pantry-staples/soups-stocks-broths.html?product_list_order=price",
+      "snapshotName": "before@call@b2068f4260b618a78de527bc110042da",
+      "timestamp": 52674.174,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9e5488fe54d3b25968a0066a5b488d71",
+      "frameId": "frame@b83818cc286c27467e756fc92453dd5b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/pantry-staples/soups-stocks-broths.html?product_list_order=price",
+      "snapshotName": "input@call@b2068f4260b618a78de527bc110042da",
+      "timestamp": 52711.975,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9e5488fe54d3b25968a0066a5b488d71",
+      "frameId": "frame@b83818cc286c27467e756fc92453dd5b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/ocean-s-halo-organic-and-vegan-no-chicken-broth-32-oz-per-unit-2-pack.html",
+      "snapshotName": "after@call@b2068f4260b618a78de527bc110042da",
+      "timestamp": 54137.388,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@9e5488fe54d3b25968a0066a5b488d71",
+      "timestamp": 72413.87,
+      "resource": "page@9e5488fe54d3b25968a0066a5b488d71-1703275073.165574.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_43__page0.jpg",
+      "sha256": "23c9a54e7aeead29661ff9457c03ad9ad76f2242146e1a069cfe7b0dbf2aa95e",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_43__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

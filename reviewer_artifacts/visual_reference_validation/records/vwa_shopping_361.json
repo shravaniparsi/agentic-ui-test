@@ -1,0 +1,340 @@
+{
+  "instance_id": "vwa_shopping_361",
+  "domain": "shopping",
+  "filename_task_id": 361,
+  "source_url": "https://drive.usercontent.google.com/download?id=1QBgyFr5tHnyUdPGGgG6cn9I0JWYH48ar&export=download&confirm=t",
+  "source_file_id": "1QBgyFr5tHnyUdPGGgG6cn9I0JWYH48ar",
+  "archive_sha256": "321aed19f09e303a121ef8966fe40b7d781532a7fd8d17e090eeafb8eb5ef745",
+  "archive_bytes": 10674200,
+  "event_types": {
+    "context-options": 1,
+    "event": 70,
+    "screencast-frame": 218,
+    "before": 8,
+    "frame-snapshot": 24,
+    "input": 8,
+    "after": 8,
+    "object": 8
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703201442789,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/grocery-gourmet-food/snacks-sweets.html?p=8",
+      "snapshotName": "before@call@c39507eadb484836a85f66ef359c3e86",
+      "timestamp": 11715.275,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/grocery-gourmet-food/snacks-sweets.html?p=8",
+      "snapshotName": "input@call@c39507eadb484836a85f66ef359c3e86",
+      "timestamp": 11748.894,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/organic-raw-seeds-nuts-and-raisins-mix-2-pounds-raw-and-non-gmo-trail-mix-contains-walnuts-almonds-cashews-hazelnuts-and-raisins-vegan-superfood-snack-kosher-no-added-sugar-and-oil-bulk.html",
+      "snapshotName": "after@call@c39507eadb484836a85f66ef359c3e86",
+      "timestamp": 12196.459,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/organic-raw-seeds-nuts-and-raisins-mix-2-pounds-raw-and-non-gmo-trail-mix-contains-walnuts-almonds-cashews-hazelnuts-and-raisins-vegan-superfood-snack-kosher-no-added-sugar-and-oil-bulk.html",
+      "snapshotName": "before@call@ea4256f1f36208f1417445537e1602ca",
+      "timestamp": 13765.541,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/organic-raw-seeds-nuts-and-raisins-mix-2-pounds-raw-and-non-gmo-trail-mix-contains-walnuts-almonds-cashews-hazelnuts-and-raisins-vegan-superfood-snack-kosher-no-added-sugar-and-oil-bulk.html",
+      "snapshotName": "input@call@ea4256f1f36208f1417445537e1602ca",
+      "timestamp": 13787.191,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/organic-raw-seeds-nuts-and-raisins-mix-2-pounds-raw-and-non-gmo-trail-mix-contains-walnuts-almonds-cashews-hazelnuts-and-raisins-vegan-superfood-snack-kosher-no-added-sugar-and-oil-bulk.html",
+      "snapshotName": "after@call@ea4256f1f36208f1417445537e1602ca",
+      "timestamp": 13825.746,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/organic-raw-seeds-nuts-and-raisins-mix-2-pounds-raw-and-non-gmo-trail-mix-contains-walnuts-almonds-cashews-hazelnuts-and-raisins-vegan-superfood-snack-kosher-no-added-sugar-and-oil-bulk.html",
+      "snapshotName": "before@call@721971acbffe2e023f70a783f4f914ac",
+      "timestamp": 14998.780999999999,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/organic-raw-seeds-nuts-and-raisins-mix-2-pounds-raw-and-non-gmo-trail-mix-contains-walnuts-almonds-cashews-hazelnuts-and-raisins-vegan-superfood-snack-kosher-no-added-sugar-and-oil-bulk.html",
+      "snapshotName": "input@call@721971acbffe2e023f70a783f4f914ac",
+      "timestamp": 15033.366,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/organic-raw-seeds-nuts-and-raisins-mix-2-pounds-raw-and-non-gmo-trail-mix-contains-walnuts-almonds-cashews-hazelnuts-and-raisins-vegan-superfood-snack-kosher-no-added-sugar-and-oil-bulk.html",
+      "snapshotName": "after@call@721971acbffe2e023f70a783f4f914ac",
+      "timestamp": 15052.357,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/organic-raw-seeds-nuts-and-raisins-mix-2-pounds-raw-and-non-gmo-trail-mix-contains-walnuts-almonds-cashews-hazelnuts-and-raisins-vegan-superfood-snack-kosher-no-added-sugar-and-oil-bulk.html",
+      "snapshotName": "before@call@c1d43644bf02d067534b9c0940b29217",
+      "timestamp": 15541.293,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/organic-raw-seeds-nuts-and-raisins-mix-2-pounds-raw-and-non-gmo-trail-mix-contains-walnuts-almonds-cashews-hazelnuts-and-raisins-vegan-superfood-snack-kosher-no-added-sugar-and-oil-bulk.html",
+      "snapshotName": "input@call@c1d43644bf02d067534b9c0940b29217",
+      "timestamp": 15557.737,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/organic-raw-seeds-nuts-and-raisins-mix-2-pounds-raw-and-non-gmo-trail-mix-contains-walnuts-almonds-cashews-hazelnuts-and-raisins-vegan-superfood-snack-kosher-no-added-sugar-and-oil-bulk.html",
+      "snapshotName": "after@call@c1d43644bf02d067534b9c0940b29217",
+      "timestamp": 15588.347,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/organic-raw-seeds-nuts-and-raisins-mix-2-pounds-raw-and-non-gmo-trail-mix-contains-walnuts-almonds-cashews-hazelnuts-and-raisins-vegan-superfood-snack-kosher-no-added-sugar-and-oil-bulk.html",
+      "snapshotName": "before@call@03d5a3e72e7d7d83db8a9160c9973da5",
+      "timestamp": 17609.572,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/organic-raw-seeds-nuts-and-raisins-mix-2-pounds-raw-and-non-gmo-trail-mix-contains-walnuts-almonds-cashews-hazelnuts-and-raisins-vegan-superfood-snack-kosher-no-added-sugar-and-oil-bulk.html",
+      "snapshotName": "input@call@03d5a3e72e7d7d83db8a9160c9973da5",
+      "timestamp": 17631.038,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/organic-raw-seeds-nuts-and-raisins-mix-2-pounds-raw-and-non-gmo-trail-mix-contains-walnuts-almonds-cashews-hazelnuts-and-raisins-vegan-superfood-snack-kosher-no-added-sugar-and-oil-bulk.html",
+      "snapshotName": "after@call@03d5a3e72e7d7d83db8a9160c9973da5",
+      "timestamp": 17660.244,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/organic-raw-seeds-nuts-and-raisins-mix-2-pounds-raw-and-non-gmo-trail-mix-contains-walnuts-almonds-cashews-hazelnuts-and-raisins-vegan-superfood-snack-kosher-no-added-sugar-and-oil-bulk.html",
+      "snapshotName": "before@call@4c02932c7427401e799a0368e0810aa1",
+      "timestamp": 18599.154,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/organic-raw-seeds-nuts-and-raisins-mix-2-pounds-raw-and-non-gmo-trail-mix-contains-walnuts-almonds-cashews-hazelnuts-and-raisins-vegan-superfood-snack-kosher-no-added-sugar-and-oil-bulk.html",
+      "snapshotName": "input@call@4c02932c7427401e799a0368e0810aa1",
+      "timestamp": 18630.581,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/checkout/",
+      "snapshotName": "after@call@4c02932c7427401e799a0368e0810aa1",
+      "timestamp": 18952.035,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/checkout/#shipping",
+      "snapshotName": "before@call@f5dd5f75d9333e69923597177f5ac285",
+      "timestamp": 22130.974,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/checkout/#shipping",
+      "snapshotName": "input@call@f5dd5f75d9333e69923597177f5ac285",
+      "timestamp": 22159.911,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/checkout/#shipping",
+      "snapshotName": "after@call@f5dd5f75d9333e69923597177f5ac285",
+      "timestamp": 22176.908,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/checkout/#payment",
+      "snapshotName": "before@call@ddbe6c5a36954cc7b3316c875197b427",
+      "timestamp": 24195.925,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/checkout/#payment",
+      "snapshotName": "input@call@ddbe6c5a36954cc7b3316c875197b427",
+      "timestamp": 24218.662,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@53c727f83f8b8a135d8bb865a652e232",
+      "frameId": "frame@1a04b6de54b9d034fe98d65cbdcd3df6",
+      "frameUrl": "http://localhost:7770/checkout/#payment",
+      "snapshotName": "after@call@ddbe6c5a36954cc7b3316c875197b427",
+      "timestamp": 24238.944,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@53c727f83f8b8a135d8bb865a652e232",
+      "timestamp": 29495.61,
+      "resource": "page@53c727f83f8b8a135d8bb865a652e232-1703201471.511987.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_361__page0.jpg",
+      "sha256": "f27dc110942984b276ca17838448b9760b92c6cdb068a89d2e645244ea736315",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_361__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

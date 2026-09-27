@@ -1,0 +1,304 @@
+{
+  "instance_id": "vwa_reddit_167",
+  "domain": "reddit",
+  "filename_task_id": 167,
+  "source_url": "https://drive.usercontent.google.com/download?id=1fvklC0tXfwvMqQ6uuyT2ID6IjhTA-33p&export=download&confirm=t",
+  "source_file_id": "1fvklC0tXfwvMqQ6uuyT2ID6IjhTA-33p",
+  "archive_sha256": "7c28c9987000a6732c8c218c61b73914fa90e91778808ea2b4b7559551b320b8",
+  "archive_bytes": 18713685,
+  "event_types": {
+    "context-options": 1,
+    "event": 146,
+    "screencast-frame": 223,
+    "object": 54,
+    "before": 7,
+    "frame-snapshot": 21,
+    "input": 7,
+    "after": 7
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704276811392,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@bb4737af307c9c510d9776a5e2ad1d79",
+      "timestamp": 11984.774,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@bb4737af307c9c510d9776a5e2ad1d79",
+      "timestamp": 12041.112,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "after@call@bb4737af307c9c510d9776a5e2ad1d79",
+      "timestamp": 12092.697,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@04f618b6f219d0e8a8f722455115e3d0",
+      "timestamp": 13806.414,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@04f618b6f219d0e8a8f722455115e3d0",
+      "timestamp": 13817.724,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=space+station",
+      "snapshotName": "after@call@04f618b6f219d0e8a8f722455115e3d0",
+      "timestamp": 14604.97,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=space+station",
+      "snapshotName": "before@call@5be31994e861711bf3d3a41e78fa6d5d",
+      "timestamp": 40423.181,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=space+station",
+      "snapshotName": "input@call@5be31994e861711bf3d3a41e78fa6d5d",
+      "timestamp": 40472.661,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/Hazelil",
+      "snapshotName": "after@call@5be31994e861711bf3d3a41e78fa6d5d",
+      "timestamp": 40842.524,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/Hazelil",
+      "snapshotName": "before@call@14a575f9ea9e590a2f3abe4875f078d2",
+      "timestamp": 44065.933,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/Hazelil",
+      "snapshotName": "input@call@14a575f9ea9e590a2f3abe4875f078d2",
+      "timestamp": 44120.519,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/Hazelil",
+      "snapshotName": "after@call@14a575f9ea9e590a2f3abe4875f078d2",
+      "timestamp": 44761.602,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/Hazelil",
+      "snapshotName": "before@call@127fe32ded2969eb7aa8425ad3bed57e",
+      "timestamp": 50845.875,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/Hazelil",
+      "snapshotName": "input@call@127fe32ded2969eb7aa8425ad3bed57e",
+      "timestamp": 50903.833,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/Hazelil/compose_message",
+      "snapshotName": "after@call@127fe32ded2969eb7aa8425ad3bed57e",
+      "timestamp": 51676.657,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/Hazelil/compose_message",
+      "snapshotName": "before@call@a4379d14aeee3d047f6460a8f2c0828e",
+      "timestamp": 52410.14,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/Hazelil/compose_message",
+      "snapshotName": "input@call@a4379d14aeee3d047f6460a8f2c0828e",
+      "timestamp": 52454.793,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/Hazelil/compose_message",
+      "snapshotName": "after@call@a4379d14aeee3d047f6460a8f2c0828e",
+      "timestamp": 52486.867,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/Hazelil/compose_message",
+      "snapshotName": "before@call@419c362dde26a45a22d136ffc1407053",
+      "timestamp": 58443.761,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/Hazelil/compose_message",
+      "snapshotName": "input@call@419c362dde26a45a22d136ffc1407053",
+      "timestamp": 58486.567,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "frameId": "frame@be97e0211d0203729f57598b07162f3e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/messages/thread/2",
+      "snapshotName": "after@call@419c362dde26a45a22d136ffc1407053",
+      "timestamp": 59360.098,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@5abb86e8a2b163d70029edf76b2d3fd9",
+      "timestamp": 59750.179,
+      "resource": "page@5abb86e8a2b163d70029edf76b2d3fd9-1704276870.675964.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_167__page0.jpg",
+      "sha256": "9b6a54cbe6730f9564fa69fa0efb3361fb38bb841ab1d69080dd627a3c583a23",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_167__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

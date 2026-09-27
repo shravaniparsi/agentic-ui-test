@@ -1,0 +1,123 @@
+{
+  "instance_id": "vwa_shopping_104",
+  "domain": "shopping",
+  "filename_task_id": 104,
+  "source_url": "https://drive.usercontent.google.com/download?id=1d5dci1dSwsZm2Xw1NQVxU84QaRPK1tdX&export=download&confirm=t",
+  "source_file_id": "1d5dci1dSwsZm2Xw1NQVxU84QaRPK1tdX",
+  "archive_sha256": "d3389d3591182a13129e0cb8676a275bf366099bf5b904ac7602904fa85a1c5b",
+  "archive_bytes": 4074755,
+  "event_types": {
+    "context-options": 1,
+    "event": 49,
+    "screencast-frame": 71,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703276003086,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@c8a9cde285514c5df5fa553929fd1a34",
+      "frameId": "frame@ae77d0195024269d25c4ae9f714970e7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=dress",
+      "snapshotName": "before@call@f264ecddc886160da9b717c5b44f49d5",
+      "timestamp": 16822.153,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c8a9cde285514c5df5fa553929fd1a34",
+      "frameId": "frame@ae77d0195024269d25c4ae9f714970e7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=dress",
+      "snapshotName": "input@call@f264ecddc886160da9b717c5b44f49d5",
+      "timestamp": 16869.175,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c8a9cde285514c5df5fa553929fd1a34",
+      "frameId": "frame@ae77d0195024269d25c4ae9f714970e7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/ants-women-s-simple-short-bridesmaid-dress-chiffon-homecoming-dresses.html",
+      "snapshotName": "after@call@f264ecddc886160da9b717c5b44f49d5",
+      "timestamp": 18298.003,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c8a9cde285514c5df5fa553929fd1a34",
+      "frameId": "frame@ae77d0195024269d25c4ae9f714970e7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/ants-women-s-simple-short-bridesmaid-dress-chiffon-homecoming-dresses.html",
+      "snapshotName": "before@call@4a556213ad223f0551f82832fa8002a6",
+      "timestamp": 19706.284,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c8a9cde285514c5df5fa553929fd1a34",
+      "frameId": "frame@ae77d0195024269d25c4ae9f714970e7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/ants-women-s-simple-short-bridesmaid-dress-chiffon-homecoming-dresses.html",
+      "snapshotName": "input@call@4a556213ad223f0551f82832fa8002a6",
+      "timestamp": 19750.375,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c8a9cde285514c5df5fa553929fd1a34",
+      "frameId": "frame@ae77d0195024269d25c4ae9f714970e7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@4a556213ad223f0551f82832fa8002a6",
+      "timestamp": 21195.438,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@c8a9cde285514c5df5fa553929fd1a34",
+      "timestamp": 21968.272,
+      "resource": "page@c8a9cde285514c5df5fa553929fd1a34-1703276024.274066.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_104__page0.jpg",
+      "sha256": "e4d48cca3b72c9faeb51a70fdcc128e1ec1623ef15a16d42be9961b8aa3db324",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_104__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

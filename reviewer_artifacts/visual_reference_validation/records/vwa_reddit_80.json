@@ -1,0 +1,232 @@
+{
+  "instance_id": "vwa_reddit_80",
+  "domain": "reddit",
+  "filename_task_id": 80,
+  "source_url": "https://drive.usercontent.google.com/download?id=19BcGyoIVmaVZMTFEiREPaJcR3exPRiNS&export=download&confirm=t",
+  "source_file_id": "19BcGyoIVmaVZMTFEiREPaJcR3exPRiNS",
+  "archive_sha256": "f9066e76514cde2bc3a0fd619de0d7bc3efa4bc1b7fb4f1735b7080f83c2dded",
+  "archive_bytes": 22764530,
+  "event_types": {
+    "context-options": 1,
+    "event": 152,
+    "screencast-frame": 374,
+    "object": 65,
+    "before": 5,
+    "frame-snapshot": 15,
+    "input": 5,
+    "after": 5
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704275203110,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@ed8b6958af0e5ef7727a6d5d0d69d56c",
+      "frameId": "frame@f43493451475346426ff913d5b670bc5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@81be19920be727e774c35c41f7bf229c",
+      "timestamp": 52032.692,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed8b6958af0e5ef7727a6d5d0d69d56c",
+      "frameId": "frame@f43493451475346426ff913d5b670bc5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@81be19920be727e774c35c41f7bf229c",
+      "timestamp": 52083.492,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed8b6958af0e5ef7727a6d5d0d69d56c",
+      "frameId": "frame@f43493451475346426ff913d5b670bc5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/?next%5Branking%5D=1331&next%5Bid%5D=106074",
+      "snapshotName": "after@call@81be19920be727e774c35c41f7bf229c",
+      "timestamp": 52573.992,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed8b6958af0e5ef7727a6d5d0d69d56c",
+      "frameId": "frame@f43493451475346426ff913d5b670bc5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/?next%5Branking%5D=1331&next%5Bid%5D=106074",
+      "snapshotName": "before@call@40bffb043092bbf4898d7938bdd9aefe",
+      "timestamp": 59186.972,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed8b6958af0e5ef7727a6d5d0d69d56c",
+      "frameId": "frame@f43493451475346426ff913d5b670bc5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/?next%5Branking%5D=1331&next%5Bid%5D=106074",
+      "snapshotName": "input@call@40bffb043092bbf4898d7938bdd9aefe",
+      "timestamp": 59232.352,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed8b6958af0e5ef7727a6d5d0d69d56c",
+      "frameId": "frame@f43493451475346426ff913d5b670bc5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/?next%5Branking%5D=1331&next%5Bid%5D=106074",
+      "snapshotName": "after@call@40bffb043092bbf4898d7938bdd9aefe",
+      "timestamp": 59279.874,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed8b6958af0e5ef7727a6d5d0d69d56c",
+      "frameId": "frame@f43493451475346426ff913d5b670bc5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/?next%5Branking%5D=1331&next%5Bid%5D=106074",
+      "snapshotName": "before@call@f47dda64c83c192a59108e9d272c28f8",
+      "timestamp": 60786.358,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed8b6958af0e5ef7727a6d5d0d69d56c",
+      "frameId": "frame@f43493451475346426ff913d5b670bc5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/?next%5Branking%5D=1331&next%5Bid%5D=106074",
+      "snapshotName": "input@call@f47dda64c83c192a59108e9d272c28f8",
+      "timestamp": 60799.864,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed8b6958af0e5ef7727a6d5d0d69d56c",
+      "frameId": "frame@f43493451475346426ff913d5b670bc5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=rick+and+morty",
+      "snapshotName": "after@call@f47dda64c83c192a59108e9d272c28f8",
+      "timestamp": 61654.817,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed8b6958af0e5ef7727a6d5d0d69d56c",
+      "frameId": "frame@f43493451475346426ff913d5b670bc5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=rick+and+morty",
+      "snapshotName": "before@call@09b96ec19ffed80dc40b0d117bc09763",
+      "timestamp": 67002.311,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed8b6958af0e5ef7727a6d5d0d69d56c",
+      "frameId": "frame@f43493451475346426ff913d5b670bc5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=rick+and+morty",
+      "snapshotName": "input@call@09b96ec19ffed80dc40b0d117bc09763",
+      "timestamp": 67051.642,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed8b6958af0e5ef7727a6d5d0d69d56c",
+      "frameId": "frame@f43493451475346426ff913d5b670bc5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/afd935fc4a7979f0745f427f60d6ad62bc16f805cc30fe070f8fc7ddc4e615c7.jpg",
+      "snapshotName": "after@call@09b96ec19ffed80dc40b0d117bc09763",
+      "timestamp": 67392.686,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed8b6958af0e5ef7727a6d5d0d69d56c",
+      "frameId": "frame@f43493451475346426ff913d5b670bc5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=rick+and+morty",
+      "snapshotName": "before@call@faef83338f434c1c6b6a67f62eb7d4fe",
+      "timestamp": 69848.222,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed8b6958af0e5ef7727a6d5d0d69d56c",
+      "frameId": "frame@f43493451475346426ff913d5b670bc5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=rick+and+morty",
+      "snapshotName": "input@call@faef83338f434c1c6b6a67f62eb7d4fe",
+      "timestamp": 69902.394,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed8b6958af0e5ef7727a6d5d0d69d56c",
+      "frameId": "frame@f43493451475346426ff913d5b670bc5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/mildlyinteresting/42152/rick-and-morty-with-mello-yello-being-advertised-by-coke-at",
+      "snapshotName": "after@call@faef83338f434c1c6b6a67f62eb7d4fe",
+      "timestamp": 70716.5,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@ed8b6958af0e5ef7727a6d5d0d69d56c",
+      "timestamp": 73034.406,
+      "resource": "page@ed8b6958af0e5ef7727a6d5d0d69d56c-1704275275.612018.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_80__page0.jpg",
+      "sha256": "1b9335c31419d86fe226c702eced3a092ec3b442fa7f61ec03c469a289ca4e60",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_80__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

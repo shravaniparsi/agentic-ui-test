@@ -1,0 +1,196 @@
+{
+  "instance_id": "vwa_reddit_90",
+  "domain": "reddit",
+  "filename_task_id": 90,
+  "source_url": "https://drive.usercontent.google.com/download?id=1Y0TUo1kL4QmL57xM2zXI7fMl_MBeYpit&export=download&confirm=t",
+  "source_file_id": "1Y0TUo1kL4QmL57xM2zXI7fMl_MBeYpit",
+  "archive_sha256": "f4044cde95d6fd88ffdf7345de5d3ac9eeece44d1bd6db15816ce8ef8c0b4755",
+  "archive_bytes": 4081645,
+  "event_types": {
+    "context-options": 1,
+    "event": 71,
+    "screencast-frame": 163,
+    "object": 35,
+    "before": 4,
+    "frame-snapshot": 12,
+    "input": 4,
+    "after": 4
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704275372499,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@72903ff2afbf94ffa09d32e6738ddd8c",
+      "frameId": "frame@854a44328e2e2e8f2c772288c1625573",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space/112972",
+      "snapshotName": "before@call@eeba62eac6f4f349a79d576e6feb34a6",
+      "timestamp": 27664.357,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@72903ff2afbf94ffa09d32e6738ddd8c",
+      "frameId": "frame@854a44328e2e2e8f2c772288c1625573",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space/112972",
+      "snapshotName": "input@call@eeba62eac6f4f349a79d576e6feb34a6",
+      "timestamp": 27743.255,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@72903ff2afbf94ffa09d32e6738ddd8c",
+      "frameId": "frame@854a44328e2e2e8f2c772288c1625573",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space/112972",
+      "snapshotName": "after@call@eeba62eac6f4f349a79d576e6feb34a6",
+      "timestamp": 27883.863,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@72903ff2afbf94ffa09d32e6738ddd8c",
+      "frameId": "frame@854a44328e2e2e8f2c772288c1625573",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space/112972",
+      "snapshotName": "before@call@d9a0add0a3d6d799d9b4d40c7324177b",
+      "timestamp": 28398.686,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@72903ff2afbf94ffa09d32e6738ddd8c",
+      "frameId": "frame@854a44328e2e2e8f2c772288c1625573",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space/112972",
+      "snapshotName": "input@call@d9a0add0a3d6d799d9b4d40c7324177b",
+      "timestamp": 28458.965,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@72903ff2afbf94ffa09d32e6738ddd8c",
+      "frameId": "frame@854a44328e2e2e8f2c772288c1625573",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space/112972",
+      "snapshotName": "after@call@d9a0add0a3d6d799d9b4d40c7324177b",
+      "timestamp": 28482.387,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@72903ff2afbf94ffa09d32e6738ddd8c",
+      "frameId": "frame@854a44328e2e2e8f2c772288c1625573",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space/112972",
+      "snapshotName": "before@call@72e78f68ee815a803c7afe0722dee557",
+      "timestamp": 30733.661,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@72903ff2afbf94ffa09d32e6738ddd8c",
+      "frameId": "frame@854a44328e2e2e8f2c772288c1625573",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space/112972",
+      "snapshotName": "input@call@72e78f68ee815a803c7afe0722dee557",
+      "timestamp": 30811.835,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@72903ff2afbf94ffa09d32e6738ddd8c",
+      "frameId": "frame@854a44328e2e2e8f2c772288c1625573",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space/112972",
+      "snapshotName": "after@call@72e78f68ee815a803c7afe0722dee557",
+      "timestamp": 30838.682,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@72903ff2afbf94ffa09d32e6738ddd8c",
+      "frameId": "frame@854a44328e2e2e8f2c772288c1625573",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space/112972",
+      "snapshotName": "before@call@b2715a5495f364e7c3699d7784cc1c8e",
+      "timestamp": 53308.301,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@72903ff2afbf94ffa09d32e6738ddd8c",
+      "frameId": "frame@854a44328e2e2e8f2c772288c1625573",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space/112972",
+      "snapshotName": "input@call@b2715a5495f364e7c3699d7784cc1c8e",
+      "timestamp": 53376.996,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@72903ff2afbf94ffa09d32e6738ddd8c",
+      "frameId": "frame@854a44328e2e2e8f2c772288c1625573",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space/112972/my-two-year-progress-shooting-jupiter-using-the-same-300/comment/10",
+      "snapshotName": "after@call@b2715a5495f364e7c3699d7784cc1c8e",
+      "timestamp": 54215.314,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@72903ff2afbf94ffa09d32e6738ddd8c",
+      "timestamp": 54604.276,
+      "resource": "page@72903ff2afbf94ffa09d32e6738ddd8c-1704275426.54388.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_90__page0.jpg",
+      "sha256": "cbf53ac160f7c6213047cf8b556e98efc71ac970a6ff3b25ba53c3c7eb3319cf",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_90__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

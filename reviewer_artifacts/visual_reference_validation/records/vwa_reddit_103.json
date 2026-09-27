@@ -1,0 +1,160 @@
+{
+  "instance_id": "vwa_reddit_103",
+  "domain": "reddit",
+  "filename_task_id": 103,
+  "source_url": "https://drive.usercontent.google.com/download?id=1lfAqZFC4VbZEt5_0pScs_8sYZh8m2XU_&export=download&confirm=t",
+  "source_file_id": "1lfAqZFC4VbZEt5_0pScs_8sYZh8m2XU_",
+  "archive_sha256": "811943697881bc746d47cbdc6713b7f0fece9eccfdb8107be8d2d9e8a5bc2812",
+  "archive_bytes": 5025711,
+  "event_types": {
+    "context-options": 1,
+    "event": 77,
+    "screencast-frame": 136,
+    "object": 41,
+    "before": 3,
+    "frame-snapshot": 9,
+    "input": 3,
+    "after": 3
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704275472102,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@e599faff83e6197ce89857d460f9cc66",
+      "frameId": "frame@9e3cb7b245a946a0ee859d8252a5dae3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/MechanicalKeyboards/56362",
+      "snapshotName": "before@call@d2055a52023b9030bae2de542cee64bc",
+      "timestamp": 29371.469,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e599faff83e6197ce89857d460f9cc66",
+      "frameId": "frame@9e3cb7b245a946a0ee859d8252a5dae3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/MechanicalKeyboards/56362",
+      "snapshotName": "input@call@d2055a52023b9030bae2de542cee64bc",
+      "timestamp": 29409.779,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e599faff83e6197ce89857d460f9cc66",
+      "frameId": "frame@9e3cb7b245a946a0ee859d8252a5dae3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/MechanicalKeyboards/56362",
+      "snapshotName": "after@call@d2055a52023b9030bae2de542cee64bc",
+      "timestamp": 29518.277000000002,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e599faff83e6197ce89857d460f9cc66",
+      "frameId": "frame@9e3cb7b245a946a0ee859d8252a5dae3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/MechanicalKeyboards/56362",
+      "snapshotName": "before@call@edf19514e0aa7736535a525e94e4eb99",
+      "timestamp": 30555.201,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e599faff83e6197ce89857d460f9cc66",
+      "frameId": "frame@9e3cb7b245a946a0ee859d8252a5dae3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/MechanicalKeyboards/56362",
+      "snapshotName": "input@call@edf19514e0aa7736535a525e94e4eb99",
+      "timestamp": 30578.141,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e599faff83e6197ce89857d460f9cc66",
+      "frameId": "frame@9e3cb7b245a946a0ee859d8252a5dae3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/MechanicalKeyboards/56362",
+      "snapshotName": "after@call@edf19514e0aa7736535a525e94e4eb99",
+      "timestamp": 30677.186,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e599faff83e6197ce89857d460f9cc66",
+      "frameId": "frame@9e3cb7b245a946a0ee859d8252a5dae3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/MechanicalKeyboards/56362",
+      "snapshotName": "before@call@9fccad97affc46bfa0dd975ae285fb9d",
+      "timestamp": 43120.658,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e599faff83e6197ce89857d460f9cc66",
+      "frameId": "frame@9e3cb7b245a946a0ee859d8252a5dae3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/MechanicalKeyboards/56362",
+      "snapshotName": "input@call@9fccad97affc46bfa0dd975ae285fb9d",
+      "timestamp": 43152.986,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e599faff83e6197ce89857d460f9cc66",
+      "frameId": "frame@9e3cb7b245a946a0ee859d8252a5dae3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/MechanicalKeyboards/56362/dualshot-2-arrived-my-second-build-is-finished/comment/11",
+      "snapshotName": "after@call@9fccad97affc46bfa0dd975ae285fb9d",
+      "timestamp": 43945.336,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@e599faff83e6197ce89857d460f9cc66",
+      "timestamp": 44748.458,
+      "resource": "page@e599faff83e6197ce89857d460f9cc66-1704275516.309058.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_103__page0.jpg",
+      "sha256": "982a585e60f72a4995ed867f5978befa1771ef6e084ef41607e0ac95ee2b52e0",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_103__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

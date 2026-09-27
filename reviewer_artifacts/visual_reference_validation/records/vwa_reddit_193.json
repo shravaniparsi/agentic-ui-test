@@ -1,0 +1,124 @@
+{
+  "instance_id": "vwa_reddit_193",
+  "domain": "reddit",
+  "filename_task_id": 193,
+  "source_url": "https://drive.usercontent.google.com/download?id=1PRvTp48Q16vs0uNhmkb2KQMvEERQKt_q&export=download&confirm=t",
+  "source_file_id": "1PRvTp48Q16vs0uNhmkb2KQMvEERQKt_q",
+  "archive_sha256": "1ea14621f25551dbc8982aff916bea741d154180512b43bfcafc64f16f728736",
+  "archive_bytes": 8259843,
+  "event_types": {
+    "context-options": 1,
+    "event": 36,
+    "screencast-frame": 149,
+    "object": 19,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704270356709,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@4c34619547cd9b090e8fadbc0040df79",
+      "frameId": "frame@099e5a3232343aad4fc0b6a9ae2bc356",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/aww/most_commented?t=all",
+      "snapshotName": "before@call@5ae34f8128043eb940d8e3a8753cf494",
+      "timestamp": 21776.593,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4c34619547cd9b090e8fadbc0040df79",
+      "frameId": "frame@099e5a3232343aad4fc0b6a9ae2bc356",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/aww/most_commented?t=all",
+      "snapshotName": "input@call@5ae34f8128043eb940d8e3a8753cf494",
+      "timestamp": 21816.246,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4c34619547cd9b090e8fadbc0040df79",
+      "frameId": "frame@099e5a3232343aad4fc0b6a9ae2bc356",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/aww/most_commented?t=all",
+      "snapshotName": "after@call@5ae34f8128043eb940d8e3a8753cf494",
+      "timestamp": 21829.317,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4c34619547cd9b090e8fadbc0040df79",
+      "frameId": "frame@099e5a3232343aad4fc0b6a9ae2bc356",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/aww/most_commented?t=all",
+      "snapshotName": "before@call@84d2f74913478292c1dca4756f616215",
+      "timestamp": 28589.659,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4c34619547cd9b090e8fadbc0040df79",
+      "frameId": "frame@099e5a3232343aad4fc0b6a9ae2bc356",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/aww/most_commented?t=all",
+      "snapshotName": "input@call@84d2f74913478292c1dca4756f616215",
+      "timestamp": 28614.936,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4c34619547cd9b090e8fadbc0040df79",
+      "frameId": "frame@099e5a3232343aad4fc0b6a9ae2bc356",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/aww/most_commented?t=all",
+      "snapshotName": "after@call@84d2f74913478292c1dca4756f616215",
+      "timestamp": 28627.667,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@4c34619547cd9b090e8fadbc0040df79",
+      "timestamp": 37263.428,
+      "resource": "page@4c34619547cd9b090e8fadbc0040df79-1704270393.281288.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_193__page0.jpg",
+      "sha256": "9f79f3c770ee6df8d8f10da18a3e4c7ff56efc1adbf1484c29e30fd46d34f40b",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_193__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

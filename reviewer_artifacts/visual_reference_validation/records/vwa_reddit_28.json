@@ -1,0 +1,592 @@
+{
+  "instance_id": "vwa_reddit_28",
+  "domain": "reddit",
+  "filename_task_id": 28,
+  "source_url": "https://drive.usercontent.google.com/download?id=1KOeK2K9Fq5nZjYQA6cbTrVUypwX6TqFO&export=download&confirm=t",
+  "source_file_id": "1KOeK2K9Fq5nZjYQA6cbTrVUypwX6TqFO",
+  "archive_sha256": "c187937e941901900a90e9eb5cbebc928affb7a2ad5f6865182c4de972fcf9f6",
+  "archive_bytes": 26582928,
+  "event_types": {
+    "context-options": 1,
+    "event": 185,
+    "screencast-frame": 743,
+    "object": 63,
+    "before": 14,
+    "frame-snapshot": 42,
+    "input": 14,
+    "after": 14
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704322203336,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://www.google.com/search?q=mscoco&oq=mscoco&aqs=chrome..69i57.4403j0j1&sourceid=chrome&ie=UTF-8",
+      "snapshotName": "before@call@62df0ad6f2d0abf63cf4cb2bf3346aa4",
+      "timestamp": 12198.743,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://www.google.com/search?q=mscoco&oq=mscoco&aqs=chrome..69i57.4403j0j1&sourceid=chrome&ie=UTF-8",
+      "snapshotName": "input@call@62df0ad6f2d0abf63cf4cb2bf3346aa4",
+      "timestamp": 12375.26,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/",
+      "snapshotName": "after@call@62df0ad6f2d0abf63cf4cb2bf3346aa4",
+      "timestamp": 12921.844000000001,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#home",
+      "snapshotName": "before@call@9781240c54f43bde8543c96b75182157",
+      "timestamp": 16281.559,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#home",
+      "snapshotName": "input@call@9781240c54f43bde8543c96b75182157",
+      "timestamp": 16334.68,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#home",
+      "snapshotName": "after@call@9781240c54f43bde8543c96b75182157",
+      "timestamp": 16351.884,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#home",
+      "snapshotName": "before@call@5c1fdc845d7c1d0fc066f0735b90d564",
+      "timestamp": 18350.634,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#home",
+      "snapshotName": "input@call@5c1fdc845d7c1d0fc066f0735b90d564",
+      "timestamp": 18384.902,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#explore",
+      "snapshotName": "after@call@5c1fdc845d7c1d0fc066f0735b90d564",
+      "timestamp": 18420.264,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#explore",
+      "snapshotName": "before@call@884245b7e08150e5dc22be0f8fcdfc33",
+      "timestamp": 25261.578,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#explore",
+      "snapshotName": "input@call@884245b7e08150e5dc22be0f8fcdfc33",
+      "timestamp": 25283.126,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#explore",
+      "snapshotName": "after@call@884245b7e08150e5dc22be0f8fcdfc33",
+      "timestamp": 25313.788,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#explore",
+      "snapshotName": "before@call@77c2980908f7b6371f3820c11423724e",
+      "timestamp": 27205.351,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#explore",
+      "snapshotName": "input@call@77c2980908f7b6371f3820c11423724e",
+      "timestamp": 27233.589,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#explore",
+      "snapshotName": "after@call@77c2980908f7b6371f3820c11423724e",
+      "timestamp": 27273.218,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@5a8845d703ecea6ef41b924ab0f595b1",
+      "timestamp": 61642.502,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@5a8845d703ecea6ef41b924ab0f595b1",
+      "timestamp": 61703.058,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/sports",
+      "snapshotName": "after@call@5a8845d703ecea6ef41b924ab0f595b1",
+      "timestamp": 62072.508,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/sports",
+      "snapshotName": "before@call@5ce8efa4d8a237fb2a937bfbcc0e24ce",
+      "timestamp": 65162.603,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/sports",
+      "snapshotName": "input@call@5ce8efa4d8a237fb2a937bfbcc0e24ce",
+      "timestamp": 65209.434,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/sports",
+      "snapshotName": "after@call@5ce8efa4d8a237fb2a937bfbcc0e24ce",
+      "timestamp": 65533.867,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/sports",
+      "snapshotName": "before@call@0c071ac7d63d2c9156b0fad65969e05a",
+      "timestamp": 71456.009,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/sports",
+      "snapshotName": "input@call@0c071ac7d63d2c9156b0fad65969e05a",
+      "timestamp": 71505.114,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/sports",
+      "snapshotName": "after@call@0c071ac7d63d2c9156b0fad65969e05a",
+      "timestamp": 71540.393,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/sports",
+      "snapshotName": "before@call@738762040d17e17df25aaa532f512a62",
+      "timestamp": 80414.931,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/sports",
+      "snapshotName": "input@call@738762040d17e17df25aaa532f512a62",
+      "timestamp": 80424.811,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/sports",
+      "snapshotName": "after@call@738762040d17e17df25aaa532f512a62",
+      "timestamp": 80438.414,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/sports",
+      "snapshotName": "before@call@9aaf8b2f5e8ece19ba7c11a047ede2be",
+      "timestamp": 186764.885,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/sports",
+      "snapshotName": "input@call@9aaf8b2f5e8ece19ba7c11a047ede2be",
+      "timestamp": 186803.742,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/sports",
+      "snapshotName": "after@call@9aaf8b2f5e8ece19ba7c11a047ede2be",
+      "timestamp": 186832.445,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#explore",
+      "snapshotName": "before@call@0c54b8e0b7bac7854e15f549383936b7",
+      "timestamp": 193124.839,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#explore",
+      "snapshotName": "input@call@0c54b8e0b7bac7854e15f549383936b7",
+      "timestamp": 193148.357,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#explore",
+      "snapshotName": "after@call@0c54b8e0b7bac7854e15f549383936b7",
+      "timestamp": 193156.013,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#explore",
+      "snapshotName": "before@call@fe1a3a229eeb6d7c13d98d2373a2b7e9",
+      "timestamp": 197283.166,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#explore",
+      "snapshotName": "input@call@fe1a3a229eeb6d7c13d98d2373a2b7e9",
+      "timestamp": 197312.177,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "frameId": "frame@75992fe0e96bf010ca043963fa323821",
+      "frameUrl": "https://cocodataset.org/#explore",
+      "snapshotName": "after@call@fe1a3a229eeb6d7c13d98d2373a2b7e9",
+      "timestamp": 197321.93,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/sports",
+      "snapshotName": "before@call@c528edb6d63bc9765138baf2bfe89293",
+      "timestamp": 216041.309,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/sports",
+      "snapshotName": "input@call@c528edb6d63bc9765138baf2bfe89293",
+      "timestamp": 216063.692,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/sports",
+      "snapshotName": "after@call@c528edb6d63bc9765138baf2bfe89293",
+      "timestamp": 218629.406,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/sports",
+      "snapshotName": "before@call@44e6a5678475a33484f99938a1e63f3f",
+      "timestamp": 228832.546,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/sports",
+      "snapshotName": "input@call@44e6a5678475a33484f99938a1e63f3f",
+      "timestamp": 228881.831,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "frameId": "frame@ef2cdb7a3a25c9d8f7a1a588c9a141c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/sports/12/my-first-baseball-game",
+      "snapshotName": "after@call@44e6a5678475a33484f99938a1e63f3f",
+      "timestamp": 230211.893,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@c3eb57def342ee81e127be05bc425a5a",
+      "timestamp": 205132.72,
+      "resource": "page@c3eb57def342ee81e127be05bc425a5a-1704322407.777808.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_28__page0.jpg",
+      "sha256": "93be36c595a37769900c23b9b6001676071d631ced4e8d2ffeacbd886662d790",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@f95eea0f3cb653125a8a1e9ea09dee94",
+      "timestamp": 206779.737,
+      "resource": "page@f95eea0f3cb653125a8a1e9ea09dee94-1704322409.426678.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_28__page1.jpg",
+      "sha256": "45a885c32b6591dfa0f1c6321fa49963a821e78c853cc9bef0198061a26dc8f4",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@59ab46bba9a190f4668973df3a9bc590",
+      "timestamp": 213515.287,
+      "resource": "page@59ab46bba9a190f4668973df3a9bc590-1704322416.162916.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_28__page2.jpg",
+      "sha256": "3156448a5ecf95a4a2a5bfb2eb51f6f1a4c6f5a25002627fd37150f703742141",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        411
+      ]
+    },
+    {
+      "page_id": "page@0a2111945ea4df0ff32e85139dfa4897",
+      "timestamp": 238681.393,
+      "resource": "page@0a2111945ea4df0ff32e85139dfa4897-1704322441.329597.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_28__page3.jpg",
+      "sha256": "fe89535309d4f5c7807246d4fcacc57c9bc84d4623aac58809c357c920aa8d2c",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        411
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_28__page3.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

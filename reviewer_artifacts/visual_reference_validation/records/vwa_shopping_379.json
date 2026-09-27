@@ -1,0 +1,712 @@
+{
+  "instance_id": "vwa_shopping_379",
+  "domain": "shopping",
+  "filename_task_id": 379,
+  "source_url": "https://drive.usercontent.google.com/download?id=1q4BgY2gzOApHgbH4TZnOEn6F8ZVSoaFK&export=download&confirm=t",
+  "source_file_id": "1q4BgY2gzOApHgbH4TZnOEn6F8ZVSoaFK",
+  "archive_sha256": "454489cefefd53444d69255a42563b5b475c36b099e2b98af1504982fbc99dc7",
+  "archive_bytes": 93119696,
+  "event_types": {
+    "context-options": 1,
+    "event": 502,
+    "screencast-frame": 1584,
+    "before": 18,
+    "frame-snapshot": 54,
+    "input": 18,
+    "after": 18,
+    "object": 1
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703218989984,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=3",
+      "snapshotName": "before@call@5f83642a5d5b45ee6114fbf0f4bb78b6",
+      "timestamp": 80390.587,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=3",
+      "snapshotName": "input@call@5f83642a5d5b45ee6114fbf0f4bb78b6",
+      "timestamp": 80420.767,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=3",
+      "snapshotName": "after@call@5f83642a5d5b45ee6114fbf0f4bb78b6",
+      "timestamp": 80455.159,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=3",
+      "snapshotName": "before@call@e987df2f67b62211d8cef35a8bb57082",
+      "timestamp": 81730.705,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=3",
+      "snapshotName": "input@call@e987df2f67b62211d8cef35a8bb57082",
+      "timestamp": 81746.791,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=3",
+      "snapshotName": "after@call@e987df2f67b62211d8cef35a8bb57082",
+      "timestamp": 81753.13,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=3",
+      "snapshotName": "before@call@cc845e2c651df0dc7deb77fc59a95f8d",
+      "timestamp": 95491.758,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=3",
+      "snapshotName": "input@call@cc845e2c651df0dc7deb77fc59a95f8d",
+      "timestamp": 95516.608,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=3",
+      "snapshotName": "after@call@cc845e2c651df0dc7deb77fc59a95f8d",
+      "timestamp": 95533.576,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=3",
+      "snapshotName": "before@call@437d198f952754875635d6782be84ace",
+      "timestamp": 99544.922,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=3",
+      "snapshotName": "input@call@437d198f952754875635d6782be84ace",
+      "timestamp": 99581.402,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=4",
+      "snapshotName": "after@call@437d198f952754875635d6782be84ace",
+      "timestamp": 99892.6,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=4",
+      "snapshotName": "before@call@f2587d479f7563983afec0ac7c205116",
+      "timestamp": 104907.467,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=4",
+      "snapshotName": "input@call@f2587d479f7563983afec0ac7c205116",
+      "timestamp": 104929.892,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=4",
+      "snapshotName": "after@call@f2587d479f7563983afec0ac7c205116",
+      "timestamp": 104947.292,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=4",
+      "snapshotName": "before@call@aa0a94676f588a09c1a5ef66ea00ab2c",
+      "timestamp": 107437.532,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=4",
+      "snapshotName": "input@call@aa0a94676f588a09c1a5ef66ea00ab2c",
+      "timestamp": 107448.745,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=cleveland+brown",
+      "snapshotName": "after@call@aa0a94676f588a09c1a5ef66ea00ab2c",
+      "timestamp": 107850.227,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=4",
+      "snapshotName": "before@call@a9f8ef5021b2bd1c280f4044ab69c3db",
+      "timestamp": 132678.668,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=4",
+      "snapshotName": "input@call@a9f8ef5021b2bd1c280f4044ab69c3db",
+      "timestamp": 132703.83,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=5",
+      "snapshotName": "after@call@a9f8ef5021b2bd1c280f4044ab69c3db",
+      "timestamp": 133144.943,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=6",
+      "snapshotName": "before@call@82f5662dc56a069ab2bbbb1d17c3453a",
+      "timestamp": 150288.182,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=6",
+      "snapshotName": "input@call@82f5662dc56a069ab2bbbb1d17c3453a",
+      "timestamp": 150321.515,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=7",
+      "snapshotName": "after@call@82f5662dc56a069ab2bbbb1d17c3453a",
+      "timestamp": 150703.555,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=7",
+      "snapshotName": "before@call@69adceb0854bfc32b083b73489b1de4b",
+      "timestamp": 161275.987,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=7",
+      "snapshotName": "input@call@69adceb0854bfc32b083b73489b1de4b",
+      "timestamp": 161305.89,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=8",
+      "snapshotName": "after@call@69adceb0854bfc32b083b73489b1de4b",
+      "timestamp": 161633.89,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=8",
+      "snapshotName": "before@call@b353f4ce760c079f3d923b5ca81d4521",
+      "timestamp": 169856.569,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=8",
+      "snapshotName": "input@call@b353f4ce760c079f3d923b5ca81d4521",
+      "timestamp": 169890.008,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=9",
+      "snapshotName": "after@call@b353f4ce760c079f3d923b5ca81d4521",
+      "timestamp": 170192.757,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=11",
+      "snapshotName": "before@call@2c2dbb4a64ef404616387c1088c71cf3",
+      "timestamp": 196408.828,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=11",
+      "snapshotName": "input@call@2c2dbb4a64ef404616387c1088c71cf3",
+      "timestamp": 196437.954,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=12",
+      "snapshotName": "after@call@2c2dbb4a64ef404616387c1088c71cf3",
+      "timestamp": 196854.13,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=12",
+      "snapshotName": "before@call@dca9c420cd5deadc5ac526a1bac1c3f1",
+      "timestamp": 204745.123,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=12",
+      "snapshotName": "input@call@dca9c420cd5deadc5ac526a1bac1c3f1",
+      "timestamp": 204770.248,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=13",
+      "snapshotName": "after@call@dca9c420cd5deadc5ac526a1bac1c3f1",
+      "timestamp": 205242.095,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=13",
+      "snapshotName": "before@call@23e6f836d746a55f192849449b407670",
+      "timestamp": 212324.987,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=13",
+      "snapshotName": "input@call@23e6f836d746a55f192849449b407670",
+      "timestamp": 212354.268,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=14",
+      "snapshotName": "after@call@23e6f836d746a55f192849449b407670",
+      "timestamp": 212905.648,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=15",
+      "snapshotName": "before@call@ebcf62c0ceb36a4629beee5047616ed5",
+      "timestamp": 229439.007,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=15",
+      "snapshotName": "input@call@ebcf62c0ceb36a4629beee5047616ed5",
+      "timestamp": 229472.288,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=16",
+      "snapshotName": "after@call@ebcf62c0ceb36a4629beee5047616ed5",
+      "timestamp": 229877.504,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=16",
+      "snapshotName": "before@call@31ee4ee595e4b5ceeff257ea754c1b8a",
+      "timestamp": 238991.95,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=16",
+      "snapshotName": "input@call@31ee4ee595e4b5ceeff257ea754c1b8a",
+      "timestamp": 239021.023,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=17",
+      "snapshotName": "after@call@31ee4ee595e4b5ceeff257ea754c1b8a",
+      "timestamp": 239345.244,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=17",
+      "snapshotName": "before@call@cc6743b9a722a7e3c7266cb110b6534c",
+      "timestamp": 250479.657,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=17",
+      "snapshotName": "input@call@cc6743b9a722a7e3c7266cb110b6534c",
+      "timestamp": 250515.741,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=18",
+      "snapshotName": "after@call@cc6743b9a722a7e3c7266cb110b6534c",
+      "timestamp": 250843.533,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=18",
+      "snapshotName": "before@call@5c854f7aa49b734c69de830b80b57483",
+      "timestamp": 258957.501,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=18",
+      "snapshotName": "input@call@5c854f7aa49b734c69de830b80b57483",
+      "timestamp": 258990.036,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=19",
+      "snapshotName": "after@call@5c854f7aa49b734c69de830b80b57483",
+      "timestamp": 259322.37,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=20",
+      "snapshotName": "before@call@7fcda9f2bda9b8b3386e8de19febd1bf",
+      "timestamp": 287268.676,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html?p=20",
+      "snapshotName": "input@call@7fcda9f2bda9b8b3386e8de19febd1bf",
+      "timestamp": 287295.957,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "frameId": "frame@92bb2f68269d3c693743f7dce6accbe0",
+      "frameUrl": "http://localhost:7770/video-games/playstation-4.html",
+      "snapshotName": "after@call@7fcda9f2bda9b8b3386e8de19febd1bf",
+      "timestamp": 287593.299,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@535dfd0990733c8924e8523b0f1864d6",
+      "timestamp": 396449.546,
+      "resource": "page@535dfd0990733c8924e8523b0f1864d6-1703219386.089032.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_379__page0.jpg",
+      "sha256": "2e3449c86a0d3eb0c042474cb09573c5f2271b17812d7583fc63634172206a84",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@6ef64bfed2854769b32fed7b42c4410a",
+      "timestamp": 416184.698,
+      "resource": "page@6ef64bfed2854769b32fed7b42c4410a-1703219405.823843.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_379__page1.jpg",
+      "sha256": "8d9f4251b764f5028f5dbd888468bb2f9d37b2ef27b08aad34fb5fae8d6e1542",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_379__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

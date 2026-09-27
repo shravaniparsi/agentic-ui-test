@@ -1,0 +1,231 @@
+{
+  "instance_id": "vwa_shopping_197",
+  "domain": "shopping",
+  "filename_task_id": 197,
+  "source_url": "https://drive.usercontent.google.com/download?id=1gQXQt3kyTzIJ01Aodv899VWmRlckHK6E&export=download&confirm=t",
+  "source_file_id": "1gQXQt3kyTzIJ01Aodv899VWmRlckHK6E",
+  "archive_sha256": "05600d10aa0da12b9f3a57e17cd4e3f10fff9fda6cbc039fe2534e151336f614",
+  "archive_bytes": 10845209,
+  "event_types": {
+    "context-options": 1,
+    "event": 31,
+    "screencast-frame": 201,
+    "before": 5,
+    "frame-snapshot": 15,
+    "input": 5,
+    "after": 5
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703278798988,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@38f3273156a531c17c6d02f11aae8d59",
+      "frameId": "frame@3dac16574cd66678aed0cbeb02aa4314",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sports-outdoors/fan-shop/clothing.html?p=10",
+      "snapshotName": "before@call@ab05f4dd7c3cb20d13acbb673721f7b0",
+      "timestamp": 29940.511,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@38f3273156a531c17c6d02f11aae8d59",
+      "frameId": "frame@3dac16574cd66678aed0cbeb02aa4314",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sports-outdoors/fan-shop/clothing.html?p=10",
+      "snapshotName": "input@call@ab05f4dd7c3cb20d13acbb673721f7b0",
+      "timestamp": 29984.795,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@38f3273156a531c17c6d02f11aae8d59",
+      "frameId": "frame@3dac16574cd66678aed0cbeb02aa4314",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sports-outdoors/fan-shop/clothing.html?p=10",
+      "snapshotName": "after@call@ab05f4dd7c3cb20d13acbb673721f7b0",
+      "timestamp": 29997.183,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@38f3273156a531c17c6d02f11aae8d59",
+      "frameId": "frame@3dac16574cd66678aed0cbeb02aa4314",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sports-outdoors/fan-shop/clothing.html?p=10",
+      "snapshotName": "before@call@a4b954a5b130d024303d77108ac73f26",
+      "timestamp": 33195.738,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@38f3273156a531c17c6d02f11aae8d59",
+      "frameId": "frame@3dac16574cd66678aed0cbeb02aa4314",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sports-outdoors/fan-shop/clothing.html?p=10",
+      "snapshotName": "input@call@a4b954a5b130d024303d77108ac73f26",
+      "timestamp": 33250.166,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@38f3273156a531c17c6d02f11aae8d59",
+      "frameId": "frame@3dac16574cd66678aed0cbeb02aa4314",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sweatshirt-for-men-long-sleeve-turn-down-collar-spring-summer-printed-casual-slim-fit-button-down-shirts-tops-t-shirts.html",
+      "snapshotName": "after@call@a4b954a5b130d024303d77108ac73f26",
+      "timestamp": 34844.744,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@38f3273156a531c17c6d02f11aae8d59",
+      "frameId": "frame@3dac16574cd66678aed0cbeb02aa4314",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sweatshirt-for-men-long-sleeve-turn-down-collar-spring-summer-printed-casual-slim-fit-button-down-shirts-tops-t-shirts.html",
+      "snapshotName": "before@call@49f91d08355646925473bec77dca7a56",
+      "timestamp": 36854.559,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@38f3273156a531c17c6d02f11aae8d59",
+      "frameId": "frame@3dac16574cd66678aed0cbeb02aa4314",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sweatshirt-for-men-long-sleeve-turn-down-collar-spring-summer-printed-casual-slim-fit-button-down-shirts-tops-t-shirts.html",
+      "snapshotName": "input@call@49f91d08355646925473bec77dca7a56",
+      "timestamp": 36915.533,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@38f3273156a531c17c6d02f11aae8d59",
+      "frameId": "frame@3dac16574cd66678aed0cbeb02aa4314",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sweatshirt-for-men-long-sleeve-turn-down-collar-spring-summer-printed-casual-slim-fit-button-down-shirts-tops-t-shirts.html",
+      "snapshotName": "after@call@49f91d08355646925473bec77dca7a56",
+      "timestamp": 37008.532,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@38f3273156a531c17c6d02f11aae8d59",
+      "frameId": "frame@3dac16574cd66678aed0cbeb02aa4314",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sweatshirt-for-men-long-sleeve-turn-down-collar-spring-summer-printed-casual-slim-fit-button-down-shirts-tops-t-shirts.html",
+      "snapshotName": "before@call@d598e02bc007b6a59a808ab8e50e9892",
+      "timestamp": 39728.899,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@38f3273156a531c17c6d02f11aae8d59",
+      "frameId": "frame@3dac16574cd66678aed0cbeb02aa4314",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sweatshirt-for-men-long-sleeve-turn-down-collar-spring-summer-printed-casual-slim-fit-button-down-shirts-tops-t-shirts.html",
+      "snapshotName": "input@call@d598e02bc007b6a59a808ab8e50e9892",
+      "timestamp": 39751.985,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@38f3273156a531c17c6d02f11aae8d59",
+      "frameId": "frame@3dac16574cd66678aed0cbeb02aa4314",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sweatshirt-for-men-long-sleeve-turn-down-collar-spring-summer-printed-casual-slim-fit-button-down-shirts-tops-t-shirts.html",
+      "snapshotName": "after@call@d598e02bc007b6a59a808ab8e50e9892",
+      "timestamp": 39775.373,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@38f3273156a531c17c6d02f11aae8d59",
+      "frameId": "frame@3dac16574cd66678aed0cbeb02aa4314",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sweatshirt-for-men-long-sleeve-turn-down-collar-spring-summer-printed-casual-slim-fit-button-down-shirts-tops-t-shirts.html",
+      "snapshotName": "before@call@849a0463401ddd098fe7833b83ea1c2a",
+      "timestamp": 42274.2,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@38f3273156a531c17c6d02f11aae8d59",
+      "frameId": "frame@3dac16574cd66678aed0cbeb02aa4314",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sweatshirt-for-men-long-sleeve-turn-down-collar-spring-summer-printed-casual-slim-fit-button-down-shirts-tops-t-shirts.html",
+      "snapshotName": "input@call@849a0463401ddd098fe7833b83ea1c2a",
+      "timestamp": 42302.568,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@38f3273156a531c17c6d02f11aae8d59",
+      "frameId": "frame@3dac16574cd66678aed0cbeb02aa4314",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sweatshirt-for-men-long-sleeve-turn-down-collar-spring-summer-printed-casual-slim-fit-button-down-shirts-tops-t-shirts.html",
+      "snapshotName": "after@call@849a0463401ddd098fe7833b83ea1c2a",
+      "timestamp": 42341.83,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@38f3273156a531c17c6d02f11aae8d59",
+      "timestamp": 44096.135,
+      "resource": "page@38f3273156a531c17c6d02f11aae8d59-1703278842.315055.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_197__page0.jpg",
+      "sha256": "e82a0ad4e21c08d266c5ed9a828eda577a13b0df7f3d953eb471a5fb7c404a18",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_197__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

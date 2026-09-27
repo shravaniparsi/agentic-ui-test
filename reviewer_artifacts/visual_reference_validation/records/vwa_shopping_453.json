@@ -1,0 +1,100 @@
+{
+  "instance_id": "vwa_shopping_453",
+  "domain": "shopping",
+  "filename_task_id": 453,
+  "source_url": "https://drive.usercontent.google.com/download?id=1ogmxdGOCHgcA0ZS1blOAWrioTD1pkLvf&export=download&confirm=t",
+  "source_file_id": "1ogmxdGOCHgcA0ZS1blOAWrioTD1pkLvf",
+  "archive_sha256": "6ef3899b930026d0683b5948dc6b1317164a20d91436ea42b6e6121cf45a6020",
+  "archive_bytes": 16835351,
+  "event_types": {
+    "context-options": 1,
+    "event": 177,
+    "screencast-frame": 344,
+    "object": 1,
+    "before": 1,
+    "frame-snapshot": 3,
+    "input": 1,
+    "after": 1
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703218139279,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@4c53b3a5aaff23701af279fd80a76088",
+      "frameId": "frame@da22b766fdb9b8dc3c249b667f066d94",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/men/shoes.html?p=4&product_list_order=price",
+      "snapshotName": "before@call@a524edeb0c7bd1a48b7a52e92c9fec12",
+      "timestamp": 40411.835,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4c53b3a5aaff23701af279fd80a76088",
+      "frameId": "frame@da22b766fdb9b8dc3c249b667f066d94",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/men/shoes.html?p=4&product_list_order=price",
+      "snapshotName": "input@call@a524edeb0c7bd1a48b7a52e92c9fec12",
+      "timestamp": 40446.019,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4c53b3a5aaff23701af279fd80a76088",
+      "frameId": "frame@da22b766fdb9b8dc3c249b667f066d94",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/men/shoes.html?p=5&product_list_order=price",
+      "snapshotName": "after@call@a524edeb0c7bd1a48b7a52e92c9fec12",
+      "timestamp": 40586.391,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@8331783e838b7578c75be9710231167a",
+      "timestamp": 35585.203,
+      "resource": "page@8331783e838b7578c75be9710231167a-1703218174.521477.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_453__page0.jpg",
+      "sha256": "c688c4206f8f267ca35911bb207217c238f609dc65531177d88f797b8d744155",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@4c53b3a5aaff23701af279fd80a76088",
+      "timestamp": 111813.259,
+      "resource": "page@4c53b3a5aaff23701af279fd80a76088-1703218250.747738.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_453__page1.jpg",
+      "sha256": "ce279220c2819d90956478c5e4bcedf07469c3e4433340fa7d66b37766ec1f4d",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_453__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -21,8 +21,10 @@ data/iaa_labels_A.jsonl
 data/iaa_labels_B.jsonl
 data/verification_dataset_xref.jsonl
 
-# Results (regeneratable)
-results/
+# Results (regeneratable, except the compact reviewer-evidence tables)
+results/*
+!results/reviewer_evidence/
+!results/reviewer_evidence/**
 
 # Figures (regeneratable)
 figures/

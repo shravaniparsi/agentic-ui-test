@@ -1,0 +1,172 @@
+{
+  "instance_id": "vwa_reddit_133",
+  "domain": "reddit",
+  "filename_task_id": 133,
+  "source_url": "https://drive.usercontent.google.com/download?id=1r6AzHRaCN24v8gjvxgfAtZ86eu2Zg44C&export=download&confirm=t",
+  "source_file_id": "1r6AzHRaCN24v8gjvxgfAtZ86eu2Zg44C",
+  "archive_sha256": "54eb5f06c1f38c57474c6febe376e220237164ad8e97b6563bb0a021e2091428",
+  "archive_bytes": 9778295,
+  "event_types": {
+    "context-options": 1,
+    "event": 142,
+    "screencast-frame": 196,
+    "object": 62,
+    "before": 3,
+    "frame-snapshot": 9,
+    "input": 3,
+    "after": 3
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704254918613,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@839638658828bb5e596e78aece70e637",
+      "frameId": "frame@33ee0a743e0adf3b776991910dc4675c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@35e777f2553940e75d29e2b498681229",
+      "timestamp": 22243.498,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@839638658828bb5e596e78aece70e637",
+      "frameId": "frame@33ee0a743e0adf3b776991910dc4675c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@35e777f2553940e75d29e2b498681229",
+      "timestamp": 22301.96,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@839638658828bb5e596e78aece70e637",
+      "frameId": "frame@33ee0a743e0adf3b776991910dc4675c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@35e777f2553940e75d29e2b498681229",
+      "timestamp": 22941.237,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@839638658828bb5e596e78aece70e637",
+      "frameId": "frame@33ee0a743e0adf3b776991910dc4675c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@4f142fb2c55606060d7a6c054ed47c40",
+      "timestamp": 24015.801,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@839638658828bb5e596e78aece70e637",
+      "frameId": "frame@33ee0a743e0adf3b776991910dc4675c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@4f142fb2c55606060d7a6c054ed47c40",
+      "timestamp": 24074.047,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@839638658828bb5e596e78aece70e637",
+      "frameId": "frame@33ee0a743e0adf3b776991910dc4675c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "after@call@4f142fb2c55606060d7a6c054ed47c40",
+      "timestamp": 24394.007,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@839638658828bb5e596e78aece70e637",
+      "frameId": "frame@33ee0a743e0adf3b776991910dc4675c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@3e4d3d7a6521c21a0cab2f5abf6f5745",
+      "timestamp": 28573.6,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@839638658828bb5e596e78aece70e637",
+      "frameId": "frame@33ee0a743e0adf3b776991910dc4675c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@3e4d3d7a6521c21a0cab2f5abf6f5745",
+      "timestamp": 28635.631,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@839638658828bb5e596e78aece70e637",
+      "frameId": "frame@33ee0a743e0adf3b776991910dc4675c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc",
+      "snapshotName": "after@call@3e4d3d7a6521c21a0cab2f5abf6f5745",
+      "timestamp": 33127.502,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@99fa6fa69af3c4a44745b490f4f4ca87",
+      "timestamp": 20081.849,
+      "resource": "page@99fa6fa69af3c4a44745b490f4f4ca87-1704254937.833.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_133__page0.jpg",
+      "sha256": "8711e509fdceb9771f5db1d57b21679ab66031314bcf6b531cfdf6df44a14bdb",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@839638658828bb5e596e78aece70e637",
+      "timestamp": 62253.796,
+      "resource": "page@839638658828bb5e596e78aece70e637-1704254980.004005.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_133__page1.jpg",
+      "sha256": "7efae01fce4fd441af7d4758c5eff9ddf2df86bb2900e278efaeb528cf5fe244",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_133__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

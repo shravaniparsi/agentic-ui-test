@@ -1,0 +1,676 @@
+{
+  "instance_id": "vwa_reddit_199",
+  "domain": "reddit",
+  "filename_task_id": 199,
+  "source_url": "https://drive.usercontent.google.com/download?id=1ZvX4y7Yd7-5aCLV78LeJXKXEr3_YVboM&export=download&confirm=t",
+  "source_file_id": "1ZvX4y7Yd7-5aCLV78LeJXKXEr3_YVboM",
+  "archive_sha256": "4de03211601a4f47eab4f306714b4bb69025eb7a606751c750b4d506d773da73",
+  "archive_bytes": 13301504,
+  "event_types": {
+    "context-options": 1,
+    "event": 282,
+    "screencast-frame": 323,
+    "object": 124,
+    "before": 17,
+    "frame-snapshot": 51,
+    "input": 17,
+    "after": 17
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704271586551,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history",
+      "snapshotName": "before@call@9177af945b9621bc9e468deb6b594fe0",
+      "timestamp": 13403.171,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history",
+      "snapshotName": "input@call@9177af945b9621bc9e468deb6b594fe0",
+      "timestamp": 13436.274,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history",
+      "snapshotName": "after@call@9177af945b9621bc9e468deb6b594fe0",
+      "timestamp": 13458.733,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history",
+      "snapshotName": "before@call@f746cca731173bf17e611354bf7945b4",
+      "timestamp": 15789.31,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history",
+      "snapshotName": "input@call@f746cca731173bf17e611354bf7945b4",
+      "timestamp": 15823.756,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/top?t=day",
+      "snapshotName": "after@call@f746cca731173bf17e611354bf7945b4",
+      "timestamp": 16271.408,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/top?t=day",
+      "snapshotName": "before@call@5161a42cc36d2d9fefb24520514c0b37",
+      "timestamp": 17064.56,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/top?t=day",
+      "snapshotName": "input@call@5161a42cc36d2d9fefb24520514c0b37",
+      "timestamp": 17119.431,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/top?t=day",
+      "snapshotName": "after@call@5161a42cc36d2d9fefb24520514c0b37",
+      "timestamp": 17130.446,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/top?t=day",
+      "snapshotName": "before@call@eb06670e12d1549f3a579a392ba6a13a",
+      "timestamp": 17859.086,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/top?t=day",
+      "snapshotName": "input@call@eb06670e12d1549f3a579a392ba6a13a",
+      "timestamp": 17880.89,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/top?t=all",
+      "snapshotName": "after@call@eb06670e12d1549f3a579a392ba6a13a",
+      "timestamp": 18333.305,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/top?t=all",
+      "snapshotName": "before@call@5e323c2916a06dbdf7d82afdfa4a3896",
+      "timestamp": 35176.184,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/top?t=all",
+      "snapshotName": "input@call@5e323c2916a06dbdf7d82afdfa4a3896",
+      "timestamp": 35218.336,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "after@call@5e323c2916a06dbdf7d82afdfa4a3896",
+      "timestamp": 35868.911,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "before@call@4be8b4c4a5e80db78dcd934099d4fc65",
+      "timestamp": 36961.665,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "input@call@4be8b4c4a5e80db78dcd934099d4fc65",
+      "timestamp": 37024.397,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "after@call@4be8b4c4a5e80db78dcd934099d4fc65",
+      "timestamp": 37120.97,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "before@call@d55e5d03b6cebd26353d3be10c8bc0cc",
+      "timestamp": 38662.435,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "input@call@d55e5d03b6cebd26353d3be10c8bc0cc",
+      "timestamp": 38690.266,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "after@call@d55e5d03b6cebd26353d3be10c8bc0cc",
+      "timestamp": 38713.822,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "before@call@c181f943d3ba68ab91ed41be3a378afe",
+      "timestamp": 38825.311,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "input@call@c181f943d3ba68ab91ed41be3a378afe",
+      "timestamp": 38851.26,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "after@call@c181f943d3ba68ab91ed41be3a378afe",
+      "timestamp": 38866.531,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "before@call@966e480d3bd73e4a31db20314df6a849",
+      "timestamp": 39003.559,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "input@call@966e480d3bd73e4a31db20314df6a849",
+      "timestamp": 39031.105,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "after@call@966e480d3bd73e4a31db20314df6a849",
+      "timestamp": 39051.153,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "before@call@e870a5e291f2ad466577e20da95c47ed",
+      "timestamp": 39613.681,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "input@call@e870a5e291f2ad466577e20da95c47ed",
+      "timestamp": 39636.269,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "after@call@e870a5e291f2ad466577e20da95c47ed",
+      "timestamp": 39651.859,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "before@call@f4e552fa92b2c026a71b382689635a7f",
+      "timestamp": 43413.27,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he",
+      "snapshotName": "input@call@f4e552fa92b2c026a71b382689635a7f",
+      "timestamp": 43482.124,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he/comment/5",
+      "snapshotName": "after@call@f4e552fa92b2c026a71b382689635a7f",
+      "timestamp": 44304.362,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he/comment/5",
+      "snapshotName": "before@call@fce26f16e9cdfe9aafbccef34bcbdd0e",
+      "timestamp": 60245.143,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/84338/the-scientist-who-discovered-sperm-was-so-grossed-out-he/comment/5",
+      "snapshotName": "input@call@fce26f16e9cdfe9aafbccef34bcbdd0e",
+      "timestamp": 60294.07,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history",
+      "snapshotName": "after@call@fce26f16e9cdfe9aafbccef34bcbdd0e",
+      "timestamp": 60744.881,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d50df017a7eb07d991aa625ecd5c3969",
+      "frameId": "frame@de8efe2f6e822187f54212afac384e02",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:8888/wikipedia_en_all_maxi_2022-05/I/M%C3%A5rten_Eskil_Winge_-_Tor's_Fight_with_the_Giants_-_Google_Art_Project.jpg.webp",
+      "snapshotName": "before@call@cad66650f9139d240cdc93c607da7466",
+      "timestamp": 63449.51,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d50df017a7eb07d991aa625ecd5c3969",
+      "frameId": "frame@de8efe2f6e822187f54212afac384e02",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:8888/wikipedia_en_all_maxi_2022-05/I/M%C3%A5rten_Eskil_Winge_-_Tor's_Fight_with_the_Giants_-_Google_Art_Project.jpg.webp",
+      "snapshotName": "input@call@cad66650f9139d240cdc93c607da7466",
+      "timestamp": 63505.32,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d50df017a7eb07d991aa625ecd5c3969",
+      "frameId": "frame@de8efe2f6e822187f54212afac384e02",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:8888/wikipedia_en_all_maxi_2022-05/I/M%C3%A5rten_Eskil_Winge_-_Tor's_Fight_with_the_Giants_-_Google_Art_Project.jpg.webp",
+      "snapshotName": "after@call@cad66650f9139d240cdc93c607da7466",
+      "timestamp": 63510.676,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history",
+      "snapshotName": "before@call@dc7d90001463434f483c37068f4e1480",
+      "timestamp": 80698.569,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history",
+      "snapshotName": "input@call@dc7d90001463434f483c37068f4e1480",
+      "timestamp": 80766.818,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/105990/4-500-year-old-sumerian-temple-dedicated-to-mighty-thunder",
+      "snapshotName": "after@call@dc7d90001463434f483c37068f4e1480",
+      "timestamp": 84122.194,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/105990/4-500-year-old-sumerian-temple-dedicated-to-mighty-thunder",
+      "snapshotName": "before@call@c3bb3c0c70cace27f3d43cd7b4c56296",
+      "timestamp": 85137.191,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/105990/4-500-year-old-sumerian-temple-dedicated-to-mighty-thunder",
+      "snapshotName": "input@call@c3bb3c0c70cace27f3d43cd7b4c56296",
+      "timestamp": 85242.873,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/105990/4-500-year-old-sumerian-temple-dedicated-to-mighty-thunder",
+      "snapshotName": "after@call@c3bb3c0c70cace27f3d43cd7b4c56296",
+      "timestamp": 85584.981,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/105990/4-500-year-old-sumerian-temple-dedicated-to-mighty-thunder",
+      "snapshotName": "before@call@e9bc0562a6e4a70ed774be3203de8e90",
+      "timestamp": 86831.838,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/105990/4-500-year-old-sumerian-temple-dedicated-to-mighty-thunder",
+      "snapshotName": "input@call@e9bc0562a6e4a70ed774be3203de8e90",
+      "timestamp": 87053.471,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/105990/4-500-year-old-sumerian-temple-dedicated-to-mighty-thunder",
+      "snapshotName": "after@call@e9bc0562a6e4a70ed774be3203de8e90",
+      "timestamp": 87145.997,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/105990/4-500-year-old-sumerian-temple-dedicated-to-mighty-thunder",
+      "snapshotName": "before@call@ccd65cebb3f8b9f03e9722d683dfd2cc",
+      "timestamp": 92772.682,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/105990/4-500-year-old-sumerian-temple-dedicated-to-mighty-thunder",
+      "snapshotName": "input@call@ccd65cebb3f8b9f03e9722d683dfd2cc",
+      "timestamp": 92973.425,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "frameId": "frame@0fe630fc6f5c87711fb3317e42571020",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/history/105990/4-500-year-old-sumerian-temple-dedicated-to-mighty-thunder/comment/6",
+      "snapshotName": "after@call@ccd65cebb3f8b9f03e9722d683dfd2cc",
+      "timestamp": 94051.251,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@f288151dbbac2f12fca4e46951bc9df4",
+      "timestamp": 102120.431,
+      "resource": "page@f288151dbbac2f12fca4e46951bc9df4-1704271688.098646.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_199__page0.jpg",
+      "sha256": "4a703be43cdf2988a3af31fbbf07de4ba874eea8db3bcf6ef0b6ed5d067bf179",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@d50df017a7eb07d991aa625ecd5c3969",
+      "timestamp": 102146.756,
+      "resource": "page@d50df017a7eb07d991aa625ecd5c3969-1704271688.12556.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_199__page1.jpg",
+      "sha256": "bcd243d12e3d5f786b8c95bdbfc14b382b0a6f08f323242cd3ea0dac8fc62b77",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_199__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

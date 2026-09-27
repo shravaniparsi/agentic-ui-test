@@ -1,0 +1,87 @@
+{
+  "instance_id": "vwa_shopping_291",
+  "domain": "shopping",
+  "filename_task_id": 291,
+  "source_url": "https://drive.usercontent.google.com/download?id=1fgYFN7F9wFQ_kAQiNMHEtvn-bzr-Od6R&export=download&confirm=t",
+  "source_file_id": "1fgYFN7F9wFQ_kAQiNMHEtvn-bzr-Od6R",
+  "archive_sha256": "1b98951344319c73ec538322199281afa6137f7be49d8f96b0dec8a5a15a25f9",
+  "archive_bytes": 3397193,
+  "event_types": {
+    "context-options": 1,
+    "event": 31,
+    "screencast-frame": 57,
+    "before": 1,
+    "frame-snapshot": 3,
+    "input": 1,
+    "after": 1
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703218635194,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@a740a72a43bd9def980166ee569ac7cd",
+      "frameId": "frame@7b536db6c1e7da5202ab716d86d60b0e",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/index/?p=2&q=end+table",
+      "snapshotName": "before@call@e054d86f5893e7bac1ca5b423a74ce02",
+      "timestamp": 5606.639,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a740a72a43bd9def980166ee569ac7cd",
+      "frameId": "frame@7b536db6c1e7da5202ab716d86d60b0e",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/index/?p=2&q=end+table",
+      "snapshotName": "input@call@e054d86f5893e7bac1ca5b423a74ce02",
+      "timestamp": 5633.7970000000005,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a740a72a43bd9def980166ee569ac7cd",
+      "frameId": "frame@7b536db6c1e7da5202ab716d86d60b0e",
+      "frameUrl": "http://localhost:7770/lohorfire-silver-mirror-end-table-nightstand-bedside-end-table-with-storage-drawer-accent-table-for-living-room-bedroom-home-furniture-small-place.html",
+      "snapshotName": "after@call@e054d86f5893e7bac1ca5b423a74ce02",
+      "timestamp": 6163.369,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@a740a72a43bd9def980166ee569ac7cd",
+      "timestamp": 18653.828,
+      "resource": "page@a740a72a43bd9def980166ee569ac7cd-1703218653.521844.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_291__page0.jpg",
+      "sha256": "fa7a69748536def5b4033c00570a56875ec1b5208015a6b33eec50a165080646",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_291__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,555 @@
+{
+  "instance_id": "vwa_shopping_255",
+  "domain": "shopping",
+  "filename_task_id": 255,
+  "source_url": "https://drive.usercontent.google.com/download?id=1bYn7rSy2bX7lJ4N9JOQqJrcX8LkVKrcS&export=download&confirm=t",
+  "source_file_id": "1bYn7rSy2bX7lJ4N9JOQqJrcX8LkVKrcS",
+  "archive_sha256": "374e19ba4a44180c62b9c867bae4b045a5125b409868f9e786c073350b7a1ff9",
+  "archive_bytes": 14457893,
+  "event_types": {
+    "context-options": 1,
+    "event": 61,
+    "screencast-frame": 336,
+    "before": 14,
+    "frame-snapshot": 42,
+    "input": 14,
+    "after": 14
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703281094912,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/office-products/office-furniture-lighting/chairs-sofas.html",
+      "snapshotName": "before@call@58c1ad0dcd6bf6e05444453bbe1f5712",
+      "timestamp": 16336.093,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/office-products/office-furniture-lighting/chairs-sofas.html",
+      "snapshotName": "input@call@58c1ad0dcd6bf6e05444453bbe1f5712",
+      "timestamp": 16386.035,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "after@call@58c1ad0dcd6bf6e05444453bbe1f5712",
+      "timestamp": 17707.038,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "before@call@c1718a35feb88e9dea880c85531960c4",
+      "timestamp": 19919.001,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "input@call@c1718a35feb88e9dea880c85531960c4",
+      "timestamp": 19982.673,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "after@call@c1718a35feb88e9dea880c85531960c4",
+      "timestamp": 20013.473,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "before@call@890a65689049b79c674af28501f34c23",
+      "timestamp": 20479.223,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "input@call@890a65689049b79c674af28501f34c23",
+      "timestamp": 20504.678,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "after@call@890a65689049b79c674af28501f34c23",
+      "timestamp": 20527.118,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "before@call@dea5589a367bbdd01b811172b86c8046",
+      "timestamp": 21388.875,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "input@call@dea5589a367bbdd01b811172b86c8046",
+      "timestamp": 21461.611,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "after@call@dea5589a367bbdd01b811172b86c8046",
+      "timestamp": 21495.095,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "before@call@3137d11477183528d333f6bfd9047326",
+      "timestamp": 24395.649,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "input@call@3137d11477183528d333f6bfd9047326",
+      "timestamp": 24449.391,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "after@call@3137d11477183528d333f6bfd9047326",
+      "timestamp": 24464.572,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "before@call@63fcf6a26d95739719e2cb4237cd2d35",
+      "timestamp": 53083.228,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "input@call@63fcf6a26d95739719e2cb4237cd2d35",
+      "timestamp": 53120.361,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "after@call@63fcf6a26d95739719e2cb4237cd2d35",
+      "timestamp": 53151.027,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "before@call@24888f4741eea1c1eb0e3fbdfba03b73",
+      "timestamp": 54243.868,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mesh3-hyper-gtr-ergonomic-office-chair-premium-mesh-seat-with-back-support-gaming-chair-fully-adjustable-headrest-backrest-and-4d-armrests-for-great-posture-bifma-black-color-hy-105bk.html",
+      "snapshotName": "input@call@24888f4741eea1c1eb0e3fbdfba03b73",
+      "timestamp": 54312.611,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/",
+      "snapshotName": "after@call@24888f4741eea1c1eb0e3fbdfba03b73",
+      "timestamp": 55729.241,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "before@call@431924ce2a6a6cbab73d43d483fbdeb3",
+      "timestamp": 63590.795,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "input@call@431924ce2a6a6cbab73d43d483fbdeb3",
+      "timestamp": 63635.836,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "after@call@431924ce2a6a6cbab73d43d483fbdeb3",
+      "timestamp": 63654.934,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "before@call@3658fc1c4816f76ffffd58f6c5acace5",
+      "timestamp": 66517.383,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "input@call@3658fc1c4816f76ffffd58f6c5acace5",
+      "timestamp": 66548.576,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "after@call@3658fc1c4816f76ffffd58f6c5acace5",
+      "timestamp": 66582.384,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "before@call@06f7212e84c14000422defd46a0fa8af",
+      "timestamp": 66652.125,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "input@call@06f7212e84c14000422defd46a0fa8af",
+      "timestamp": 66684.657,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "after@call@06f7212e84c14000422defd46a0fa8af",
+      "timestamp": 66702.296,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "before@call@2d2e35034ca606a554f0ec68eb402e89",
+      "timestamp": 66768.323,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "input@call@2d2e35034ca606a554f0ec68eb402e89",
+      "timestamp": 66818.281,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "after@call@2d2e35034ca606a554f0ec68eb402e89",
+      "timestamp": 66828.847,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "before@call@aa592512ff9f45ecc6d25583a1211a45",
+      "timestamp": 68031.699,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "input@call@aa592512ff9f45ecc6d25583a1211a45",
+      "timestamp": 68091.026,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "after@call@aa592512ff9f45ecc6d25583a1211a45",
+      "timestamp": 68105.057,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "before@call@30c64504040e4ddf5dc7f3d598fea18a",
+      "timestamp": 69984.189,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "input@call@30c64504040e4ddf5dc7f3d598fea18a",
+      "timestamp": 70020.241,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "after@call@30c64504040e4ddf5dc7f3d598fea18a",
+      "timestamp": 70031.806,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "before@call@ca8b0e33f51c6abc1967911b7b7b08cf",
+      "timestamp": 82961.721,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "input@call@ca8b0e33f51c6abc1967911b7b7b08cf",
+      "timestamp": 83008.399,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07535c5b2ec4053faf18e4342b465415",
+      "frameId": "frame@aac908c54f72b92766708a8cc6df0c6c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "after@call@ca8b0e33f51c6abc1967911b7b7b08cf",
+      "timestamp": 83041.422,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@07535c5b2ec4053faf18e4342b465415",
+      "timestamp": 103735.005,
+      "resource": "page@07535c5b2ec4053faf18e4342b465415-1703281197.75441.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_255__page0.jpg",
+      "sha256": "a107f4a24ef79a028b831054565580d1772c181f8ab209d36dcb8e8f48f688a5",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_255__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

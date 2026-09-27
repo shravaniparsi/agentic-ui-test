@@ -1,0 +1,100 @@
+{
+  "instance_id": "vwa_reddit_3",
+  "domain": "reddit",
+  "filename_task_id": 3,
+  "source_url": "https://drive.usercontent.google.com/download?id=1AhNc3cS_q1rhaiAruSmn8q3ONJdzfGuQ&export=download&confirm=t",
+  "source_file_id": "1AhNc3cS_q1rhaiAruSmn8q3ONJdzfGuQ",
+  "archive_sha256": "8baa286f6c1137f377cfabe1b8293c5bd98c931f2f4087c2057712872a33579f",
+  "archive_bytes": 64779573,
+  "event_types": {
+    "context-options": 1,
+    "event": 133,
+    "screencast-frame": 1384,
+    "object": 81,
+    "before": 1,
+    "frame-snapshot": 3,
+    "input": 1,
+    "after": 1
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704253301008,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@def92b57b5f743155b760d35e319c4d1",
+      "frameId": "frame@0779c805aac492a3b9528737cf6861d5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food",
+      "snapshotName": "before@call@e0966d356088513ac2f4776fb67d9142",
+      "timestamp": 66619.745,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@def92b57b5f743155b760d35e319c4d1",
+      "frameId": "frame@0779c805aac492a3b9528737cf6861d5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food",
+      "snapshotName": "input@call@e0966d356088513ac2f4776fb67d9142",
+      "timestamp": 66689.34,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@def92b57b5f743155b760d35e319c4d1",
+      "frameId": "frame@0779c805aac492a3b9528737cf6861d5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food/104449/homemade-sichuanese-spicy-beef-noods",
+      "snapshotName": "after@call@e0966d356088513ac2f4776fb67d9142",
+      "timestamp": 70631.011,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@be56675107068a3c917c2e686187bf14",
+      "timestamp": 61518.906,
+      "resource": "page@be56675107068a3c917c2e686187bf14-1704253361.329342.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_3__page0.jpg",
+      "sha256": "a5b3cc6dcd1b12b280b61cd592b3b2a1f5040cffc2c85b7e6e2080eee90fcfdc",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@def92b57b5f743155b760d35e319c4d1",
+      "timestamp": 612398.198,
+      "resource": "page@def92b57b5f743155b760d35e319c4d1-1704253912.217071.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_3__page1.jpg",
+      "sha256": "8126831230637ec57d685176eadd293502c276676c11e3672cf84a0a3712ad12",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_3__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,123 @@
+{
+  "instance_id": "vwa_shopping_212",
+  "domain": "shopping",
+  "filename_task_id": 212,
+  "source_url": "https://drive.usercontent.google.com/download?id=1zca6MkoTIuCMy1v6yX2Qu2Jg8YNacz7Y&export=download&confirm=t",
+  "source_file_id": "1zca6MkoTIuCMy1v6yX2Qu2Jg8YNacz7Y",
+  "archive_sha256": "d3b7054eddbafdd8a467e04502c286721ff3881c9023ee1646d7da60a7446204",
+  "archive_bytes": 9526828,
+  "event_types": {
+    "context-options": 1,
+    "event": 31,
+    "screencast-frame": 165,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703278884141,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@fc5f06589a3d9a92f84e2cbd66b6aae8",
+      "frameId": "frame@e07a945f33d296d9ba2dce112d5db046",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/patio-lawn-garden/gardening-lawn-care.html?p=4",
+      "snapshotName": "before@call@ea91e12372d67f2b558455cba2535364",
+      "timestamp": 24466.073,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fc5f06589a3d9a92f84e2cbd66b6aae8",
+      "frameId": "frame@e07a945f33d296d9ba2dce112d5db046",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/patio-lawn-garden/gardening-lawn-care.html?p=4",
+      "snapshotName": "input@call@ea91e12372d67f2b558455cba2535364",
+      "timestamp": 24514.454,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fc5f06589a3d9a92f84e2cbd66b6aae8",
+      "frameId": "frame@e07a945f33d296d9ba2dce112d5db046",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/red-roselle-seeds-hibiscus-sabdariffa-50-tropical-hibiscus-seeds-packed-in-frozen-seed-capsules-for-growing-seeds-now-or-saving-seeds-for-years.html",
+      "snapshotName": "after@call@ea91e12372d67f2b558455cba2535364",
+      "timestamp": 25863.565,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fc5f06589a3d9a92f84e2cbd66b6aae8",
+      "frameId": "frame@e07a945f33d296d9ba2dce112d5db046",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/red-roselle-seeds-hibiscus-sabdariffa-50-tropical-hibiscus-seeds-packed-in-frozen-seed-capsules-for-growing-seeds-now-or-saving-seeds-for-years.html",
+      "snapshotName": "before@call@83ed35a4bf46e0eec65c71933f6c3713",
+      "timestamp": 48503.924,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fc5f06589a3d9a92f84e2cbd66b6aae8",
+      "frameId": "frame@e07a945f33d296d9ba2dce112d5db046",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/red-roselle-seeds-hibiscus-sabdariffa-50-tropical-hibiscus-seeds-packed-in-frozen-seed-capsules-for-growing-seeds-now-or-saving-seeds-for-years.html",
+      "snapshotName": "input@call@83ed35a4bf46e0eec65c71933f6c3713",
+      "timestamp": 48566.15,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fc5f06589a3d9a92f84e2cbd66b6aae8",
+      "frameId": "frame@e07a945f33d296d9ba2dce112d5db046",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/red-roselle-seeds-hibiscus-sabdariffa-50-tropical-hibiscus-seeds-packed-in-frozen-seed-capsules-for-growing-seeds-now-or-saving-seeds-for-years.html",
+      "snapshotName": "after@call@83ed35a4bf46e0eec65c71933f6c3713",
+      "timestamp": 48592.964,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@fc5f06589a3d9a92f84e2cbd66b6aae8",
+      "timestamp": 51341.472,
+      "resource": "page@fc5f06589a3d9a92f84e2cbd66b6aae8-1703278934.732718.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_212__page0.jpg",
+      "sha256": "95c22501139ffb0f00af37df4dd7618bb1379754e7551431fd51cd3f7cc79bb2",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_212__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

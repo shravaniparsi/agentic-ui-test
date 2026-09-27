@@ -1,0 +1,304 @@
+{
+  "instance_id": "vwa_reddit_71",
+  "domain": "reddit",
+  "filename_task_id": 71,
+  "source_url": "https://drive.usercontent.google.com/download?id=118xUkoYer7a0TYSX_2eqrVLltPMRBdLs&export=download&confirm=t",
+  "source_file_id": "118xUkoYer7a0TYSX_2eqrVLltPMRBdLs",
+  "archive_sha256": "f04cfd957097c04f3334f7a19e564814381e91397f52a92e8e1aa36b3aa073b2",
+  "archive_bytes": 24859028,
+  "event_types": {
+    "context-options": 1,
+    "event": 205,
+    "screencast-frame": 304,
+    "object": 85,
+    "before": 7,
+    "frame-snapshot": 21,
+    "input": 7,
+    "after": 7
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704275062823,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/new",
+      "snapshotName": "before@call@cb9cffd362493923f0510f741d67441f",
+      "timestamp": 10914.329,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/new",
+      "snapshotName": "input@call@cb9cffd362493923f0510f741d67441f",
+      "timestamp": 10973.535,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/new?next%5Bid%5D=127966",
+      "snapshotName": "after@call@cb9cffd362493923f0510f741d67441f",
+      "timestamp": 11478.265,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/new?next%5Bid%5D=127966",
+      "snapshotName": "before@call@3a58087e7c5c141e62994d73f6ae533c",
+      "timestamp": 13620.731,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/new?next%5Bid%5D=127966",
+      "snapshotName": "input@call@3a58087e7c5c141e62994d73f6ae533c",
+      "timestamp": 13656.857,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/new?next%5Bid%5D=127941",
+      "snapshotName": "after@call@3a58087e7c5c141e62994d73f6ae533c",
+      "timestamp": 14102.879,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/new?next%5Bid%5D=127941",
+      "snapshotName": "before@call@da1752dd11cc975344f6a836fd96aae5",
+      "timestamp": 18904.821,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/new?next%5Bid%5D=127941",
+      "snapshotName": "input@call@da1752dd11cc975344f6a836fd96aae5",
+      "timestamp": 18974.302,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/new?next%5Bid%5D=127916",
+      "snapshotName": "after@call@da1752dd11cc975344f6a836fd96aae5",
+      "timestamp": 19444.213,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/new?next%5Bid%5D=127916",
+      "snapshotName": "before@call@7cb75ec2c25182517b099429cad40a55",
+      "timestamp": 23387.231,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/new?next%5Bid%5D=127916",
+      "snapshotName": "input@call@7cb75ec2c25182517b099429cad40a55",
+      "timestamp": 23459.843,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/5e5fe121fe1e5b9350d9faa5902a0d53a503940b66414c69c4d35cb3a0f53c0f.gif",
+      "snapshotName": "after@call@7cb75ec2c25182517b099429cad40a55",
+      "timestamp": 23722.769,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/new?next%5Bid%5D=127916",
+      "snapshotName": "before@call@2ba6731c03e1a4311af7eb31016226af",
+      "timestamp": 31534.167,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/new?next%5Bid%5D=127916",
+      "snapshotName": "input@call@2ba6731c03e1a4311af7eb31016226af",
+      "timestamp": 31583.377,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/127908/when-was-the-last-time-we-even-heard-from-those-guys",
+      "snapshotName": "after@call@2ba6731c03e1a4311af7eb31016226af",
+      "timestamp": 32055.574,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/127908/when-was-the-last-time-we-even-heard-from-those-guys",
+      "snapshotName": "before@call@cf066979cdf4b2cb28d27eafac2d0dbe",
+      "timestamp": 33926.308,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/127908/when-was-the-last-time-we-even-heard-from-those-guys",
+      "snapshotName": "input@call@cf066979cdf4b2cb28d27eafac2d0dbe",
+      "timestamp": 33968.508,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/127908/when-was-the-last-time-we-even-heard-from-those-guys",
+      "snapshotName": "after@call@cf066979cdf4b2cb28d27eafac2d0dbe",
+      "timestamp": 34012.839,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/127908/when-was-the-last-time-we-even-heard-from-those-guys",
+      "snapshotName": "before@call@ca980ab2acc0d9d0117686ebf6151613",
+      "timestamp": 47600.375,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/127908/when-was-the-last-time-we-even-heard-from-those-guys",
+      "snapshotName": "input@call@ca980ab2acc0d9d0117686ebf6151613",
+      "timestamp": 47640.064,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@92431e0da26e64912b8f9b166ca650de",
+      "frameId": "frame@3c9d418e94d0c7a29749dcf7aaba58a8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/127908/when-was-the-last-time-we-even-heard-from-those-guys/comment/8",
+      "snapshotName": "after@call@ca980ab2acc0d9d0117686ebf6151613",
+      "timestamp": 48469.026,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@92431e0da26e64912b8f9b166ca650de",
+      "timestamp": 50029.571,
+      "resource": "page@92431e0da26e64912b8f9b166ca650de-1704275112.401257.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_71__page0.jpg",
+      "sha256": "9d79891684cdd06be98d338c3a4779c6940244330c616eef6cb074c5059ca23f",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_71__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

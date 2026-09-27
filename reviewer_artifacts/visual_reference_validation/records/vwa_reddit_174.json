@@ -1,0 +1,304 @@
+{
+  "instance_id": "vwa_reddit_174",
+  "domain": "reddit",
+  "filename_task_id": 174,
+  "source_url": "https://drive.usercontent.google.com/download?id=1-hk1fAH4Ixu3CKRC6oeNKE_gO1tvWiVj&export=download&confirm=t",
+  "source_file_id": "1-hk1fAH4Ixu3CKRC6oeNKE_gO1tvWiVj",
+  "archive_sha256": "2382145a57f92576cc36ae46891e2852f1f2715ed992dc3d8dd40cbe13a2e1a6",
+  "archive_bytes": 18964794,
+  "event_types": {
+    "context-options": 1,
+    "event": 95,
+    "screencast-frame": 296,
+    "object": 45,
+    "before": 4,
+    "frame-snapshot": 21,
+    "input": 13,
+    "after": 4
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704277102903,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all",
+      "snapshotName": "before@call@5e30989939eb67b9e33a73424f2490d9",
+      "timestamp": 32932.244,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all",
+      "snapshotName": "input@call@5e30989939eb67b9e33a73424f2490d9",
+      "timestamp": 32988.882,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all",
+      "snapshotName": "input@call@5e30989939eb67b9e33a73424f2490d9",
+      "timestamp": 33018.897,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all",
+      "snapshotName": "input@call@5e30989939eb67b9e33a73424f2490d9",
+      "timestamp": 33070.183,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all",
+      "snapshotName": "input@call@5e30989939eb67b9e33a73424f2490d9",
+      "timestamp": 33202.274,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all",
+      "snapshotName": "input@call@5e30989939eb67b9e33a73424f2490d9",
+      "timestamp": 33335.78,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all",
+      "snapshotName": "input@call@5e30989939eb67b9e33a73424f2490d9",
+      "timestamp": 33883.2,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all",
+      "snapshotName": "input@call@5e30989939eb67b9e33a73424f2490d9",
+      "timestamp": 34426.8,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all",
+      "snapshotName": "input@call@5e30989939eb67b9e33a73424f2490d9",
+      "timestamp": 34972.971,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all",
+      "snapshotName": "input@call@5e30989939eb67b9e33a73424f2490d9",
+      "timestamp": 35533.131,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all",
+      "snapshotName": "input@call@5e30989939eb67b9e33a73424f2490d9",
+      "timestamp": 36093.75,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/21032/at-lease-is-not-brazil",
+      "snapshotName": "after@call@5e30989939eb67b9e33a73424f2490d9",
+      "timestamp": 36713.425,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/21032/at-lease-is-not-brazil",
+      "snapshotName": "before@call@37afa3e3e1d8558b219f5149bc6c6ead",
+      "timestamp": 40045.668,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/21032/at-lease-is-not-brazil",
+      "snapshotName": "input@call@37afa3e3e1d8558b219f5149bc6c6ead",
+      "timestamp": 40088.656,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/21032/at-lease-is-not-brazil",
+      "snapshotName": "after@call@37afa3e3e1d8558b219f5149bc6c6ead",
+      "timestamp": 40137.707,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/21032/at-lease-is-not-brazil",
+      "snapshotName": "before@call@f12618468f7d36220eebbd17778fa514",
+      "timestamp": 43516.826,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/21032/at-lease-is-not-brazil",
+      "snapshotName": "input@call@f12618468f7d36220eebbd17778fa514",
+      "timestamp": 43558.652,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/21032/at-lease-is-not-brazil",
+      "snapshotName": "after@call@f12618468f7d36220eebbd17778fa514",
+      "timestamp": 43573.314,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/21032/at-lease-is-not-brazil",
+      "snapshotName": "before@call@1767abee6884b8e2cf8eb26f401eade7",
+      "timestamp": 45478.262,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/21032/at-lease-is-not-brazil",
+      "snapshotName": "input@call@1767abee6884b8e2cf8eb26f401eade7",
+      "timestamp": 45521.266,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "frameId": "frame@0eeb6a671e452bf5e71e6a4218266d3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/21032/at-lease-is-not-brazil/comment/12",
+      "snapshotName": "after@call@1767abee6884b8e2cf8eb26f401eade7",
+      "timestamp": 46312.445,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@35a9db0d8debdf0c29df05cc372fe1af",
+      "timestamp": 46526.798,
+      "resource": "page@35a9db0d8debdf0c29df05cc372fe1af-1704277148.859274.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_174__page0.jpg",
+      "sha256": "8492403194690868fb8f0c287cef5f3eb0a1e2cece345bd1bd370c148b8bef56",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_174__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

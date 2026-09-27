@@ -1,0 +1,123 @@
+{
+  "instance_id": "vwa_classifieds_55",
+  "domain": "classifieds",
+  "filename_task_id": 55,
+  "source_url": "https://drive.usercontent.google.com/download?id=1h98I7XIJ36eJfrnibVctN9JLGTzeKCuE&export=download&confirm=t",
+  "source_file_id": "1h98I7XIJ36eJfrnibVctN9JLGTzeKCuE",
+  "archive_sha256": "ce867d5cef7dbfd7d0d06a442e70992a8e73bc90965dc897edd994f8f5d3f706",
+  "archive_bytes": 8468726,
+  "event_types": {
+    "context-options": 1,
+    "event": 45,
+    "screencast-frame": 138,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704174484909,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@3953109975bbd6df6b7b81d0060d8339",
+      "frameId": "frame@1ba40053b858af6e9809290de186cc30",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "before@call@686444c8b89d860c05801a3bb597d9d3",
+      "timestamp": 87816.77,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3953109975bbd6df6b7b81d0060d8339",
+      "frameId": "frame@1ba40053b858af6e9809290de186cc30",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "input@call@686444c8b89d860c05801a3bb597d9d3",
+      "timestamp": 87847.03,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3953109975bbd6df6b7b81d0060d8339",
+      "frameId": "frame@1ba40053b858af6e9809290de186cc30",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=12",
+      "snapshotName": "after@call@686444c8b89d860c05801a3bb597d9d3",
+      "timestamp": 88587.495,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3953109975bbd6df6b7b81d0060d8339",
+      "frameId": "frame@1ba40053b858af6e9809290de186cc30",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=12",
+      "snapshotName": "before@call@5eb33bdbfea1780f29a1bff95acd3ebf",
+      "timestamp": 112676.476,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3953109975bbd6df6b7b81d0060d8339",
+      "frameId": "frame@1ba40053b858af6e9809290de186cc30",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=12",
+      "snapshotName": "input@call@5eb33bdbfea1780f29a1bff95acd3ebf",
+      "timestamp": 112709.182,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3953109975bbd6df6b7b81d0060d8339",
+      "frameId": "frame@1ba40053b858af6e9809290de186cc30",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=78765",
+      "snapshotName": "after@call@5eb33bdbfea1780f29a1bff95acd3ebf",
+      "timestamp": 113180.846,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@3953109975bbd6df6b7b81d0060d8339",
+      "timestamp": 120380.786,
+      "resource": "page@3953109975bbd6df6b7b81d0060d8339-1704174604.712779.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_55__page0.jpg",
+      "sha256": "947ed6d2960cecfc8747fa33f12dd19fb2786a4b793801c62d3c956732c7c4ba",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_classifieds_55__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

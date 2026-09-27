@@ -1,0 +1,543 @@
+{
+  "instance_id": "vwa_classifieds_226",
+  "domain": "classifieds",
+  "filename_task_id": 226,
+  "source_url": "https://drive.usercontent.google.com/download?id=1XmZz5jL5sYURtajWoavaQzAQQs1WmLha&export=download&confirm=t",
+  "source_file_id": "1XmZz5jL5sYURtajWoavaQzAQQs1WmLha",
+  "archive_sha256": "bc1ca77d60eda13bbb264287eb127a56abe9ee8c73e4073ac254d5ffeb9117a1",
+  "archive_bytes": 25049068,
+  "event_types": {
+    "context-options": 1,
+    "event": 142,
+    "screencast-frame": 403,
+    "before": 14,
+    "frame-snapshot": 40,
+    "input": 14,
+    "after": 14
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704176990749,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@760a84d225ec03cdd07b753573a2987a",
+      "frameId": "frame@55987823b3e6a08e7d4b73943dc2a0e8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/5pcs-30ml-cute-mini-portable-gel-silicone-hand-bottle-cartoon-empty-spray-bottle-cosmetic-container-refillable-bottle-hand-soap-bottle.html",
+      "snapshotName": "before@call@c26278aa1277248049b0f157f05cd997",
+      "timestamp": 60890.997,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@760a84d225ec03cdd07b753573a2987a",
+      "frameId": "frame@55987823b3e6a08e7d4b73943dc2a0e8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/5pcs-30ml-cute-mini-portable-gel-silicone-hand-bottle-cartoon-empty-spray-bottle-cosmetic-container-refillable-bottle-hand-soap-bottle.html",
+      "snapshotName": "input@call@c26278aa1277248049b0f157f05cd997",
+      "timestamp": 60923.569,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@760a84d225ec03cdd07b753573a2987a",
+      "frameId": "frame@55987823b3e6a08e7d4b73943dc2a0e8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/5pcs-30ml-cute-mini-portable-gel-silicone-hand-bottle-cartoon-empty-spray-bottle-cosmetic-container-refillable-bottle-hand-soap-bottle.html",
+      "snapshotName": "after@call@c26278aa1277248049b0f157f05cd997",
+      "timestamp": 60934.86,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "before@call@8c23bc4cfeb27a49bc445f5c336f6bbf",
+      "timestamp": 77130.178,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "input@call@8c23bc4cfeb27a49bc445f5c336f6bbf",
+      "timestamp": 77157.01,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "after@call@8c23bc4cfeb27a49bc445f5c336f6bbf",
+      "timestamp": 77169.719,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "before@call@50d9919ccfb5ed5a88f54186dcfd6057",
+      "timestamp": 80251.188,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "input@call@50d9919ccfb5ed5a88f54186dcfd6057",
+      "timestamp": 80256.95,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine",
+      "snapshotName": "before@call@c886abee5683a55e3f691f40c38317e9",
+      "timestamp": 85356.938,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine",
+      "snapshotName": "input@call@c886abee5683a55e3f691f40c38317e9",
+      "timestamp": 85379.147,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine",
+      "snapshotName": "after@call@c886abee5683a55e3f691f40c38317e9",
+      "timestamp": 85395.959,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine",
+      "snapshotName": "before@call@8a233e7e56ad5bd6c0712c3df39ad605",
+      "timestamp": 86507.358,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine",
+      "snapshotName": "input@call@8a233e7e56ad5bd6c0712c3df39ad605",
+      "timestamp": 86523.715,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "after@call@8a233e7e56ad5bd6c0712c3df39ad605",
+      "timestamp": 87192.904,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "before@call@5c8a06eff51f9a2401e63c0be2852ae9",
+      "timestamp": 99826.803,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "input@call@5c8a06eff51f9a2401e63c0be2852ae9",
+      "timestamp": 99858.37,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=2",
+      "snapshotName": "after@call@5c8a06eff51f9a2401e63c0be2852ae9",
+      "timestamp": 100298.702,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=2",
+      "snapshotName": "before@call@cbe9fe9db2be46f32aa33528e60b176d",
+      "timestamp": 110640.002,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=2",
+      "snapshotName": "input@call@cbe9fe9db2be46f32aa33528e60b176d",
+      "timestamp": 110667.521,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=3",
+      "snapshotName": "after@call@cbe9fe9db2be46f32aa33528e60b176d",
+      "timestamp": 111351.494,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=3",
+      "snapshotName": "before@call@5ccf0c9e1f232d677b29146df681728c",
+      "timestamp": 122451.76,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=3",
+      "snapshotName": "input@call@5ccf0c9e1f232d677b29146df681728c",
+      "timestamp": 122471.572,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=4",
+      "snapshotName": "after@call@5ccf0c9e1f232d677b29146df681728c",
+      "timestamp": 122958.916,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=4",
+      "snapshotName": "before@call@2e87b2e2fb1f1c20184c769f2de6ce2e",
+      "timestamp": 127691.683,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=4",
+      "snapshotName": "input@call@2e87b2e2fb1f1c20184c769f2de6ce2e",
+      "timestamp": 127712.318,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=4",
+      "snapshotName": "after@call@2e87b2e2fb1f1c20184c769f2de6ce2e",
+      "timestamp": 127725.178,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=4",
+      "snapshotName": "before@call@4569d338f32db81c69f4ec01a3db0cc9",
+      "timestamp": 127878.659,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=4",
+      "snapshotName": "input@call@4569d338f32db81c69f4ec01a3db0cc9",
+      "timestamp": 127897.568,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=4",
+      "snapshotName": "after@call@4569d338f32db81c69f4ec01a3db0cc9",
+      "timestamp": 127902.307,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=4",
+      "snapshotName": "before@call@46074be7148f20099cd612afad3a56b8",
+      "timestamp": 128042.842,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=4",
+      "snapshotName": "input@call@46074be7148f20099cd612afad3a56b8",
+      "timestamp": 128063.285,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=4",
+      "snapshotName": "after@call@46074be7148f20099cd612afad3a56b8",
+      "timestamp": 128069.244,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=4",
+      "snapshotName": "before@call@1d603c8a1ab1adf89d5d33c08d07c16f",
+      "timestamp": 129488.087,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=panda+figurine&sOrder=i_price&iOrderType=asc&iPage=4",
+      "snapshotName": "input@call@1d603c8a1ab1adf89d5d33c08d07c16f",
+      "timestamp": 129492.692,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sOrder=i_price&iOrderType=asc&sPattern=panda",
+      "snapshotName": "before@call@2baa83301210b7948d32101ec75e2546",
+      "timestamp": 135926.008,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sOrder=i_price&iOrderType=asc&sPattern=panda",
+      "snapshotName": "input@call@2baa83301210b7948d32101ec75e2546",
+      "timestamp": 135953.411,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=8964",
+      "snapshotName": "after@call@2baa83301210b7948d32101ec75e2546",
+      "timestamp": 136425.436,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=8964",
+      "snapshotName": "before@call@fa471206264b829c3389788b68893a7c",
+      "timestamp": 137910.709,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=8964",
+      "snapshotName": "input@call@fa471206264b829c3389788b68893a7c",
+      "timestamp": 139012.039,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "frameId": "frame@07643049d085e3d2d6f6b5fe3bce5a63",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=8964",
+      "snapshotName": "after@call@fa471206264b829c3389788b68893a7c",
+      "timestamp": 139018.744,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@760a84d225ec03cdd07b753573a2987a",
+      "timestamp": 75154.115,
+      "resource": "page@760a84d225ec03cdd07b753573a2987a-1704177065.532662.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_226__page0.jpg",
+      "sha256": "fbbdc0dc7d5d9b9f8fafb3d2fb2be3f2f67a1ba2bcb61325800895f8db1f6550",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@cc0686bfbcecd34f65da57fadbc21c57",
+      "timestamp": 160022.031,
+      "resource": "page@cc0686bfbcecd34f65da57fadbc21c57-1704177150.401647.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_226__page1.jpg",
+      "sha256": "968c3cc7d62bb263d94021852976b301629c4c634dc83b536206a678dc949cc2",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_classifieds_226__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

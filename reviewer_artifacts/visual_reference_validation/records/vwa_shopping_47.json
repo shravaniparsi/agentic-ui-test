@@ -1,0 +1,304 @@
+{
+  "instance_id": "vwa_shopping_47",
+  "domain": "shopping",
+  "filename_task_id": 47,
+  "source_url": "https://drive.usercontent.google.com/download?id=1tp5sOkUAEMiKOXAjCutEK8I4dSeJMLOb&export=download&confirm=t",
+  "source_file_id": "1tp5sOkUAEMiKOXAjCutEK8I4dSeJMLOb",
+  "archive_sha256": "83de00ef7de523c9bcaa9042d4d97702c9f3f57fd07b9594ccbfac033ad2e25c",
+  "archive_bytes": 16288292,
+  "event_types": {
+    "context-options": 1,
+    "event": 178,
+    "screencast-frame": 233,
+    "before": 7,
+    "frame-snapshot": 21,
+    "input": 7,
+    "after": 7,
+    "object": 33
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703275083424,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products/artificial-plants-flowers.html",
+      "snapshotName": "before@call@dedcca785424d2b1e098aa5d17f93cf9",
+      "timestamp": 5909.625,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products/artificial-plants-flowers.html",
+      "snapshotName": "input@call@dedcca785424d2b1e098aa5d17f93cf9",
+      "timestamp": 5943.223,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/csyidio-6-bundles-artificial-daisy-flowers-plastic-flowers-outdoor-uv-resistant-plants-shrubs-for-garden-porch-hanging-planter-window-box-decor-yellow.html",
+      "snapshotName": "after@call@dedcca785424d2b1e098aa5d17f93cf9",
+      "timestamp": 7296.571,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/csyidio-6-bundles-artificial-daisy-flowers-plastic-flowers-outdoor-uv-resistant-plants-shrubs-for-garden-porch-hanging-planter-window-box-decor-yellow.html",
+      "snapshotName": "before@call@dc6492fa9759556819533684d0722a8d",
+      "timestamp": 11012.229,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/csyidio-6-bundles-artificial-daisy-flowers-plastic-flowers-outdoor-uv-resistant-plants-shrubs-for-garden-porch-hanging-planter-window-box-decor-yellow.html",
+      "snapshotName": "input@call@dc6492fa9759556819533684d0722a8d",
+      "timestamp": 11081.397,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/csyidio-6-bundles-artificial-daisy-flowers-plastic-flowers-outdoor-uv-resistant-plants-shrubs-for-garden-porch-hanging-planter-window-box-decor-yellow.html",
+      "snapshotName": "after@call@dc6492fa9759556819533684d0722a8d",
+      "timestamp": 11134.947,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/csyidio-6-bundles-artificial-daisy-flowers-plastic-flowers-outdoor-uv-resistant-plants-shrubs-for-garden-porch-hanging-planter-window-box-decor-yellow.html",
+      "snapshotName": "before@call@84606fbd2b09e0c1ee6d09207db4f0d3",
+      "timestamp": 11539.628,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/csyidio-6-bundles-artificial-daisy-flowers-plastic-flowers-outdoor-uv-resistant-plants-shrubs-for-garden-porch-hanging-planter-window-box-decor-yellow.html",
+      "snapshotName": "input@call@84606fbd2b09e0c1ee6d09207db4f0d3",
+      "timestamp": 11561.558,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/csyidio-6-bundles-artificial-daisy-flowers-plastic-flowers-outdoor-uv-resistant-plants-shrubs-for-garden-porch-hanging-planter-window-box-decor-yellow.html",
+      "snapshotName": "after@call@84606fbd2b09e0c1ee6d09207db4f0d3",
+      "timestamp": 11589.227,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products/artificial-plants-flowers.html",
+      "snapshotName": "before@call@e23799979e93424c9220ae2eed13177a",
+      "timestamp": 16509.621,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products/artificial-plants-flowers.html",
+      "snapshotName": "input@call@e23799979e93424c9220ae2eed13177a",
+      "timestamp": 16547.167,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/3ft-dracaena-artificial-plant-real-touch.html",
+      "snapshotName": "after@call@e23799979e93424c9220ae2eed13177a",
+      "timestamp": 17776.962,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products/artificial-plants-flowers.html",
+      "snapshotName": "before@call@648f8e245babb66eeadca26f7940c2f3",
+      "timestamp": 20520.607,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products/artificial-plants-flowers.html",
+      "snapshotName": "input@call@648f8e245babb66eeadca26f7940c2f3",
+      "timestamp": 20563.258,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/artificial-succulent-plant-pot-milk-white-ceramic-flowerpot-wine-bottle-can-shape-home-office-desktop-countertop-decoration-small-potted-plant-ws8003.html",
+      "snapshotName": "after@call@648f8e245babb66eeadca26f7940c2f3",
+      "timestamp": 21948.847999999998,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products/artificial-plants-flowers.html",
+      "snapshotName": "before@call@7c3dc553802b983821206ce5cc11ae16",
+      "timestamp": 25902.018,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products/artificial-plants-flowers.html",
+      "snapshotName": "input@call@7c3dc553802b983821206ce5cc11ae16",
+      "timestamp": 25947.257,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/artificial-flower-calla-lily-faux-small-potted-plant-with-black-pot-fake-bonsai-flower-for-home-office-indoor-and-outdoor-occasions-decor-red-fake-flower.html",
+      "snapshotName": "after@call@7c3dc553802b983821206ce5cc11ae16",
+      "timestamp": 27506.558,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products/artificial-plants-flowers.html",
+      "snapshotName": "before@call@4d77a6cb284d854c42323c71ba8edfb2",
+      "timestamp": 38343.465,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products/artificial-plants-flowers.html",
+      "snapshotName": "input@call@4d77a6cb284d854c42323c71ba8edfb2",
+      "timestamp": 38399.537,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@540a317ad272bbd1511e4683da68986a",
+      "frameId": "frame@00e029a0f70b68e7ef6582aa9e2d6873",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/artificial-succulent-plant-pot-milk-white-ceramic-flowerpot-wine-bottle-can-shape-home-office-desktop-countertop-decoration-small-potted-plant-ws8003.html",
+      "snapshotName": "after@call@4d77a6cb284d854c42323c71ba8edfb2",
+      "timestamp": 38695.48,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@540a317ad272bbd1511e4683da68986a",
+      "timestamp": 39252.426,
+      "resource": "page@540a317ad272bbd1511e4683da68986a-1703275121.854622.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_47__page0.jpg",
+      "sha256": "9ce6c15fc680c202bcfb144ee1b48e9d736af92e841bc609383c014d41a0df26",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_47__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

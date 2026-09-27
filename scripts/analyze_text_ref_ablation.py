@@ -71,8 +71,18 @@ def find_models() -> list[str]:
 
 
 def baseline_records_for_subset(model: str, ablation_ids: set[str]) -> list[dict]:
-    base = load_jsonl(RESULTS_DIR / f"{model}_B.jsonl")
-    return [r for r in base if r.get("instance_id") in ablation_ids]
+    path = ROOT / f"{model}_B.jsonl"
+    if not path.exists():
+        raise FileNotFoundError(f"Missing full-reference baseline: {path}")
+    base = load_jsonl(path)
+    subset = [r for r in base if r.get("instance_id") in ablation_ids]
+    ids = [r["instance_id"] for r in subset]
+    if len(ids) != len(set(ids)):
+        raise ValueError(f"Duplicate baseline task IDs for {model}")
+    missing = ablation_ids - set(ids)
+    if missing:
+        raise ValueError(f"{model}: baseline is missing {len(missing)} ablation tasks")
+    return subset
 
 
 def main() -> None:

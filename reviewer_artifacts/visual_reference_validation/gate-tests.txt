@@ -1,0 +1,14 @@
+test_duplicate_and_missing_ids_blocked (__main__.GateTests) ... ok
+test_existing_output_preserved (__main__.GateTests) ... ok
+test_export_validates_whole_batch_first (__main__.GateTests) ... ok
+test_mixed_image_mime_and_order_without_sdk_or_credentials (__main__.GateTests) ... ok
+test_stale_export_blocked (__main__.GateTests) ... ok
+test_subset_and_original_preserved (__main__.GateTests) ... ok
+test_tampered_bytes_block_before_output (__main__.GateTests) ... ok
+test_task_remapping_blocked (__main__.GateTests) ... ok
+test_unapproved_blocked (__main__.GateTests) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.172s
+
+OK

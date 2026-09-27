@@ -1,0 +1,712 @@
+{
+  "instance_id": "vwa_reddit_17",
+  "domain": "reddit",
+  "filename_task_id": 17,
+  "source_url": "https://drive.usercontent.google.com/download?id=1xAVZ-7ozCHwJWp0P_2k9NVWAdfNDYgq-&export=download&confirm=t",
+  "source_file_id": "1xAVZ-7ozCHwJWp0P_2k9NVWAdfNDYgq-",
+  "archive_sha256": "4e8b8abb7a4f7e90f9b690be9e0f0e0db90601589b5ae836f44d88c7396d4908",
+  "archive_bytes": 29375566,
+  "event_types": {
+    "context-options": 1,
+    "event": 436,
+    "screencast-frame": 631,
+    "object": 188,
+    "before": 18,
+    "frame-snapshot": 54,
+    "input": 18,
+    "after": 18
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704321819724,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@3ad24128468f0dc8555a6054fee4f437",
+      "timestamp": 20826.788,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@3ad24128468f0dc8555a6054fee4f437",
+      "timestamp": 20884.409,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/personalfinance",
+      "snapshotName": "after@call@3ad24128468f0dc8555a6054fee4f437",
+      "timestamp": 21271.904,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/personalfinance",
+      "snapshotName": "before@call@7ade60bc24c4f815131ac83abd8ffe12",
+      "timestamp": 25464.487,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/personalfinance",
+      "snapshotName": "input@call@7ade60bc24c4f815131ac83abd8ffe12",
+      "timestamp": 25511.532,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/personalfinance",
+      "snapshotName": "after@call@7ade60bc24c4f815131ac83abd8ffe12",
+      "timestamp": 25534.375,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/personalfinance",
+      "snapshotName": "before@call@258c372a1c8635d1849457009d38e045",
+      "timestamp": 26331.116,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/personalfinance",
+      "snapshotName": "input@call@258c372a1c8635d1849457009d38e045",
+      "timestamp": 26396.367,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/personalfinance/top?t=day",
+      "snapshotName": "after@call@258c372a1c8635d1849457009d38e045",
+      "timestamp": 26679.423,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/personalfinance/top?t=day",
+      "snapshotName": "before@call@a1216eec7b9b6fa7461045556f069eed",
+      "timestamp": 27273.561,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/personalfinance/top?t=day",
+      "snapshotName": "input@call@a1216eec7b9b6fa7461045556f069eed",
+      "timestamp": 27318.421,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/personalfinance/top?t=day",
+      "snapshotName": "after@call@a1216eec7b9b6fa7461045556f069eed",
+      "timestamp": 27327.54,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/personalfinance/top?t=day",
+      "snapshotName": "before@call@97535ef2ea37e616be8392b71d59c270",
+      "timestamp": 27991,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/personalfinance/top?t=day",
+      "snapshotName": "input@call@97535ef2ea37e616be8392b71d59c270",
+      "timestamp": 28021.996,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/personalfinance/top?t=all",
+      "snapshotName": "after@call@97535ef2ea37e616be8392b71d59c270",
+      "timestamp": 28431.257,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/personalfinance/top?t=all",
+      "snapshotName": "before@call@379340b480b321b006c215f39045dad1",
+      "timestamp": 32899.251,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/personalfinance/top?t=all",
+      "snapshotName": "input@call@379340b480b321b006c215f39045dad1",
+      "timestamp": 32944.646,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@379340b480b321b006c215f39045dad1",
+      "timestamp": 33494.656,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@141e0648c75b894167347c029c7d7965",
+      "timestamp": 34516.294,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@141e0648c75b894167347c029c7d7965",
+      "timestamp": 34545.923,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "after@call@141e0648c75b894167347c029c7d7965",
+      "timestamp": 34770.156,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@19e80bbac5bc8ff2d8a016b598cb0ec3",
+      "timestamp": 38912.044,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@19e80bbac5bc8ff2d8a016b598cb0ec3",
+      "timestamp": 38946.953,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes",
+      "snapshotName": "after@call@19e80bbac5bc8ff2d8a016b598cb0ec3",
+      "timestamp": 39324.344,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes",
+      "snapshotName": "before@call@fc55c77e7fca178f1b6fb8220151e5a1",
+      "timestamp": 65825.949,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes",
+      "snapshotName": "input@call@fc55c77e7fca178f1b6fb8220151e5a1",
+      "timestamp": 65894.228,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=8474&next%5Bid%5D=62899",
+      "snapshotName": "after@call@fc55c77e7fca178f1b6fb8220151e5a1",
+      "timestamp": 66281.694,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=8474&next%5Bid%5D=62899",
+      "snapshotName": "before@call@24b396f2fbfa21e4bba1e6056fa48585",
+      "timestamp": 73669.862,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=8474&next%5Bid%5D=62899",
+      "snapshotName": "input@call@24b396f2fbfa21e4bba1e6056fa48585",
+      "timestamp": 73712.581,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=4898&next%5Bid%5D=106849",
+      "snapshotName": "after@call@24b396f2fbfa21e4bba1e6056fa48585",
+      "timestamp": 74155.517,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=4898&next%5Bid%5D=106849",
+      "snapshotName": "before@call@c5b0b8ef1847f416fff81b8ddbea4950",
+      "timestamp": 80292.5,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=4898&next%5Bid%5D=106849",
+      "snapshotName": "input@call@c5b0b8ef1847f416fff81b8ddbea4950",
+      "timestamp": 80338.289,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=4898&next%5Bid%5D=106849",
+      "snapshotName": "after@call@c5b0b8ef1847f416fff81b8ddbea4950",
+      "timestamp": 80362.248,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=4898&next%5Bid%5D=106849",
+      "snapshotName": "before@call@d5e3621e1fdc4f8b771ec770e5e1c83e",
+      "timestamp": 81225.528,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=4898&next%5Bid%5D=106849",
+      "snapshotName": "input@call@d5e3621e1fdc4f8b771ec770e5e1c83e",
+      "timestamp": 81289.648,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=day",
+      "snapshotName": "after@call@d5e3621e1fdc4f8b771ec770e5e1c83e",
+      "timestamp": 81579.022,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=day",
+      "snapshotName": "before@call@e433d6c7da735e5aeaae1226359524b6",
+      "timestamp": 82108.769,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=day",
+      "snapshotName": "input@call@e433d6c7da735e5aeaae1226359524b6",
+      "timestamp": 82148.814,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=day",
+      "snapshotName": "after@call@e433d6c7da735e5aeaae1226359524b6",
+      "timestamp": 82160.999,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=day",
+      "snapshotName": "before@call@9d7b1e866b6f7b7eb82465ccc911ea3c",
+      "timestamp": 83052.319,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=day",
+      "snapshotName": "input@call@9d7b1e866b6f7b7eb82465ccc911ea3c",
+      "timestamp": 83082.309,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all",
+      "snapshotName": "after@call@9d7b1e866b6f7b7eb82465ccc911ea3c",
+      "timestamp": 83454.402,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all",
+      "snapshotName": "before@call@bd1e20f2b6628f897277ab31822f873b",
+      "timestamp": 100046.963,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all",
+      "snapshotName": "input@call@bd1e20f2b6628f897277ab31822f873b",
+      "timestamp": 100104.821,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=7823&next%5Bid%5D=85076",
+      "snapshotName": "after@call@bd1e20f2b6628f897277ab31822f873b",
+      "timestamp": 100460.942,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=7823&next%5Bid%5D=85076",
+      "snapshotName": "before@call@0ee1f2f111bbba76dda105e8bafa8d4d",
+      "timestamp": 106009.77,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=7823&next%5Bid%5D=85076",
+      "snapshotName": "input@call@0ee1f2f111bbba76dda105e8bafa8d4d",
+      "timestamp": 106076.89,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=4816&next%5Bid%5D=106774",
+      "snapshotName": "after@call@0ee1f2f111bbba76dda105e8bafa8d4d",
+      "timestamp": 106477.156,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=4816&next%5Bid%5D=106774",
+      "snapshotName": "before@call@cdb6fdd38a85b75edeff80fac37640c6",
+      "timestamp": 113950.28,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=4816&next%5Bid%5D=106774",
+      "snapshotName": "input@call@cdb6fdd38a85b75edeff80fac37640c6",
+      "timestamp": 113997.277,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=3038&next%5Bid%5D=127594",
+      "snapshotName": "after@call@cdb6fdd38a85b75edeff80fac37640c6",
+      "timestamp": 114398.256,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=3038&next%5Bid%5D=127594",
+      "snapshotName": "before@call@378c727f622ef7f5b6970bb361ba76ba",
+      "timestamp": 124700.306,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=3038&next%5Bid%5D=127594",
+      "snapshotName": "input@call@378c727f622ef7f5b6970bb361ba76ba",
+      "timestamp": 124737.81,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "frameId": "frame@d80c76cffadf3411a068b78690cc42cf",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=2179&next%5Bid%5D=21118",
+      "snapshotName": "after@call@378c727f622ef7f5b6970bb361ba76ba",
+      "timestamp": 125154.538,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@8967720ebe96eefa53d1c25e5dc55d3d",
+      "timestamp": 17488.456,
+      "resource": "page@8967720ebe96eefa53d1c25e5dc55d3d-1704321836.379228.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_17__page0.jpg",
+      "sha256": "a533a1a3115aaaea64cd089735c9c5f4164c186a7d3145859737a2175d16143d",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@b6ee25ec2ed95d95d91bfe329be24d16",
+      "timestamp": 135571.94,
+      "resource": "page@b6ee25ec2ed95d95d91bfe329be24d16-1704321954.463237.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_17__page1.jpg",
+      "sha256": "b2335baa025f35bf30988e6006aeb0121f71665afdb62ca1150c10920bb23ee2",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_17__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

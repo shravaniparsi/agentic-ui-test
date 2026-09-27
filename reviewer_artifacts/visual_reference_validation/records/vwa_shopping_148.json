@@ -1,0 +1,195 @@
+{
+  "instance_id": "vwa_shopping_148",
+  "domain": "shopping",
+  "filename_task_id": 148,
+  "source_url": "https://drive.usercontent.google.com/download?id=1FRdFCIhWO-gDrtXua-EKyvcZG0o_BbRl&export=download&confirm=t",
+  "source_file_id": "1FRdFCIhWO-gDrtXua-EKyvcZG0o_BbRl",
+  "archive_sha256": "9998946ddc25ab2cf7040ff41f0af59267f90eb29dedb181799c0475324a75b9",
+  "archive_bytes": 3568444,
+  "event_types": {
+    "context-options": 1,
+    "event": 17,
+    "screencast-frame": 127,
+    "before": 4,
+    "frame-snapshot": 12,
+    "input": 4,
+    "after": 4
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703285628340,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@1a4501994c2e73b11194a5c4e4d1c544",
+      "frameId": "frame@357d42355735edd0d5de974c96188470",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dave-s-killer-bread-good-seed-4-loaves-usda-organic.html",
+      "snapshotName": "before@call@5ce818aeb45364f099877caf7b7978b4",
+      "timestamp": 13385.467,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1a4501994c2e73b11194a5c4e4d1c544",
+      "frameId": "frame@357d42355735edd0d5de974c96188470",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dave-s-killer-bread-good-seed-4-loaves-usda-organic.html",
+      "snapshotName": "input@call@5ce818aeb45364f099877caf7b7978b4",
+      "timestamp": 13433.899,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1a4501994c2e73b11194a5c4e4d1c544",
+      "frameId": "frame@357d42355735edd0d5de974c96188470",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dave-s-killer-bread-good-seed-4-loaves-usda-organic.html",
+      "snapshotName": "after@call@5ce818aeb45364f099877caf7b7978b4",
+      "timestamp": 13446.856,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1a4501994c2e73b11194a5c4e4d1c544",
+      "frameId": "frame@357d42355735edd0d5de974c96188470",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dave-s-killer-bread-good-seed-4-loaves-usda-organic.html",
+      "snapshotName": "before@call@26c8a42d399f283b110d3be47f88d2d8",
+      "timestamp": 14996.149,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1a4501994c2e73b11194a5c4e4d1c544",
+      "frameId": "frame@357d42355735edd0d5de974c96188470",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dave-s-killer-bread-good-seed-4-loaves-usda-organic.html",
+      "snapshotName": "input@call@26c8a42d399f283b110d3be47f88d2d8",
+      "timestamp": 15061.466,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1a4501994c2e73b11194a5c4e4d1c544",
+      "frameId": "frame@357d42355735edd0d5de974c96188470",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dave-s-killer-bread-good-seed-4-loaves-usda-organic.html",
+      "snapshotName": "after@call@26c8a42d399f283b110d3be47f88d2d8",
+      "timestamp": 15088.034,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1a4501994c2e73b11194a5c4e4d1c544",
+      "frameId": "frame@357d42355735edd0d5de974c96188470",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dave-s-killer-bread-good-seed-4-loaves-usda-organic.html",
+      "snapshotName": "before@call@c42660e787c3ef679956c9197f7e1b2c",
+      "timestamp": 15569.688,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1a4501994c2e73b11194a5c4e4d1c544",
+      "frameId": "frame@357d42355735edd0d5de974c96188470",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dave-s-killer-bread-good-seed-4-loaves-usda-organic.html",
+      "snapshotName": "input@call@c42660e787c3ef679956c9197f7e1b2c",
+      "timestamp": 15616.069,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1a4501994c2e73b11194a5c4e4d1c544",
+      "frameId": "frame@357d42355735edd0d5de974c96188470",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dave-s-killer-bread-good-seed-4-loaves-usda-organic.html",
+      "snapshotName": "after@call@c42660e787c3ef679956c9197f7e1b2c",
+      "timestamp": 15629.901,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1a4501994c2e73b11194a5c4e4d1c544",
+      "frameId": "frame@357d42355735edd0d5de974c96188470",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dave-s-killer-bread-good-seed-4-loaves-usda-organic.html",
+      "snapshotName": "before@call@5c39a72c9859a83774fed96a99c050e2",
+      "timestamp": 19760.711,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1a4501994c2e73b11194a5c4e4d1c544",
+      "frameId": "frame@357d42355735edd0d5de974c96188470",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dave-s-killer-bread-good-seed-4-loaves-usda-organic.html",
+      "snapshotName": "input@call@5c39a72c9859a83774fed96a99c050e2",
+      "timestamp": 19815.569,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1a4501994c2e73b11194a5c4e4d1c544",
+      "frameId": "frame@357d42355735edd0d5de974c96188470",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dave-s-killer-bread-good-seed-4-loaves-usda-organic.html",
+      "snapshotName": "after@call@5c39a72c9859a83774fed96a99c050e2",
+      "timestamp": 19825.562,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@1a4501994c2e73b11194a5c4e4d1c544",
+      "timestamp": 20611.512,
+      "resource": "page@1a4501994c2e73b11194a5c4e4d1c544-1703285648.430651.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_148__page0.jpg",
+      "sha256": "eb806e32a91a52957b89522ed56db1a7dd947e7e4361ca6f799704d52ea7094f",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_148__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

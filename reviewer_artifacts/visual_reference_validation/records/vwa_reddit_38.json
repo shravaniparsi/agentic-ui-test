@@ -1,0 +1,1840 @@
+{
+  "instance_id": "vwa_reddit_38",
+  "domain": "reddit",
+  "filename_task_id": 38,
+  "source_url": "https://drive.usercontent.google.com/download?id=1b5OeedkfQJr8t0in4ErSksce3zoXEDK9&export=download&confirm=t",
+  "source_file_id": "1b5OeedkfQJr8t0in4ErSksce3zoXEDK9",
+  "archive_sha256": "8fc9e9b8b7146b5798693916bc0e4f5a572cd1972f88a0f1d7c19b32ae022ec7",
+  "archive_bytes": 121095746,
+  "event_types": {
+    "context-options": 1,
+    "event": 875,
+    "screencast-frame": 2114,
+    "object": 269,
+    "before": 42,
+    "frame-snapshot": 143,
+    "input": 42,
+    "after": 42
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704320935730,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@843fa4487b24c004c1f63ccc9787c06e",
+      "frameId": "frame@57af64c5b9c68f805ac168469c079b67",
+      "frameUrl": "https://images.pexels.com/photos/11355109/pexels-photo-11355109.jpeg",
+      "snapshotName": "before@call@07ff0e5b639f725902923bc17520a627",
+      "timestamp": 21498.223,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@843fa4487b24c004c1f63ccc9787c06e",
+      "frameId": "frame@57af64c5b9c68f805ac168469c079b67",
+      "frameUrl": "https://images.pexels.com/photos/11355109/pexels-photo-11355109.jpeg",
+      "snapshotName": "input@call@07ff0e5b639f725902923bc17520a627",
+      "timestamp": 21533.52,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@843fa4487b24c004c1f63ccc9787c06e",
+      "frameId": "frame@57af64c5b9c68f805ac168469c079b67",
+      "frameUrl": "https://images.pexels.com/photos/11355109/pexels-photo-11355109.jpeg",
+      "snapshotName": "after@call@07ff0e5b639f725902923bc17520a627",
+      "timestamp": 21539.588,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@a545d40967ea56562c62608573065644",
+      "timestamp": 45565.003,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@a545d40967ea56562c62608573065644",
+      "timestamp": 45620.805,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc",
+      "snapshotName": "after@call@a545d40967ea56562c62608573065644",
+      "timestamp": 46002.349,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc",
+      "snapshotName": "before@call@857cd389e92b1c122571cb4599eb7b60",
+      "timestamp": 52026.136,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc",
+      "snapshotName": "input@call@857cd389e92b1c122571cb4599eb7b60",
+      "timestamp": 52064.545,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc?next%5Branking%5D=1136&next%5Bid%5D=44527",
+      "snapshotName": "after@call@857cd389e92b1c122571cb4599eb7b60",
+      "timestamp": 52507.906,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc?next%5Branking%5D=1136&next%5Bid%5D=44527",
+      "snapshotName": "before@call@af4e3e8ad42625c1c2d80d9ff0f8aca8",
+      "timestamp": 59073.942,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc?next%5Branking%5D=1136&next%5Bid%5D=44527",
+      "snapshotName": "input@call@af4e3e8ad42625c1c2d80d9ff0f8aca8",
+      "timestamp": 59119.297,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc?next%5Branking%5D=742&next%5Bid%5D=130517",
+      "snapshotName": "after@call@af4e3e8ad42625c1c2d80d9ff0f8aca8",
+      "timestamp": 59562.618,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc?next%5Branking%5D=742&next%5Bid%5D=130517",
+      "snapshotName": "before@call@106f9c30504d8627d7d9e035d9f6a3b1",
+      "timestamp": 65336.261,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc?next%5Branking%5D=742&next%5Bid%5D=130517",
+      "snapshotName": "input@call@106f9c30504d8627d7d9e035d9f6a3b1",
+      "timestamp": 65376.987,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc?next%5Branking%5D=742&next%5Bid%5D=130517",
+      "snapshotName": "after@call@106f9c30504d8627d7d9e035d9f6a3b1",
+      "timestamp": 65403.677,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc?next%5Branking%5D=742&next%5Bid%5D=130517",
+      "snapshotName": "before@call@6dd19a0e89ea295fd1b0a43d16b6559f",
+      "timestamp": 66188.623,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc?next%5Branking%5D=742&next%5Bid%5D=130517",
+      "snapshotName": "input@call@6dd19a0e89ea295fd1b0a43d16b6559f",
+      "timestamp": 66243.918,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc/top?t=day",
+      "snapshotName": "after@call@6dd19a0e89ea295fd1b0a43d16b6559f",
+      "timestamp": 66569.105,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc/top?t=day",
+      "snapshotName": "before@call@38d3fcf293d89e0549a1c1c0d8642c2e",
+      "timestamp": 67265.761,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc/top?t=day",
+      "snapshotName": "input@call@38d3fcf293d89e0549a1c1c0d8642c2e",
+      "timestamp": 67306.501,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc/top?t=day",
+      "snapshotName": "after@call@38d3fcf293d89e0549a1c1c0d8642c2e",
+      "timestamp": 67317.345,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc/top?t=day",
+      "snapshotName": "before@call@b2882eeee87d91bd81024159190b93f6",
+      "timestamp": 68260.922,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc/top?t=day",
+      "snapshotName": "input@call@b2882eeee87d91bd81024159190b93f6",
+      "timestamp": 68290.962,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc/top?t=all",
+      "snapshotName": "after@call@b2882eeee87d91bd81024159190b93f6",
+      "timestamp": 68624.447,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@843fa4487b24c004c1f63ccc9787c06e",
+      "frameId": "frame@57af64c5b9c68f805ac168469c079b67",
+      "frameUrl": "https://images.pexels.com/photos/11355109/pexels-photo-11355109.jpeg",
+      "snapshotName": "before@call@ff4181e3cf482746f8aeb54370275476",
+      "timestamp": 75224.252,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@843fa4487b24c004c1f63ccc9787c06e",
+      "frameId": "frame@57af64c5b9c68f805ac168469c079b67",
+      "frameUrl": "https://images.pexels.com/photos/11355109/pexels-photo-11355109.jpeg",
+      "snapshotName": "input@call@ff4181e3cf482746f8aeb54370275476",
+      "timestamp": 75256.311,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@843fa4487b24c004c1f63ccc9787c06e",
+      "frameId": "frame@57af64c5b9c68f805ac168469c079b67",
+      "frameUrl": "https://images.pexels.com/photos/11355109/pexels-photo-11355109.jpeg",
+      "snapshotName": "after@call@ff4181e3cf482746f8aeb54370275476",
+      "timestamp": 75259.869,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc/top?t=all",
+      "snapshotName": "before@call@75f44431f098376d6a315746f504a28a",
+      "timestamp": 86982.082,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc/top?t=all",
+      "snapshotName": "input@call@75f44431f098376d6a315746f504a28a",
+      "timestamp": 87026.605,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc/top?t=all&next%5BnetScore%5D=1136&next%5Bid%5D=44527",
+      "snapshotName": "after@call@75f44431f098376d6a315746f504a28a",
+      "timestamp": 87438.544,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc/top?t=all&next%5BnetScore%5D=1136&next%5Bid%5D=44527",
+      "snapshotName": "before@call@2481867d80ee104add282fcffbc7601e",
+      "timestamp": 93569.619,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc/top?t=all&next%5BnetScore%5D=1136&next%5Bid%5D=44527",
+      "snapshotName": "input@call@2481867d80ee104add282fcffbc7601e",
+      "timestamp": 93612.272,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc/top?t=all&next%5BnetScore%5D=742&next%5Bid%5D=130517",
+      "snapshotName": "after@call@2481867d80ee104add282fcffbc7601e",
+      "timestamp": 93991.76,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc/top?t=all&next%5BnetScore%5D=742&next%5Bid%5D=130517",
+      "snapshotName": "before@call@ca0609df7dedd097baeec6480126790c",
+      "timestamp": 98739.458,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc/top?t=all&next%5BnetScore%5D=742&next%5Bid%5D=130517",
+      "snapshotName": "input@call@ca0609df7dedd097baeec6480126790c",
+      "timestamp": 98787.612,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@ca0609df7dedd097baeec6480126790c",
+      "timestamp": 99363.713,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@3b68867accd5610bb24adf3de5fe6658",
+      "timestamp": 100695.928,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@3b68867accd5610bb24adf3de5fe6658",
+      "timestamp": 100753.492,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "after@call@3b68867accd5610bb24adf3de5fe6658",
+      "timestamp": 100977.199,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@74ccf90e341b8ff3777cf9c9f4d97ce7",
+      "timestamp": 106292.695,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@74ccf90e341b8ff3777cf9c9f4d97ce7",
+      "timestamp": 106318.492,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston",
+      "snapshotName": "after@call@74ccf90e341b8ff3777cf9c9f4d97ce7",
+      "timestamp": 106686.334,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston",
+      "snapshotName": "before@call@74060780edd1aa43d867212609126e58",
+      "timestamp": 114548.427,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston",
+      "snapshotName": "input@call@74060780edd1aa43d867212609126e58",
+      "timestamp": 114583.078,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston",
+      "snapshotName": "after@call@74060780edd1aa43d867212609126e58",
+      "timestamp": 114606.996,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston",
+      "snapshotName": "before@call@b15168b2cb80b6746293f24adb671d4c",
+      "timestamp": 115434.693,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston",
+      "snapshotName": "input@call@b15168b2cb80b6746293f24adb671d4c",
+      "timestamp": 115467.622,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=day",
+      "snapshotName": "after@call@b15168b2cb80b6746293f24adb671d4c",
+      "timestamp": 115783.881,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=day",
+      "snapshotName": "before@call@8b235701da191ac9c3406d4740418dbb",
+      "timestamp": 116265.921,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=day",
+      "snapshotName": "input@call@8b235701da191ac9c3406d4740418dbb",
+      "timestamp": 116310.743,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=day",
+      "snapshotName": "after@call@8b235701da191ac9c3406d4740418dbb",
+      "timestamp": 116321.397,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=day",
+      "snapshotName": "before@call@5c1de428430eff7e0989e6695ca68131",
+      "timestamp": 117070.846,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=day",
+      "snapshotName": "input@call@5c1de428430eff7e0989e6695ca68131",
+      "timestamp": 117112.323,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all",
+      "snapshotName": "after@call@5c1de428430eff7e0989e6695ca68131",
+      "timestamp": 117430.786,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all",
+      "snapshotName": "before@call@8b5912f72f070f586b11c8f26b8f34c8",
+      "timestamp": 125280.27,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all",
+      "snapshotName": "input@call@8b5912f72f070f586b11c8f26b8f34c8",
+      "timestamp": 125324.513,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all&next%5BnetScore%5D=939&next%5Bid%5D=59735",
+      "snapshotName": "after@call@8b5912f72f070f586b11c8f26b8f34c8",
+      "timestamp": 125740.259,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all&next%5BnetScore%5D=939&next%5Bid%5D=59735",
+      "snapshotName": "before@call@4951e8481d3165730c431fa7a196e281",
+      "timestamp": 136760.838,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all&next%5BnetScore%5D=939&next%5Bid%5D=59735",
+      "snapshotName": "input@call@4951e8481d3165730c431fa7a196e281",
+      "timestamp": 136798.51,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all&next%5BnetScore%5D=527&next%5Bid%5D=38448",
+      "snapshotName": "after@call@4951e8481d3165730c431fa7a196e281",
+      "timestamp": 137230.926,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all&next%5BnetScore%5D=527&next%5Bid%5D=38448",
+      "snapshotName": "before@call@8925a2996a3db6c89da6f6e26373f1df",
+      "timestamp": 156857.686,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all&next%5BnetScore%5D=527&next%5Bid%5D=38448",
+      "snapshotName": "input@call@8925a2996a3db6c89da6f6e26373f1df",
+      "timestamp": 156935.674,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all&next%5BnetScore%5D=370&next%5Bid%5D=81800",
+      "snapshotName": "after@call@8925a2996a3db6c89da6f6e26373f1df",
+      "timestamp": 157362.016,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all&next%5BnetScore%5D=370&next%5Bid%5D=81800",
+      "snapshotName": "before@call@b033735974e19b96b21e68cc7e813e09",
+      "timestamp": 169583.575,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all&next%5BnetScore%5D=370&next%5Bid%5D=81800",
+      "snapshotName": "input@call@b033735974e19b96b21e68cc7e813e09",
+      "timestamp": 169626.174,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all&next%5BnetScore%5D=276&next%5Bid%5D=103358",
+      "snapshotName": "after@call@b033735974e19b96b21e68cc7e813e09",
+      "timestamp": 170020.006,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all&next%5BnetScore%5D=276&next%5Bid%5D=103358",
+      "snapshotName": "before@call@fdfab454eb0b4e1eccd6c5f954f49b38",
+      "timestamp": 180733.382,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all&next%5BnetScore%5D=276&next%5Bid%5D=103358",
+      "snapshotName": "input@call@fdfab454eb0b4e1eccd6c5f954f49b38",
+      "timestamp": 180770.64,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@fdfab454eb0b4e1eccd6c5f954f49b38",
+      "timestamp": 181433.53,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@bf43d4002108fe5befdf6f4bf6c21d86",
+      "timestamp": 182811.36,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@bf43d4002108fe5befdf6f4bf6c21d86",
+      "timestamp": 182870.115,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "after@call@bf43d4002108fe5befdf6f4bf6c21d86",
+      "timestamp": 183113.417,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@7cc87b10112ccacc015e25738dd08a2a",
+      "timestamp": 189681.76,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@7cc87b10112ccacc015e25738dd08a2a",
+      "timestamp": 189739.999,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/baltimore",
+      "snapshotName": "after@call@7cc87b10112ccacc015e25738dd08a2a",
+      "timestamp": 190215.436,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/baltimore",
+      "snapshotName": "before@call@ae4f694f1a9450d9558d41efacc7bd1b",
+      "timestamp": 200873.861,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/baltimore",
+      "snapshotName": "input@call@ae4f694f1a9450d9558d41efacc7bd1b",
+      "timestamp": 200938.833,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/baltimore?next%5Branking%5D=371&next%5Bid%5D=123924",
+      "snapshotName": "after@call@ae4f694f1a9450d9558d41efacc7bd1b",
+      "timestamp": 201372.805,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/baltimore?next%5Branking%5D=371&next%5Bid%5D=123924",
+      "snapshotName": "before@call@30a887b05681baac2f63526ff429507d",
+      "timestamp": 210474.94,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/baltimore?next%5Branking%5D=371&next%5Bid%5D=123924",
+      "snapshotName": "input@call@30a887b05681baac2f63526ff429507d",
+      "timestamp": 210509.89,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/baltimore?next%5Branking%5D=263&next%5Bid%5D=59256",
+      "snapshotName": "after@call@30a887b05681baac2f63526ff429507d",
+      "timestamp": 210961.438,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/baltimore?next%5Branking%5D=263&next%5Bid%5D=59256",
+      "snapshotName": "before@call@1cac995e6ff586b74198281eb88548d1",
+      "timestamp": 220547.928,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/baltimore?next%5Branking%5D=263&next%5Bid%5D=59256",
+      "snapshotName": "input@call@1cac995e6ff586b74198281eb88548d1",
+      "timestamp": 220585.965,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/baltimore?next%5Branking%5D=190&next%5Bid%5D=102957",
+      "snapshotName": "after@call@1cac995e6ff586b74198281eb88548d1",
+      "timestamp": 221031.069,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/baltimore?next%5Branking%5D=190&next%5Bid%5D=102957",
+      "snapshotName": "before@call@a37da47f79d3eab995062f714aea5763",
+      "timestamp": 230638.985,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/baltimore?next%5Branking%5D=190&next%5Bid%5D=102957",
+      "snapshotName": "input@call@a37da47f79d3eab995062f714aea5763",
+      "timestamp": 230676.221,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@a37da47f79d3eab995062f714aea5763",
+      "timestamp": 231341.019,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@d6b89a5f26d4c50dc8d36abf2308c7e0",
+      "timestamp": 232595.529,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@d6b89a5f26d4c50dc8d36abf2308c7e0",
+      "timestamp": 232627.338,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "after@call@d6b89a5f26d4c50dc8d36abf2308c7e0",
+      "timestamp": 232871.878,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@770ac91da83528b3f9e21728f4555a26",
+      "timestamp": 234693.146,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@770ac91da83528b3f9e21728f4555a26",
+      "timestamp": 234725.694,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/jerseycity",
+      "snapshotName": "after@call@770ac91da83528b3f9e21728f4555a26",
+      "timestamp": 235113.065,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/jerseycity",
+      "snapshotName": "before@call@402b6e2e49e218abb0d71cbdb67dcdb8",
+      "timestamp": 268599.371,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/jerseycity",
+      "snapshotName": "input@call@402b6e2e49e218abb0d71cbdb67dcdb8",
+      "timestamp": 268641.369,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/jerseycity?next%5Branking%5D=177&next%5Bid%5D=106355",
+      "snapshotName": "after@call@402b6e2e49e218abb0d71cbdb67dcdb8",
+      "timestamp": 269072.328,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/jerseycity?next%5Branking%5D=177&next%5Bid%5D=106355",
+      "snapshotName": "before@call@713c99ccce4ed1212f780689a714d9a6",
+      "timestamp": 282531.272,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/jerseycity?next%5Branking%5D=177&next%5Bid%5D=106355",
+      "snapshotName": "input@call@713c99ccce4ed1212f780689a714d9a6",
+      "timestamp": 282606.221,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@713c99ccce4ed1212f780689a714d9a6",
+      "timestamp": 283215.287,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b84934859cf945c6e8dc98cc94822844",
+      "frameId": "frame@71038f71778f68a5eb4f838d16ea7025",
+      "frameUrl": "https://www.google.com/search?q=google+reverse+image+search&oq=google+reverse+image+search&aqs=chrome..69i57j69i64.3651j0j1&sourceid=chrome&ie=UTF-8",
+      "snapshotName": "before@call@dd977053e91ad4877b19504a97af1532",
+      "timestamp": 302896.301,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b84934859cf945c6e8dc98cc94822844",
+      "frameId": "frame@71038f71778f68a5eb4f838d16ea7025",
+      "frameUrl": "https://www.google.com/search?q=google+reverse+image+search&oq=google+reverse+image+search&aqs=chrome..69i57j69i64.3651j0j1&sourceid=chrome&ie=UTF-8",
+      "snapshotName": "input@call@dd977053e91ad4877b19504a97af1532",
+      "timestamp": 302952.151,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b84934859cf945c6e8dc98cc94822844",
+      "frameId": "frame@71038f71778f68a5eb4f838d16ea7025",
+      "frameUrl": "https://support.google.com/websearch/answer/1325808?hl=en&co=GENIE.Platform%3DDesktop",
+      "snapshotName": "after@call@dd977053e91ad4877b19504a97af1532",
+      "timestamp": 303606.634,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b84934859cf945c6e8dc98cc94822844",
+      "frameId": "frame@71038f71778f68a5eb4f838d16ea7025",
+      "frameUrl": "https://support.google.com/websearch/answer/1325808?hl=en&co=GENIE.Platform%3DDesktop",
+      "snapshotName": "before@call@14adfa432640ee49f0fa42ea20c144da",
+      "timestamp": 307184.962,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b84934859cf945c6e8dc98cc94822844",
+      "frameId": "frame@2f257c1490334f14e8d88f0cf1e6c373",
+      "frameUrl": "https://scone-pa.clients6.google.com/static/proxy.html?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.GsbA68hXs80.O%2Fd%3D1%2Frs%3DAHpOoo899t-H8Lxb3OqzMDuPn6TV_i36ag%2Fm%3D__features__#parent=https%3A%2F%2Fsupport.google.com&rpctoken=345208069",
+      "snapshotName": "before@call@14adfa432640ee49f0fa42ea20c144da",
+      "timestamp": 307186.379,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@b84934859cf945c6e8dc98cc94822844",
+      "frameId": "frame@71038f71778f68a5eb4f838d16ea7025",
+      "frameUrl": "https://support.google.com/websearch/answer/1325808?hl=en&co=GENIE.Platform%3DDesktop",
+      "snapshotName": "input@call@14adfa432640ee49f0fa42ea20c144da",
+      "timestamp": 307240.129,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b84934859cf945c6e8dc98cc94822844",
+      "frameId": "frame@2f257c1490334f14e8d88f0cf1e6c373",
+      "frameUrl": "https://scone-pa.clients6.google.com/static/proxy.html?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.GsbA68hXs80.O%2Fd%3D1%2Frs%3DAHpOoo899t-H8Lxb3OqzMDuPn6TV_i36ag%2Fm%3D__features__#parent=https%3A%2F%2Fsupport.google.com&rpctoken=345208069",
+      "snapshotName": "input@call@14adfa432640ee49f0fa42ea20c144da",
+      "timestamp": 307240.362,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@b84934859cf945c6e8dc98cc94822844",
+      "frameId": "frame@71038f71778f68a5eb4f838d16ea7025",
+      "frameUrl": "https://support.google.com/websearch/answer/1325808?hl=en&co=GENIE.Platform%3DDesktop",
+      "snapshotName": "after@call@14adfa432640ee49f0fa42ea20c144da",
+      "timestamp": 307291.46,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b84934859cf945c6e8dc98cc94822844",
+      "frameId": "frame@2f257c1490334f14e8d88f0cf1e6c373",
+      "frameUrl": "https://scone-pa.clients6.google.com/static/proxy.html?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.GsbA68hXs80.O%2Fd%3D1%2Frs%3DAHpOoo899t-H8Lxb3OqzMDuPn6TV_i36ag%2Fm%3D__features__#parent=https%3A%2F%2Fsupport.google.com&rpctoken=345208069",
+      "snapshotName": "after@call@14adfa432640ee49f0fa42ea20c144da",
+      "timestamp": 307291.589,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@1db986e780c1ed4d1383850029120d69",
+      "frameUrl": "https://www.google.com/",
+      "snapshotName": "before@call@31b558d368e239d35f3c969421719304",
+      "timestamp": 312020.139,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@7f2e523ca4daf2280c264c93f48fd038",
+      "frameUrl": "https://ogs.google.com/widget/callout?prid=19037050&pgid=19037049&puid=f564582f878719e3&cce=1&dc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=538&hl=en",
+      "snapshotName": "before@call@31b558d368e239d35f3c969421719304",
+      "timestamp": 312021.83,
+      "viewport": {
+        "width": 370,
+        "height": 180
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@1db986e780c1ed4d1383850029120d69",
+      "frameUrl": "https://www.google.com/",
+      "snapshotName": "input@call@31b558d368e239d35f3c969421719304",
+      "timestamp": 312072.629,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@7f2e523ca4daf2280c264c93f48fd038",
+      "frameUrl": "https://ogs.google.com/widget/callout?prid=19037050&pgid=19037049&puid=f564582f878719e3&cce=1&dc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=538&hl=en",
+      "snapshotName": "input@call@31b558d368e239d35f3c969421719304",
+      "timestamp": 312073.044,
+      "viewport": {
+        "width": 370,
+        "height": 180
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@1db986e780c1ed4d1383850029120d69",
+      "frameUrl": "https://www.google.com/",
+      "snapshotName": "after@call@31b558d368e239d35f3c969421719304",
+      "timestamp": 312116.083,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@7f2e523ca4daf2280c264c93f48fd038",
+      "frameUrl": "https://ogs.google.com/widget/callout?prid=19037050&pgid=19037049&puid=f564582f878719e3&cce=1&dc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=538&hl=en",
+      "snapshotName": "after@call@31b558d368e239d35f3c969421719304",
+      "timestamp": 312116.384,
+      "viewport": {
+        "width": 370,
+        "height": 180
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@1db986e780c1ed4d1383850029120d69",
+      "frameUrl": "https://www.google.com/",
+      "snapshotName": "before@call@a7714910aab55a728f82bb44d283a42d",
+      "timestamp": 319129.841,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@7f2e523ca4daf2280c264c93f48fd038",
+      "frameUrl": "https://ogs.google.com/widget/callout?prid=19037050&pgid=19037049&puid=f564582f878719e3&cce=1&dc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=538&hl=en",
+      "snapshotName": "before@call@a7714910aab55a728f82bb44d283a42d",
+      "timestamp": 319131.882,
+      "viewport": {
+        "width": 370,
+        "height": 180
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@1db986e780c1ed4d1383850029120d69",
+      "frameUrl": "https://www.google.com/",
+      "snapshotName": "input@call@a7714910aab55a728f82bb44d283a42d",
+      "timestamp": 319163.263,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@7f2e523ca4daf2280c264c93f48fd038",
+      "frameUrl": "https://ogs.google.com/widget/callout?prid=19037050&pgid=19037049&puid=f564582f878719e3&cce=1&dc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=538&hl=en",
+      "snapshotName": "input@call@a7714910aab55a728f82bb44d283a42d",
+      "timestamp": 319163.594,
+      "viewport": {
+        "width": 370,
+        "height": 180
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@1db986e780c1ed4d1383850029120d69",
+      "frameUrl": "https://www.google.com/",
+      "snapshotName": "after@call@a7714910aab55a728f82bb44d283a42d",
+      "timestamp": 319191.538,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@7f2e523ca4daf2280c264c93f48fd038",
+      "frameUrl": "https://ogs.google.com/widget/callout?prid=19037050&pgid=19037049&puid=f564582f878719e3&cce=1&dc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=538&hl=en",
+      "snapshotName": "after@call@a7714910aab55a728f82bb44d283a42d",
+      "timestamp": 319191.977,
+      "viewport": {
+        "width": 370,
+        "height": 180
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@1db986e780c1ed4d1383850029120d69",
+      "frameUrl": "https://www.google.com/",
+      "snapshotName": "before@call@faa4d7eb968d0ca0d9437bd941ed5fd8",
+      "timestamp": 320362.837,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@7f2e523ca4daf2280c264c93f48fd038",
+      "frameUrl": "https://ogs.google.com/widget/callout?prid=19037050&pgid=19037049&puid=f564582f878719e3&cce=1&dc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=538&hl=en",
+      "snapshotName": "before@call@faa4d7eb968d0ca0d9437bd941ed5fd8",
+      "timestamp": 320363.228,
+      "viewport": {
+        "width": 370,
+        "height": 180
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@1db986e780c1ed4d1383850029120d69",
+      "frameUrl": "https://www.google.com/",
+      "snapshotName": "input@call@faa4d7eb968d0ca0d9437bd941ed5fd8",
+      "timestamp": 320394.944,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@7f2e523ca4daf2280c264c93f48fd038",
+      "frameUrl": "https://ogs.google.com/widget/callout?prid=19037050&pgid=19037049&puid=f564582f878719e3&cce=1&dc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=538&hl=en",
+      "snapshotName": "input@call@faa4d7eb968d0ca0d9437bd941ed5fd8",
+      "timestamp": 320395.323,
+      "viewport": {
+        "width": 370,
+        "height": 180
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@1db986e780c1ed4d1383850029120d69",
+      "frameUrl": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F11355109%2Fpexels-photo-11355109.jpeg&hl=en&re=df&st=1704321255447&vpw=1280&vph=720&ep=gsbubu",
+      "snapshotName": "after@call@faa4d7eb968d0ca0d9437bd941ed5fd8",
+      "timestamp": 321742.127,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@1db986e780c1ed4d1383850029120d69",
+      "frameUrl": "https://lens.google.com/search?ep=gsbubu&hl=en&re=df&p=AbrfA8o3fMn_HzHwLIP4UHGEkJ9dYOMlc1xQxM8o5h-LLZuc0j9WomFaRBJ_9UZf16f-JHrLAaNbkccF7hdSUBPz2Ia-YV3rJ1t81awziyV5aVligBVWGBZ9HzDCRhyZE_AXQmNF7qscwZeS_L3hZD3rRMcg63jQrCrFS9lqLYyUj_rf1KDnM6pSSE_sxagXrGNUeED9xYNz2kVmEQ%3D%3D#lns=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsIkVrY0tKRE5oWldFNE5ESTJMVFkzTmpJdE5HVmtaaTA1WmpjMUxXSTFPV0ptWVdFMVpEZGxaaElmUVRZMmNXOWlWRUkyYlc5bGMwNXBYM3AxVm1GWlRWZzNYMjFuV0hwU1p3PT0iXQ==",
+      "snapshotName": "before@call@caaa121afcfea097fdea1d34863f0fff",
+      "timestamp": 359905.069,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@5b984e5cd3818e8d7eaa79a08b80382e",
+      "frameUrl": "about:blank",
+      "snapshotName": "before@call@caaa121afcfea097fdea1d34863f0fff",
+      "timestamp": 359911.773,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@1db986e780c1ed4d1383850029120d69",
+      "frameUrl": "https://lens.google.com/search?ep=gsbubu&hl=en&re=df&p=AbrfA8o3fMn_HzHwLIP4UHGEkJ9dYOMlc1xQxM8o5h-LLZuc0j9WomFaRBJ_9UZf16f-JHrLAaNbkccF7hdSUBPz2Ia-YV3rJ1t81awziyV5aVligBVWGBZ9HzDCRhyZE_AXQmNF7qscwZeS_L3hZD3rRMcg63jQrCrFS9lqLYyUj_rf1KDnM6pSSE_sxagXrGNUeED9xYNz2kVmEQ%3D%3D#lns=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsIkVrY0tKRE5oWldFNE5ESTJMVFkzTmpJdE5HVmtaaTA1WmpjMUxXSTFPV0ptWVdFMVpEZGxaaElmUVRZMmNXOWlWRUkyYlc5bGMwNXBYM3AxVm1GWlRWZzNYMjFuV0hwU1p3PT0iXQ==",
+      "snapshotName": "input@call@caaa121afcfea097fdea1d34863f0fff",
+      "timestamp": 359968.93,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@5b984e5cd3818e8d7eaa79a08b80382e",
+      "frameUrl": "about:blank",
+      "snapshotName": "input@call@caaa121afcfea097fdea1d34863f0fff",
+      "timestamp": 359969.664,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@1db986e780c1ed4d1383850029120d69",
+      "frameUrl": "https://lens.google.com/search?ep=gsbubu&hl=en&re=df&p=AbrfA8o3fMn_HzHwLIP4UHGEkJ9dYOMlc1xQxM8o5h-LLZuc0j9WomFaRBJ_9UZf16f-JHrLAaNbkccF7hdSUBPz2Ia-YV3rJ1t81awziyV5aVligBVWGBZ9HzDCRhyZE_AXQmNF7qscwZeS_L3hZD3rRMcg63jQrCrFS9lqLYyUj_rf1KDnM6pSSE_sxagXrGNUeED9xYNz2kVmEQ%3D%3D#lns=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsIkVrY0tKRE5oWldFNE5ESTJMVFkzTmpJdE5HVmtaaTA1WmpjMUxXSTFPV0ptWVdFMVpEZGxaaElmUVRZMmNXOWlWRUkyYlc5bGMwNXBYM3AxVm1GWlRWZzNYMjFuV0hwU1p3PT0iLG51bGwsbnVsbCxbW251bGwsbnVsbCwiMS0wIl0sWyI5NzA1YTBlNS1lYjU2LTQ1YzEtOTIzMi1mNGRjMzhhZDMzNzYiXV1d",
+      "snapshotName": "after@call@caaa121afcfea097fdea1d34863f0fff",
+      "timestamp": 360068.041,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@5b984e5cd3818e8d7eaa79a08b80382e",
+      "frameUrl": "about:blank",
+      "snapshotName": "after@call@caaa121afcfea097fdea1d34863f0fff",
+      "timestamp": 360068.166,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@1db986e780c1ed4d1383850029120d69",
+      "frameUrl": "https://lens.google.com/search?ep=gsbubu&hl=en&re=df&p=AbrfA8o3fMn_HzHwLIP4UHGEkJ9dYOMlc1xQxM8o5h-LLZuc0j9WomFaRBJ_9UZf16f-JHrLAaNbkccF7hdSUBPz2Ia-YV3rJ1t81awziyV5aVligBVWGBZ9HzDCRhyZE_AXQmNF7qscwZeS_L3hZD3rRMcg63jQrCrFS9lqLYyUj_rf1KDnM6pSSE_sxagXrGNUeED9xYNz2kVmEQ%3D%3D#lns=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsIkVrY0tKRE5oWldFNE5ESTJMVFkzTmpJdE5HVmtaaTA1WmpjMUxXSTFPV0ptWVdFMVpEZGxaaElmUVRZMmNXOWlWRUkyYlc5bGMwNXBYM3AxVm1GWlRWZzNYMjFuV0hwU1p3PT0iLG51bGwsbnVsbCxbW251bGwsbnVsbCwiMS0wIl0sWyI5NzA1YTBlNS1lYjU2LTQ1YzEtOTIzMi1mNGRjMzhhZDMzNzYiXV1d",
+      "snapshotName": "before@call@2882b38d40bca348ac36247299791f09",
+      "timestamp": 395025.408,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@5b984e5cd3818e8d7eaa79a08b80382e",
+      "frameUrl": "about:blank",
+      "snapshotName": "before@call@2882b38d40bca348ac36247299791f09",
+      "timestamp": 395025.547,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@1db986e780c1ed4d1383850029120d69",
+      "frameUrl": "https://lens.google.com/search?ep=gsbubu&hl=en&re=df&p=AbrfA8o3fMn_HzHwLIP4UHGEkJ9dYOMlc1xQxM8o5h-LLZuc0j9WomFaRBJ_9UZf16f-JHrLAaNbkccF7hdSUBPz2Ia-YV3rJ1t81awziyV5aVligBVWGBZ9HzDCRhyZE_AXQmNF7qscwZeS_L3hZD3rRMcg63jQrCrFS9lqLYyUj_rf1KDnM6pSSE_sxagXrGNUeED9xYNz2kVmEQ%3D%3D#lns=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsIkVrY0tKRE5oWldFNE5ESTJMVFkzTmpJdE5HVmtaaTA1WmpjMUxXSTFPV0ptWVdFMVpEZGxaaElmUVRZMmNXOWlWRUkyYlc5bGMwNXBYM3AxVm1GWlRWZzNYMjFuV0hwU1p3PT0iLG51bGwsbnVsbCxbW251bGwsbnVsbCwiMS0wIl0sWyI5NzA1YTBlNS1lYjU2LTQ1YzEtOTIzMi1mNGRjMzhhZDMzNzYiXV1d",
+      "snapshotName": "input@call@2882b38d40bca348ac36247299791f09",
+      "timestamp": 395062.346,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@5b984e5cd3818e8d7eaa79a08b80382e",
+      "frameUrl": "about:blank",
+      "snapshotName": "input@call@2882b38d40bca348ac36247299791f09",
+      "timestamp": 395063.166,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@1db986e780c1ed4d1383850029120d69",
+      "frameUrl": "https://lens.google.com/search?ep=gsbubu&hl=en&re=df&p=AbrfA8o3fMn_HzHwLIP4UHGEkJ9dYOMlc1xQxM8o5h-LLZuc0j9WomFaRBJ_9UZf16f-JHrLAaNbkccF7hdSUBPz2Ia-YV3rJ1t81awziyV5aVligBVWGBZ9HzDCRhyZE_AXQmNF7qscwZeS_L3hZD3rRMcg63jQrCrFS9lqLYyUj_rf1KDnM6pSSE_sxagXrGNUeED9xYNz2kVmEQ%3D%3D#lns=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsIkVrY0tKRE5oWldFNE5ESTJMVFkzTmpJdE5HVmtaaTA1WmpjMUxXSTFPV0ptWVdFMVpEZGxaaElmUVRZMmNXOWlWRUkyYlc5bGMwNXBYM3AxVm1GWlRWZzNYMjFuV0hwU1p3PT0iLG51bGwsbnVsbCxbW251bGwsbnVsbCwiMS0xIl0sWyI5NzA1YTBlNS1lYjU2LTQ1YzEtOTIzMi1mNGRjMzhhZDMzNzYiXV1d",
+      "snapshotName": "after@call@2882b38d40bca348ac36247299791f09",
+      "timestamp": 395146.295,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "frameId": "frame@5b984e5cd3818e8d7eaa79a08b80382e",
+      "frameUrl": "about:blank",
+      "snapshotName": "after@call@2882b38d40bca348ac36247299791f09",
+      "timestamp": 395146.405,
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "isMainFrame": false
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@87dc88041f4cbe50b802c9d76908b07a",
+      "timestamp": 421766.437,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@87dc88041f4cbe50b802c9d76908b07a",
+      "timestamp": 421798.111,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "after@call@87dc88041f4cbe50b802c9d76908b07a",
+      "timestamp": 422315.38,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@cadc98d91aea4d902c13132e1feab60e",
+      "timestamp": 424613.071,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@cadc98d91aea4d902c13132e1feab60e",
+      "timestamp": 424649.118,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "frameId": "frame@6955fd2b2a1ab12d83095996e449bca8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/nyc",
+      "snapshotName": "after@call@cadc98d91aea4d902c13132e1feab60e",
+      "timestamp": 425041.6,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@843fa4487b24c004c1f63ccc9787c06e",
+      "timestamp": 318004.305,
+      "resource": "page@843fa4487b24c004c1f63ccc9787c06e-1704321253.024786.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_38__page0.jpg",
+      "sha256": "42a61309d4dd54236e24b8263af811b26033952a9a10e0beffa38d8a20bba500",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@776301c920093a3507a8b44a90a72295",
+      "timestamp": 382996.362,
+      "resource": "page@776301c920093a3507a8b44a90a72295-1704321318.016808.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_38__page1.jpg",
+      "sha256": "8b6fd088bba696afcab4ec9fc58c7927595365387d5bceba31b55e31e69c37cb",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@2c542f28c1451856b99f17e1de7b1e54",
+      "timestamp": 407805.499,
+      "resource": "page@2c542f28c1451856b99f17e1de7b1e54-1704321342.809253.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_38__page2.jpg",
+      "sha256": "c1b94298bcb1844212097b0d7675951926ba06fe7ba5c66722527f73ab09acba",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@f9ff0a84b95444cebe975c0932ebab2b",
+      "timestamp": 408741.817,
+      "resource": "page@f9ff0a84b95444cebe975c0932ebab2b-1704321343.745776.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_38__page3.jpg",
+      "sha256": "e49a8f4a6c637ed4b693c13dc0312c86316521dcb8e047a720b1c34f460f750d",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@b84934859cf945c6e8dc98cc94822844",
+      "timestamp": 417636.67,
+      "resource": "page@b84934859cf945c6e8dc98cc94822844-1704321352.636692.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_38__page4.jpg",
+      "sha256": "33a058d30c30a1b4f57b8b0a25345360c1f42bbd40b09e83191b0d1c5e862c8c",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@dc93a7e31cc3a090c848ac8283652a9b",
+      "timestamp": 418330.945,
+      "resource": "page@dc93a7e31cc3a090c848ac8283652a9b-1704321353.33176.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_38__page5.jpg",
+      "sha256": "0935a85854ee9b4d053ee18b3c4895c06bfa78a03ec176eaa5af42d59b50cb02",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@c7e9eb6eb9ce39118040ab4d0042459d",
+      "timestamp": 427233.652,
+      "resource": "page@c7e9eb6eb9ce39118040ab4d0042459d-1704321362.231816.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_38__page6.jpg",
+      "sha256": "fc6a4ebf327d9ee0340d685e989548ba15beb2a0148b231c927e7e856107f4ec",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_38__page6.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

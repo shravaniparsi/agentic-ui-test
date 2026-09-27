@@ -1,0 +1,1888 @@
+{
+  "instance_id": "vwa_reddit_209",
+  "domain": "reddit",
+  "filename_task_id": 209,
+  "source_url": "https://drive.usercontent.google.com/download?id=1vVJJWf7S_rKKYb7R6OqoCqOMHiG56uOu&export=download&confirm=t",
+  "source_file_id": "1vVJJWf7S_rKKYb7R6OqoCqOMHiG56uOu",
+  "archive_sha256": "587e661dbe8782e56934d1edf9e9af559ebbda6029d3bf0ac1f33c06af8c2376",
+  "archive_bytes": 32269289,
+  "event_types": {
+    "context-options": 1,
+    "event": 449,
+    "screencast-frame": 1003,
+    "object": 165,
+    "before": 50,
+    "frame-snapshot": 150,
+    "input": 50,
+    "after": 50
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704290834160,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@5d3e63ffecf8c4272be484c61d387eaf",
+      "frameId": "frame@a20d38e4bccb53dc588234e6207b6efd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pioneer-43-inch-class-led-4k-uhd-smart-fire-tv-pn43951-22u-2021-model.html",
+      "snapshotName": "before@call@8a9b3638b3c9bbf966a14ae529607950",
+      "timestamp": 27816.798,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5d3e63ffecf8c4272be484c61d387eaf",
+      "frameId": "frame@a20d38e4bccb53dc588234e6207b6efd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pioneer-43-inch-class-led-4k-uhd-smart-fire-tv-pn43951-22u-2021-model.html",
+      "snapshotName": "input@call@8a9b3638b3c9bbf966a14ae529607950",
+      "timestamp": 27948.093,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5d3e63ffecf8c4272be484c61d387eaf",
+      "frameId": "frame@a20d38e4bccb53dc588234e6207b6efd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pioneer-43-inch-class-led-4k-uhd-smart-fire-tv-pn43951-22u-2021-model.html",
+      "snapshotName": "after@call@8a9b3638b3c9bbf966a14ae529607950",
+      "timestamp": 27984.873,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@2e6231a4234c133b4b3f13538d8c3013",
+      "timestamp": 42973.325,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@2e6231a4234c133b4b3f13538d8c3013",
+      "timestamp": 43032.96,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@2e6231a4234c133b4b3f13538d8c3013",
+      "timestamp": 43765.353,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@bb56f34e43d3ec3f8bfc2815630daa77",
+      "timestamp": 44762.614,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@bb56f34e43d3ec3f8bfc2815630daa77",
+      "timestamp": 44825.059,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "after@call@bb56f34e43d3ec3f8bfc2815630daa77",
+      "timestamp": 45189.809,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@68decbad1a9d9f5e12ab71bf0b937c56",
+      "timestamp": 52846.491,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@68decbad1a9d9f5e12ab71bf0b937c56",
+      "timestamp": 52906.608,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor",
+      "snapshotName": "after@call@68decbad1a9d9f5e12ab71bf0b937c56",
+      "timestamp": 53317.14,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor",
+      "snapshotName": "before@call@6b3c62eba723209fc9c2a0274dedc89a",
+      "timestamp": 57260.009,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor",
+      "snapshotName": "input@call@6b3c62eba723209fc9c2a0274dedc89a",
+      "timestamp": 57289.374,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@6b3c62eba723209fc9c2a0274dedc89a",
+      "timestamp": 57675.094,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@1ee4a3ca4c3697ec42ee746554da84ae",
+      "timestamp": 60700.274,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@1ee4a3ca4c3697ec42ee746554da84ae",
+      "timestamp": 60742.312,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@1ee4a3ca4c3697ec42ee746554da84ae",
+      "timestamp": 60858.179,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@4ef97e8a0e10de7dd13caaf4e28ffae7",
+      "timestamp": 67970.292,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@4ef97e8a0e10de7dd13caaf4e28ffae7",
+      "timestamp": 67983.047,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@4ef97e8a0e10de7dd13caaf4e28ffae7",
+      "timestamp": 67994.455,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@404013fe95b01098b15c295f9409b312",
+      "frameId": "frame@13bcd7d464b0a75c9f8e16dba8e70cae",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/rca-43-4k-ultra-hd-2160p-hdr-roku-smart-led-tv-rtru4327-us.html",
+      "snapshotName": "before@call@f0f542457b8a2ba104f940822c759379",
+      "timestamp": 70355.809,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@404013fe95b01098b15c295f9409b312",
+      "frameId": "frame@13bcd7d464b0a75c9f8e16dba8e70cae",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/rca-43-4k-ultra-hd-2160p-hdr-roku-smart-led-tv-rtru4327-us.html",
+      "snapshotName": "input@call@f0f542457b8a2ba104f940822c759379",
+      "timestamp": 70441.085,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@404013fe95b01098b15c295f9409b312",
+      "frameId": "frame@13bcd7d464b0a75c9f8e16dba8e70cae",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/rca-43-4k-ultra-hd-2160p-hdr-roku-smart-led-tv-rtru4327-us.html",
+      "snapshotName": "after@call@f0f542457b8a2ba104f940822c759379",
+      "timestamp": 70461.464,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@fb3c999c8fbd9897f95e3710e70cf44f",
+      "timestamp": 73136.741,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@fb3c999c8fbd9897f95e3710e70cf44f",
+      "timestamp": 73167.845,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@fb3c999c8fbd9897f95e3710e70cf44f",
+      "timestamp": 73180.512,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5d3e63ffecf8c4272be484c61d387eaf",
+      "frameId": "frame@a20d38e4bccb53dc588234e6207b6efd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pioneer-43-inch-class-led-4k-uhd-smart-fire-tv-pn43951-22u-2021-model.html",
+      "snapshotName": "before@call@79772347ba8d92ad7fa8b60b974d6b7a",
+      "timestamp": 78931.593,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5d3e63ffecf8c4272be484c61d387eaf",
+      "frameId": "frame@a20d38e4bccb53dc588234e6207b6efd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pioneer-43-inch-class-led-4k-uhd-smart-fire-tv-pn43951-22u-2021-model.html",
+      "snapshotName": "input@call@79772347ba8d92ad7fa8b60b974d6b7a",
+      "timestamp": 78987.973,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5d3e63ffecf8c4272be484c61d387eaf",
+      "frameId": "frame@a20d38e4bccb53dc588234e6207b6efd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pioneer-43-inch-class-led-4k-uhd-smart-fire-tv-pn43951-22u-2021-model.html",
+      "snapshotName": "after@call@79772347ba8d92ad7fa8b60b974d6b7a",
+      "timestamp": 79003.76,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5d3e63ffecf8c4272be484c61d387eaf",
+      "frameId": "frame@a20d38e4bccb53dc588234e6207b6efd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pioneer-43-inch-class-led-4k-uhd-smart-fire-tv-pn43951-22u-2021-model.html",
+      "snapshotName": "before@call@989b3598067466d4f1fec7e5faac51d3",
+      "timestamp": 79066.495,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5d3e63ffecf8c4272be484c61d387eaf",
+      "frameId": "frame@a20d38e4bccb53dc588234e6207b6efd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pioneer-43-inch-class-led-4k-uhd-smart-fire-tv-pn43951-22u-2021-model.html",
+      "snapshotName": "input@call@989b3598067466d4f1fec7e5faac51d3",
+      "timestamp": 79120.325,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@5d3e63ffecf8c4272be484c61d387eaf",
+      "frameId": "frame@a20d38e4bccb53dc588234e6207b6efd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pioneer-43-inch-class-led-4k-uhd-smart-fire-tv-pn43951-22u-2021-model.html",
+      "snapshotName": "after@call@989b3598067466d4f1fec7e5faac51d3",
+      "timestamp": 79134.563,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@26b7d6768d0f27fbfca071eccc4a2d02",
+      "timestamp": 83552.483,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@26b7d6768d0f27fbfca071eccc4a2d02",
+      "timestamp": 83582.009,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@26b7d6768d0f27fbfca071eccc4a2d02",
+      "timestamp": 83599.759,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@9b2317c4e18fe7762e6621ff34705c15",
+      "timestamp": 85262.841,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@9b2317c4e18fe7762e6621ff34705c15",
+      "timestamp": 85296.356,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@9b2317c4e18fe7762e6621ff34705c15",
+      "timestamp": 85313.863,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@68a6fbdc80b1c73cfebe5a91c9f3c462",
+      "timestamp": 85374.196,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@68a6fbdc80b1c73cfebe5a91c9f3c462",
+      "timestamp": 85393.263,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@68a6fbdc80b1c73cfebe5a91c9f3c462",
+      "timestamp": 85405.492,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@d79802c8016c35c97ea7d64a3927936e",
+      "timestamp": 85676.52,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@d79802c8016c35c97ea7d64a3927936e",
+      "timestamp": 85687.846,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@d79802c8016c35c97ea7d64a3927936e",
+      "timestamp": 85701.754,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@04e9ce4cd66dda2e43dbd7c782a8f3ce",
+      "timestamp": 86246.541,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@04e9ce4cd66dda2e43dbd7c782a8f3ce",
+      "timestamp": 86270.473,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@04e9ce4cd66dda2e43dbd7c782a8f3ce",
+      "timestamp": 86315.444,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@3a4fc022021569b263a0f30e694067b5",
+      "timestamp": 86746.824,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@3a4fc022021569b263a0f30e694067b5",
+      "timestamp": 86769.633,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@3a4fc022021569b263a0f30e694067b5",
+      "timestamp": 86853.933,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@dfcef2ff9e06d2a281741231df92e1a4",
+      "timestamp": 87725.386,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@dfcef2ff9e06d2a281741231df92e1a4",
+      "timestamp": 87770.293,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@dfcef2ff9e06d2a281741231df92e1a4",
+      "timestamp": 89067.995,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@4b76b58de39df3ea67067e55af4486b5",
+      "timestamp": 93662.461,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@4b76b58de39df3ea67067e55af4486b5",
+      "timestamp": 93686.192,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@4b76b58de39df3ea67067e55af4486b5",
+      "timestamp": 93747.554,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@9235335ff284a27108646b6d1c212dfb",
+      "timestamp": 104162.445,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@9235335ff284a27108646b6d1c212dfb",
+      "timestamp": 104171.857,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@9235335ff284a27108646b6d1c212dfb",
+      "timestamp": 104181.67,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@ee3f9cfb7286cde2cb2c956e99745611",
+      "timestamp": 108520.151,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@ee3f9cfb7286cde2cb2c956e99745611",
+      "timestamp": 108533.047,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@ee3f9cfb7286cde2cb2c956e99745611",
+      "timestamp": 108541.23,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@8599c9a92c2f495f80ce3f84d7c5d70e",
+      "timestamp": 108695.11,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@8599c9a92c2f495f80ce3f84d7c5d70e",
+      "timestamp": 108709.028,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@8599c9a92c2f495f80ce3f84d7c5d70e",
+      "timestamp": 108719.204,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@6d3fef4f524e52984b4ae68702b55488",
+      "timestamp": 108997.128,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@6d3fef4f524e52984b4ae68702b55488",
+      "timestamp": 109010.718,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@6d3fef4f524e52984b4ae68702b55488",
+      "timestamp": 109019.549,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@dec8baf0a70e5cda903c0a1326cbd403",
+      "timestamp": 109314.106,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@dec8baf0a70e5cda903c0a1326cbd403",
+      "timestamp": 109325.024,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@dec8baf0a70e5cda903c0a1326cbd403",
+      "timestamp": 109334.554,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@f9000ce0134bac7b969077cb3ce6acee",
+      "timestamp": 109685.646,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@f9000ce0134bac7b969077cb3ce6acee",
+      "timestamp": 109698.392,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@f9000ce0134bac7b969077cb3ce6acee",
+      "timestamp": 109708.277,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@d9ad212f970005ca602b0a7859d35597",
+      "timestamp": 115757.89,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@d9ad212f970005ca602b0a7859d35597",
+      "timestamp": 115788.238,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@d9ad212f970005ca602b0a7859d35597",
+      "timestamp": 115959.906,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@44d01fea610bd22618c7dbd7076a1296",
+      "timestamp": 117014.109,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@44d01fea610bd22618c7dbd7076a1296",
+      "timestamp": 117052.008,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "after@call@44d01fea610bd22618c7dbd7076a1296",
+      "timestamp": 117100.885,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "before@call@8aeb2ccf9e925720dd39919e59e6848a",
+      "timestamp": 120314.472,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/monitor",
+      "snapshotName": "input@call@8aeb2ccf9e925720dd39919e59e6848a",
+      "timestamp": 120348.216,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "after@call@8aeb2ccf9e925720dd39919e59e6848a",
+      "timestamp": 121316.947,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "before@call@c542a97a3b211e440d8b62108690987e",
+      "timestamp": 129135.031,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "input@call@c542a97a3b211e440d8b62108690987e",
+      "timestamp": 129167.494,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "after@call@c542a97a3b211e440d8b62108690987e",
+      "timestamp": 129177.918,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "before@call@e55b5a2bdbcaf338a2c9e4b937586de5",
+      "timestamp": 129545.766,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "input@call@e55b5a2bdbcaf338a2c9e4b937586de5",
+      "timestamp": 129584.002,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "after@call@e55b5a2bdbcaf338a2c9e4b937586de5",
+      "timestamp": 129637.016,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "before@call@169931fec9602ac40188f8275da7ab55",
+      "timestamp": 134917.18,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "input@call@169931fec9602ac40188f8275da7ab55",
+      "timestamp": 134971.631,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@169931fec9602ac40188f8275da7ab55",
+      "timestamp": 135602.454,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@4df8e5295c6d0f2bc39a383b83a239f4",
+      "timestamp": 136595.665,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@4df8e5295c6d0f2bc39a383b83a239f4",
+      "timestamp": 136664.436,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "after@call@4df8e5295c6d0f2bc39a383b83a239f4",
+      "timestamp": 137043.784,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@3d2f4db4fe2b2b108a49d8566bb22515",
+      "timestamp": 140249.202,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@3d2f4db4fe2b2b108a49d8566bb22515",
+      "timestamp": 140310.584,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gadgets",
+      "snapshotName": "after@call@3d2f4db4fe2b2b108a49d8566bb22515",
+      "timestamp": 140759.66,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gadgets",
+      "snapshotName": "before@call@03ae640ce7aae5cc373740e44a10af2d",
+      "timestamp": 142514.009,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gadgets",
+      "snapshotName": "input@call@03ae640ce7aae5cc373740e44a10af2d",
+      "timestamp": 142585.417,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "after@call@03ae640ce7aae5cc373740e44a10af2d",
+      "timestamp": 142990.918,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "before@call@815b0c33e41e443ab6b229e1fbc1bb7c",
+      "timestamp": 144511.223,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "input@call@815b0c33e41e443ab6b229e1fbc1bb7c",
+      "timestamp": 144544.869,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "after@call@815b0c33e41e443ab6b229e1fbc1bb7c",
+      "timestamp": 144617.196,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "before@call@c2cfd3682495f9ae7d62b658b8657bd3",
+      "timestamp": 145568.811,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "input@call@c2cfd3682495f9ae7d62b658b8657bd3",
+      "timestamp": 145609.421,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "after@call@c2cfd3682495f9ae7d62b658b8657bd3",
+      "timestamp": 145648.843,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "before@call@9946ae12ac55171fd991ef62b042f555",
+      "timestamp": 146366.49,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "input@call@9946ae12ac55171fd991ef62b042f555",
+      "timestamp": 146392.933,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "after@call@9946ae12ac55171fd991ef62b042f555",
+      "timestamp": 147135.966,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "before@call@a3854bd773e3ce28d51107df2e3e7728",
+      "timestamp": 155467.922,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "input@call@a3854bd773e3ce28d51107df2e3e7728",
+      "timestamp": 155496.094,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "after@call@a3854bd773e3ce28d51107df2e3e7728",
+      "timestamp": 155583.127,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "before@call@9edc89e3edaf17f2fd6f2b91a7d2eac9",
+      "timestamp": 156075.207,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "input@call@9edc89e3edaf17f2fd6f2b91a7d2eac9",
+      "timestamp": 156092.966,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "after@call@9edc89e3edaf17f2fd6f2b91a7d2eac9",
+      "timestamp": 156107.911,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "before@call@3b14bcf694879dd6b60a8643b47cdc33",
+      "timestamp": 162246.33,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "input@call@3b14bcf694879dd6b60a8643b47cdc33",
+      "timestamp": 162275.423,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/d5cc3cf69f8af154fb374f346748f68bb2a476de981a5bbc1b7b994c6e3c22c7.jpg",
+      "snapshotName": "after@call@3b14bcf694879dd6b60a8643b47cdc33",
+      "timestamp": 162516.573,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "before@call@f28887c0084a56bab123bcecc2fa7c60",
+      "timestamp": 167757.611,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "input@call@f28887c0084a56bab123bcecc2fa7c60",
+      "timestamp": 167780.12,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "after@call@f28887c0084a56bab123bcecc2fa7c60",
+      "timestamp": 167790.873,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "before@call@06e4587ee28b290cf7d381fbe29d6645",
+      "timestamp": 175990.972,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "input@call@06e4587ee28b290cf7d381fbe29d6645",
+      "timestamp": 176029.09,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/d5cc3cf69f8af154fb374f346748f68bb2a476de981a5bbc1b7b994c6e3c22c7.jpg",
+      "snapshotName": "after@call@06e4587ee28b290cf7d381fbe29d6645",
+      "timestamp": 176341.843,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "before@call@39dd9028f4d7c4469830d60ef5a0eebb",
+      "timestamp": 182410.351,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "input@call@39dd9028f4d7c4469830d60ef5a0eebb",
+      "timestamp": 182456.462,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "after@call@39dd9028f4d7c4469830d60ef5a0eebb",
+      "timestamp": 182465.353,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "before@call@18613743de1200ea45fddf01be76b2c6",
+      "timestamp": 184162.301,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "input@call@18613743de1200ea45fddf01be76b2c6",
+      "timestamp": 184208.133,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "after@call@18613743de1200ea45fddf01be76b2c6",
+      "timestamp": 184215.402,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "before@call@8c5b5888ac17798e9fc42f87cb192fb8",
+      "timestamp": 187536.059,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "input@call@8c5b5888ac17798e9fc42f87cb192fb8",
+      "timestamp": 187576.667,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "after@call@8c5b5888ac17798e9fc42f87cb192fb8",
+      "timestamp": 187584.215,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "before@call@3fed125a8b2b031ed844685268a97d38",
+      "timestamp": 188529.207,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "input@call@3fed125a8b2b031ed844685268a97d38",
+      "timestamp": 188558.395,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "after@call@3fed125a8b2b031ed844685268a97d38",
+      "timestamp": 188565.354,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "before@call@7630bc5b54a24e0b9827584358a7158f",
+      "timestamp": 188669.889,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "input@call@7630bc5b54a24e0b9827584358a7158f",
+      "timestamp": 188710.932,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "after@call@7630bc5b54a24e0b9827584358a7158f",
+      "timestamp": 188717.369,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "before@call@feff001b16c9b81ee911d7936f320213",
+      "timestamp": 188836.527,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "input@call@feff001b16c9b81ee911d7936f320213",
+      "timestamp": 188876.955,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@28d4070f50f53060d296a228b9f26667",
+      "frameId": "frame@bbaa5461cdd44818aefde71da97735cd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/monitor/10/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "after@call@feff001b16c9b81ee911d7936f320213",
+      "timestamp": 188886.954,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "before@call@8568ea4e70b7337303150529afcab16d",
+      "timestamp": 192491.926,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "input@call@8568ea4e70b7337303150529afcab16d",
+      "timestamp": 192526.171,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "after@call@8568ea4e70b7337303150529afcab16d",
+      "timestamp": 192543.675,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "before@call@9110963d15571c1c65b1cecc29f5535c",
+      "timestamp": 197693.579,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/gadgets",
+      "snapshotName": "input@call@9110963d15571c1c65b1cecc29f5535c",
+      "timestamp": 197720.887,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@68f64ea06623bec49ae797776b92c700",
+      "frameId": "frame@25f5493409bc1459e89678ffe7872692",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gadgets/11/monitor-comparison-b09sbs75xb-vs-b09f3tw5cp",
+      "snapshotName": "after@call@9110963d15571c1c65b1cecc29f5535c",
+      "timestamp": 198951.065,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@5d3e63ffecf8c4272be484c61d387eaf",
+      "timestamp": 81914.22,
+      "resource": "page@5d3e63ffecf8c4272be484c61d387eaf-1704290914.745693.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_209__page0.jpg",
+      "sha256": "a4a0106228827a231d11d51b3aa5a010b5fdb70467b1cf1f4f00bb84a16cd6dd",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@404013fe95b01098b15c295f9409b312",
+      "timestamp": 159212.44,
+      "resource": "page@404013fe95b01098b15c295f9409b312-1704290992.043704.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_209__page1.jpg",
+      "sha256": "8de91985614da81e086d4276c3c470b38fe37bbc9e36751fb5d54c839392cd39",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@28d4070f50f53060d296a228b9f26667",
+      "timestamp": 191800.485,
+      "resource": "page@28d4070f50f53060d296a228b9f26667-1704291024.632928.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_209__page2.jpg",
+      "sha256": "409c8b5e513fc6c5898668b768f0fc4e9ef2a5881d1f2b23619c9b604a962c2b",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@68f64ea06623bec49ae797776b92c700",
+      "timestamp": 202302.975,
+      "resource": "page@68f64ea06623bec49ae797776b92c700-1704291035.135777.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_209__page3.jpg",
+      "sha256": "0097e5728ffc31a66fe6cb55493ea4c8387a4e9c83c1bf78b486d8606932773e",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_209__page3.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

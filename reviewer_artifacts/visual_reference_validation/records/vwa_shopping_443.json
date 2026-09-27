@@ -1,0 +1,87 @@
+{
+  "instance_id": "vwa_shopping_443",
+  "domain": "shopping",
+  "filename_task_id": 443,
+  "source_url": "https://drive.usercontent.google.com/download?id=1tABiBNjzo45dXT9o9hUI4_51GYokD-ou&export=download&confirm=t",
+  "source_file_id": "1tABiBNjzo45dXT9o9hUI4_51GYokD-ou",
+  "archive_sha256": "ced3bc5334effb6d18db0d367695dc3debb797761d9ce04783d486d673f90ec9",
+  "archive_bytes": 12552825,
+  "event_types": {
+    "context-options": 1,
+    "event": 92,
+    "screencast-frame": 187,
+    "before": 1,
+    "frame-snapshot": 3,
+    "input": 1,
+    "after": 1
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703217396234,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@b0f67506db64c0723edaea85cb3cb24a",
+      "frameId": "frame@b5bad84696782928f6feae2d214221f7",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/index/?p=2&q=deadpool+controller",
+      "snapshotName": "before@call@068baf0d3315947240cc83cf3c23aab6",
+      "timestamp": 85217.147,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b0f67506db64c0723edaea85cb3cb24a",
+      "frameId": "frame@b5bad84696782928f6feae2d214221f7",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/index/?p=2&q=deadpool+controller",
+      "snapshotName": "input@call@068baf0d3315947240cc83cf3c23aab6",
+      "timestamp": 85253.192,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b0f67506db64c0723edaea85cb3cb24a",
+      "frameId": "frame@b5bad84696782928f6feae2d214221f7",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/index/?q=deadpool+controller",
+      "snapshotName": "after@call@068baf0d3315947240cc83cf3c23aab6",
+      "timestamp": 85568.749,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@b0f67506db64c0723edaea85cb3cb24a",
+      "timestamp": 100566.693,
+      "resource": "page@b0f67506db64c0723edaea85cb3cb24a-1703217496.36973.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_443__page0.jpg",
+      "sha256": "858eeb1ea9bd6efe6d78a41936d4f92dc68a3a92a9d7beb8771a8b612a2fe665",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_443__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

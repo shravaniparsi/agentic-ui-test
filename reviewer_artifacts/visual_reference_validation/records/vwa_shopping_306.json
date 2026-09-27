@@ -1,0 +1,123 @@
+{
+  "instance_id": "vwa_shopping_306",
+  "domain": "shopping",
+  "filename_task_id": 306,
+  "source_url": "https://drive.usercontent.google.com/download?id=1PZ5ozumoaAvoh7Bv-UciSU-cjS-9ygTm&export=download&confirm=t",
+  "source_file_id": "1PZ5ozumoaAvoh7Bv-UciSU-cjS-9ygTm",
+  "archive_sha256": "bbcd38bc31a0a2db8c03c98b89b1c7616c9729f9b16b7f5c41021d7483d1c0ed",
+  "archive_bytes": 7571476,
+  "event_types": {
+    "context-options": 1,
+    "event": 31,
+    "screencast-frame": 162,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703283437884,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@941a1af118ad560f39b880cfdb66568c",
+      "frameId": "frame@79e353cc9a0c0eeb56a34f1158d65c01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=cookie",
+      "snapshotName": "before@call@ceaa921f0e80ae75d16c7df4779a5580",
+      "timestamp": 26590.977,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@941a1af118ad560f39b880cfdb66568c",
+      "frameId": "frame@79e353cc9a0c0eeb56a34f1158d65c01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=cookie",
+      "snapshotName": "input@call@ceaa921f0e80ae75d16c7df4779a5580",
+      "timestamp": 26654.917,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@941a1af118ad560f39b880cfdb66568c",
+      "frameId": "frame@79e353cc9a0c0eeb56a34f1158d65c01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/trader-joe-s-cookie-butter-sandwich-cookies.html",
+      "snapshotName": "after@call@ceaa921f0e80ae75d16c7df4779a5580",
+      "timestamp": 27992.232,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@941a1af118ad560f39b880cfdb66568c",
+      "frameId": "frame@79e353cc9a0c0eeb56a34f1158d65c01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/trader-joe-s-cookie-butter-sandwich-cookies.html",
+      "snapshotName": "before@call@45b22c3ce1c4f8fa82e9cddd7ab12444",
+      "timestamp": 33067.04,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@941a1af118ad560f39b880cfdb66568c",
+      "frameId": "frame@79e353cc9a0c0eeb56a34f1158d65c01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/trader-joe-s-cookie-butter-sandwich-cookies.html",
+      "snapshotName": "input@call@45b22c3ce1c4f8fa82e9cddd7ab12444",
+      "timestamp": 33118.084,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@941a1af118ad560f39b880cfdb66568c",
+      "frameId": "frame@79e353cc9a0c0eeb56a34f1158d65c01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/trader-joe-s-cookie-butter-sandwich-cookies.html",
+      "snapshotName": "after@call@45b22c3ce1c4f8fa82e9cddd7ab12444",
+      "timestamp": 33129.98,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@941a1af118ad560f39b880cfdb66568c",
+      "timestamp": 36510.626,
+      "resource": "page@941a1af118ad560f39b880cfdb66568c-1703283473.604701.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_306__page0.jpg",
+      "sha256": "2d75eb5d2783cada5090fd0375b86ca33eac2ed82ebda92522581e7c1d9cd259",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_306__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

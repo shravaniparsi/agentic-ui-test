@@ -1,0 +1,736 @@
+{
+  "instance_id": "vwa_shopping_98",
+  "domain": "shopping",
+  "filename_task_id": 98,
+  "source_url": "https://drive.usercontent.google.com/download?id=1NmTOlzP8BfZPvr2k-6PR5nPRSxGBfb6R&export=download&confirm=t",
+  "source_file_id": "1NmTOlzP8BfZPvr2k-6PR5nPRSxGBfb6R",
+  "archive_sha256": "1cc27d9b830703ef5b18c3edfe2849b26d93701e7a9ec74b64f5be1b0363b2d4",
+  "archive_bytes": 39976514,
+  "event_types": {
+    "context-options": 1,
+    "event": 212,
+    "screencast-frame": 675,
+    "before": 20,
+    "frame-snapshot": 56,
+    "input": 20,
+    "after": 20,
+    "object": 18
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703275742306,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@6e3c1a8f520661e8556349670f67d00d",
+      "timestamp": 32147.791,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@6e3c1a8f520661e8556349670f67d00d",
+      "timestamp": 32195.256,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@6e3c1a8f520661e8556349670f67d00d",
+      "timestamp": 32212.327,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@319c90e024c24d3a349e0537012bbef5",
+      "timestamp": 34840.818,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@319c90e024c24d3a349e0537012bbef5",
+      "timestamp": 34851.822,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wood+clock",
+      "snapshotName": "before@call@146bdf0d224e606b9a9e5d8335cecc9a",
+      "timestamp": 46293.641,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wood+clock",
+      "snapshotName": "input@call@146bdf0d224e606b9a9e5d8335cecc9a",
+      "timestamp": 46328.359,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wood+clock",
+      "snapshotName": "after@call@146bdf0d224e606b9a9e5d8335cecc9a",
+      "timestamp": 46337.044,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wood+clock",
+      "snapshotName": "before@call@23b5458008a52429058b9ca809439763",
+      "timestamp": 47029.623,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wood+clock",
+      "snapshotName": "input@call@23b5458008a52429058b9ca809439763",
+      "timestamp": 47045.555,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wood+clock",
+      "snapshotName": "after@call@23b5458008a52429058b9ca809439763",
+      "timestamp": 47055.551,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wood+clock",
+      "snapshotName": "before@call@31474c72d9470e72368a4bb5ab777aad",
+      "timestamp": 47275.804,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wood+clock",
+      "snapshotName": "input@call@31474c72d9470e72368a4bb5ab777aad",
+      "timestamp": 47288.619,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wood+clock",
+      "snapshotName": "after@call@31474c72d9470e72368a4bb5ab777aad",
+      "timestamp": 47298.992,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wood+clock",
+      "snapshotName": "before@call@ed55824966b4e2fa55665a9092068e1c",
+      "timestamp": 47334.87,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wood+clock",
+      "snapshotName": "input@call@ed55824966b4e2fa55665a9092068e1c",
+      "timestamp": 47344.969,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wood+clock",
+      "snapshotName": "after@call@ed55824966b4e2fa55665a9092068e1c",
+      "timestamp": 47353.442,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wood+clock",
+      "snapshotName": "before@call@00f6fd11766016066f87c3fa32549f56",
+      "timestamp": 47741.195,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wood+clock",
+      "snapshotName": "input@call@00f6fd11766016066f87c3fa32549f56",
+      "timestamp": 47754.462,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wood+clock",
+      "snapshotName": "after@call@00f6fd11766016066f87c3fa32549f56",
+      "timestamp": 47761.496,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wood+clock",
+      "snapshotName": "before@call@423d1cffe777af4504bf9f78e9663a30",
+      "timestamp": 48889.921,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wood+clock",
+      "snapshotName": "input@call@423d1cffe777af4504bf9f78e9663a30",
+      "timestamp": 48904.355,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wall+clock",
+      "snapshotName": "before@call@daef5ef521072acd1d4b3769b3acfa23",
+      "timestamp": 56442.44,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wall+clock",
+      "snapshotName": "input@call@daef5ef521072acd1d4b3769b3acfa23",
+      "timestamp": 56478.345,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=wall+clock",
+      "snapshotName": "after@call@daef5ef521072acd1d4b3769b3acfa23",
+      "timestamp": 57804.869,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=wall+clock",
+      "snapshotName": "before@call@e7425458a5d8197b84103a3a6ac22e7c",
+      "timestamp": 75449.486,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=wall+clock",
+      "snapshotName": "input@call@e7425458a5d8197b84103a3a6ac22e7c",
+      "timestamp": 75498.416,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=wall+clock",
+      "snapshotName": "after@call@e7425458a5d8197b84103a3a6ac22e7c",
+      "timestamp": 75518.254,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=wall+clock",
+      "snapshotName": "before@call@5ad7c0dd4e5304d1269a2c9f2b7fd4ed",
+      "timestamp": 96481.857,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=wall+clock",
+      "snapshotName": "input@call@5ad7c0dd4e5304d1269a2c9f2b7fd4ed",
+      "timestamp": 96498.905,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c11d6b5e7833a3ceff34da9691f2cf80",
+      "frameId": "frame@25933ab944b5029a2fb9b120796b5f61",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mantle-clock-wooden-mantel-clock-for-living-room-decor-silent-wood-battery-operated-mantle-clock-for-fireplace-mantel-office-desk-shelf-home-decor-gift-15x7-5-inch.html",
+      "snapshotName": "before@call@df7fa00df9f15ded9ba79fe3ab1fe10a",
+      "timestamp": 119740.142,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c11d6b5e7833a3ceff34da9691f2cf80",
+      "frameId": "frame@25933ab944b5029a2fb9b120796b5f61",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mantle-clock-wooden-mantel-clock-for-living-room-decor-silent-wood-battery-operated-mantle-clock-for-fireplace-mantel-office-desk-shelf-home-decor-gift-15x7-5-inch.html",
+      "snapshotName": "input@call@df7fa00df9f15ded9ba79fe3ab1fe10a",
+      "timestamp": 119802.973,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c11d6b5e7833a3ceff34da9691f2cf80",
+      "frameId": "frame@25933ab944b5029a2fb9b120796b5f61",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mantle-clock-wooden-mantel-clock-for-living-room-decor-silent-wood-battery-operated-mantle-clock-for-fireplace-mantel-office-desk-shelf-home-decor-gift-15x7-5-inch.html",
+      "snapshotName": "after@call@df7fa00df9f15ded9ba79fe3ab1fe10a",
+      "timestamp": 119857.123,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wall+clock+wood",
+      "snapshotName": "before@call@6bb15df0d4964129d7485d32fb09d30e",
+      "timestamp": 133066.364,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wall+clock+wood",
+      "snapshotName": "input@call@6bb15df0d4964129d7485d32fb09d30e",
+      "timestamp": 133100.519,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clock-wall-clock-rock-wall-clock-decorative-wall-clock-retro-living-room-mute-clock-home-decoration-color-d.html",
+      "snapshotName": "after@call@6bb15df0d4964129d7485d32fb09d30e",
+      "timestamp": 134579.741,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wall+clock+wood",
+      "snapshotName": "before@call@5beea6b4feca30c49a0296ef0298c61a",
+      "timestamp": 141553.89,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wall+clock+wood",
+      "snapshotName": "input@call@5beea6b4feca30c49a0296ef0298c61a",
+      "timestamp": 141585.396,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wall+clock+wood",
+      "snapshotName": "after@call@5beea6b4feca30c49a0296ef0298c61a",
+      "timestamp": 141595.26,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wall+clock+wood",
+      "snapshotName": "before@call@3ed6d168059d575e67312090c4405d0e",
+      "timestamp": 142616.494,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wall+clock+wood",
+      "snapshotName": "input@call@3ed6d168059d575e67312090c4405d0e",
+      "timestamp": 142636.842,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wall+clock+wood",
+      "snapshotName": "after@call@3ed6d168059d575e67312090c4405d0e",
+      "timestamp": 142654.088,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wall+clock+wood",
+      "snapshotName": "before@call@7f04034e86605b4aac2c127020621973",
+      "timestamp": 144894.323,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=wall+clock+wood",
+      "snapshotName": "input@call@7f04034e86605b4aac2c127020621973",
+      "timestamp": 144911.146,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=clock",
+      "snapshotName": "before@call@62873e51610fd9e1d143521b606a8976",
+      "timestamp": 150850.166,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=clock",
+      "snapshotName": "input@call@62873e51610fd9e1d143521b606a8976",
+      "timestamp": 150883.211,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=clock",
+      "snapshotName": "after@call@62873e51610fd9e1d143521b606a8976",
+      "timestamp": 151996.797,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=clock",
+      "snapshotName": "before@call@466b33f784f6d62f3e2ef1ee54bf369f",
+      "timestamp": 156270,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=clock",
+      "snapshotName": "input@call@466b33f784f6d62f3e2ef1ee54bf369f",
+      "timestamp": 156322.64,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mge-clock-wall-clock-personality-embossed-creativity-simplicity-european-fashion-clock-silent-bedroom-office-school-living-room-dining-room-decorative-wall-clock-color-blue.html",
+      "snapshotName": "after@call@466b33f784f6d62f3e2ef1ee54bf369f",
+      "timestamp": 157739.397,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c11d6b5e7833a3ceff34da9691f2cf80",
+      "frameId": "frame@25933ab944b5029a2fb9b120796b5f61",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mantle-clock-wooden-mantel-clock-for-living-room-decor-silent-wood-battery-operated-mantle-clock-for-fireplace-mantel-office-desk-shelf-home-decor-gift-15x7-5-inch.html",
+      "snapshotName": "before@call@5a3acd23f9136104da206c16640ef4fd",
+      "timestamp": 168678.275,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c11d6b5e7833a3ceff34da9691f2cf80",
+      "frameId": "frame@25933ab944b5029a2fb9b120796b5f61",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mantle-clock-wooden-mantel-clock-for-living-room-decor-silent-wood-battery-operated-mantle-clock-for-fireplace-mantel-office-desk-shelf-home-decor-gift-15x7-5-inch.html",
+      "snapshotName": "input@call@5a3acd23f9136104da206c16640ef4fd",
+      "timestamp": 168736.698,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c11d6b5e7833a3ceff34da9691f2cf80",
+      "frameId": "frame@25933ab944b5029a2fb9b120796b5f61",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@5a3acd23f9136104da206c16640ef4fd",
+      "timestamp": 169914.571,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mge-clock-wall-clock-personality-embossed-creativity-simplicity-european-fashion-clock-silent-bedroom-office-school-living-room-dining-room-decorative-wall-clock-color-blue.html",
+      "snapshotName": "before@call@e594aa88343cbbff5b70507e33feab51",
+      "timestamp": 172302.797,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mge-clock-wall-clock-personality-embossed-creativity-simplicity-european-fashion-clock-silent-bedroom-office-school-living-room-dining-room-decorative-wall-clock-color-blue.html",
+      "snapshotName": "input@call@e594aa88343cbbff5b70507e33feab51",
+      "timestamp": 172335.216,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@e594aa88343cbbff5b70507e33feab51",
+      "timestamp": 173607.903,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@c11d6b5e7833a3ceff34da9691f2cf80",
+      "timestamp": 170703.502,
+      "resource": "page@c11d6b5e7833a3ceff34da9691f2cf80-1703275912.169747.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_98__page0.jpg",
+      "sha256": "fa17502f8992fcf9609aa408fc06b57f7c6f5a21ca9ca17ffbe1db44f1a54738",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "timestamp": 174495.151,
+      "resource": "page@4dd172dbb2f00cc009fb272f6cabb039-1703275915.960785.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_98__page1.jpg",
+      "sha256": "8b70650937bca1f1a5baca7a1b8b61f38f2a809f191a10b49dccb5dc715ae981",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_98__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

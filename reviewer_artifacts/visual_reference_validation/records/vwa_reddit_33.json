@@ -1,0 +1,244 @@
+{
+  "instance_id": "vwa_reddit_33",
+  "domain": "reddit",
+  "filename_task_id": 33,
+  "source_url": "https://drive.usercontent.google.com/download?id=1q1xEarklRh71I7oHIWdyrNru2n25-1FW&export=download&confirm=t",
+  "source_file_id": "1q1xEarklRh71I7oHIWdyrNru2n25-1FW",
+  "archive_sha256": "6710fe809d7f8dc8126b726c9670e49b169535e02ddb18501a76fe3958edd8f2",
+  "archive_bytes": 16032661,
+  "event_types": {
+    "context-options": 1,
+    "event": 216,
+    "screencast-frame": 621,
+    "object": 103,
+    "before": 5,
+    "frame-snapshot": 15,
+    "input": 5,
+    "after": 5
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704321424194,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@91d935296adb9719ee9bbd3597f35733",
+      "frameId": "frame@de3a714b84db0d73f8ac33f5c74fca29",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@7ffa8df8d8c2646f09fee226cf445bd2",
+      "timestamp": 42069.334,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@91d935296adb9719ee9bbd3597f35733",
+      "frameId": "frame@de3a714b84db0d73f8ac33f5c74fca29",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@7ffa8df8d8c2646f09fee226cf445bd2",
+      "timestamp": 42124.441,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@91d935296adb9719ee9bbd3597f35733",
+      "frameId": "frame@de3a714b84db0d73f8ac33f5c74fca29",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming",
+      "snapshotName": "after@call@7ffa8df8d8c2646f09fee226cf445bd2",
+      "timestamp": 42664.266,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@91d935296adb9719ee9bbd3597f35733",
+      "frameId": "frame@de3a714b84db0d73f8ac33f5c74fca29",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming",
+      "snapshotName": "before@call@78eb95baa9b851faa8b488df3cdfd00a",
+      "timestamp": 66594.74,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@91d935296adb9719ee9bbd3597f35733",
+      "frameId": "frame@de3a714b84db0d73f8ac33f5c74fca29",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming",
+      "snapshotName": "input@call@78eb95baa9b851faa8b488df3cdfd00a",
+      "timestamp": 66651.323,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@91d935296adb9719ee9bbd3597f35733",
+      "frameId": "frame@de3a714b84db0d73f8ac33f5c74fca29",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/7a0c19ac8feaf6539c069a1ddbdda91e491fdacd6980a34d205d94b4fcc08ebb.gif",
+      "snapshotName": "after@call@78eb95baa9b851faa8b488df3cdfd00a",
+      "timestamp": 66841.778,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@91d935296adb9719ee9bbd3597f35733",
+      "frameId": "frame@de3a714b84db0d73f8ac33f5c74fca29",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/7a0c19ac8feaf6539c069a1ddbdda91e491fdacd6980a34d205d94b4fcc08ebb.gif",
+      "snapshotName": "before@call@a6a8e842a23b0bfe76e860902c771fab",
+      "timestamp": 68626.208,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@91d935296adb9719ee9bbd3597f35733",
+      "frameId": "frame@de3a714b84db0d73f8ac33f5c74fca29",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/7a0c19ac8feaf6539c069a1ddbdda91e491fdacd6980a34d205d94b4fcc08ebb.gif",
+      "snapshotName": "input@call@a6a8e842a23b0bfe76e860902c771fab",
+      "timestamp": 68671.398,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@91d935296adb9719ee9bbd3597f35733",
+      "frameId": "frame@de3a714b84db0d73f8ac33f5c74fca29",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/7a0c19ac8feaf6539c069a1ddbdda91e491fdacd6980a34d205d94b4fcc08ebb.gif",
+      "snapshotName": "after@call@a6a8e842a23b0bfe76e860902c771fab",
+      "timestamp": 68678.591,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@91d935296adb9719ee9bbd3597f35733",
+      "frameId": "frame@de3a714b84db0d73f8ac33f5c74fca29",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming",
+      "snapshotName": "before@call@987b6ba4409a8d72f03cacfc34155df6",
+      "timestamp": 78680.818,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@91d935296adb9719ee9bbd3597f35733",
+      "frameId": "frame@de3a714b84db0d73f8ac33f5c74fca29",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming",
+      "snapshotName": "input@call@987b6ba4409a8d72f03cacfc34155df6",
+      "timestamp": 78721.642,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@91d935296adb9719ee9bbd3597f35733",
+      "frameId": "frame@de3a714b84db0d73f8ac33f5c74fca29",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/vidic17",
+      "snapshotName": "after@call@987b6ba4409a8d72f03cacfc34155df6",
+      "timestamp": 79047.48,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@91d935296adb9719ee9bbd3597f35733",
+      "frameId": "frame@de3a714b84db0d73f8ac33f5c74fca29",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/vidic17",
+      "snapshotName": "before@call@c98d408cb8693a370009af851b806b58",
+      "timestamp": 84747.768,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@91d935296adb9719ee9bbd3597f35733",
+      "frameId": "frame@de3a714b84db0d73f8ac33f5c74fca29",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/vidic17",
+      "snapshotName": "input@call@c98d408cb8693a370009af851b806b58",
+      "timestamp": 84773.075,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@91d935296adb9719ee9bbd3597f35733",
+      "frameId": "frame@de3a714b84db0d73f8ac33f5c74fca29",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming/126203/last-of-us-on-pc-part-ii",
+      "snapshotName": "after@call@c98d408cb8693a370009af851b806b58",
+      "timestamp": 85872.661,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@2bc6114a17c05f9f7cea8475009909f9",
+      "timestamp": 93139.575,
+      "resource": "page@2bc6114a17c05f9f7cea8475009909f9-1704321516.632926.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_33__page0.jpg",
+      "sha256": "4d7222206fcbaccae8ebfd44ceae5871e5d28018d0bfa82f8178e09d268b37d5",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@91d935296adb9719ee9bbd3597f35733",
+      "timestamp": 93285.541,
+      "resource": "page@91d935296adb9719ee9bbd3597f35733-1704321516.776887.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_33__page1.jpg",
+      "sha256": "3c0688b26a9f011eea68b919af8656a7f4e829fa4e2846bfedfe98efccd1a3c3",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_33__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,100 @@
+{
+  "instance_id": "vwa_shopping_294",
+  "domain": "shopping",
+  "filename_task_id": 294,
+  "source_url": "https://drive.usercontent.google.com/download?id=1Qemj9a7VOn4PWS1Oso3Gqj_eRBMfAcQz&export=download&confirm=t",
+  "source_file_id": "1Qemj9a7VOn4PWS1Oso3Gqj_eRBMfAcQz",
+  "archive_sha256": "898689c41ce8232f922adeb8eb4efe399945e20044528d6b241e03e667772afe",
+  "archive_bytes": 9421380,
+  "event_types": {
+    "context-options": 1,
+    "event": 39,
+    "screencast-frame": 158,
+    "object": 1,
+    "before": 1,
+    "frame-snapshot": 3,
+    "input": 1,
+    "after": 1
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703209573354,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@c513c6e1a04d82a7982938dea7548b7d",
+      "frameId": "frame@316b65d245bedd37808f8d797988124c",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/index/?p=5&q=shirt",
+      "snapshotName": "before@call@397e78b8af1f1c120dabc9a4778ea584",
+      "timestamp": 29897.372,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c513c6e1a04d82a7982938dea7548b7d",
+      "frameId": "frame@316b65d245bedd37808f8d797988124c",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/index/?p=5&q=shirt",
+      "snapshotName": "input@call@397e78b8af1f1c120dabc9a4778ea584",
+      "timestamp": 29930.01,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@c513c6e1a04d82a7982938dea7548b7d",
+      "frameId": "frame@316b65d245bedd37808f8d797988124c",
+      "frameUrl": "http://localhost:7770/mens-t-shirt-men-s-polo-shirts-short-sleeve-tee-basic-sports-t-shirts-floral-zipper-mens-summer-shirt-tops.html",
+      "snapshotName": "after@call@397e78b8af1f1c120dabc9a4778ea584",
+      "timestamp": 30361.601,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@76cbef3adc8b30c1cfd9a9d35bf8d504",
+      "timestamp": 21123.504,
+      "resource": "page@76cbef3adc8b30c1cfd9a9d35bf8d504-1703209594.107419.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_294__page0.jpg",
+      "sha256": "7e4daf76a481805077a8019e7233f0de2260e4aad5eab52364312fa58205776d",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@c513c6e1a04d82a7982938dea7548b7d",
+      "timestamp": 31329.44,
+      "resource": "page@c513c6e1a04d82a7982938dea7548b7d-1703209604.312095.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_294__page1.jpg",
+      "sha256": "38b38571afba433e8ee84b187012f85ba7db83de7a0716b6bd2a8e9db97dca01",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_294__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

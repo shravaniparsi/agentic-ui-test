@@ -1,0 +1,196 @@
+{
+  "instance_id": "vwa_shopping_447",
+  "domain": "shopping",
+  "filename_task_id": 447,
+  "source_url": "https://drive.usercontent.google.com/download?id=1cDhODLc5LS6nkgrZWSPOQC3baXhhl8Sp&export=download&confirm=t",
+  "source_file_id": "1cDhODLc5LS6nkgrZWSPOQC3baXhhl8Sp",
+  "archive_sha256": "238c6caf9769e5574aceb03aa67452b57958a429111e23c0ce6dff82d4ff2d9b",
+  "archive_bytes": 37494197,
+  "event_types": {
+    "context-options": 1,
+    "event": 122,
+    "screencast-frame": 598,
+    "before": 4,
+    "frame-snapshot": 12,
+    "input": 4,
+    "after": 4,
+    "object": 20
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703217775572,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@1f7ef96b3f90a1486f3c9982b2021cb7",
+      "frameId": "frame@a667fb0bfe3bedd1c7761892acfd85fb",
+      "frameUrl": "http://localhost:7770/cell-phones-accessories/cases-holsters-sleeves.html?price=10-20",
+      "snapshotName": "before@call@2d090468d528a89b547ee17cdada549a",
+      "timestamp": 63173.76,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1f7ef96b3f90a1486f3c9982b2021cb7",
+      "frameId": "frame@a667fb0bfe3bedd1c7761892acfd85fb",
+      "frameUrl": "http://localhost:7770/cell-phones-accessories/cases-holsters-sleeves.html?price=10-20",
+      "snapshotName": "input@call@2d090468d528a89b547ee17cdada549a",
+      "timestamp": 63212.028,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1f7ef96b3f90a1486f3c9982b2021cb7",
+      "frameId": "frame@a667fb0bfe3bedd1c7761892acfd85fb",
+      "frameUrl": "http://localhost:7770/cell-phones-accessories/cases-holsters-sleeves.html?price=10-20",
+      "snapshotName": "after@call@2d090468d528a89b547ee17cdada549a",
+      "timestamp": 63312.552,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1f7ef96b3f90a1486f3c9982b2021cb7",
+      "frameId": "frame@a667fb0bfe3bedd1c7761892acfd85fb",
+      "frameUrl": "http://localhost:7770/ikasefu-compatible-with-iphone-6-plus-6s-plus-case-glitter-shiny-butterfly-rhinestone-floral-pu-leather-diamond-flash-bling-wallet-strap-case-with-card-holder-magnetic-kickstand-flip-cover-rose-gold.html?options=cart",
+      "snapshotName": "before@call@0ed74de1a2e8dd4b237ef352402e586d",
+      "timestamp": 67114.721,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1f7ef96b3f90a1486f3c9982b2021cb7",
+      "frameId": "frame@a667fb0bfe3bedd1c7761892acfd85fb",
+      "frameUrl": "http://localhost:7770/ikasefu-compatible-with-iphone-6-plus-6s-plus-case-glitter-shiny-butterfly-rhinestone-floral-pu-leather-diamond-flash-bling-wallet-strap-case-with-card-holder-magnetic-kickstand-flip-cover-rose-gold.html?options=cart",
+      "snapshotName": "input@call@0ed74de1a2e8dd4b237ef352402e586d",
+      "timestamp": 67153.451,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1f7ef96b3f90a1486f3c9982b2021cb7",
+      "frameId": "frame@a667fb0bfe3bedd1c7761892acfd85fb",
+      "frameUrl": "http://localhost:7770/ikasefu-compatible-with-iphone-6-plus-6s-plus-case-glitter-shiny-butterfly-rhinestone-floral-pu-leather-diamond-flash-bling-wallet-strap-case-with-card-holder-magnetic-kickstand-flip-cover-rose-gold.html?options=cart",
+      "snapshotName": "after@call@0ed74de1a2e8dd4b237ef352402e586d",
+      "timestamp": 67186.051,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1f7ef96b3f90a1486f3c9982b2021cb7",
+      "frameId": "frame@a667fb0bfe3bedd1c7761892acfd85fb",
+      "frameUrl": "http://localhost:7770/ikasefu-compatible-with-iphone-6-plus-6s-plus-case-glitter-shiny-butterfly-rhinestone-floral-pu-leather-diamond-flash-bling-wallet-strap-case-with-card-holder-magnetic-kickstand-flip-cover-rose-gold.html?options=cart",
+      "snapshotName": "before@call@0c8b6b336e5e9278ce91ca61e89f3cc7",
+      "timestamp": 68231.738,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1f7ef96b3f90a1486f3c9982b2021cb7",
+      "frameId": "frame@a667fb0bfe3bedd1c7761892acfd85fb",
+      "frameUrl": "http://localhost:7770/ikasefu-compatible-with-iphone-6-plus-6s-plus-case-glitter-shiny-butterfly-rhinestone-floral-pu-leather-diamond-flash-bling-wallet-strap-case-with-card-holder-magnetic-kickstand-flip-cover-rose-gold.html?options=cart",
+      "snapshotName": "input@call@0c8b6b336e5e9278ce91ca61e89f3cc7",
+      "timestamp": 68245.035,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1f7ef96b3f90a1486f3c9982b2021cb7",
+      "frameId": "frame@a667fb0bfe3bedd1c7761892acfd85fb",
+      "frameUrl": "http://localhost:7770/ikasefu-compatible-with-iphone-6-plus-6s-plus-case-glitter-shiny-butterfly-rhinestone-floral-pu-leather-diamond-flash-bling-wallet-strap-case-with-card-holder-magnetic-kickstand-flip-cover-rose-gold.html?options=cart",
+      "snapshotName": "after@call@0c8b6b336e5e9278ce91ca61e89f3cc7",
+      "timestamp": 68260.928,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1f7ef96b3f90a1486f3c9982b2021cb7",
+      "frameId": "frame@a667fb0bfe3bedd1c7761892acfd85fb",
+      "frameUrl": "http://localhost:7770/ikasefu-compatible-with-iphone-6-plus-6s-plus-case-glitter-shiny-butterfly-rhinestone-floral-pu-leather-diamond-flash-bling-wallet-strap-case-with-card-holder-magnetic-kickstand-flip-cover-rose-gold.html?options=cart",
+      "snapshotName": "before@call@bdd983fe62eda6ad6a93386bc87c128d",
+      "timestamp": 68983.941,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1f7ef96b3f90a1486f3c9982b2021cb7",
+      "frameId": "frame@a667fb0bfe3bedd1c7761892acfd85fb",
+      "frameUrl": "http://localhost:7770/ikasefu-compatible-with-iphone-6-plus-6s-plus-case-glitter-shiny-butterfly-rhinestone-floral-pu-leather-diamond-flash-bling-wallet-strap-case-with-card-holder-magnetic-kickstand-flip-cover-rose-gold.html?options=cart",
+      "snapshotName": "input@call@bdd983fe62eda6ad6a93386bc87c128d",
+      "timestamp": 69011.458,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1f7ef96b3f90a1486f3c9982b2021cb7",
+      "frameId": "frame@a667fb0bfe3bedd1c7761892acfd85fb",
+      "frameUrl": "http://localhost:7770/ikasefu-compatible-with-iphone-6-plus-6s-plus-case-glitter-shiny-butterfly-rhinestone-floral-pu-leather-diamond-flash-bling-wallet-strap-case-with-card-holder-magnetic-kickstand-flip-cover-rose-gold.html?options=cart",
+      "snapshotName": "after@call@bdd983fe62eda6ad6a93386bc87c128d",
+      "timestamp": 69038.852,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@1f7ef96b3f90a1486f3c9982b2021cb7",
+      "timestamp": 140057.665,
+      "resource": "page@1f7ef96b3f90a1486f3c9982b2021cb7-1703217915.264432.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_447__page0.jpg",
+      "sha256": "9240c32fffd3681e4ca2315fcbd36617e9836d78e840dd084ba427ce326b7391",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_447__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

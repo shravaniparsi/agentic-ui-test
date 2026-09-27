@@ -1,0 +1,147 @@
+{
+  "instance_id": "vwa_shopping_90",
+  "domain": "shopping",
+  "filename_task_id": 90,
+  "source_url": "https://drive.usercontent.google.com/download?id=1lgaI9WXg2EI2Bbn3ZjRDSr4xhnzul6fb&export=download&confirm=t",
+  "source_file_id": "1lgaI9WXg2EI2Bbn3ZjRDSr4xhnzul6fb",
+  "archive_sha256": "353a4e100a8ca8341508744f5597ea9c7c36d3547c9b74e63953968d0f58e7e8",
+  "archive_bytes": 5845724,
+  "event_types": {
+    "context-options": 1,
+    "event": 31,
+    "screencast-frame": 95,
+    "before": 3,
+    "frame-snapshot": 8,
+    "input": 3,
+    "after": 3
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703273817048,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@227e4f5422d6382c2ca517d1540d3efe",
+      "frameId": "frame@cff78ffa34253a53bcdb16c9b67bcb6f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@52a00208174faae39daec9e77fc012df",
+      "timestamp": 3872.977,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@227e4f5422d6382c2ca517d1540d3efe",
+      "frameId": "frame@cff78ffa34253a53bcdb16c9b67bcb6f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@52a00208174faae39daec9e77fc012df",
+      "timestamp": 3921.6530000000002,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@227e4f5422d6382c2ca517d1540d3efe",
+      "frameId": "frame@cff78ffa34253a53bcdb16c9b67bcb6f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@52a00208174faae39daec9e77fc012df",
+      "timestamp": 3931.3559999999998,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@227e4f5422d6382c2ca517d1540d3efe",
+      "frameId": "frame@cff78ffa34253a53bcdb16c9b67bcb6f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@7ca9911b08858c3fe2c34497da9ac080",
+      "timestamp": 4129.73,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@227e4f5422d6382c2ca517d1540d3efe",
+      "frameId": "frame@cff78ffa34253a53bcdb16c9b67bcb6f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@7ca9911b08858c3fe2c34497da9ac080",
+      "timestamp": 4150.379,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@227e4f5422d6382c2ca517d1540d3efe",
+      "frameId": "frame@cff78ffa34253a53bcdb16c9b67bcb6f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@7ca9911b08858c3fe2c34497da9ac080",
+      "timestamp": 4163.606,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@227e4f5422d6382c2ca517d1540d3efe",
+      "frameId": "frame@cff78ffa34253a53bcdb16c9b67bcb6f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@81bf348774e8ff4849d542d35d0aad95",
+      "timestamp": 5245.382,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@227e4f5422d6382c2ca517d1540d3efe",
+      "frameId": "frame@cff78ffa34253a53bcdb16c9b67bcb6f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@81bf348774e8ff4849d542d35d0aad95",
+      "timestamp": 5263.957,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@227e4f5422d6382c2ca517d1540d3efe",
+      "timestamp": 27799.41,
+      "resource": "page@227e4f5422d6382c2ca517d1540d3efe-1703273844.05409.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_90__page0.jpg",
+      "sha256": "cf747c063fd8e2cd54366f6f97dc6f2f365239b85a211ffc9fd14a9902aede12",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_90__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

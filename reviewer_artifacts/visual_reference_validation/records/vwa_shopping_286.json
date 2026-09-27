@@ -1,0 +1,267 @@
+{
+  "instance_id": "vwa_shopping_286",
+  "domain": "shopping",
+  "filename_task_id": 286,
+  "source_url": "https://drive.usercontent.google.com/download?id=1_Zrk9LrsbXmmw4jfyQYgqFV684rRCriU&export=download&confirm=t",
+  "source_file_id": "1_Zrk9LrsbXmmw4jfyQYgqFV684rRCriU",
+  "archive_sha256": "ccf2f45954ea859b3412c175836c1a6ed7044118e1147fed75beeafb5ce780b9",
+  "archive_bytes": 14862128,
+  "event_types": {
+    "context-options": 1,
+    "event": 59,
+    "screencast-frame": 230,
+    "before": 6,
+    "frame-snapshot": 18,
+    "input": 6,
+    "after": 6
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703283240006,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@16821037a6407e777200f487d7509cf2",
+      "timestamp": 52697.289,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@16821037a6407e777200f487d7509cf2",
+      "timestamp": 52759.655,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/furniture.html",
+      "snapshotName": "after@call@16821037a6407e777200f487d7509cf2",
+      "timestamp": 54224.572,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/furniture.html",
+      "snapshotName": "before@call@61ccd0eec9337ea0d03717e94a9593f4",
+      "timestamp": 58176.436,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/furniture.html",
+      "snapshotName": "input@call@61ccd0eec9337ea0d03717e94a9593f4",
+      "timestamp": 58240.911,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/furniture.html",
+      "snapshotName": "after@call@61ccd0eec9337ea0d03717e94a9593f4",
+      "timestamp": 58251.114,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/furniture.html",
+      "snapshotName": "before@call@cf59ebf8a39b2cb7b0311cb57bf7745f",
+      "timestamp": 58720.586,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/furniture.html",
+      "snapshotName": "input@call@cf59ebf8a39b2cb7b0311cb57bf7745f",
+      "timestamp": 58779.819,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/furniture.html",
+      "snapshotName": "after@call@cf59ebf8a39b2cb7b0311cb57bf7745f",
+      "timestamp": 58840.683,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/furniture.html",
+      "snapshotName": "before@call@fd1ed9f5548d3ba8fc074b3f5aadd0b9",
+      "timestamp": 60069.272,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/furniture.html",
+      "snapshotName": "input@call@fd1ed9f5548d3ba8fc074b3f5aadd0b9",
+      "timestamp": 60089.754,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=couch",
+      "snapshotName": "after@call@fd1ed9f5548d3ba8fc074b3f5aadd0b9",
+      "timestamp": 61373.077,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=couch",
+      "snapshotName": "before@call@9aaf0059da409a803ac0dc91f192ed8c",
+      "timestamp": 70613.474,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=couch",
+      "snapshotName": "input@call@9aaf0059da409a803ac0dc91f192ed8c",
+      "timestamp": 70673.861,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/convertible-sofa-bed-twin-size-sleeper-couches-tight-back-polyester-futon-couch-for-living-room-small-apartment-light-grey-80-3-wide.html",
+      "snapshotName": "after@call@9aaf0059da409a803ac0dc91f192ed8c",
+      "timestamp": 71927.572,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/convertible-sofa-bed-twin-size-sleeper-couches-tight-back-polyester-futon-couch-for-living-room-small-apartment-light-grey-80-3-wide.html",
+      "snapshotName": "before@call@2e64abff433ec4bc8e207085902f86b4",
+      "timestamp": 78040.612,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/convertible-sofa-bed-twin-size-sleeper-couches-tight-back-polyester-futon-couch-for-living-room-small-apartment-light-grey-80-3-wide.html",
+      "snapshotName": "input@call@2e64abff433ec4bc8e207085902f86b4",
+      "timestamp": 78088.804,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "frameId": "frame@8c0c042f7209691266f64d5e710989b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/convertible-sofa-bed-twin-size-sleeper-couches-tight-back-polyester-futon-couch-for-living-room-small-apartment-light-grey-80-3-wide.html",
+      "snapshotName": "after@call@2e64abff433ec4bc8e207085902f86b4",
+      "timestamp": 78118.477,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@3a4ebf5b98e7f22535d78aaf8d9810eb",
+      "timestamp": 83149.543,
+      "resource": "page@3a4ebf5b98e7f22535d78aaf8d9810eb-1703283322.236343.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_286__page0.jpg",
+      "sha256": "dd880adf3670a8836eb634dffba5258363207866e5dbd1827bec0be1fdc4f66c",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_286__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

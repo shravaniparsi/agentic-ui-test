@@ -1,0 +1,87 @@
+{
+  "instance_id": "vwa_classifieds_123",
+  "domain": "classifieds",
+  "filename_task_id": 123,
+  "source_url": "https://drive.usercontent.google.com/download?id=1mKpdWL67xXjCY1pERAKaLZyLdxxdh90v&export=download&confirm=t",
+  "source_file_id": "1mKpdWL67xXjCY1pERAKaLZyLdxxdh90v",
+  "archive_sha256": "1bf54350cfdf5411173934da80ff5be95b93cae59012be3923effe520db4d685",
+  "archive_bytes": 4618500,
+  "event_types": {
+    "context-options": 1,
+    "event": 31,
+    "screencast-frame": 44,
+    "before": 1,
+    "frame-snapshot": 3,
+    "input": 1,
+    "after": 1
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704257561491,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@3c5363b5aefffcc3d258006969b47261",
+      "frameId": "frame@7d0f081b90a2673abb5b03bfb27e4f01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=clothes&sOrder=i_price&iOrderType=desc&sShowAs=gallery",
+      "snapshotName": "before@call@b72d5acc590b4bdab8cbcf3716bf8b1f",
+      "timestamp": 14266.943,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3c5363b5aefffcc3d258006969b47261",
+      "frameId": "frame@7d0f081b90a2673abb5b03bfb27e4f01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=clothes&sOrder=i_price&iOrderType=desc&sShowAs=gallery",
+      "snapshotName": "input@call@b72d5acc590b4bdab8cbcf3716bf8b1f",
+      "timestamp": 14290.232,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3c5363b5aefffcc3d258006969b47261",
+      "frameId": "frame@7d0f081b90a2673abb5b03bfb27e4f01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=48074",
+      "snapshotName": "after@call@b72d5acc590b4bdab8cbcf3716bf8b1f",
+      "timestamp": 14532.384,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@3c5363b5aefffcc3d258006969b47261",
+      "timestamp": 15459.991,
+      "resource": "page@3c5363b5aefffcc3d258006969b47261-1704257576.614037.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_123__page0.jpg",
+      "sha256": "514dd01b434debf9ee79585fb909811959091883a56aba76e8b59dc3fd79ea6f",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_classifieds_123__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

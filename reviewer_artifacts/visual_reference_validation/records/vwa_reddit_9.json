@@ -1,0 +1,136 @@
+{
+  "instance_id": "vwa_reddit_9",
+  "domain": "reddit",
+  "filename_task_id": 9,
+  "source_url": "https://drive.usercontent.google.com/download?id=1taobQBQowbiLQQ0QC7syzNFbhbirfVkO&export=download&confirm=t",
+  "source_file_id": "1taobQBQowbiLQQ0QC7syzNFbhbirfVkO",
+  "archive_sha256": "c255a2b967bdfa0aed9ea0470546aa891c72df15e5d3ac61a05e3e433eecf0bf",
+  "archive_bytes": 11582893,
+  "event_types": {
+    "context-options": 1,
+    "event": 112,
+    "screencast-frame": 233,
+    "object": 46,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704258721626,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@56d47ec410fc7737e1406e80eb3324d0",
+      "frameId": "frame@bc7cf24988bca8d6f9b4c3000d706aae",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food",
+      "snapshotName": "before@call@db75c1087cda6882524ba394ef900067",
+      "timestamp": 79782.938,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@56d47ec410fc7737e1406e80eb3324d0",
+      "frameId": "frame@bc7cf24988bca8d6f9b4c3000d706aae",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food",
+      "snapshotName": "input@call@db75c1087cda6882524ba394ef900067",
+      "timestamp": 79852.293,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@56d47ec410fc7737e1406e80eb3324d0",
+      "frameId": "frame@bc7cf24988bca8d6f9b4c3000d706aae",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food/125449/homemade-cheesy-roasted-garlic-rolls",
+      "snapshotName": "after@call@db75c1087cda6882524ba394ef900067",
+      "timestamp": 81562.801,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@56d47ec410fc7737e1406e80eb3324d0",
+      "frameId": "frame@bc7cf24988bca8d6f9b4c3000d706aae",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food/125449/homemade-cheesy-roasted-garlic-rolls",
+      "snapshotName": "before@call@8eb6841b294e8804ebba40fe07cb4175",
+      "timestamp": 110510.439,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@56d47ec410fc7737e1406e80eb3324d0",
+      "frameId": "frame@bc7cf24988bca8d6f9b4c3000d706aae",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food/125449/homemade-cheesy-roasted-garlic-rolls",
+      "snapshotName": "input@call@8eb6841b294e8804ebba40fe07cb4175",
+      "timestamp": 110602.649,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@56d47ec410fc7737e1406e80eb3324d0",
+      "frameId": "frame@bc7cf24988bca8d6f9b4c3000d706aae",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food/125449/-/comment/2293962",
+      "snapshotName": "after@call@8eb6841b294e8804ebba40fe07cb4175",
+      "timestamp": 111613.69,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@f2886400e651e149049bd27bc2c53115",
+      "timestamp": 64367.535,
+      "resource": "page@f2886400e651e149049bd27bc2c53115-1704258785.262515.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_9__page0.jpg",
+      "sha256": "afa06dd9fc4e74d30d68b03d74afb12e2b20df481d9d7ceabaad1117d57cb4eb",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@56d47ec410fc7737e1406e80eb3324d0",
+      "timestamp": 117355.651,
+      "resource": "page@56d47ec410fc7737e1406e80eb3324d0-1704258838.194201.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_9__page1.jpg",
+      "sha256": "c7c6e7052343c01ec516261c07d74ce02135c112b33ce4af45c82194841f7bdd",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_9__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,435 @@
+{
+  "instance_id": "vwa_shopping_6",
+  "domain": "shopping",
+  "filename_task_id": 6,
+  "source_url": "https://drive.usercontent.google.com/download?id=1nqCg5evboLpxs-CgP97kGMjtSX7O9NrI&export=download&confirm=t",
+  "source_file_id": "1nqCg5evboLpxs-CgP97kGMjtSX7O9NrI",
+  "archive_sha256": "4a326e07f1abb84238f8072c9cdfae5c6b2ad28f23daa1f7062d20cac84254b4",
+  "archive_bytes": 19772041,
+  "event_types": {
+    "context-options": 1,
+    "event": 171,
+    "screencast-frame": 466,
+    "before": 11,
+    "frame-snapshot": 32,
+    "input": 11,
+    "after": 11
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703272265162,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@b027f669a8a9253dc92c9a7472c2884b",
+      "timestamp": 15443.279,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@b027f669a8a9253dc92c9a7472c2884b",
+      "timestamp": 15484.853,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@b027f669a8a9253dc92c9a7472c2884b",
+      "timestamp": 15499.839,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@a6fc9009ca57ddaf1c5d4392ead4e071",
+      "timestamp": 16562.785,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@a6fc9009ca57ddaf1c5d4392ead4e071",
+      "timestamp": 16578.516,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=Nike+slide+slippers",
+      "snapshotName": "before@call@b97179eb25053eda4b1b037cb271582d",
+      "timestamp": 84361.237,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=Nike+slide+slippers",
+      "snapshotName": "input@call@b97179eb25053eda4b1b037cb271582d",
+      "timestamp": 84404.24,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nike-jordan-men-s-break-slide-red-ar6374-602.html",
+      "snapshotName": "after@call@b97179eb25053eda4b1b037cb271582d",
+      "timestamp": 84683.22,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nike-jordan-men-s-break-slide-red-ar6374-602.html",
+      "snapshotName": "before@call@87eaeae4e37ca915926f37356dc14a51",
+      "timestamp": 88325.259,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nike-jordan-men-s-break-slide-red-ar6374-602.html",
+      "snapshotName": "input@call@87eaeae4e37ca915926f37356dc14a51",
+      "timestamp": 88390.676,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nike-jordan-men-s-break-slide-red-ar6374-602.html",
+      "snapshotName": "after@call@87eaeae4e37ca915926f37356dc14a51",
+      "timestamp": 88400.281,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nike-jordan-men-s-break-slide-red-ar6374-602.html",
+      "snapshotName": "before@call@fcd22dd9babb7d9ef2811d0324c4c68f",
+      "timestamp": 88780.735,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nike-jordan-men-s-break-slide-red-ar6374-602.html",
+      "snapshotName": "input@call@fcd22dd9babb7d9ef2811d0324c4c68f",
+      "timestamp": 88807.418,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nike-jordan-men-s-break-slide-red-ar6374-602.html",
+      "snapshotName": "after@call@fcd22dd9babb7d9ef2811d0324c4c68f",
+      "timestamp": 88817.265,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=Nike+slide+slippers",
+      "snapshotName": "before@call@03e0621afc59405292c078fbdc84ad43",
+      "timestamp": 111875.653,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=Nike+slide+slippers",
+      "snapshotName": "input@call@03e0621afc59405292c078fbdc84ad43",
+      "timestamp": 111924.733,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nike-men-s-benassi-jdi-fanny-pack-slides.html",
+      "snapshotName": "after@call@03e0621afc59405292c078fbdc84ad43",
+      "timestamp": 113200.499,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nike-men-s-benassi-jdi-fanny-pack-slides.html",
+      "snapshotName": "before@call@5e27a737f228a21bdadcea4b8c39c98e",
+      "timestamp": 132451.415,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nike-men-s-benassi-jdi-fanny-pack-slides.html",
+      "snapshotName": "input@call@5e27a737f228a21bdadcea4b8c39c98e",
+      "timestamp": 132488.448,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nike-men-s-benassi-jdi-fanny-pack-slides.html",
+      "snapshotName": "after@call@5e27a737f228a21bdadcea4b8c39c98e",
+      "timestamp": 132496.412,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nike-men-s-benassi-jdi-fanny-pack-slides.html",
+      "snapshotName": "before@call@5497abc0691fddd94f2c45694ae9903d",
+      "timestamp": 133551.157,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nike-men-s-benassi-jdi-fanny-pack-slides.html",
+      "snapshotName": "input@call@5497abc0691fddd94f2c45694ae9903d",
+      "timestamp": 133576.582,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nike-men-s-benassi-jdi-fanny-pack-slides.html",
+      "snapshotName": "after@call@5497abc0691fddd94f2c45694ae9903d",
+      "timestamp": 133608.312,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=Nike+slide+slippers",
+      "snapshotName": "before@call@8e83e1f846493318e76b5045743a74aa",
+      "timestamp": 139136.437,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=Nike+slide+slippers",
+      "snapshotName": "input@call@8e83e1f846493318e76b5045743a74aa",
+      "timestamp": 139174.637,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nike-men-s-air-max-camden-slide-sandal.html",
+      "snapshotName": "after@call@8e83e1f846493318e76b5045743a74aa",
+      "timestamp": 140409.559,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=Nike+slide+slippers",
+      "snapshotName": "before@call@b60e56158403e51fa25058f3d52a7adf",
+      "timestamp": 147455.558,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=Nike+slide+slippers",
+      "snapshotName": "input@call@b60e56158403e51fa25058f3d52a7adf",
+      "timestamp": 147492.658,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nike-offcourt-slide-mens-bq4639-002-size-12.html",
+      "snapshotName": "after@call@b60e56158403e51fa25058f3d52a7adf",
+      "timestamp": 148796.262,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=Nike+slide+slippers",
+      "snapshotName": "before@call@da83b9aeb0b4120ddbd17b95365c7da8",
+      "timestamp": 153106.814,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=Nike+slide+slippers",
+      "snapshotName": "input@call@da83b9aeb0b4120ddbd17b95365c7da8",
+      "timestamp": 153164.131,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "frameId": "frame@42f3cdcbb2b9bcf4fc6c162c73ad67e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/nike-jordan-men-s-break-slide-red-ar6374-602.html",
+      "snapshotName": "after@call@da83b9aeb0b4120ddbd17b95365c7da8",
+      "timestamp": 153492.136,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@d8c7288b71004ae4daebf15519ad6b72",
+      "timestamp": 192975.31,
+      "resource": "page@d8c7288b71004ae4daebf15519ad6b72-1703272457.325697.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_6__page0.jpg",
+      "sha256": "4d8330d9ba67e4e4b915414d9ffddf77cf6a67f898d6fb883351a3085f0ede11",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        411
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_6__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

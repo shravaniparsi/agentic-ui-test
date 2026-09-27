@@ -1,0 +1,280 @@
+{
+  "instance_id": "vwa_reddit_178",
+  "domain": "reddit",
+  "filename_task_id": 178,
+  "source_url": "https://drive.usercontent.google.com/download?id=17A5blX-UeBahlwWw07xj2maF-n1ekxQg&export=download&confirm=t",
+  "source_file_id": "17A5blX-UeBahlwWw07xj2maF-n1ekxQg",
+  "archive_sha256": "e4738633109d515d56e67d3fc9c9e4a06d1af91c3ed0e11df324fa2e77924282",
+  "archive_bytes": 18116885,
+  "event_types": {
+    "context-options": 1,
+    "event": 127,
+    "screencast-frame": 371,
+    "object": 56,
+    "before": 3,
+    "frame-snapshot": 18,
+    "input": 12,
+    "after": 3
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704270454041,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food?next%5Branking%5D=1727&next%5Bid%5D=82778",
+      "snapshotName": "before@call@f9dd87a627772091aa9c6bb85ae0cbc2",
+      "timestamp": 57756.464,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food?next%5Branking%5D=1727&next%5Bid%5D=82778",
+      "snapshotName": "input@call@f9dd87a627772091aa9c6bb85ae0cbc2",
+      "timestamp": 57835.244,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food?next%5Branking%5D=1727&next%5Bid%5D=82778",
+      "snapshotName": "input@call@f9dd87a627772091aa9c6bb85ae0cbc2",
+      "timestamp": 57866.761,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food?next%5Branking%5D=1727&next%5Bid%5D=82778",
+      "snapshotName": "input@call@f9dd87a627772091aa9c6bb85ae0cbc2",
+      "timestamp": 57914.81,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food?next%5Branking%5D=1727&next%5Bid%5D=82778",
+      "snapshotName": "input@call@f9dd87a627772091aa9c6bb85ae0cbc2",
+      "timestamp": 58067.046,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food?next%5Branking%5D=1727&next%5Bid%5D=82778",
+      "snapshotName": "input@call@f9dd87a627772091aa9c6bb85ae0cbc2",
+      "timestamp": 58217.078,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food?next%5Branking%5D=1727&next%5Bid%5D=82778",
+      "snapshotName": "input@call@f9dd87a627772091aa9c6bb85ae0cbc2",
+      "timestamp": 58765.691,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food?next%5Branking%5D=1727&next%5Bid%5D=82778",
+      "snapshotName": "input@call@f9dd87a627772091aa9c6bb85ae0cbc2",
+      "timestamp": 59313.097,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food?next%5Branking%5D=1727&next%5Bid%5D=82778",
+      "snapshotName": "input@call@f9dd87a627772091aa9c6bb85ae0cbc2",
+      "timestamp": 59863.142,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food?next%5Branking%5D=1727&next%5Bid%5D=82778",
+      "snapshotName": "input@call@f9dd87a627772091aa9c6bb85ae0cbc2",
+      "timestamp": 60397.295,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food?next%5Branking%5D=1727&next%5Bid%5D=82778",
+      "snapshotName": "input@call@f9dd87a627772091aa9c6bb85ae0cbc2",
+      "timestamp": 60931.083,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food/82838/tteukboki-homemade",
+      "snapshotName": "after@call@f9dd87a627772091aa9c6bb85ae0cbc2",
+      "timestamp": 62483.003,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food/82838/tteukboki-homemade",
+      "snapshotName": "before@call@88110ea3bb17792d998e9eb5355d4a62",
+      "timestamp": 78465.478,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food/82838/tteukboki-homemade",
+      "snapshotName": "input@call@88110ea3bb17792d998e9eb5355d4a62",
+      "timestamp": 78568.515,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food/82838/tteukboki-homemade",
+      "snapshotName": "after@call@88110ea3bb17792d998e9eb5355d4a62",
+      "timestamp": 78726.297,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food/82838/tteukboki-homemade",
+      "snapshotName": "before@call@020b7635d671e4eba47644cceb0c1a87",
+      "timestamp": 84325.039,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food/82838/tteukboki-homemade",
+      "snapshotName": "input@call@020b7635d671e4eba47644cceb0c1a87",
+      "timestamp": 84427.279,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7582569c2fe5238c8007e9318e76937a",
+      "frameId": "frame@b9bcab75e4a4104029b529e4b0e3238f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food/82838/tteukboki-homemade/comment/3",
+      "snapshotName": "after@call@020b7635d671e4eba47644cceb0c1a87",
+      "timestamp": 85320.724,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@5cce8cf3919bb21b93ecf72189c76393",
+      "timestamp": 18835.729,
+      "resource": "page@5cce8cf3919bb21b93ecf72189c76393-1704270472.225366.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_178__page0.jpg",
+      "sha256": "f562a20abff0668ba8ab5e99aa879748a233a2ace2db245f1c76b72a54702a38",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@7582569c2fe5238c8007e9318e76937a",
+      "timestamp": 88396.984,
+      "resource": "page@7582569c2fe5238c8007e9318e76937a-1704270541.785132.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_178__page1.jpg",
+      "sha256": "f49ca3d86b4287076d375850241960e1114826802fdb85c88e2182513d06453c",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_178__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

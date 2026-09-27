@@ -1,0 +1,256 @@
+{
+  "instance_id": "vwa_shopping_40",
+  "domain": "shopping",
+  "filename_task_id": 40,
+  "source_url": "https://drive.usercontent.google.com/download?id=1wpoz-f4Egr1OM1eV0S_9EQZ1wPTsvd2i&export=download&confirm=t",
+  "source_file_id": "1wpoz-f4Egr1OM1eV0S_9EQZ1wPTsvd2i",
+  "archive_sha256": "fd84af3a25a6cc1963161cb8882015784b5187e969236c4596f4ab5f4bb21dbc",
+  "archive_bytes": 13916889,
+  "event_types": {
+    "context-options": 1,
+    "event": 97,
+    "screencast-frame": 185,
+    "before": 6,
+    "frame-snapshot": 17,
+    "input": 6,
+    "after": 6,
+    "object": 10
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703272870849,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "frameId": "frame@7134d93ba2b60f553b7d689ea95bb241",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@fe42c6f0628de190e70ccc48a4ea4103",
+      "timestamp": 19202.704,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "frameId": "frame@7134d93ba2b60f553b7d689ea95bb241",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@fe42c6f0628de190e70ccc48a4ea4103",
+      "timestamp": 19247.228,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "frameId": "frame@7134d93ba2b60f553b7d689ea95bb241",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/snacks-sweets/chocolate.html",
+      "snapshotName": "after@call@fe42c6f0628de190e70ccc48a4ea4103",
+      "timestamp": 20971.37,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "frameId": "frame@7134d93ba2b60f553b7d689ea95bb241",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/snacks-sweets/chocolate.html?product_list_order=price",
+      "snapshotName": "input@call@824c4e30373e7933a5b35578ea01779a",
+      "timestamp": 26125.773,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "frameId": "frame@7134d93ba2b60f553b7d689ea95bb241",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/snacks-sweets/chocolate.html?product_list_order=price",
+      "snapshotName": "after@call@824c4e30373e7933a5b35578ea01779a",
+      "timestamp": 26165.753,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "frameId": "frame@7134d93ba2b60f553b7d689ea95bb241",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/snacks-sweets/chocolate.html?product_list_order=price",
+      "snapshotName": "before@call@e066ed4bb9eaab9465555fb6674b11d2",
+      "timestamp": 27212.871,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "frameId": "frame@7134d93ba2b60f553b7d689ea95bb241",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/snacks-sweets/chocolate.html?product_list_order=price",
+      "snapshotName": "input@call@e066ed4bb9eaab9465555fb6674b11d2",
+      "timestamp": 27264.884,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "frameId": "frame@7134d93ba2b60f553b7d689ea95bb241",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/snacks-sweets/chocolate.html?product_list_order=price&product_list_dir=desc",
+      "snapshotName": "after@call@e066ed4bb9eaab9465555fb6674b11d2",
+      "timestamp": 28388.981,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "frameId": "frame@7134d93ba2b60f553b7d689ea95bb241",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/snacks-sweets/chocolate.html?product_list_order=price&product_list_dir=desc",
+      "snapshotName": "before@call@3cd9a0641afff9a83d9484ba53e80b35",
+      "timestamp": 28899.261,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "frameId": "frame@7134d93ba2b60f553b7d689ea95bb241",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/snacks-sweets/chocolate.html?product_list_order=price&product_list_dir=desc",
+      "snapshotName": "input@call@3cd9a0641afff9a83d9484ba53e80b35",
+      "timestamp": 28948.271,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "frameId": "frame@7134d93ba2b60f553b7d689ea95bb241",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/snacks-sweets/chocolate.html?product_list_order=price",
+      "snapshotName": "after@call@3cd9a0641afff9a83d9484ba53e80b35",
+      "timestamp": 29224.22,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "frameId": "frame@7134d93ba2b60f553b7d689ea95bb241",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/snacks-sweets/chocolate.html?product_list_order=price",
+      "snapshotName": "before@call@4721532a8aed091cb5d7d279cdfd4536",
+      "timestamp": 38786.617,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "frameId": "frame@7134d93ba2b60f553b7d689ea95bb241",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/snacks-sweets/chocolate.html?product_list_order=price",
+      "snapshotName": "input@call@4721532a8aed091cb5d7d279cdfd4536",
+      "timestamp": 38829.131,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "frameId": "frame@7134d93ba2b60f553b7d689ea95bb241",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/little-secrets-chocolate-pieces-peanut-butter-flavor-all-natural-fair-trade-certified-gourmet-dark-chocolate-candy-no-artificial-dyes-healthy-snacks-and-treats-5oz.html",
+      "snapshotName": "after@call@4721532a8aed091cb5d7d279cdfd4536",
+      "timestamp": 40138.921,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "frameId": "frame@7134d93ba2b60f553b7d689ea95bb241",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/little-secrets-chocolate-pieces-peanut-butter-flavor-all-natural-fair-trade-certified-gourmet-dark-chocolate-candy-no-artificial-dyes-healthy-snacks-and-treats-5oz.html",
+      "snapshotName": "before@call@73fdc153e2967e0b729121d14e906c28",
+      "timestamp": 43187.818,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "frameId": "frame@7134d93ba2b60f553b7d689ea95bb241",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/little-secrets-chocolate-pieces-peanut-butter-flavor-all-natural-fair-trade-certified-gourmet-dark-chocolate-candy-no-artificial-dyes-healthy-snacks-and-treats-5oz.html",
+      "snapshotName": "input@call@73fdc153e2967e0b729121d14e906c28",
+      "timestamp": 43249.072,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "frameId": "frame@7134d93ba2b60f553b7d689ea95bb241",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/little-secrets-chocolate-pieces-peanut-butter-flavor-all-natural-fair-trade-certified-gourmet-dark-chocolate-candy-no-artificial-dyes-healthy-snacks-and-treats-5oz.html",
+      "snapshotName": "after@call@73fdc153e2967e0b729121d14e906c28",
+      "timestamp": 43263.494,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@ed0c823b710e57b5fd2002e57a7e0340",
+      "timestamp": 82285.104,
+      "resource": "page@ed0c823b710e57b5fd2002e57a7e0340-1703272952.343495.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_40__page0.jpg",
+      "sha256": "97fbcdde8bdf00413cbe6b0bb55e7cda179625926be18271cf96ef062b15f2d4",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_40__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

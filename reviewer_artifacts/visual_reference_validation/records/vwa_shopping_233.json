@@ -1,0 +1,232 @@
+{
+  "instance_id": "vwa_shopping_233",
+  "domain": "shopping",
+  "filename_task_id": 233,
+  "source_url": "https://drive.usercontent.google.com/download?id=1UC_t8IodvKFZ9vw9gPD4TgXUuab9cy0K&export=download&confirm=t",
+  "source_file_id": "1UC_t8IodvKFZ9vw9gPD4TgXUuab9cy0K",
+  "archive_sha256": "8a7e3a1dfb6ebac4b8d793ecc271ebb9f96d70cd4b7e01eaecc0cab0c024e39d",
+  "archive_bytes": 15128180,
+  "event_types": {
+    "context-options": 1,
+    "event": 84,
+    "screencast-frame": 246,
+    "before": 5,
+    "frame-snapshot": 15,
+    "input": 5,
+    "after": 5,
+    "object": 5
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703279470877,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@4ec6131fd30d3d954b9837ce6e4e5d4b",
+      "frameId": "frame@295f85057f9c824590be90b27127d0fb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/xbox-one/accessories.html?p=4",
+      "snapshotName": "before@call@4729a6bfa5c63568e70ad71a593184fe",
+      "timestamp": 19574.835,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4ec6131fd30d3d954b9837ce6e4e5d4b",
+      "frameId": "frame@295f85057f9c824590be90b27127d0fb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/xbox-one/accessories.html?p=4",
+      "snapshotName": "input@call@4729a6bfa5c63568e70ad71a593184fe",
+      "timestamp": 19613.504,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4ec6131fd30d3d954b9837ce6e4e5d4b",
+      "frameId": "frame@295f85057f9c824590be90b27127d0fb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/xbox-one/accessories.html?p=4",
+      "snapshotName": "after@call@4729a6bfa5c63568e70ad71a593184fe",
+      "timestamp": 19704.75,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4ec6131fd30d3d954b9837ce6e4e5d4b",
+      "frameId": "frame@295f85057f9c824590be90b27127d0fb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wired-controller-for-xbox-one-high-performance-usb-gamepad-remote-joystick-controller-with-dual-vibration-and-audio-jack-for-xbox-one-x-s-and-pc-windows-7-8-10-black.html?options=cart",
+      "snapshotName": "before@call@be75446d20139bc066d38a4cfaf6570e",
+      "timestamp": 26547.679,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4ec6131fd30d3d954b9837ce6e4e5d4b",
+      "frameId": "frame@295f85057f9c824590be90b27127d0fb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wired-controller-for-xbox-one-high-performance-usb-gamepad-remote-joystick-controller-with-dual-vibration-and-audio-jack-for-xbox-one-x-s-and-pc-windows-7-8-10-black.html?options=cart",
+      "snapshotName": "input@call@be75446d20139bc066d38a4cfaf6570e",
+      "timestamp": 26612.982,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4ec6131fd30d3d954b9837ce6e4e5d4b",
+      "frameId": "frame@295f85057f9c824590be90b27127d0fb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wired-controller-for-xbox-one-high-performance-usb-gamepad-remote-joystick-controller-with-dual-vibration-and-audio-jack-for-xbox-one-x-s-and-pc-windows-7-8-10-black.html?options=cart",
+      "snapshotName": "after@call@be75446d20139bc066d38a4cfaf6570e",
+      "timestamp": 26657.871,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4ec6131fd30d3d954b9837ce6e4e5d4b",
+      "frameId": "frame@295f85057f9c824590be90b27127d0fb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wired-controller-for-xbox-one-high-performance-usb-gamepad-remote-joystick-controller-with-dual-vibration-and-audio-jack-for-xbox-one-x-s-and-pc-windows-7-8-10-black.html?options=cart",
+      "snapshotName": "before@call@03824bdffff9bea0aec25f5e0caf4fff",
+      "timestamp": 28057.782,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4ec6131fd30d3d954b9837ce6e4e5d4b",
+      "frameId": "frame@295f85057f9c824590be90b27127d0fb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wired-controller-for-xbox-one-high-performance-usb-gamepad-remote-joystick-controller-with-dual-vibration-and-audio-jack-for-xbox-one-x-s-and-pc-windows-7-8-10-black.html?options=cart",
+      "snapshotName": "input@call@03824bdffff9bea0aec25f5e0caf4fff",
+      "timestamp": 28083.807,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4ec6131fd30d3d954b9837ce6e4e5d4b",
+      "frameId": "frame@295f85057f9c824590be90b27127d0fb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wired-controller-for-xbox-one-high-performance-usb-gamepad-remote-joystick-controller-with-dual-vibration-and-audio-jack-for-xbox-one-x-s-and-pc-windows-7-8-10-black.html?options=cart",
+      "snapshotName": "after@call@03824bdffff9bea0aec25f5e0caf4fff",
+      "timestamp": 28115.483,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4ec6131fd30d3d954b9837ce6e4e5d4b",
+      "frameId": "frame@295f85057f9c824590be90b27127d0fb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/xbox-one/accessories.html?p=4",
+      "snapshotName": "before@call@12fe184426df5a97bf04003216ec6ea6",
+      "timestamp": 43211.07,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4ec6131fd30d3d954b9837ce6e4e5d4b",
+      "frameId": "frame@295f85057f9c824590be90b27127d0fb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/video-games/xbox-one/accessories.html?p=4",
+      "snapshotName": "input@call@12fe184426df5a97bf04003216ec6ea6",
+      "timestamp": 43283.388,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4ec6131fd30d3d954b9837ce6e4e5d4b",
+      "frameId": "frame@295f85057f9c824590be90b27127d0fb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/microsoft-xbox-one-wireless-controller-volcano-shadow-renewed.html",
+      "snapshotName": "after@call@12fe184426df5a97bf04003216ec6ea6",
+      "timestamp": 44687.915,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4ec6131fd30d3d954b9837ce6e4e5d4b",
+      "frameId": "frame@295f85057f9c824590be90b27127d0fb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/microsoft-xbox-one-wireless-controller-volcano-shadow-renewed.html",
+      "snapshotName": "before@call@54f8b3ec7afd90bd65b874e243714db1",
+      "timestamp": 46367.202,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4ec6131fd30d3d954b9837ce6e4e5d4b",
+      "frameId": "frame@295f85057f9c824590be90b27127d0fb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/microsoft-xbox-one-wireless-controller-volcano-shadow-renewed.html",
+      "snapshotName": "input@call@54f8b3ec7afd90bd65b874e243714db1",
+      "timestamp": 46415.992,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4ec6131fd30d3d954b9837ce6e4e5d4b",
+      "frameId": "frame@295f85057f9c824590be90b27127d0fb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@54f8b3ec7afd90bd65b874e243714db1",
+      "timestamp": 48087.26,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@4ec6131fd30d3d954b9837ce6e4e5d4b",
+      "timestamp": 52180.486,
+      "resource": "page@4ec6131fd30d3d954b9837ce6e4e5d4b-1703279522.539998.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_233__page0.jpg",
+      "sha256": "c477217dd50ba9d86872bece664eeb952e105cb1b97fd5b4094a7ab809955fde",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_233__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

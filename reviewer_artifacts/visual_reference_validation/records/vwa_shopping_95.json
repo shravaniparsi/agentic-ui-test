@@ -1,0 +1,520 @@
+{
+  "instance_id": "vwa_shopping_95",
+  "domain": "shopping",
+  "filename_task_id": 95,
+  "source_url": "https://drive.usercontent.google.com/download?id=1PWFfaw80VGTytIpQ0R9YZEAVADnz6J5v&export=download&confirm=t",
+  "source_file_id": "1PWFfaw80VGTytIpQ0R9YZEAVADnz6J5v",
+  "archive_sha256": "548551f6de0747c848a33aca2ea23c7b977e7aefbcbc2b9bc14e064e4a8c7122",
+  "archive_bytes": 18119836,
+  "event_types": {
+    "context-options": 1,
+    "event": 149,
+    "screencast-frame": 356,
+    "before": 13,
+    "frame-snapshot": 39,
+    "input": 13,
+    "after": 13,
+    "object": 23
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703275648369,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=necktie&product_list_limit=36",
+      "snapshotName": "before@call@2bc98fcd9efd8a96519457eaa5f172e5",
+      "timestamp": 26652.254,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=necktie&product_list_limit=36",
+      "snapshotName": "input@call@2bc98fcd9efd8a96519457eaa5f172e5",
+      "timestamp": 26686.481,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@2bc98fcd9efd8a96519457eaa5f172e5",
+      "timestamp": 28130.481,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=necktie&product_list_limit=36",
+      "snapshotName": "before@call@1166aa48b5c7ddf34e048480ce4af382",
+      "timestamp": 50004.517,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=necktie&product_list_limit=36",
+      "snapshotName": "input@call@1166aa48b5c7ddf34e048480ce4af382",
+      "timestamp": 50056.655,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "after@call@1166aa48b5c7ddf34e048480ce4af382",
+      "timestamp": 51451.553,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "before@call@367b9f97fd50b930272e6daa314c53f1",
+      "timestamp": 58509.98,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "input@call@367b9f97fd50b930272e6daa314c53f1",
+      "timestamp": 58555.774,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "after@call@367b9f97fd50b930272e6daa314c53f1",
+      "timestamp": 58603.254,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "before@call@7750a2b71287506205d5e09076581edd",
+      "timestamp": 59484.397,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "input@call@7750a2b71287506205d5e09076581edd",
+      "timestamp": 59520.446,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "after@call@7750a2b71287506205d5e09076581edd",
+      "timestamp": 59556.401,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "before@call@ef83fe5cf1ed6b693936f00cb3b6c24a",
+      "timestamp": 60137.166,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "input@call@ef83fe5cf1ed6b693936f00cb3b6c24a",
+      "timestamp": 60154.885,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "after@call@ef83fe5cf1ed6b693936f00cb3b6c24a",
+      "timestamp": 60165.767,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "before@call@ed9133869f2f5855605630f178209473",
+      "timestamp": 60828.299,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "input@call@ed9133869f2f5855605630f178209473",
+      "timestamp": 60854.805,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "after@call@ed9133869f2f5855605630f178209473",
+      "timestamp": 60911.844,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "before@call@5b094691b7339da31f47f0a0c31d3090",
+      "timestamp": 62254.542,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "input@call@5b094691b7339da31f47f0a0c31d3090",
+      "timestamp": 62287.184,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "after@call@5b094691b7339da31f47f0a0c31d3090",
+      "timestamp": 62306.172,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "before@call@802613eb205fd098f62dd7bac13af34a",
+      "timestamp": 63793.151,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pizza-lovers-necktie-slices-fun-dressed-up-fancy-tuxedo-tie-raglan-baseball-tee.html",
+      "snapshotName": "input@call@802613eb205fd098f62dd7bac13af34a",
+      "timestamp": 63822.996,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@802613eb205fd098f62dd7bac13af34a",
+      "timestamp": 65305.808,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=necktie&product_list_limit=36",
+      "snapshotName": "before@call@248f324b2d46b26246c8492f35ca29cf",
+      "timestamp": 74613.081,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?q=necktie&product_list_limit=36",
+      "snapshotName": "input@call@248f324b2d46b26246c8492f35ca29cf",
+      "timestamp": 74658.693,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jemygins-solid-color-formal-necktie-and-pocket-square-tie-clip-sets-for-men.html",
+      "snapshotName": "after@call@248f324b2d46b26246c8492f35ca29cf",
+      "timestamp": 75964.918,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jemygins-solid-color-formal-necktie-and-pocket-square-tie-clip-sets-for-men.html",
+      "snapshotName": "before@call@a375fde9b26f5c34f3ed4a267ad83a24",
+      "timestamp": 80125.931,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jemygins-solid-color-formal-necktie-and-pocket-square-tie-clip-sets-for-men.html",
+      "snapshotName": "input@call@a375fde9b26f5c34f3ed4a267ad83a24",
+      "timestamp": 80176.12,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jemygins-solid-color-formal-necktie-and-pocket-square-tie-clip-sets-for-men.html",
+      "snapshotName": "after@call@a375fde9b26f5c34f3ed4a267ad83a24",
+      "timestamp": 80217.404,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jemygins-solid-color-formal-necktie-and-pocket-square-tie-clip-sets-for-men.html",
+      "snapshotName": "before@call@a2da58b056f77fee45860f92e5fb5e89",
+      "timestamp": 80777.109,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jemygins-solid-color-formal-necktie-and-pocket-square-tie-clip-sets-for-men.html",
+      "snapshotName": "input@call@a2da58b056f77fee45860f92e5fb5e89",
+      "timestamp": 80811.332,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jemygins-solid-color-formal-necktie-and-pocket-square-tie-clip-sets-for-men.html",
+      "snapshotName": "after@call@a2da58b056f77fee45860f92e5fb5e89",
+      "timestamp": 80822.816,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jemygins-solid-color-formal-necktie-and-pocket-square-tie-clip-sets-for-men.html",
+      "snapshotName": "before@call@26d870dfe2120e3e2aec4bef5eac31c8",
+      "timestamp": 81248.566,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jemygins-solid-color-formal-necktie-and-pocket-square-tie-clip-sets-for-men.html",
+      "snapshotName": "input@call@26d870dfe2120e3e2aec4bef5eac31c8",
+      "timestamp": 81276.827,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jemygins-solid-color-formal-necktie-and-pocket-square-tie-clip-sets-for-men.html",
+      "snapshotName": "after@call@26d870dfe2120e3e2aec4bef5eac31c8",
+      "timestamp": 81295.989,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jemygins-solid-color-formal-necktie-and-pocket-square-tie-clip-sets-for-men.html",
+      "snapshotName": "before@call@54145039719c5a869b1ebd10cf83eed6",
+      "timestamp": 82509.495,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jemygins-solid-color-formal-necktie-and-pocket-square-tie-clip-sets-for-men.html",
+      "snapshotName": "input@call@54145039719c5a869b1ebd10cf83eed6",
+      "timestamp": 82542.961,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "frameId": "frame@80acf72e7330cae48ab07a3c1026ee20",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jemygins-solid-color-formal-necktie-and-pocket-square-tie-clip-sets-for-men.html",
+      "snapshotName": "after@call@54145039719c5a869b1ebd10cf83eed6",
+      "timestamp": 82572.543,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@b7e4a1746d0625b901e91800e630a4d1",
+      "timestamp": 84379.981,
+      "resource": "page@b7e4a1746d0625b901e91800e630a4d1-1703275731.927398.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_95__page0.jpg",
+      "sha256": "3873bebd38cdeba4f36d124b557d0c8c69f3e4164e7862864abce9dfcf255e05",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_95__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

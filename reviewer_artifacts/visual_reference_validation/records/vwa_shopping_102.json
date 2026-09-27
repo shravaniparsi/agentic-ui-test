@@ -1,0 +1,784 @@
+{
+  "instance_id": "vwa_shopping_102",
+  "domain": "shopping",
+  "filename_task_id": 102,
+  "source_url": "https://drive.usercontent.google.com/download?id=1AZgLRl0ceCTdR_KnQZ07T_oydWzPabV-&export=download&confirm=t",
+  "source_file_id": "1AZgLRl0ceCTdR_KnQZ07T_oydWzPabV-",
+  "archive_sha256": "67b269423a42cc935f314c40f21a016334b36fd9c3985c95d91d29c5ce109a01",
+  "archive_bytes": 19171072,
+  "event_types": {
+    "context-options": 1,
+    "event": 89,
+    "screencast-frame": 291,
+    "before": 20,
+    "frame-snapshot": 59,
+    "input": 20,
+    "after": 20,
+    "object": 10
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703275925336,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@675554ea7104b57b454428cc6a65dc82",
+      "timestamp": 24146.223,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@675554ea7104b57b454428cc6a65dc82",
+      "timestamp": 24190.079,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@675554ea7104b57b454428cc6a65dc82",
+      "timestamp": 24231.579,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@759479f23378b14314bf24eef7f8ec0a",
+      "timestamp": 26825.111,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@759479f23378b14314bf24eef7f8ec0a",
+      "timestamp": 26838.58,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b8d81f595d7d4f7ae799a6743efc7de0",
+      "frameId": "frame@201b10693a633d251f00a5e8af46b810",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/fashionable-rainbow-knited-beanie-hats-for-women-outdoor-winter-hats-scarf-set-riding-headgear-ski-hats.html",
+      "snapshotName": "before@call@cb5bd0f07960a80a660e6443328ba368",
+      "timestamp": 36932.185,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b8d81f595d7d4f7ae799a6743efc7de0",
+      "frameId": "frame@201b10693a633d251f00a5e8af46b810",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/fashionable-rainbow-knited-beanie-hats-for-women-outdoor-winter-hats-scarf-set-riding-headgear-ski-hats.html",
+      "snapshotName": "input@call@cb5bd0f07960a80a660e6443328ba368",
+      "timestamp": 36974.427,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b8d81f595d7d4f7ae799a6743efc7de0",
+      "frameId": "frame@201b10693a633d251f00a5e8af46b810",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@cb5bd0f07960a80a660e6443328ba368",
+      "timestamp": 38265.515,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "before@call@3faa0ad8c847c74f80478de33c9eaee8",
+      "timestamp": 50471.303,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "input@call@3faa0ad8c847c74f80478de33c9eaee8",
+      "timestamp": 50507.484,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "after@call@3faa0ad8c847c74f80478de33c9eaee8",
+      "timestamp": 50527.291,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "before@call@796623ffabea3f39bd74dd7c96d00d18",
+      "timestamp": 51278.934,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "input@call@796623ffabea3f39bd74dd7c96d00d18",
+      "timestamp": 51290.624,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "after@call@796623ffabea3f39bd74dd7c96d00d18",
+      "timestamp": 51305.408,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "before@call@cf60c4d633341bbab2b34b16ed9a6066",
+      "timestamp": 51523.995,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "input@call@cf60c4d633341bbab2b34b16ed9a6066",
+      "timestamp": 51535.627,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "after@call@cf60c4d633341bbab2b34b16ed9a6066",
+      "timestamp": 51543.197,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "before@call@e0d0bf64b4dc58e6b592e3849e569a3e",
+      "timestamp": 51581.586,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "input@call@e0d0bf64b4dc58e6b592e3849e569a3e",
+      "timestamp": 51589.393,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "after@call@e0d0bf64b4dc58e6b592e3849e569a3e",
+      "timestamp": 51595.432,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "before@call@774a3c2f63fed115501556dfda2039d9",
+      "timestamp": 51613.798,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "input@call@774a3c2f63fed115501556dfda2039d9",
+      "timestamp": 51619.424,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "after@call@774a3c2f63fed115501556dfda2039d9",
+      "timestamp": 51625.155,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "before@call@57c01c148038fff9e540990937a13ce6",
+      "timestamp": 51647.208,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "input@call@57c01c148038fff9e540990937a13ce6",
+      "timestamp": 51652.857,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "after@call@57c01c148038fff9e540990937a13ce6",
+      "timestamp": 51659.981,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "before@call@6d366d42740492a5bd269589728d2c8d",
+      "timestamp": 51680.788,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "input@call@6d366d42740492a5bd269589728d2c8d",
+      "timestamp": 51687.709,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "after@call@6d366d42740492a5bd269589728d2c8d",
+      "timestamp": 51694.148,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "before@call@dd67be4f20775abfaae479c355d83fd0",
+      "timestamp": 51713.399,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "input@call@dd67be4f20775abfaae479c355d83fd0",
+      "timestamp": 51720.344,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "after@call@dd67be4f20775abfaae479c355d83fd0",
+      "timestamp": 51727.165,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "before@call@732986fde77bc32370dd04d0eb46c6c3",
+      "timestamp": 51748.41,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "input@call@732986fde77bc32370dd04d0eb46c6c3",
+      "timestamp": 51756.588,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "after@call@732986fde77bc32370dd04d0eb46c6c3",
+      "timestamp": 51762.728,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "before@call@2cc87592d0082b76669cc2abdddeff26",
+      "timestamp": 51781.86,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "input@call@2cc87592d0082b76669cc2abdddeff26",
+      "timestamp": 51788.376,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "after@call@2cc87592d0082b76669cc2abdddeff26",
+      "timestamp": 51799.166,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "before@call@37e4280b3bc804e6aaa6cc40cb7d8648",
+      "timestamp": 51815.147,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "input@call@37e4280b3bc804e6aaa6cc40cb7d8648",
+      "timestamp": 51824.18,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "after@call@37e4280b3bc804e6aaa6cc40cb7d8648",
+      "timestamp": 51829.591,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "before@call@998cd1cf95b71172d2c865875549a406",
+      "timestamp": 51847.404,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "input@call@998cd1cf95b71172d2c865875549a406",
+      "timestamp": 51856.901,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "after@call@998cd1cf95b71172d2c865875549a406",
+      "timestamp": 51863.556,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "before@call@f0eb9c2222f8cb9a6e52e841e4bffc0f",
+      "timestamp": 51881.087,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "input@call@f0eb9c2222f8cb9a6e52e841e4bffc0f",
+      "timestamp": 51890.338,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "after@call@f0eb9c2222f8cb9a6e52e841e4bffc0f",
+      "timestamp": 51896.794,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "before@call@a8248539255f328a791b10990e3d01f5",
+      "timestamp": 51914.551,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "input@call@a8248539255f328a791b10990e3d01f5",
+      "timestamp": 51924.101,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "after@call@a8248539255f328a791b10990e3d01f5",
+      "timestamp": 51929.677,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "before@call@43517cde1b0608a03e6284f4ba11aa8b",
+      "timestamp": 51948.588,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "input@call@43517cde1b0608a03e6284f4ba11aa8b",
+      "timestamp": 51958.644,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "after@call@43517cde1b0608a03e6284f4ba11aa8b",
+      "timestamp": 51969.066,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "before@call@c9fa88c660d92d07ac1065a113d29cc0",
+      "timestamp": 51981.637,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "input@call@c9fa88c660d92d07ac1065a113d29cc0",
+      "timestamp": 51988.466,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "after@call@c9fa88c660d92d07ac1065a113d29cc0",
+      "timestamp": 51993.664,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "before@call@73489b8d7b3b8a342e93b1bf2fa17a6a",
+      "timestamp": 52984.422,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=winter+hat",
+      "snapshotName": "input@call@73489b8d7b3b8a342e93b1bf2fa17a6a",
+      "timestamp": 52996.106,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e4532438f1805057ec02ddc439e2f243",
+      "frameId": "frame@7bd3c74ace141d34753faa4b54bbcda3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=pink+winter+hat",
+      "snapshotName": "after@call@73489b8d7b3b8a342e93b1bf2fa17a6a",
+      "timestamp": 54245.118,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@b8a4e68841375c24f9ca8585dbf57067",
+      "timestamp": 45594.326,
+      "resource": "page@b8a4e68841375c24f9ca8585dbf57067-1703275970.14053.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_102__page0.jpg",
+      "sha256": "c55689af76d4e550d0cd0296c365cd0d839d237a6d645396ac70515762eceb8a",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@e4532438f1805057ec02ddc439e2f243",
+      "timestamp": 62256.906,
+      "resource": "page@e4532438f1805057ec02ddc439e2f243-1703275986.800762.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_102__page1.jpg",
+      "sha256": "a9c7bcc55fad8622d302704d22d3e4702fb71a866238b3f48ef473f837690852",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@b8d81f595d7d4f7ae799a6743efc7de0",
+      "timestamp": 64603.79,
+      "resource": "page@b8d81f595d7d4f7ae799a6743efc7de0-1703275989.151491.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_102__page2.jpg",
+      "sha256": "e6be9c36deede981665f44b9ad5c4a39f84d7f8efaf7ba95311020276b966a09",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_102__page2.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

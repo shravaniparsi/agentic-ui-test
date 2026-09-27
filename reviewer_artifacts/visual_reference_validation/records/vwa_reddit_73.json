@@ -1,0 +1,124 @@
+{
+  "instance_id": "vwa_reddit_73",
+  "domain": "reddit",
+  "filename_task_id": 73,
+  "source_url": "https://drive.usercontent.google.com/download?id=1BvXdZc6tpRPVZ2vHRb7El-GVzBp9X1JC&export=download&confirm=t",
+  "source_file_id": "1BvXdZc6tpRPVZ2vHRb7El-GVzBp9X1JC",
+  "archive_sha256": "b181f41ec1418158f86a318bac323e96ec2791c1cd90333604aa42557c20187d",
+  "archive_bytes": 7562024,
+  "event_types": {
+    "context-options": 1,
+    "event": 75,
+    "screencast-frame": 234,
+    "object": 35,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704275132994,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@e476441f74b426ef1777dff4cbc9ca39",
+      "frameId": "frame@a4fa40d9eaa787c1800de1bf36df6b46",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/127507",
+      "snapshotName": "before@call@08cbfd32b6a9ea78dfdc440162844838",
+      "timestamp": 11871.815,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e476441f74b426ef1777dff4cbc9ca39",
+      "frameId": "frame@a4fa40d9eaa787c1800de1bf36df6b46",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/127507",
+      "snapshotName": "input@call@08cbfd32b6a9ea78dfdc440162844838",
+      "timestamp": 11906.38,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e476441f74b426ef1777dff4cbc9ca39",
+      "frameId": "frame@a4fa40d9eaa787c1800de1bf36df6b46",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/127507",
+      "snapshotName": "after@call@08cbfd32b6a9ea78dfdc440162844838",
+      "timestamp": 11944.353,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e476441f74b426ef1777dff4cbc9ca39",
+      "frameId": "frame@a4fa40d9eaa787c1800de1bf36df6b46",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/127507",
+      "snapshotName": "before@call@93b678be69fc2423a5c98e95841fced0",
+      "timestamp": 45767.079,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e476441f74b426ef1777dff4cbc9ca39",
+      "frameId": "frame@a4fa40d9eaa787c1800de1bf36df6b46",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/127507",
+      "snapshotName": "input@call@93b678be69fc2423a5c98e95841fced0",
+      "timestamp": 45824.344,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e476441f74b426ef1777dff4cbc9ca39",
+      "frameId": "frame@a4fa40d9eaa787c1800de1bf36df6b46",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/127507/amazon-what/comment/9",
+      "snapshotName": "after@call@93b678be69fc2423a5c98e95841fced0",
+      "timestamp": 46579.77,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@e476441f74b426ef1777dff4cbc9ca39",
+      "timestamp": 47314.356,
+      "resource": "page@e476441f74b426ef1777dff4cbc9ca39-1704275179.718663.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_73__page0.jpg",
+      "sha256": "2d04bdf17c9938d196aa8f669fae48018a6efaea934eaf24388f5f95b8a8d502",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_73__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

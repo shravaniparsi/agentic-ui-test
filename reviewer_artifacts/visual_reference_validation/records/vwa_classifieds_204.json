@@ -1,0 +1,411 @@
+{
+  "instance_id": "vwa_classifieds_204",
+  "domain": "classifieds",
+  "filename_task_id": 204,
+  "source_url": "https://drive.usercontent.google.com/download?id=1zLGjlLZxfpVguwbjjs59wMZr08rnHdhL&export=download&confirm=t",
+  "source_file_id": "1zLGjlLZxfpVguwbjjs59wMZr08rnHdhL",
+  "archive_sha256": "e5980f8d3b6423bd57c7239146faf5f8889a57c0f3e0157ea543d0423c955cc3",
+  "archive_bytes": 27278111,
+  "event_types": {
+    "context-options": 1,
+    "event": 134,
+    "screencast-frame": 379,
+    "before": 10,
+    "frame-snapshot": 30,
+    "input": 10,
+    "after": 10
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704176283557,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "before@call@0e865c236416b82522afacb94afc2ef9",
+      "timestamp": 16604.451,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "input@call@0e865c236416b82522afacb94afc2ef9",
+      "timestamp": 16638.639,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=21",
+      "snapshotName": "after@call@0e865c236416b82522afacb94afc2ef9",
+      "timestamp": 17356.755,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=21",
+      "snapshotName": "before@call@2462facca5d06817e886029c7dceaff9",
+      "timestamp": 24396.96,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=21",
+      "snapshotName": "input@call@2462facca5d06817e886029c7dceaff9",
+      "timestamp": 24429.629,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=21&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "after@call@2462facca5d06817e886029c7dceaff9",
+      "timestamp": 25130.691,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=21&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "before@call@3745e24a0ad993c12d37633a5b9fff07",
+      "timestamp": 33666.036,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=21&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "input@call@3745e24a0ad993c12d37633a5b9fff07",
+      "timestamp": 33695.827,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=21&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "after@call@3745e24a0ad993c12d37633a5b9fff07",
+      "timestamp": 33707.563,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=21&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "before@call@b02b2b60105f622b1ff3fbbbb27843d1",
+      "timestamp": 36609.261,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=21&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "input@call@b02b2b60105f622b1ff3fbbbb27843d1",
+      "timestamp": 36626.334,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=21&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "after@call@b02b2b60105f622b1ff3fbbbb27843d1",
+      "timestamp": 36635.249,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=21&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "before@call@055682346fd9d798fb37af93874caa36",
+      "timestamp": 38713.512,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=21&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "input@call@055682346fd9d798fb37af93874caa36",
+      "timestamp": 38726.877,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=21&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "after@call@055682346fd9d798fb37af93874caa36",
+      "timestamp": 38736.093,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=21&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "before@call@806d238675ae241faaa169eb88d3dcef",
+      "timestamp": 42855.678,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=21&sOrder=i_price&iOrderType=asc",
+      "snapshotName": "input@call@806d238675ae241faaa169eb88d3dcef",
+      "timestamp": 42866.805,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sOrder=i_price&iOrderType=asc&sPattern=guitar&sPriceMin=1200&sPriceMax=1500&sCategory=21",
+      "snapshotName": "after@call@806d238675ae241faaa169eb88d3dcef",
+      "timestamp": 44429.31,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sOrder=i_price&iOrderType=asc&sPattern=guitar&sPriceMin=1200&sPriceMax=1500&sCategory=21",
+      "snapshotName": "before@call@ba56478fc0b8817a993c07aa1fe81d30",
+      "timestamp": 67356.053,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sOrder=i_price&iOrderType=asc&sPattern=guitar&sPriceMin=1200&sPriceMax=1500&sCategory=21",
+      "snapshotName": "input@call@ba56478fc0b8817a993c07aa1fe81d30",
+      "timestamp": 67382.655,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=54956",
+      "snapshotName": "after@call@ba56478fc0b8817a993c07aa1fe81d30",
+      "timestamp": 67839.261,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sOrder=i_price&iOrderType=asc&sPattern=guitar&sPriceMin=1200&sPriceMax=1500&sCategory=21",
+      "snapshotName": "before@call@886ccae7d8e3e386fc9d2a592c0df7c5",
+      "timestamp": 91111.029,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sOrder=i_price&iOrderType=asc&sPattern=guitar&sPriceMin=1200&sPriceMax=1500&sCategory=21",
+      "snapshotName": "input@call@886ccae7d8e3e386fc9d2a592c0df7c5",
+      "timestamp": 91137.717,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sOrder=i_price&iOrderType=asc&sPattern=guitar&sPriceMin=1200&sPriceMax=1500&sCategory=21&iPage=2",
+      "snapshotName": "after@call@886ccae7d8e3e386fc9d2a592c0df7c5",
+      "timestamp": 91603.07,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sOrder=i_price&iOrderType=asc&sPattern=guitar&sPriceMin=1200&sPriceMax=1500&sCategory=21&iPage=2",
+      "snapshotName": "before@call@300ee9a98faaddbabde4af6cafc65e94",
+      "timestamp": 105157.326,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sOrder=i_price&iOrderType=asc&sPattern=guitar&sPriceMin=1200&sPriceMax=1500&sCategory=21&iPage=2",
+      "snapshotName": "input@call@300ee9a98faaddbabde4af6cafc65e94",
+      "timestamp": 105187.316,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sOrder=i_price&iOrderType=asc&sPattern=guitar&sPriceMin=1200&sPriceMax=1500&sCategory=21&iPage=3",
+      "snapshotName": "after@call@300ee9a98faaddbabde4af6cafc65e94",
+      "timestamp": 105681.843,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sOrder=i_price&iOrderType=asc&sPattern=guitar&sPriceMin=1200&sPriceMax=1500&sCategory=21&iPage=3",
+      "snapshotName": "before@call@57527e3dfee9201602f854b18f96f595",
+      "timestamp": 115062.087,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sOrder=i_price&iOrderType=asc&sPattern=guitar&sPriceMin=1200&sPriceMax=1500&sCategory=21&iPage=3",
+      "snapshotName": "input@call@57527e3dfee9201602f854b18f96f595",
+      "timestamp": 115086.25,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b88709296d0b11da2dc6d4fddb129556",
+      "frameId": "frame@d90933dd4218dc22106fb87cd8ea026a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=76469",
+      "snapshotName": "after@call@57527e3dfee9201602f854b18f96f595",
+      "timestamp": 115814.039,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@b88709296d0b11da2dc6d4fddb129556",
+      "timestamp": 123012.397,
+      "resource": "page@b88709296d0b11da2dc6d4fddb129556-1704176406.20446.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_204__page0.jpg",
+      "sha256": "672113ca7891f3695bc00cd0e4539ce2bd1612c59fe1ef266e604851ea64c8a1",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_classifieds_204__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,160 @@
+{
+  "instance_id": "vwa_reddit_5",
+  "domain": "reddit",
+  "filename_task_id": 5,
+  "source_url": "https://drive.usercontent.google.com/download?id=1vbT5BQkzjWSrz3UzcO9gX4E5u-CepMMD&export=download&confirm=t",
+  "source_file_id": "1vbT5BQkzjWSrz3UzcO9gX4E5u-CepMMD",
+  "archive_sha256": "c83e705dd1bd30f167ba28fce371df5b269557811a61cb64c97afa0afb86806d",
+  "archive_bytes": 5741589,
+  "event_types": {
+    "context-options": 1,
+    "event": 132,
+    "screencast-frame": 120,
+    "object": 54,
+    "before": 3,
+    "frame-snapshot": 8,
+    "input": 3,
+    "after": 3
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704254275535,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@006cc79403aa88513f4ea27b216d1c5a",
+      "frameId": "frame@668a4feea6359f16f3afd2d98187cdc3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@9fbea6af0f40852ccb61dc7d145dfe94",
+      "timestamp": 24486.029,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@006cc79403aa88513f4ea27b216d1c5a",
+      "frameId": "frame@668a4feea6359f16f3afd2d98187cdc3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@9fbea6af0f40852ccb61dc7d145dfe94",
+      "timestamp": 24552.501,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@006cc79403aa88513f4ea27b216d1c5a",
+      "frameId": "frame@668a4feea6359f16f3afd2d98187cdc3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/MechanicalKeyboards",
+      "snapshotName": "before@call@d00acc59cd9a6b6e9c3c23066ff61413",
+      "timestamp": 46467.46,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@006cc79403aa88513f4ea27b216d1c5a",
+      "frameId": "frame@668a4feea6359f16f3afd2d98187cdc3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/MechanicalKeyboards",
+      "snapshotName": "input@call@d00acc59cd9a6b6e9c3c23066ff61413",
+      "timestamp": 46535.612,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@006cc79403aa88513f4ea27b216d1c5a",
+      "frameId": "frame@668a4feea6359f16f3afd2d98187cdc3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/1dca2e0d195036fd9d5bb3416cef4cc061796b48dc8b7a8b4d4d14229340a45e.jpg",
+      "snapshotName": "after@call@d00acc59cd9a6b6e9c3c23066ff61413",
+      "timestamp": 46619.379,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@006cc79403aa88513f4ea27b216d1c5a",
+      "frameId": "frame@668a4feea6359f16f3afd2d98187cdc3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/1dca2e0d195036fd9d5bb3416cef4cc061796b48dc8b7a8b4d4d14229340a45e.jpg",
+      "snapshotName": "before@call@d7d7b194520ffbc7e2c0bff31886c8b2",
+      "timestamp": 49904.121,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@006cc79403aa88513f4ea27b216d1c5a",
+      "frameId": "frame@668a4feea6359f16f3afd2d98187cdc3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/1dca2e0d195036fd9d5bb3416cef4cc061796b48dc8b7a8b4d4d14229340a45e.jpg",
+      "snapshotName": "input@call@d7d7b194520ffbc7e2c0bff31886c8b2",
+      "timestamp": 49943.373,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@006cc79403aa88513f4ea27b216d1c5a",
+      "frameId": "frame@668a4feea6359f16f3afd2d98187cdc3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/1dca2e0d195036fd9d5bb3416cef4cc061796b48dc8b7a8b4d4d14229340a45e.jpg",
+      "snapshotName": "after@call@d7d7b194520ffbc7e2c0bff31886c8b2",
+      "timestamp": 49949.169,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@f04fb20ef250bc4b4dde2d7cec9666de",
+      "timestamp": 22075.601,
+      "resource": "page@f04fb20ef250bc4b4dde2d7cec9666de-1704254296.150328.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_5__page0.jpg",
+      "sha256": "904ecff99192fd40ea423e70ffc2aec1dae62120e514ba9699d61d5a2e2ff33a",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@006cc79403aa88513f4ea27b216d1c5a",
+      "timestamp": 53815.873,
+      "resource": "page@006cc79403aa88513f4ea27b216d1c5a-1704254327.891394.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_5__page1.jpg",
+      "sha256": "6558efcda3aea94088964412a7bd343ec95301ed3deb74dafbf5f4b083b2d770",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_5__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

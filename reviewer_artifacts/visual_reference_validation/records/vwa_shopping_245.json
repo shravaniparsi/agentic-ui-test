@@ -1,0 +1,231 @@
+{
+  "instance_id": "vwa_shopping_245",
+  "domain": "shopping",
+  "filename_task_id": 245,
+  "source_url": "https://drive.usercontent.google.com/download?id=1mW-y0bE3mJff2yhG3_DsohZQamo97c7h&export=download&confirm=t",
+  "source_file_id": "1mW-y0bE3mJff2yhG3_DsohZQamo97c7h",
+  "archive_sha256": "b2c7340a16130d351265ed8bfe1365c4732113287d1dae63cdd908a672837833",
+  "archive_bytes": 7032599,
+  "event_types": {
+    "context-options": 1,
+    "event": 31,
+    "screencast-frame": 159,
+    "before": 5,
+    "frame-snapshot": 15,
+    "input": 5,
+    "after": 5
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703280174954,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@98226013a909364708b84b6aedefc315",
+      "frameId": "frame@e7db5862468dbcceeb2fd20c6c7ce373",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/health-care.html?p=7",
+      "snapshotName": "before@call@f661f7edb4432780b79da8620b1f04ef",
+      "timestamp": 22857.283,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@98226013a909364708b84b6aedefc315",
+      "frameId": "frame@e7db5862468dbcceeb2fd20c6c7ce373",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/health-household/health-care.html?p=7",
+      "snapshotName": "input@call@f661f7edb4432780b79da8620b1f04ef",
+      "timestamp": 22923.364,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@98226013a909364708b84b6aedefc315",
+      "frameId": "frame@e7db5862468dbcceeb2fd20c6c7ce373",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/spenco-men-s-tribal-elite-sandal.html",
+      "snapshotName": "after@call@f661f7edb4432780b79da8620b1f04ef",
+      "timestamp": 24671.421,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@98226013a909364708b84b6aedefc315",
+      "frameId": "frame@e7db5862468dbcceeb2fd20c6c7ce373",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/spenco-men-s-tribal-elite-sandal.html",
+      "snapshotName": "before@call@84bf6e2fac7a2f22ea4421795654f70d",
+      "timestamp": 27421.12,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@98226013a909364708b84b6aedefc315",
+      "frameId": "frame@e7db5862468dbcceeb2fd20c6c7ce373",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/spenco-men-s-tribal-elite-sandal.html",
+      "snapshotName": "input@call@84bf6e2fac7a2f22ea4421795654f70d",
+      "timestamp": 27471.67,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@98226013a909364708b84b6aedefc315",
+      "frameId": "frame@e7db5862468dbcceeb2fd20c6c7ce373",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/spenco-men-s-tribal-elite-sandal.html",
+      "snapshotName": "after@call@84bf6e2fac7a2f22ea4421795654f70d",
+      "timestamp": 27505.111,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@98226013a909364708b84b6aedefc315",
+      "frameId": "frame@e7db5862468dbcceeb2fd20c6c7ce373",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/spenco-men-s-tribal-elite-sandal.html",
+      "snapshotName": "before@call@a223570df07ce456ea5562009fd2853c",
+      "timestamp": 28617.235,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@98226013a909364708b84b6aedefc315",
+      "frameId": "frame@e7db5862468dbcceeb2fd20c6c7ce373",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/spenco-men-s-tribal-elite-sandal.html",
+      "snapshotName": "input@call@a223570df07ce456ea5562009fd2853c",
+      "timestamp": 28655.393,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@98226013a909364708b84b6aedefc315",
+      "frameId": "frame@e7db5862468dbcceeb2fd20c6c7ce373",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/spenco-men-s-tribal-elite-sandal.html",
+      "snapshotName": "after@call@a223570df07ce456ea5562009fd2853c",
+      "timestamp": 28681.083,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@98226013a909364708b84b6aedefc315",
+      "frameId": "frame@e7db5862468dbcceeb2fd20c6c7ce373",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/spenco-men-s-tribal-elite-sandal.html",
+      "snapshotName": "before@call@8ca1ea9ca7f7cd7d537dd720d4d3db19",
+      "timestamp": 29148.861,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@98226013a909364708b84b6aedefc315",
+      "frameId": "frame@e7db5862468dbcceeb2fd20c6c7ce373",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/spenco-men-s-tribal-elite-sandal.html",
+      "snapshotName": "input@call@8ca1ea9ca7f7cd7d537dd720d4d3db19",
+      "timestamp": 29173.891,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@98226013a909364708b84b6aedefc315",
+      "frameId": "frame@e7db5862468dbcceeb2fd20c6c7ce373",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/spenco-men-s-tribal-elite-sandal.html",
+      "snapshotName": "after@call@8ca1ea9ca7f7cd7d537dd720d4d3db19",
+      "timestamp": 29195.297,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@98226013a909364708b84b6aedefc315",
+      "frameId": "frame@e7db5862468dbcceeb2fd20c6c7ce373",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/spenco-men-s-tribal-elite-sandal.html",
+      "snapshotName": "before@call@cca585ec4349f2c30ef313d21138717d",
+      "timestamp": 30448.273,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@98226013a909364708b84b6aedefc315",
+      "frameId": "frame@e7db5862468dbcceeb2fd20c6c7ce373",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/spenco-men-s-tribal-elite-sandal.html",
+      "snapshotName": "input@call@cca585ec4349f2c30ef313d21138717d",
+      "timestamp": 30475.388,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@98226013a909364708b84b6aedefc315",
+      "frameId": "frame@e7db5862468dbcceeb2fd20c6c7ce373",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/spenco-men-s-tribal-elite-sandal.html",
+      "snapshotName": "after@call@cca585ec4349f2c30ef313d21138717d",
+      "timestamp": 30510.233,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@98226013a909364708b84b6aedefc315",
+      "timestamp": 34350.482,
+      "resource": "page@98226013a909364708b84b6aedefc315-1703280208.494959.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_245__page0.jpg",
+      "sha256": "27a9ee0e55397fc2d28124dfff27c5f3fb3246202e7252e4e0dac5d24812794d",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_245__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

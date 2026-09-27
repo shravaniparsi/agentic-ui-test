@@ -1,0 +1,46 @@
+{
+  "instance_id": "vwa_classifieds_128",
+  "domain": "classifieds",
+  "filename_task_id": 128,
+  "source_url": "https://drive.usercontent.google.com/download?id=1LwYa_N8jCseriEfW_b3EWHHDkAtoTIYa&export=download&confirm=t",
+  "source_file_id": "1LwYa_N8jCseriEfW_b3EWHHDkAtoTIYa",
+  "archive_sha256": "fa016e75f367168a93d5be3d32176c971e5658f4a73e41af393717310ed5109b",
+  "archive_bytes": 3647113,
+  "event_types": {
+    "context-options": 1,
+    "event": 17,
+    "screencast-frame": 39
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704258593198,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [],
+  "final_frames": [
+    {
+      "page_id": "page@a306f743c10b7f360f9bdbf92b2973e6",
+      "timestamp": 22289.249,
+      "resource": "page@a306f743c10b7f360f9bdbf92b2973e6-1704258615.141002.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_128__page0.jpg",
+      "sha256": "d406ffe046712ab271cdd58a6999b4df4aace18b1bb0a9973f92a9609e2dfd57",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_classifieds_128__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

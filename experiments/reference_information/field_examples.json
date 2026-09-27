@@ -1,0 +1,26 @@
+{
+  "selection_rule": "First lexicographically sorted canonical task ID within each domain; selected without inspecting verification outcomes.",
+  "examples": [
+    {
+      "instance_id": "vwa_classifieds_100",
+      "task_text": "What is the number shown on the image of the most expensive race car in the Arts + crafts section?",
+      "eval_criteria": "Answer must include: 61 |OR| sixty one",
+      "task_only_reference": "The web page should display the number associated with the most expensive race car found in the Arts + crafts section, clearly visible and identifiable, indicating the specific number on that race car image.",
+      "criteria_enriched_reference": "The web page should display the number \"61\" or the words \"sixty one\" prominently, indicating the number shown on the image of the most expensive race car in the Arts + crafts section."
+    },
+    {
+      "instance_id": "vwa_shopping_102",
+      "task_text": "I need one of what its wearing for the winter, can you add one to my wishlist?",
+      "eval_criteria": "Eval types: ['program_html']",
+      "task_only_reference": "The webpage should display a clear message or section indicating that an item suitable for winter wear has been added to the wishlist. The wishlist should now include at least one winter-appropriate clothing item, with its name or description visible.",
+      "criteria_enriched_reference": "The web page should display a section showing winter clothing items, such as a coat or sweater, that the user has selected or viewed. It should also include an option or button to add one of these winter clothing items to the user's wishlist, with clear indication that the item has been added successfully."
+    },
+    {
+      "instance_id": "vwa_reddit_152",
+      "task_text": "Leave a comment in this post with the text as the number of adults in the image.",
+      "eval_criteria": "Eval types: ['program_html']",
+      "task_only_reference": "The web page should display the original post along with a comment section where a new comment has been added, containing a number that corresponds to the total count of adults present in the image. The comment should be clearly visible beneath the post, reflecting the correct number of adults identified.",
+      "criteria_enriched_reference": "The web page should display the original post along with a comment section where a new comment has been added. The comment should contain only the number of adults present in the image, accurately reflecting that count as the comment text."
+    }
+  ]
+}

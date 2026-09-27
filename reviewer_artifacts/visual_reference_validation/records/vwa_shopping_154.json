@@ -1,0 +1,147 @@
+{
+  "instance_id": "vwa_shopping_154",
+  "domain": "shopping",
+  "filename_task_id": 154,
+  "source_url": "https://drive.usercontent.google.com/download?id=1muJg-xc6fuI9Pylg3DhlIh9F_PSONC5s&export=download&confirm=t",
+  "source_file_id": "1muJg-xc6fuI9Pylg3DhlIh9F_PSONC5s",
+  "archive_sha256": "594613f7cf85dd682973f73dc3cba73ae979288658902fcacb70dde3173ba620",
+  "archive_bytes": 6307425,
+  "event_types": {
+    "context-options": 1,
+    "event": 59,
+    "screencast-frame": 100,
+    "before": 3,
+    "frame-snapshot": 8,
+    "input": 3,
+    "after": 3
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703276545020,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@fa6e020b66ab0e855fb28b241baffe67",
+      "frameId": "frame@c3419b28b1cf3e33fbdd8f199d6083d2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@c0a30bede485382c2f2e71a1273f77bb",
+      "timestamp": 31437.886,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fa6e020b66ab0e855fb28b241baffe67",
+      "frameId": "frame@c3419b28b1cf3e33fbdd8f199d6083d2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@c0a30bede485382c2f2e71a1273f77bb",
+      "timestamp": 31485.924,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fa6e020b66ab0e855fb28b241baffe67",
+      "frameId": "frame@c3419b28b1cf3e33fbdd8f199d6083d2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@c0a30bede485382c2f2e71a1273f77bb",
+      "timestamp": 31500.773,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fa6e020b66ab0e855fb28b241baffe67",
+      "frameId": "frame@c3419b28b1cf3e33fbdd8f199d6083d2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@93d78de3e27d60a6feb4621c759d3ed2",
+      "timestamp": 36456.019,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fa6e020b66ab0e855fb28b241baffe67",
+      "frameId": "frame@c3419b28b1cf3e33fbdd8f199d6083d2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@93d78de3e27d60a6feb4621c759d3ed2",
+      "timestamp": 36467.643,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fa6e020b66ab0e855fb28b241baffe67",
+      "frameId": "frame@c3419b28b1cf3e33fbdd8f199d6083d2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=sony+headphone",
+      "snapshotName": "before@call@f6cac96bcc3576642d12289d5dbfde34",
+      "timestamp": 45417.152,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fa6e020b66ab0e855fb28b241baffe67",
+      "frameId": "frame@c3419b28b1cf3e33fbdd8f199d6083d2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=sony+headphone",
+      "snapshotName": "input@call@f6cac96bcc3576642d12289d5dbfde34",
+      "timestamp": 45468.641,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fa6e020b66ab0e855fb28b241baffe67",
+      "frameId": "frame@c3419b28b1cf3e33fbdd8f199d6083d2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sony-h900n-hi-res-noise-cancelling-wireless-headphone-grayish-black-renewed.html",
+      "snapshotName": "after@call@f6cac96bcc3576642d12289d5dbfde34",
+      "timestamp": 46964.768,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@fa6e020b66ab0e855fb28b241baffe67",
+      "timestamp": 52773.318,
+      "resource": "page@fa6e020b66ab0e855fb28b241baffe67-1703276597.011462.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_154__page0.jpg",
+      "sha256": "d36a3ccd6715163c4ce1508a14890b78746c581241f36ea49ea083048d3c1404",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_154__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

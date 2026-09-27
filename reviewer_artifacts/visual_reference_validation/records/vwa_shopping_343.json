@@ -1,0 +1,783 @@
+{
+  "instance_id": "vwa_shopping_343",
+  "domain": "shopping",
+  "filename_task_id": 343,
+  "source_url": "https://drive.usercontent.google.com/download?id=1xA72knWZkkHBDt4XqYTsgtPDVvdvZSyR&export=download&confirm=t",
+  "source_file_id": "1xA72knWZkkHBDt4XqYTsgtPDVvdvZSyR",
+  "archive_sha256": "d1bd0a796fa801698b085c3a94cd69dfaeb2b6e9e142faac6f2c740ff6a316d0",
+  "archive_bytes": 28024106,
+  "event_types": {
+    "context-options": 1,
+    "event": 131,
+    "screencast-frame": 551,
+    "before": 21,
+    "frame-snapshot": 61,
+    "input": 21,
+    "after": 21
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703284264571,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@4d93dcf155bdd2458be9af1726e9f71b",
+      "timestamp": 96198.722,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@4d93dcf155bdd2458be9af1726e9f71b",
+      "timestamp": 96241.425,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@4d93dcf155bdd2458be9af1726e9f71b",
+      "timestamp": 96304.009,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@1977a543622aa590e99b9d904819d2b8",
+      "timestamp": 97216.732,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@1977a543622aa590e99b9d904819d2b8",
+      "timestamp": 97234.099,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=intel",
+      "snapshotName": "after@call@1977a543622aa590e99b9d904819d2b8",
+      "timestamp": 98717.516,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=intel",
+      "snapshotName": "before@call@ef370c6ca3c99cf26b78c99c1cd29885",
+      "timestamp": 145687.792,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=intel",
+      "snapshotName": "input@call@ef370c6ca3c99cf26b78c99c1cd29885",
+      "timestamp": 145775.956,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=intel",
+      "snapshotName": "after@call@ef370c6ca3c99cf26b78c99c1cd29885",
+      "timestamp": 145801.736,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=intel",
+      "snapshotName": "before@call@2bf8b8942838233fd9edbc24d050d0ba",
+      "timestamp": 146371.498,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=intel",
+      "snapshotName": "input@call@2bf8b8942838233fd9edbc24d050d0ba",
+      "timestamp": 146397.341,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=intel",
+      "snapshotName": "after@call@2bf8b8942838233fd9edbc24d050d0ba",
+      "timestamp": 146418.403,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=intel",
+      "snapshotName": "before@call@98bcf8ef2781eccb1479666138587a0d",
+      "timestamp": 146491.946,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=intel",
+      "snapshotName": "input@call@98bcf8ef2781eccb1479666138587a0d",
+      "timestamp": 146524.747,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=intel",
+      "snapshotName": "after@call@98bcf8ef2781eccb1479666138587a0d",
+      "timestamp": 146534.277,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=intel",
+      "snapshotName": "before@call@d0b1eb7ca3408b7acfc7ddbb1eb11b07",
+      "timestamp": 146608.67,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=intel",
+      "snapshotName": "input@call@d0b1eb7ca3408b7acfc7ddbb1eb11b07",
+      "timestamp": 146641.582,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=intel",
+      "snapshotName": "after@call@d0b1eb7ca3408b7acfc7ddbb1eb11b07",
+      "timestamp": 146650.066,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=intel",
+      "snapshotName": "before@call@11873f227e4306577fca07dcbbefe3a1",
+      "timestamp": 148130.809,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=intel",
+      "snapshotName": "input@call@11873f227e4306577fca07dcbbefe3a1",
+      "timestamp": 148152.101,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD",
+      "snapshotName": "before@call@cb2c346e2739f5b3655b8ea5f0dadcf1",
+      "timestamp": 156244.939,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD",
+      "snapshotName": "input@call@cb2c346e2739f5b3655b8ea5f0dadcf1",
+      "timestamp": 156293.329,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD",
+      "snapshotName": "after@call@cb2c346e2739f5b3655b8ea5f0dadcf1",
+      "timestamp": 156328.513,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD",
+      "snapshotName": "before@call@81e62fd5601fc5bfc1e0a7f0da1f00a6",
+      "timestamp": 157924.056,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD",
+      "snapshotName": "input@call@81e62fd5601fc5bfc1e0a7f0da1f00a6",
+      "timestamp": 157942.915,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD+desktop",
+      "snapshotName": "after@call@81e62fd5601fc5bfc1e0a7f0da1f00a6",
+      "timestamp": 159128.556,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD+desktop",
+      "snapshotName": "before@call@eefe9fb510ccbfe65649598dd4e111f0",
+      "timestamp": 181794.133,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD+desktop",
+      "snapshotName": "input@call@eefe9fb510ccbfe65649598dd4e111f0",
+      "timestamp": 181839.479,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD+desktop",
+      "snapshotName": "after@call@eefe9fb510ccbfe65649598dd4e111f0",
+      "timestamp": 181873.448,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD+desktop",
+      "snapshotName": "before@call@0b67a1c62130e12643cb862b8f60201c",
+      "timestamp": 182601.566,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD+desktop",
+      "snapshotName": "input@call@0b67a1c62130e12643cb862b8f60201c",
+      "timestamp": 182621.031,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD+desktop+CPU",
+      "snapshotName": "before@call@ea48509b14e0cecb64c951015b91a95b",
+      "timestamp": 186761.409,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD+desktop+CPU",
+      "snapshotName": "input@call@ea48509b14e0cecb64c951015b91a95b",
+      "timestamp": 186808.79,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/corsair-vengeance-a7200-series-gaming-pc-amd-ryzen-9-5900x-cpu-amd-radeontm-rx-6800-xt-graphics-32gb-corsair-vengeance-rgb-pro-ddr4-memory.html",
+      "snapshotName": "after@call@ea48509b14e0cecb64c951015b91a95b",
+      "timestamp": 188126.606,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/corsair-vengeance-a7200-series-gaming-pc-amd-ryzen-9-5900x-cpu-amd-radeontm-rx-6800-xt-graphics-32gb-corsair-vengeance-rgb-pro-ddr4-memory.html",
+      "snapshotName": "before@call@116ebe5447f9771254c241da2db231a4",
+      "timestamp": 193667.029,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/corsair-vengeance-a7200-series-gaming-pc-amd-ryzen-9-5900x-cpu-amd-radeontm-rx-6800-xt-graphics-32gb-corsair-vengeance-rgb-pro-ddr4-memory.html",
+      "snapshotName": "input@call@116ebe5447f9771254c241da2db231a4",
+      "timestamp": 193720.592,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/corsair-vengeance-a7200-series-gaming-pc-amd-ryzen-9-5900x-cpu-amd-radeontm-rx-6800-xt-graphics-32gb-corsair-vengeance-rgb-pro-ddr4-memory.html",
+      "snapshotName": "after@call@116ebe5447f9771254c241da2db231a4",
+      "timestamp": 193731.865,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/corsair-vengeance-a7200-series-gaming-pc-amd-ryzen-9-5900x-cpu-amd-radeontm-rx-6800-xt-graphics-32gb-corsair-vengeance-rgb-pro-ddr4-memory.html",
+      "snapshotName": "before@call@58ae4524dc39d8c69d2adfcddc0d7bfc",
+      "timestamp": 196930.562,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/corsair-vengeance-a7200-series-gaming-pc-amd-ryzen-9-5900x-cpu-amd-radeontm-rx-6800-xt-graphics-32gb-corsair-vengeance-rgb-pro-ddr4-memory.html",
+      "snapshotName": "input@call@58ae4524dc39d8c69d2adfcddc0d7bfc",
+      "timestamp": 196954.155,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/corsair-vengeance-a7200-series-gaming-pc-amd-ryzen-9-5900x-cpu-amd-radeontm-rx-6800-xt-graphics-32gb-corsair-vengeance-rgb-pro-ddr4-memory.html",
+      "snapshotName": "after@call@58ae4524dc39d8c69d2adfcddc0d7bfc",
+      "timestamp": 196964.763,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/corsair-vengeance-a7200-series-gaming-pc-amd-ryzen-9-5900x-cpu-amd-radeontm-rx-6800-xt-graphics-32gb-corsair-vengeance-rgb-pro-ddr4-memory.html",
+      "snapshotName": "before@call@9fc30fe3b9d431411b0c6637b019c3ba",
+      "timestamp": 200293.405,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/corsair-vengeance-a7200-series-gaming-pc-amd-ryzen-9-5900x-cpu-amd-radeontm-rx-6800-xt-graphics-32gb-corsair-vengeance-rgb-pro-ddr4-memory.html",
+      "snapshotName": "input@call@9fc30fe3b9d431411b0c6637b019c3ba",
+      "timestamp": 200325.681,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/corsair-vengeance-a7200-series-gaming-pc-amd-ryzen-9-5900x-cpu-amd-radeontm-rx-6800-xt-graphics-32gb-corsair-vengeance-rgb-pro-ddr4-memory.html",
+      "snapshotName": "after@call@9fc30fe3b9d431411b0c6637b019c3ba",
+      "timestamp": 200333.283,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/corsair-vengeance-a7200-series-gaming-pc-amd-ryzen-9-5900x-cpu-amd-radeontm-rx-6800-xt-graphics-32gb-corsair-vengeance-rgb-pro-ddr4-memory.html",
+      "snapshotName": "before@call@0e02643739dda1db8d1734761fede43f",
+      "timestamp": 200584.998,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/corsair-vengeance-a7200-series-gaming-pc-amd-ryzen-9-5900x-cpu-amd-radeontm-rx-6800-xt-graphics-32gb-corsair-vengeance-rgb-pro-ddr4-memory.html",
+      "snapshotName": "input@call@0e02643739dda1db8d1734761fede43f",
+      "timestamp": 200605.967,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/corsair-vengeance-a7200-series-gaming-pc-amd-ryzen-9-5900x-cpu-amd-radeontm-rx-6800-xt-graphics-32gb-corsair-vengeance-rgb-pro-ddr4-memory.html",
+      "snapshotName": "after@call@0e02643739dda1db8d1734761fede43f",
+      "timestamp": 200616.749,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD+desktop+CPU",
+      "snapshotName": "before@call@1f056f2d8b7fdd03fc5ac01e364b061a",
+      "timestamp": 211656.785,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD+desktop+CPU",
+      "snapshotName": "input@call@1f056f2d8b7fdd03fc5ac01e364b061a",
+      "timestamp": 211707.661,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD+desktop+CPU",
+      "snapshotName": "after@call@1f056f2d8b7fdd03fc5ac01e364b061a",
+      "timestamp": 211851.303,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD+desktop+CPU",
+      "snapshotName": "before@call@b9277308be69b3a1a8180f8f89755d3f",
+      "timestamp": 217984.237,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD+desktop+CPU",
+      "snapshotName": "input@call@b9277308be69b3a1a8180f8f89755d3f",
+      "timestamp": 218045.695,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD+desktop+CPU",
+      "snapshotName": "after@call@b9277308be69b3a1a8180f8f89755d3f",
+      "timestamp": 218106.31,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD+desktop+CPU",
+      "snapshotName": "before@call@925beadec4b430f8ae8bd5752e4a6804",
+      "timestamp": 218928.86,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=AMD+desktop+CPU",
+      "snapshotName": "input@call@925beadec4b430f8ae8bd5752e4a6804",
+      "timestamp": 218977.523,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/",
+      "snapshotName": "after@call@925beadec4b430f8ae8bd5752e4a6804",
+      "timestamp": 220065.836,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "before@call@36d53804b89d1c6008b8d1d70257576d",
+      "timestamp": 227109.528,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "input@call@36d53804b89d1c6008b8d1d70257576d",
+      "timestamp": 227162.117,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "after@call@36d53804b89d1c6008b8d1d70257576d",
+      "timestamp": 227184.637,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "before@call@40b690b18bf5a8ad374817bcfaffb931",
+      "timestamp": 231096.134,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "input@call@40b690b18bf5a8ad374817bcfaffb931",
+      "timestamp": 231145.177,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2dca322e7c05a49289238390fa16ad68",
+      "frameId": "frame@377b8034897fc8ec5384bd3d69fd6d53",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "after@call@40b690b18bf5a8ad374817bcfaffb931",
+      "timestamp": 231165.641,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@2dca322e7c05a49289238390fa16ad68",
+      "timestamp": 387426.737,
+      "resource": "page@2dca322e7c05a49289238390fa16ad68-1703284651.207249.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_343__page0.jpg",
+      "sha256": "b3ffc27ccc1b7335f3d5f4c882b62721748da4f386170e79964ed9fc8214fa46",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_343__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

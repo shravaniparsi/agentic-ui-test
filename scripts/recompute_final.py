@@ -38,7 +38,7 @@ def mcnemar(b,c):
         p=binomtest(min(b,c), n, 0.5).pvalue
         return ('exact', float('nan'), p)
     chi=(abs(b-c)-1)**2/n
-    p=1-chi2dist.cdf(chi,1)
+    p=chi2dist.sf(chi,1)
     return ('asymptotic_cc', chi, p)
 
 def metrics(rows):
@@ -103,9 +103,15 @@ NTESTS=len(s1)
 alpha=0.05/NTESTS
 ps=sorted([(r['p_raw'],k) for k,r in enumerate(s1)])
 holm={}
+holm_adjusted={}
+running_adjusted=0.0
 for rank,(p,k) in enumerate(ps):
     holm[k]= p*(NTESTS-rank) <= 0.05 and all(ps[j][0]*(NTESTS-j)<=0.05 for j in range(rank+1))
+    running_adjusted=max(running_adjusted, min(1.0, p*(NTESTS-rank)))
+    holm_adjusted[k]=running_adjusted
 for k,r in enumerate(s1):
+    r['p_bonferroni']=min(1.0, r['p_raw']*NTESTS)
+    r['p_holm']=holm_adjusted[k]
     r['bonferroni_sig']=r['p_raw']<alpha; r['holm_sig']=holm[k]
 with open(OUT/'S1_paired_tests.csv','w',newline='') as f:
     w=csv.DictWriter(f,fieldnames=s1[0].keys()); w.writeheader(); w.writerows(s1)
@@ -150,10 +156,12 @@ crossgen('nocriteria','S2b_nocriteria')
 # ---------- Table 4 Nano-C calibration on subset ----------
 def ece(rows,bins,equal_mass=True):
     xs=[(r['confidence']/10.0, 1.0 if r['verdict']==r['ground_truth'] else 0.0) for r in rows if r['verdict'] in VALID and r.get('confidence') is not None]
-    xs.sort()
+    # Stable confidence-only ordering matches revision_analysis.py. Sorting
+    # tuples also sorts equal-confidence tasks by correctness and biases ECE.
+    xs.sort(key=lambda x: x[0])
     n=len(xs)
     if equal_mass:
-        edges=[int(round(k*n/bins)) for k in range(bins+1)]
+        edges=[k*n//bins for k in range(bins+1)]
         chunks=[xs[edges[k]:edges[k+1]] for k in range(bins)]
     else: # 3 fixed bins 1-3,4-6,7-10
         chunks=[[x for x in xs if x[0]<=0.3],[x for x in xs if 0.3<x[0]<=0.6],[x for x in xs if x[0]>0.6]]

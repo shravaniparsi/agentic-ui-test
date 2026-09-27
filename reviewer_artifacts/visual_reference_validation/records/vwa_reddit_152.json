@@ -1,0 +1,124 @@
+{
+  "instance_id": "vwa_reddit_152",
+  "domain": "reddit",
+  "filename_task_id": 152,
+  "source_url": "https://drive.usercontent.google.com/download?id=1VPGP3YUPhK6mBgms2q-k-FODaKAjoIha&export=download&confirm=t",
+  "source_file_id": "1VPGP3YUPhK6mBgms2q-k-FODaKAjoIha",
+  "archive_sha256": "bd79d90d2b61696963bef676e2553b6dff6e5d28419501eca511ff68c7e7bd69",
+  "archive_bytes": 2916499,
+  "event_types": {
+    "context-options": 1,
+    "event": 76,
+    "screencast-frame": 76,
+    "object": 40,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704261125383,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@ac748a63f35791d08a5d144073200752",
+      "frameId": "frame@89c625d397b017a5ec221add14610e81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/OldSchoolCool/78885",
+      "snapshotName": "before@call@9d96af65e31c4033d71dc75d75b593c8",
+      "timestamp": 15714.697,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ac748a63f35791d08a5d144073200752",
+      "frameId": "frame@89c625d397b017a5ec221add14610e81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/OldSchoolCool/78885",
+      "snapshotName": "input@call@9d96af65e31c4033d71dc75d75b593c8",
+      "timestamp": 15862.214,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ac748a63f35791d08a5d144073200752",
+      "frameId": "frame@89c625d397b017a5ec221add14610e81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/OldSchoolCool/78885",
+      "snapshotName": "after@call@9d96af65e31c4033d71dc75d75b593c8",
+      "timestamp": 15988.961,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ac748a63f35791d08a5d144073200752",
+      "frameId": "frame@89c625d397b017a5ec221add14610e81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/OldSchoolCool/78885",
+      "snapshotName": "before@call@fd79c34713f4ac352144938c6364e1ea",
+      "timestamp": 25306.919,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ac748a63f35791d08a5d144073200752",
+      "frameId": "frame@89c625d397b017a5ec221add14610e81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/OldSchoolCool/78885",
+      "snapshotName": "input@call@fd79c34713f4ac352144938c6364e1ea",
+      "timestamp": 25426.306,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ac748a63f35791d08a5d144073200752",
+      "frameId": "frame@89c625d397b017a5ec221add14610e81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/OldSchoolCool/78885/myself-receiving-a-copy-of-teenage-mutant-ninja-turtles-on/comment/1",
+      "snapshotName": "after@call@fd79c34713f4ac352144938c6364e1ea",
+      "timestamp": 26547.104,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@ac748a63f35791d08a5d144073200752",
+      "timestamp": 28323.63,
+      "resource": "page@ac748a63f35791d08a5d144073200752-1704261152.245874.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_152__page0.jpg",
+      "sha256": "6e07934e8bc40081bc096e61a98303eb83dd0242bfcc9ca004db28e66c997db7",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_152__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

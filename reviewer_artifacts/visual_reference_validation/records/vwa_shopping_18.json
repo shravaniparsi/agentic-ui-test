@@ -1,0 +1,604 @@
+{
+  "instance_id": "vwa_shopping_18",
+  "domain": "shopping",
+  "filename_task_id": 18,
+  "source_url": "https://drive.usercontent.google.com/download?id=1bGIhR7jqX-uXCaewSUXaj8eluZSLaEs_&export=download&confirm=t",
+  "source_file_id": "1bGIhR7jqX-uXCaewSUXaj8eluZSLaEs_",
+  "archive_sha256": "e690adbfd7401e5afb6bdd56205c4860d14bacb36338ae6bbfb3632ae0e9657b",
+  "archive_bytes": 51927724,
+  "event_types": {
+    "context-options": 1,
+    "event": 288,
+    "screencast-frame": 761,
+    "before": 12,
+    "frame-snapshot": 35,
+    "input": 12,
+    "after": 12,
+    "object": 45
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703272515515,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@c1542bd7872e8bf6958e1fa919189cb9",
+      "timestamp": 20055.481,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@c1542bd7872e8bf6958e1fa919189cb9",
+      "timestamp": 20107.005,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@c1542bd7872e8bf6958e1fa919189cb9",
+      "timestamp": 20116.794,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@b807d6de15f2a4e78798bc1f9b0e66b6",
+      "timestamp": 21448.841,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@b807d6de15f2a4e78798bc1f9b0e66b6",
+      "timestamp": 21475.538,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html",
+      "snapshotName": "after@call@b807d6de15f2a4e78798bc1f9b0e66b6",
+      "timestamp": 23140.194,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html",
+      "snapshotName": "before@call@06de138867e7ed089045855206fe8803",
+      "timestamp": 25681.262,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html",
+      "snapshotName": "input@call@06de138867e7ed089045855206fe8803",
+      "timestamp": 25726.732,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225",
+      "snapshotName": "after@call@06de138867e7ed089045855206fe8803",
+      "timestamp": 26880.823,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&product_list_order=price",
+      "snapshotName": "input@call@180f79be5de9761e131db70aeeb57632",
+      "timestamp": 34871.344,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&product_list_order=price",
+      "snapshotName": "after@call@180f79be5de9761e131db70aeeb57632",
+      "timestamp": 34976.599,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&product_list_order=price",
+      "snapshotName": "before@call@6d5ed984211c4198474890b8a3c49a71",
+      "timestamp": 37407.036,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&product_list_order=price",
+      "snapshotName": "input@call@6d5ed984211c4198474890b8a3c49a71",
+      "timestamp": 37462.352,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&product_list_order=price&product_list_dir=desc",
+      "snapshotName": "after@call@6d5ed984211c4198474890b8a3c49a71",
+      "timestamp": 38653.344,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&product_list_order=price&product_list_dir=desc",
+      "snapshotName": "before@call@098177346d9021eb09e8aca20636cb46",
+      "timestamp": 57726.142,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&product_list_order=price&product_list_dir=desc",
+      "snapshotName": "input@call@098177346d9021eb09e8aca20636cb46",
+      "timestamp": 57779.41,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&p=2&product_list_dir=desc&product_list_order=price",
+      "snapshotName": "after@call@098177346d9021eb09e8aca20636cb46",
+      "timestamp": 59062.745,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&p=2&product_list_dir=desc&product_list_order=price",
+      "snapshotName": "before@call@e0e78e483606b6f891ef34ebe6d1f0f0",
+      "timestamp": 62765.937,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&p=2&product_list_dir=desc&product_list_order=price",
+      "snapshotName": "input@call@e0e78e483606b6f891ef34ebe6d1f0f0",
+      "timestamp": 62811.262,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&p=3&product_list_dir=desc&product_list_order=price",
+      "snapshotName": "after@call@e0e78e483606b6f891ef34ebe6d1f0f0",
+      "timestamp": 64148.63,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&p=3&product_list_dir=desc&product_list_order=price",
+      "snapshotName": "before@call@0d6dd0d3c8244b6c36719fb0f66602f0",
+      "timestamp": 74058.666,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&p=3&product_list_dir=desc&product_list_order=price",
+      "snapshotName": "input@call@0d6dd0d3c8244b6c36719fb0f66602f0",
+      "timestamp": 74095.777,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&p=4&product_list_dir=desc&product_list_order=price",
+      "snapshotName": "after@call@0d6dd0d3c8244b6c36719fb0f66602f0",
+      "timestamp": 75358.27,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&p=4&product_list_dir=desc&product_list_order=price",
+      "snapshotName": "before@call@19e5c14079a042e98db9c79eccfc0e9c",
+      "timestamp": 79145.574,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&p=4&product_list_dir=desc&product_list_order=price",
+      "snapshotName": "input@call@19e5c14079a042e98db9c79eccfc0e9c",
+      "timestamp": 79194.433,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&p=2&product_list_dir=desc&product_list_order=price",
+      "snapshotName": "after@call@19e5c14079a042e98db9c79eccfc0e9c",
+      "timestamp": 79472.267,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&p=2&product_list_dir=desc&product_list_order=price",
+      "snapshotName": "before@call@5325ad8da84dd4500b1dab953cce4e6d",
+      "timestamp": 81923.666,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&p=2&product_list_dir=desc&product_list_order=price",
+      "snapshotName": "input@call@5325ad8da84dd4500b1dab953cce4e6d",
+      "timestamp": 81962.974,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&product_list_dir=desc&product_list_order=price",
+      "snapshotName": "after@call@5325ad8da84dd4500b1dab953cce4e6d",
+      "timestamp": 82993.754,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&product_list_dir=desc&product_list_order=price",
+      "snapshotName": "before@call@45b95e07c424f2fbee98d80a22f2184c",
+      "timestamp": 131364.523,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&product_list_dir=desc&product_list_order=price",
+      "snapshotName": "input@call@45b95e07c424f2fbee98d80a22f2184c",
+      "timestamp": 131421.174,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@64235b6ec426180c37444519eec1ec79",
+      "frameId": "frame@0b4000c926776678f8c7f90701278785",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/cell-phones-accessories/cases-holsters-sleeves.html?cat=225&p=2&product_list_dir=desc&product_list_order=price",
+      "snapshotName": "after@call@45b95e07c424f2fbee98d80a22f2184c",
+      "timestamp": 131727.609,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4e6abd21c2c6f7457b1116fb3d77c0dd",
+      "frameId": "frame@9428629805d6e123323468a1dde9b543",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/torro-cell-phone-case-compatible-with-iphone-13-quality-genuine-leather-cover-with-card-slots-and-horizontal-viewing-stand-black.html",
+      "snapshotName": "before@call@914ceac0b832c6a1121462da1e893a94",
+      "timestamp": 143664.37,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4e6abd21c2c6f7457b1116fb3d77c0dd",
+      "frameId": "frame@9428629805d6e123323468a1dde9b543",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/torro-cell-phone-case-compatible-with-iphone-13-quality-genuine-leather-cover-with-card-slots-and-horizontal-viewing-stand-black.html",
+      "snapshotName": "input@call@914ceac0b832c6a1121462da1e893a94",
+      "timestamp": 143719.707,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4e6abd21c2c6f7457b1116fb3d77c0dd",
+      "frameId": "frame@9428629805d6e123323468a1dde9b543",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/torro-cell-phone-case-compatible-with-iphone-13-quality-genuine-leather-cover-with-card-slots-and-horizontal-viewing-stand-black.html",
+      "snapshotName": "after@call@914ceac0b832c6a1121462da1e893a94",
+      "timestamp": 143800.815,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@6dce1e5e01f027d95b49582cd383df4f",
+      "timestamp": 56116.921,
+      "resource": "page@6dce1e5e01f027d95b49582cd383df4f-1703272570.822606.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_18__page0.jpg",
+      "sha256": "e9cc1b4345e884dc58d8ff2320bcc83df971dcf03b0a9a6a4928e6d3e93a6666",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@da3598cd6b7c95d5cfcd7ae6a3093ca6",
+      "timestamp": 90557.072,
+      "resource": "page@da3598cd6b7c95d5cfcd7ae6a3093ca6-1703272605.26375.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_18__page1.jpg",
+      "sha256": "74f1b31d2915602c6f7b43c890caec1487bacad9a965f6239f434e6d325cb36a",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@74481ebddb00e2e2db2e2a9eb282b898",
+      "timestamp": 92770.73,
+      "resource": "page@74481ebddb00e2e2db2e2a9eb282b898-1703272607.477237.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_18__page2.jpg",
+      "sha256": "88dc8431c0363596a6eaae1a961bdac5f88dfd2fbbf8f9618eeae282c4e3e38b",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@7e97970b35da7daee341cdfe9271b804",
+      "timestamp": 101757.757,
+      "resource": "page@7e97970b35da7daee341cdfe9271b804-1703272616.463471.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_18__page3.jpg",
+      "sha256": "2d6f7c7b9a01e4aefe163a814fe782da5766db33aafeefd4a3db2d494cf0dde1",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@a95daf0c63c8507b129b176bdbe45099",
+      "timestamp": 110451.628,
+      "resource": "page@a95daf0c63c8507b129b176bdbe45099-1703272625.158699.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_18__page4.jpg",
+      "sha256": "364bf391e567c2bb19d8c9b5d82c67c97b7cc5d862825681749d603e9e29fbed",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@3027a89fd7daf31d854645e2772f080e",
+      "timestamp": 113418.754,
+      "resource": "page@3027a89fd7daf31d854645e2772f080e-1703272628.126052.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_18__page5.jpg",
+      "sha256": "b1d064c10e827c5b4d6c5eaa5e5c1b864d2f5a09a8c26083469423e0b4b1411c",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@8d22f0005f70413dcec63da98589f26b",
+      "timestamp": 124596.856,
+      "resource": "page@8d22f0005f70413dcec63da98589f26b-1703272639.301745.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_18__page6.jpg",
+      "sha256": "103d000d5f3d5b49b877ea98c4e4811bc3fa08111637186ac6dc91d2690529cd",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@cd9198b127579fbed84b13c013de26a9",
+      "timestamp": 129710.041,
+      "resource": "page@cd9198b127579fbed84b13c013de26a9-1703272644.415084.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_18__page7.jpg",
+      "sha256": "e79b1bf8c268732d534ee3832fc72f5a0b82e17b66e0aa8ff45bf3a7f5ea4447",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@64235b6ec426180c37444519eec1ec79",
+      "timestamp": 137080.765,
+      "resource": "page@64235b6ec426180c37444519eec1ec79-1703272651.788137.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_18__page8.jpg",
+      "sha256": "bb91533327a37e4d7216363ee97ec388b62e1e3dcfe3f43db7d7e2207986587f",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@71ca29bb59f8dd2f42786c71dda14b75",
+      "timestamp": 138659.518,
+      "resource": "page@71ca29bb59f8dd2f42786c71dda14b75-1703272653.367203.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_18__page9.jpg",
+      "sha256": "43619a8071e859b786e81f1e94b05d93c4b008b4a900ca4d5db24e576c0e99a5",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@83b60dbab9c56d60fa048e19eb7a1155",
+      "timestamp": 138766.042,
+      "resource": "page@83b60dbab9c56d60fa048e19eb7a1155-1703272653.472797.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_18__page10.jpg",
+      "sha256": "4c6644b98d2cf1b86ba2158ed472145aeaceef8515a6145d5be7032dcd51b14a",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@4e6abd21c2c6f7457b1116fb3d77c0dd",
+      "timestamp": 152346.503,
+      "resource": "page@4e6abd21c2c6f7457b1116fb3d77c0dd-1703272667.052773.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_18__page11.jpg",
+      "sha256": "4fa8b7051be6b9690fa3480fc813114493d96c86b487a6d09c1770be7873fe5f",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_18__page11.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

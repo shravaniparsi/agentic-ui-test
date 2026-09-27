@@ -1,0 +1,591 @@
+{
+  "instance_id": "vwa_shopping_258",
+  "domain": "shopping",
+  "filename_task_id": 258,
+  "source_url": "https://drive.usercontent.google.com/download?id=1UQS869S60RAW3_KJvV4FNAr1AmMCV35X&export=download&confirm=t",
+  "source_file_id": "1UQS869S60RAW3_KJvV4FNAr1AmMCV35X",
+  "archive_sha256": "5c984f839c9abfc01a2659e25732efa590ad1eb2815d3414fd02f718d638c63a",
+  "archive_bytes": 17470362,
+  "event_types": {
+    "context-options": 1,
+    "event": 180,
+    "screencast-frame": 476,
+    "before": 15,
+    "frame-snapshot": 45,
+    "input": 15,
+    "after": 15
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703281353154,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/novelty-more/clothing.html?p=13",
+      "snapshotName": "before@call@e14310ad7825ab3913c0a5a2b1d26d19",
+      "timestamp": 25602.41,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/novelty-more/clothing.html?p=13",
+      "snapshotName": "input@call@e14310ad7825ab3913c0a5a2b1d26d19",
+      "timestamp": 25651,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dragon-ball-z-son-goku-t-shirt-tee-shirt.html",
+      "snapshotName": "after@call@e14310ad7825ab3913c0a5a2b1d26d19",
+      "timestamp": 26903.785,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/novelty-more/clothing.html?p=13",
+      "snapshotName": "before@call@c470f4e6928eb47ac39a41bf81323d4f",
+      "timestamp": 33857.041,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/novelty-more/clothing.html?p=13",
+      "snapshotName": "input@call@c470f4e6928eb47ac39a41bf81323d4f",
+      "timestamp": 33896.78,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/novelty-more/clothing.html?p=13",
+      "snapshotName": "after@call@c470f4e6928eb47ac39a41bf81323d4f",
+      "timestamp": 33908.142,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/novelty-more/clothing.html?p=13",
+      "snapshotName": "before@call@51509c07b1d9bc9da8d758047c84c900",
+      "timestamp": 34259.964,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/novelty-more/clothing.html?p=13",
+      "snapshotName": "input@call@51509c07b1d9bc9da8d758047c84c900",
+      "timestamp": 34283.009,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/novelty-more/clothing.html?p=13",
+      "snapshotName": "after@call@51509c07b1d9bc9da8d758047c84c900",
+      "timestamp": 34293.592,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/novelty-more/clothing.html?p=13",
+      "snapshotName": "before@call@872ca854a1743a543d8ca0b18609ec74",
+      "timestamp": 34909.065,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/novelty-more/clothing.html?p=13",
+      "snapshotName": "input@call@872ca854a1743a543d8ca0b18609ec74",
+      "timestamp": 34969.567,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dragon-ball-z-son-goku-t-shirt-tee-shirt.html",
+      "snapshotName": "after@call@872ca854a1743a543d8ca0b18609ec74",
+      "timestamp": 35419.954,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dragon-ball-z-son-goku-t-shirt-tee-shirt.html",
+      "snapshotName": "before@call@a17a467c540dc88e6bcb1d3e1fd7718e",
+      "timestamp": 37124.206,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dragon-ball-z-son-goku-t-shirt-tee-shirt.html",
+      "snapshotName": "input@call@a17a467c540dc88e6bcb1d3e1fd7718e",
+      "timestamp": 37176.177,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dragon-ball-z-son-goku-t-shirt-tee-shirt.html",
+      "snapshotName": "after@call@a17a467c540dc88e6bcb1d3e1fd7718e",
+      "timestamp": 37271.094,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dragon-ball-z-son-goku-t-shirt-tee-shirt.html",
+      "snapshotName": "before@call@f24af8bf4397f357cd23bcb183294a8d",
+      "timestamp": 38043.491,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dragon-ball-z-son-goku-t-shirt-tee-shirt.html",
+      "snapshotName": "input@call@f24af8bf4397f357cd23bcb183294a8d",
+      "timestamp": 38103.356,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dragon-ball-z-son-goku-t-shirt-tee-shirt.html",
+      "snapshotName": "after@call@f24af8bf4397f357cd23bcb183294a8d",
+      "timestamp": 38168.545,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dragon-ball-z-son-goku-t-shirt-tee-shirt.html",
+      "snapshotName": "before@call@5af6202d14931580901c7ba1d732ea18",
+      "timestamp": 40045.45,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dragon-ball-z-son-goku-t-shirt-tee-shirt.html",
+      "snapshotName": "input@call@5af6202d14931580901c7ba1d732ea18",
+      "timestamp": 40084.305,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dragon-ball-z-son-goku-t-shirt-tee-shirt.html",
+      "snapshotName": "after@call@5af6202d14931580901c7ba1d732ea18",
+      "timestamp": 40113.03,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dragon-ball-z-son-goku-t-shirt-tee-shirt.html",
+      "snapshotName": "before@call@c39670f6e682730e5f393721f60647f4",
+      "timestamp": 45299.082,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dragon-ball-z-son-goku-t-shirt-tee-shirt.html",
+      "snapshotName": "input@call@c39670f6e682730e5f393721f60647f4",
+      "timestamp": 45351.657,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dragon-ball-z-son-goku-t-shirt-tee-shirt.html",
+      "snapshotName": "after@call@c39670f6e682730e5f393721f60647f4",
+      "timestamp": 45387.347,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dragon-ball-z-son-goku-t-shirt-tee-shirt.html",
+      "snapshotName": "before@call@7a8dd5561f84a681164a18ed96812760",
+      "timestamp": 46879.895,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dragon-ball-z-son-goku-t-shirt-tee-shirt.html",
+      "snapshotName": "input@call@7a8dd5561f84a681164a18ed96812760",
+      "timestamp": 46903.636,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/",
+      "snapshotName": "after@call@7a8dd5561f84a681164a18ed96812760",
+      "timestamp": 48208.485,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "before@call@3c0aa5a3fb40bdbaeb6bb5e2ed9931eb",
+      "timestamp": 55139.951,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "input@call@3c0aa5a3fb40bdbaeb6bb5e2ed9931eb",
+      "timestamp": 55183.185,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "after@call@3c0aa5a3fb40bdbaeb6bb5e2ed9931eb",
+      "timestamp": 55205.318,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "before@call@2947578d7b91e4510327373e584a1b80",
+      "timestamp": 59368.463,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "input@call@2947578d7b91e4510327373e584a1b80",
+      "timestamp": 59421.523,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "after@call@2947578d7b91e4510327373e584a1b80",
+      "timestamp": 59446.861,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/novelty-more/clothing.html?p=13",
+      "snapshotName": "before@call@c84a97cd6f89a8b490601c08966513b5",
+      "timestamp": 75601.824,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/clothing-shoes-jewelry/novelty-more/clothing.html?p=13",
+      "snapshotName": "input@call@c84a97cd6f89a8b490601c08966513b5",
+      "timestamp": 75650.105,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mom-come-pick-me-up-hoodie-sweatshirt-with-word-on-back-trendy-funny-positive-word-on-trendy-hoodie-tumblr-hoodie-quotes-shirts-for-men.html",
+      "snapshotName": "after@call@c84a97cd6f89a8b490601c08966513b5",
+      "timestamp": 76946.696,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mom-come-pick-me-up-hoodie-sweatshirt-with-word-on-back-trendy-funny-positive-word-on-trendy-hoodie-tumblr-hoodie-quotes-shirts-for-men.html",
+      "snapshotName": "before@call@2177d24edfc21adf2430728e79226c51",
+      "timestamp": 79727.473,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mom-come-pick-me-up-hoodie-sweatshirt-with-word-on-back-trendy-funny-positive-word-on-trendy-hoodie-tumblr-hoodie-quotes-shirts-for-men.html",
+      "snapshotName": "input@call@2177d24edfc21adf2430728e79226c51",
+      "timestamp": 79782.497,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mom-come-pick-me-up-hoodie-sweatshirt-with-word-on-back-trendy-funny-positive-word-on-trendy-hoodie-tumblr-hoodie-quotes-shirts-for-men.html",
+      "snapshotName": "after@call@2177d24edfc21adf2430728e79226c51",
+      "timestamp": 79806.827,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mom-come-pick-me-up-hoodie-sweatshirt-with-word-on-back-trendy-funny-positive-word-on-trendy-hoodie-tumblr-hoodie-quotes-shirts-for-men.html",
+      "snapshotName": "before@call@6b42beb867c01836491fbb7592a42640",
+      "timestamp": 82269.849,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mom-come-pick-me-up-hoodie-sweatshirt-with-word-on-back-trendy-funny-positive-word-on-trendy-hoodie-tumblr-hoodie-quotes-shirts-for-men.html",
+      "snapshotName": "input@call@6b42beb867c01836491fbb7592a42640",
+      "timestamp": 82320.389,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mom-come-pick-me-up-hoodie-sweatshirt-with-word-on-back-trendy-funny-positive-word-on-trendy-hoodie-tumblr-hoodie-quotes-shirts-for-men.html",
+      "snapshotName": "after@call@6b42beb867c01836491fbb7592a42640",
+      "timestamp": 82355.498,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mom-come-pick-me-up-hoodie-sweatshirt-with-word-on-back-trendy-funny-positive-word-on-trendy-hoodie-tumblr-hoodie-quotes-shirts-for-men.html",
+      "snapshotName": "before@call@d8e77cd911285e48c46db4064ba3bd2c",
+      "timestamp": 84912.736,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mom-come-pick-me-up-hoodie-sweatshirt-with-word-on-back-trendy-funny-positive-word-on-trendy-hoodie-tumblr-hoodie-quotes-shirts-for-men.html",
+      "snapshotName": "input@call@d8e77cd911285e48c46db4064ba3bd2c",
+      "timestamp": 84966.841,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "frameId": "frame@ba0e22fbd3bdccb41faad25af0018ea5",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/",
+      "snapshotName": "after@call@d8e77cd911285e48c46db4064ba3bd2c",
+      "timestamp": 86234.971,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@33802b2d5a63584694cd1e3aea791b4f",
+      "timestamp": 89403.999,
+      "resource": "page@33802b2d5a63584694cd1e3aea791b4f-1703281441.583167.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_258__page0.jpg",
+      "sha256": "8742815057b90d617ca55d6e27d7101e3c2fdb8e7435f61c1478601e84bda624",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_258__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

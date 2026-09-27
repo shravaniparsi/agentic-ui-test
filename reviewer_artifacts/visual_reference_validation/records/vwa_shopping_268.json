@@ -1,0 +1,159 @@
+{
+  "instance_id": "vwa_shopping_268",
+  "domain": "shopping",
+  "filename_task_id": 268,
+  "source_url": "https://drive.usercontent.google.com/download?id=1v3aPOuDp-X9ear3G6bUKxLbmbKcgraHm&export=download&confirm=t",
+  "source_file_id": "1v3aPOuDp-X9ear3G6bUKxLbmbKcgraHm",
+  "archive_sha256": "17101071d4d7782f7328bdbe0e5880adeada40c0abe1d5ed1257e4bfbdae6dc0",
+  "archive_bytes": 50924694,
+  "event_types": {
+    "context-options": 1,
+    "event": 73,
+    "screencast-frame": 960,
+    "before": 3,
+    "frame-snapshot": 9,
+    "input": 3,
+    "after": 3
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703282049652,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@6591664e18cd2e62fae0db8bedfbeaa1",
+      "frameId": "frame@e2ea251622760dee874cbfe6170af730",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/beauty-personal-care/skin-care/maternity.html?p=6&product_list_limit=36&product_list_order=name",
+      "snapshotName": "before@call@c63d46f5e9b23719fccd521bbf049a6e",
+      "timestamp": 372204.474,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6591664e18cd2e62fae0db8bedfbeaa1",
+      "frameId": "frame@e2ea251622760dee874cbfe6170af730",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/beauty-personal-care/skin-care/maternity.html?p=6&product_list_limit=36&product_list_order=name",
+      "snapshotName": "input@call@c63d46f5e9b23719fccd521bbf049a6e",
+      "timestamp": 372272.164,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6591664e18cd2e62fae0db8bedfbeaa1",
+      "frameId": "frame@e2ea251622760dee874cbfe6170af730",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/stretch-mark-repairing-cream-for-pregnancy-maternity-stretch-mark-prevention-scar-remover-cream-hypoallergenic-paraben-free-skincare-gifts-for-moms-fades-fat-lines-growth-lines-repair-cream-10g.html",
+      "snapshotName": "after@call@c63d46f5e9b23719fccd521bbf049a6e",
+      "timestamp": 373923.589,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6591664e18cd2e62fae0db8bedfbeaa1",
+      "frameId": "frame@e2ea251622760dee874cbfe6170af730",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/stretch-mark-repairing-cream-for-pregnancy-maternity-stretch-mark-prevention-scar-remover-cream-hypoallergenic-paraben-free-skincare-gifts-for-moms-fades-fat-lines-growth-lines-repair-cream-10g.html",
+      "snapshotName": "before@call@d2604270d001abdf667d95c9ec05bb3d",
+      "timestamp": 380182.39,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6591664e18cd2e62fae0db8bedfbeaa1",
+      "frameId": "frame@e2ea251622760dee874cbfe6170af730",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/stretch-mark-repairing-cream-for-pregnancy-maternity-stretch-mark-prevention-scar-remover-cream-hypoallergenic-paraben-free-skincare-gifts-for-moms-fades-fat-lines-growth-lines-repair-cream-10g.html",
+      "snapshotName": "input@call@d2604270d001abdf667d95c9ec05bb3d",
+      "timestamp": 380236.059,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6591664e18cd2e62fae0db8bedfbeaa1",
+      "frameId": "frame@e2ea251622760dee874cbfe6170af730",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/stretch-mark-repairing-cream-for-pregnancy-maternity-stretch-mark-prevention-scar-remover-cream-hypoallergenic-paraben-free-skincare-gifts-for-moms-fades-fat-lines-growth-lines-repair-cream-10g.html",
+      "snapshotName": "after@call@d2604270d001abdf667d95c9ec05bb3d",
+      "timestamp": 380251.752,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6591664e18cd2e62fae0db8bedfbeaa1",
+      "frameId": "frame@e2ea251622760dee874cbfe6170af730",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/beauty-personal-care/skin-care/maternity.html?p=6&product_list_limit=36&product_list_order=name",
+      "snapshotName": "before@call@ba2445b351d628b94141eed2923a90ff",
+      "timestamp": 386295.384,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6591664e18cd2e62fae0db8bedfbeaa1",
+      "frameId": "frame@e2ea251622760dee874cbfe6170af730",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/beauty-personal-care/skin-care/maternity.html?p=6&product_list_limit=36&product_list_order=name",
+      "snapshotName": "input@call@ba2445b351d628b94141eed2923a90ff",
+      "timestamp": 386333.575,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6591664e18cd2e62fae0db8bedfbeaa1",
+      "frameId": "frame@e2ea251622760dee874cbfe6170af730",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/stretch-mark-scar-removal-equipment-professional-long-pulse-diode-system.html",
+      "snapshotName": "after@call@ba2445b351d628b94141eed2923a90ff",
+      "timestamp": 387654.382,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@6591664e18cd2e62fae0db8bedfbeaa1",
+      "timestamp": 450699.164,
+      "resource": "page@6591664e18cd2e62fae0db8bedfbeaa1-1703282499.323344.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_268__page0.jpg",
+      "sha256": "1c59e64d72e1f8dae81dfd204d996efb169306bbfd9cdc27b804c697573597be",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_268__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

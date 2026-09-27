@@ -1,0 +1,136 @@
+{
+  "instance_id": "vwa_reddit_207",
+  "domain": "reddit",
+  "filename_task_id": 207,
+  "source_url": "https://drive.usercontent.google.com/download?id=1P8LqlAdRDZ165STQZfEqJEEnGkqz0F89&export=download&confirm=t",
+  "source_file_id": "1P8LqlAdRDZ165STQZfEqJEEnGkqz0F89",
+  "archive_sha256": "fa8523c23b28896348594765a56320d345734545802fd159d74a0fecc59ab382",
+  "archive_bytes": 5318243,
+  "event_types": {
+    "context-options": 1,
+    "event": 84,
+    "screencast-frame": 98,
+    "object": 34,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704270407922,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@3a9765939d962b0fcd9a34a3128b7ae5",
+      "frameId": "frame@47f8d42e26b7c1865200d001a07335ca",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/EarthPorn/most_commented?t=all&next%5BcommentCount%5D=89&next%5Bid%5D=76289",
+      "snapshotName": "before@call@c1b32eaabb11a16ef8be3bcae2ae5a38",
+      "timestamp": 13752.305,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a9765939d962b0fcd9a34a3128b7ae5",
+      "frameId": "frame@47f8d42e26b7c1865200d001a07335ca",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/EarthPorn/most_commented?t=all&next%5BcommentCount%5D=89&next%5Bid%5D=76289",
+      "snapshotName": "input@call@c1b32eaabb11a16ef8be3bcae2ae5a38",
+      "timestamp": 13829.938,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a9765939d962b0fcd9a34a3128b7ae5",
+      "frameId": "frame@47f8d42e26b7c1865200d001a07335ca",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/EarthPorn/54420/skull-rock-at-joshua-tree-national-park-ca-3120x4160-oc",
+      "snapshotName": "after@call@c1b32eaabb11a16ef8be3bcae2ae5a38",
+      "timestamp": 14766.780999999999,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a9765939d962b0fcd9a34a3128b7ae5",
+      "frameId": "frame@47f8d42e26b7c1865200d001a07335ca",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/EarthPorn/54420/skull-rock-at-joshua-tree-national-park-ca-3120x4160-oc",
+      "snapshotName": "before@call@b2b137976c4b02f0b27b3b62fc1f07d8",
+      "timestamp": 19476.666,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a9765939d962b0fcd9a34a3128b7ae5",
+      "frameId": "frame@47f8d42e26b7c1865200d001a07335ca",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/EarthPorn/54420/skull-rock-at-joshua-tree-national-park-ca-3120x4160-oc",
+      "snapshotName": "input@call@b2b137976c4b02f0b27b3b62fc1f07d8",
+      "timestamp": 19558.523,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3a9765939d962b0fcd9a34a3128b7ae5",
+      "frameId": "frame@47f8d42e26b7c1865200d001a07335ca",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/EarthPorn/54420/skull-rock-at-joshua-tree-national-park-ca-3120x4160-oc",
+      "snapshotName": "after@call@b2b137976c4b02f0b27b3b62fc1f07d8",
+      "timestamp": 19588.216,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@2c0be1bb2908fa71972e499f81b558f8",
+      "timestamp": 11949.313,
+      "resource": "page@2c0be1bb2908fa71972e499f81b558f8-1704270419.193781.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_207__page0.jpg",
+      "sha256": "83503c84369903adb49bc9e86b06e60fa523117e758701c217461e143ded6ff2",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@3a9765939d962b0fcd9a34a3128b7ae5",
+      "timestamp": 21388.091,
+      "resource": "page@3a9765939d962b0fcd9a34a3128b7ae5-1704270428.63538.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_207__page1.jpg",
+      "sha256": "b9e21a5443d50499cec6dcf03413b378c9f9e69266912a3f6d0dae02c6e6461b",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_207__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

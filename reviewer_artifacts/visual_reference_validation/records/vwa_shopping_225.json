@@ -1,0 +1,123 @@
+{
+  "instance_id": "vwa_shopping_225",
+  "domain": "shopping",
+  "filename_task_id": 225,
+  "source_url": "https://drive.usercontent.google.com/download?id=16uy6xxP78OnBSBPSGDxSMazWHsMIw1fn&export=download&confirm=t",
+  "source_file_id": "16uy6xxP78OnBSBPSGDxSMazWHsMIw1fn",
+  "archive_sha256": "f3fd82bae8ff3b989f10d9634eb637cf453b55963f83da371b9b7d6068be6c2e",
+  "archive_bytes": 3749764,
+  "event_types": {
+    "context-options": 1,
+    "event": 27,
+    "screencast-frame": 83,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703279398432,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@66c6d0e1fd261a8a1f7953b793d56b6f",
+      "frameId": "frame@f2eebbc68ff617a2c8d769401aa366a2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/beauty-personal-care/tools-accessories/mirrors.html?p=3",
+      "snapshotName": "before@call@bfc788dbd300c7c54e672341edc45805",
+      "timestamp": 10823.089,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@66c6d0e1fd261a8a1f7953b793d56b6f",
+      "frameId": "frame@f2eebbc68ff617a2c8d769401aa366a2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/beauty-personal-care/tools-accessories/mirrors.html?p=3",
+      "snapshotName": "input@call@bfc788dbd300c7c54e672341edc45805",
+      "timestamp": 10882.638,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@66c6d0e1fd261a8a1f7953b793d56b6f",
+      "frameId": "frame@f2eebbc68ff617a2c8d769401aa366a2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/frcolor-3pcs-hand-mirror-heart-handheld-mirror-cosmetic-mirror-with-handle-for-women-travel-hairdresser-salon.html",
+      "snapshotName": "after@call@bfc788dbd300c7c54e672341edc45805",
+      "timestamp": 12528.137,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@66c6d0e1fd261a8a1f7953b793d56b6f",
+      "frameId": "frame@f2eebbc68ff617a2c8d769401aa366a2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/frcolor-3pcs-hand-mirror-heart-handheld-mirror-cosmetic-mirror-with-handle-for-women-travel-hairdresser-salon.html",
+      "snapshotName": "before@call@14e56b70e1eb50b13235749019b0ee39",
+      "timestamp": 16998.388,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@66c6d0e1fd261a8a1f7953b793d56b6f",
+      "frameId": "frame@f2eebbc68ff617a2c8d769401aa366a2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/frcolor-3pcs-hand-mirror-heart-handheld-mirror-cosmetic-mirror-with-handle-for-women-travel-hairdresser-salon.html",
+      "snapshotName": "input@call@14e56b70e1eb50b13235749019b0ee39",
+      "timestamp": 17031.457,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@66c6d0e1fd261a8a1f7953b793d56b6f",
+      "frameId": "frame@f2eebbc68ff617a2c8d769401aa366a2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/frcolor-3pcs-hand-mirror-heart-handheld-mirror-cosmetic-mirror-with-handle-for-women-travel-hairdresser-salon.html",
+      "snapshotName": "after@call@14e56b70e1eb50b13235749019b0ee39",
+      "timestamp": 17064.661,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@66c6d0e1fd261a8a1f7953b793d56b6f",
+      "timestamp": 20646.643,
+      "resource": "page@66c6d0e1fd261a8a1f7953b793d56b6f-1703279418.218645.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_225__page0.jpg",
+      "sha256": "d081309ab631eda4efc2cc59486cd031e98b98795858dbbd43d85b5de720be9b",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_225__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

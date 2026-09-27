@@ -1,0 +1,208 @@
+{
+  "instance_id": "vwa_shopping_37",
+  "domain": "shopping",
+  "filename_task_id": 37,
+  "source_url": "https://drive.usercontent.google.com/download?id=1kY7_f1MWxupdzTRD2EMb7N5HKKaoFObs&export=download&confirm=t",
+  "source_file_id": "1kY7_f1MWxupdzTRD2EMb7N5HKKaoFObs",
+  "archive_sha256": "b4135bd730b4661b243fc8acc7a7c016057699952459dfb3b9d4192b1b036905",
+  "archive_bytes": 12876076,
+  "event_types": {
+    "context-options": 1,
+    "event": 47,
+    "screencast-frame": 168,
+    "before": 4,
+    "frame-snapshot": 12,
+    "input": 4,
+    "after": 4,
+    "object": 8
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703274958457,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@331ed7d6f23844f0be29004bea7265a9",
+      "frameId": "frame@eda5abc80718b7ac2f2b518ec31ac2e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/bedding/blankets-throws.html",
+      "snapshotName": "before@call@5b33ecab23d18b33cc10f03be2f9a76f",
+      "timestamp": 21384.217,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@331ed7d6f23844f0be29004bea7265a9",
+      "frameId": "frame@eda5abc80718b7ac2f2b518ec31ac2e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/bedding/blankets-throws.html",
+      "snapshotName": "input@call@5b33ecab23d18b33cc10f03be2f9a76f",
+      "timestamp": 21434.418,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@331ed7d6f23844f0be29004bea7265a9",
+      "frameId": "frame@eda5abc80718b7ac2f2b518ec31ac2e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/peace-nest-lightweight-down-and-feather-fiber-throw-blanket-soft-couch-throw-for-indoor-and-outdoor-use-50-x70-navy-blue.html",
+      "snapshotName": "after@call@5b33ecab23d18b33cc10f03be2f9a76f",
+      "timestamp": 22815.532,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@331ed7d6f23844f0be29004bea7265a9",
+      "frameId": "frame@eda5abc80718b7ac2f2b518ec31ac2e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/peace-nest-lightweight-down-and-feather-fiber-throw-blanket-soft-couch-throw-for-indoor-and-outdoor-use-50-x70-navy-blue.html",
+      "snapshotName": "before@call@938fec35694285d9be914cca414a54e1",
+      "timestamp": 29282.542,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@331ed7d6f23844f0be29004bea7265a9",
+      "frameId": "frame@eda5abc80718b7ac2f2b518ec31ac2e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/peace-nest-lightweight-down-and-feather-fiber-throw-blanket-soft-couch-throw-for-indoor-and-outdoor-use-50-x70-navy-blue.html",
+      "snapshotName": "input@call@938fec35694285d9be914cca414a54e1",
+      "timestamp": 29316.056,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@331ed7d6f23844f0be29004bea7265a9",
+      "frameId": "frame@eda5abc80718b7ac2f2b518ec31ac2e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/peace-nest-lightweight-down-and-feather-fiber-throw-blanket-soft-couch-throw-for-indoor-and-outdoor-use-50-x70-navy-blue.html",
+      "snapshotName": "after@call@938fec35694285d9be914cca414a54e1",
+      "timestamp": 29331.794,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@331ed7d6f23844f0be29004bea7265a9",
+      "frameId": "frame@eda5abc80718b7ac2f2b518ec31ac2e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/peace-nest-lightweight-down-and-feather-fiber-throw-blanket-soft-couch-throw-for-indoor-and-outdoor-use-50-x70-navy-blue.html",
+      "snapshotName": "before@call@d5135ac52edf792feec91be1ce98d05d",
+      "timestamp": 31575.165,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@331ed7d6f23844f0be29004bea7265a9",
+      "frameId": "frame@eda5abc80718b7ac2f2b518ec31ac2e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/peace-nest-lightweight-down-and-feather-fiber-throw-blanket-soft-couch-throw-for-indoor-and-outdoor-use-50-x70-navy-blue.html",
+      "snapshotName": "input@call@d5135ac52edf792feec91be1ce98d05d",
+      "timestamp": 31598.77,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@331ed7d6f23844f0be29004bea7265a9",
+      "frameId": "frame@eda5abc80718b7ac2f2b518ec31ac2e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/peace-nest-lightweight-down-and-feather-fiber-throw-blanket-soft-couch-throw-for-indoor-and-outdoor-use-50-x70-navy-blue.html",
+      "snapshotName": "after@call@d5135ac52edf792feec91be1ce98d05d",
+      "timestamp": 31628.667,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@331ed7d6f23844f0be29004bea7265a9",
+      "frameId": "frame@eda5abc80718b7ac2f2b518ec31ac2e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/peace-nest-lightweight-down-and-feather-fiber-throw-blanket-soft-couch-throw-for-indoor-and-outdoor-use-50-x70-navy-blue.html",
+      "snapshotName": "before@call@ee753b69ea20f08b41a6b849b8216cea",
+      "timestamp": 31920.112,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@331ed7d6f23844f0be29004bea7265a9",
+      "frameId": "frame@eda5abc80718b7ac2f2b518ec31ac2e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/peace-nest-lightweight-down-and-feather-fiber-throw-blanket-soft-couch-throw-for-indoor-and-outdoor-use-50-x70-navy-blue.html",
+      "snapshotName": "input@call@ee753b69ea20f08b41a6b849b8216cea",
+      "timestamp": 31950.302,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@331ed7d6f23844f0be29004bea7265a9",
+      "frameId": "frame@eda5abc80718b7ac2f2b518ec31ac2e1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/peace-nest-lightweight-down-and-feather-fiber-throw-blanket-soft-couch-throw-for-indoor-and-outdoor-use-50-x70-navy-blue.html",
+      "snapshotName": "after@call@ee753b69ea20f08b41a6b849b8216cea",
+      "timestamp": 31960.075,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@ca2a1416bd89e22262b26eeb3c7eab74",
+      "timestamp": 27283.389,
+      "resource": "page@ca2a1416bd89e22262b26eeb3c7eab74-1703274984.940333.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_37__page0.jpg",
+      "sha256": "ed7ccf8c5ee6cab674ca1601520dd400b43622e0323318e64cbeca4e626d075b",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@331ed7d6f23844f0be29004bea7265a9",
+      "timestamp": 35353.435,
+      "resource": "page@331ed7d6f23844f0be29004bea7265a9-1703274993.006549.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_37__page1.jpg",
+      "sha256": "475b280cb8bf89279f7cd5b5b76c751cc84211c41a756cabcb73de6bb364cb30",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_37__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,87 @@
+{
+  "instance_id": "vwa_shopping_141",
+  "domain": "shopping",
+  "filename_task_id": 141,
+  "source_url": "https://drive.usercontent.google.com/download?id=1fspQdjmJr8lnyBP2LGgdSnTneTLdyVoG&export=download&confirm=t",
+  "source_file_id": "1fspQdjmJr8lnyBP2LGgdSnTneTLdyVoG",
+  "archive_sha256": "4a23f392c10dfca5ba292eed34505a16aa15a8e2d5957ccf21646cfceae96c12",
+  "archive_bytes": 4706098,
+  "event_types": {
+    "context-options": 1,
+    "event": 27,
+    "screencast-frame": 85,
+    "before": 1,
+    "frame-snapshot": 3,
+    "input": 1,
+    "after": 1
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703285569018,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@46e2784f9f34bf856e3fa463c31c03ee",
+      "frameId": "frame@4494a6524bc2c15708a06a2cfd3c2d08",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/beauty-personal-care/oral-care/toothbrushes-accessories.html",
+      "snapshotName": "before@call@f8bcc74fe53c53dfdec10070b905bc79",
+      "timestamp": 9010.048,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@46e2784f9f34bf856e3fa463c31c03ee",
+      "frameId": "frame@4494a6524bc2c15708a06a2cfd3c2d08",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/beauty-personal-care/oral-care/toothbrushes-accessories.html",
+      "snapshotName": "input@call@f8bcc74fe53c53dfdec10070b905bc79",
+      "timestamp": 9060.397,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@46e2784f9f34bf856e3fa463c31c03ee",
+      "frameId": "frame@4494a6524bc2c15708a06a2cfd3c2d08",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wipply-toothbrush-box-outdoor-home-portable-cartoon-wash-cup-towel-toothbrush-toothpaste-storage-box-towel-toothbrush-holder-case-outdoor-travel-camping-toothpaste-multi-cap-storage-case-bathroom-tumb.html",
+      "snapshotName": "after@call@f8bcc74fe53c53dfdec10070b905bc79",
+      "timestamp": 10614.241,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@46e2784f9f34bf856e3fa463c31c03ee",
+      "timestamp": 15804.034,
+      "resource": "page@46e2784f9f34bf856e3fa463c31c03ee-1703285584.280729.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_141__page0.jpg",
+      "sha256": "beb21bec56eb22bdb51a37a7a9fff6f231235e2276784cb58b0c34fc21c2a21c",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_141__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

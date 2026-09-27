@@ -1,0 +1,148 @@
+{
+  "instance_id": "vwa_shopping_297",
+  "domain": "shopping",
+  "filename_task_id": 297,
+  "source_url": "https://drive.usercontent.google.com/download?id=1sHMfqFlsggjoF31uh6Vh0WLbGT-Pqa-7&export=download&confirm=t",
+  "source_file_id": "1sHMfqFlsggjoF31uh6Vh0WLbGT-Pqa-7",
+  "archive_sha256": "ef30483480102e83431becbb20778b3dbe5a4deeb04fd3f32bb67f37f3080dab",
+  "archive_bytes": 7371332,
+  "event_types": {
+    "context-options": 1,
+    "event": 50,
+    "screencast-frame": 95,
+    "before": 3,
+    "frame-snapshot": 8,
+    "input": 3,
+    "after": 3,
+    "object": 6
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703283395037,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@b8073ce58bb25d6bfee704dcf4850469",
+      "frameId": "frame@fe060882f5a13c962b3af56e6e7fc250",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@0742cf308ab0f7aeebbb79922ae05178",
+      "timestamp": 13128.153,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b8073ce58bb25d6bfee704dcf4850469",
+      "frameId": "frame@fe060882f5a13c962b3af56e6e7fc250",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@0742cf308ab0f7aeebbb79922ae05178",
+      "timestamp": 13177.233,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b8073ce58bb25d6bfee704dcf4850469",
+      "frameId": "frame@fe060882f5a13c962b3af56e6e7fc250",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@0742cf308ab0f7aeebbb79922ae05178",
+      "timestamp": 13233.308,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b8073ce58bb25d6bfee704dcf4850469",
+      "frameId": "frame@fe060882f5a13c962b3af56e6e7fc250",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@d887dc16b0bd57132f5750e1ebe6e469",
+      "timestamp": 15111.25,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b8073ce58bb25d6bfee704dcf4850469",
+      "frameId": "frame@fe060882f5a13c962b3af56e6e7fc250",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@d887dc16b0bd57132f5750e1ebe6e469",
+      "timestamp": 15121.44,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b8073ce58bb25d6bfee704dcf4850469",
+      "frameId": "frame@fe060882f5a13c962b3af56e6e7fc250",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=champion+hoodie",
+      "snapshotName": "before@call@6c1d1f4a4dbdb287f58c7b7b70c31fdc",
+      "timestamp": 20542.351,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b8073ce58bb25d6bfee704dcf4850469",
+      "frameId": "frame@fe060882f5a13c962b3af56e6e7fc250",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=champion+hoodie",
+      "snapshotName": "input@call@6c1d1f4a4dbdb287f58c7b7b70c31fdc",
+      "timestamp": 20591.154,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b8073ce58bb25d6bfee704dcf4850469",
+      "frameId": "frame@fe060882f5a13c962b3af56e6e7fc250",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/champion-hoodie-big-and-tall-hoodies-for-men-mens-hoodies-zip-up-hoodie.html",
+      "snapshotName": "after@call@6c1d1f4a4dbdb287f58c7b7b70c31fdc",
+      "timestamp": 22133.36,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@b8073ce58bb25d6bfee704dcf4850469",
+      "timestamp": 26097.399,
+      "resource": "page@b8073ce58bb25d6bfee704dcf4850469-1703283420.597636.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_297__page0.jpg",
+      "sha256": "222936a70d1eb34bcdef49204b4626b0928d5b6efb5fbbfc543d7ba0f5fad6cc",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_297__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

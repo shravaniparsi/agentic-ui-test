@@ -1,0 +1,47 @@
+{
+  "instance_id": "vwa_shopping_370",
+  "domain": "shopping",
+  "filename_task_id": 370,
+  "source_url": "https://drive.usercontent.google.com/download?id=1tOIvYmurXcXubQW0BNENUWI4MEPKoB-q&export=download&confirm=t",
+  "source_file_id": "1tOIvYmurXcXubQW0BNENUWI4MEPKoB-q",
+  "archive_sha256": "c4e34e835bb4e69d6f34fa5305ca1d32aff98baf80a2796391892297bfcd4fe5",
+  "archive_bytes": 10461949,
+  "event_types": {
+    "context-options": 1,
+    "event": 127,
+    "screencast-frame": 187,
+    "object": 7
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703208877842,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [],
+  "final_frames": [
+    {
+      "page_id": "page@cd76319bd9734d9d5356b9bd6a6202c2",
+      "timestamp": 41845.039,
+      "resource": "page@cd76319bd9734d9d5356b9bd6a6202c2-1703208919.137986.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_370__page0.jpg",
+      "sha256": "c846061f5d3209a8ab5d0a64d0d401fe07038089fab11b87564de972012697a0",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_370__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

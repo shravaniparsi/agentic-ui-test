@@ -1,0 +1,123 @@
+{
+  "instance_id": "vwa_shopping_140",
+  "domain": "shopping",
+  "filename_task_id": 140,
+  "source_url": "https://drive.usercontent.google.com/download?id=1F8dIJC5Zs-kmi_SMqb9AqtUGBWuw9LKD&export=download&confirm=t",
+  "source_file_id": "1F8dIJC5Zs-kmi_SMqb9AqtUGBWuw9LKD",
+  "archive_sha256": "65b1eb5c21c62078726b0777527295500e720221a5552d2eca1b7920cc6660e8",
+  "archive_bytes": 7063875,
+  "event_types": {
+    "context-options": 1,
+    "event": 45,
+    "screencast-frame": 157,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703285520042,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@f75c9215534c79523deaf9ea96528d29",
+      "frameId": "frame@01f473b83cfea02babe60f0c80315ad3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/beauty-personal-care/oral-care/toothbrushes-accessories.html",
+      "snapshotName": "before@call@690ef868a40a77d931cc5a34eaef3fc0",
+      "timestamp": 21485.977,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f75c9215534c79523deaf9ea96528d29",
+      "frameId": "frame@01f473b83cfea02babe60f0c80315ad3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/beauty-personal-care/oral-care/toothbrushes-accessories.html",
+      "snapshotName": "input@call@690ef868a40a77d931cc5a34eaef3fc0",
+      "timestamp": 21548.108,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f75c9215534c79523deaf9ea96528d29",
+      "frameId": "frame@01f473b83cfea02babe60f0c80315ad3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/colgate-my-frst-colg-tb-size-1ct-colgate-my-first-toothbrush-extra-soft.html",
+      "snapshotName": "after@call@690ef868a40a77d931cc5a34eaef3fc0",
+      "timestamp": 22920.926,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f75c9215534c79523deaf9ea96528d29",
+      "frameId": "frame@01f473b83cfea02babe60f0c80315ad3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/colgate-my-frst-colg-tb-size-1ct-colgate-my-first-toothbrush-extra-soft.html",
+      "snapshotName": "before@call@669c35a2de325370da4c17cef561b5bd",
+      "timestamp": 26337.319,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f75c9215534c79523deaf9ea96528d29",
+      "frameId": "frame@01f473b83cfea02babe60f0c80315ad3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/colgate-my-frst-colg-tb-size-1ct-colgate-my-first-toothbrush-extra-soft.html",
+      "snapshotName": "input@call@669c35a2de325370da4c17cef561b5bd",
+      "timestamp": 26380.732,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f75c9215534c79523deaf9ea96528d29",
+      "frameId": "frame@01f473b83cfea02babe60f0c80315ad3",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/colgate-my-frst-colg-tb-size-1ct-colgate-my-first-toothbrush-extra-soft.html",
+      "snapshotName": "after@call@669c35a2de325370da4c17cef561b5bd",
+      "timestamp": 26390.906,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@f75c9215534c79523deaf9ea96528d29",
+      "timestamp": 37343.338,
+      "resource": "page@f75c9215534c79523deaf9ea96528d29-1703285556.800655.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_140__page0.jpg",
+      "sha256": "15192382b1cf976d4e837d93ab79fbb7ec22cbc32e417d8986de2c3c8e2bd306",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_140__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

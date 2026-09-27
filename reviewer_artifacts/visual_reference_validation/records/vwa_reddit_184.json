@@ -1,0 +1,436 @@
+{
+  "instance_id": "vwa_reddit_184",
+  "domain": "reddit",
+  "filename_task_id": 184,
+  "source_url": "https://drive.usercontent.google.com/download?id=1qtIDylV5oOfWne3aaCMbyF1uolIN2v_D&export=download&confirm=t",
+  "source_file_id": "1qtIDylV5oOfWne3aaCMbyF1uolIN2v_D",
+  "archive_sha256": "398355f9491c538f4714fc324202910bc3cc39ce6ef9c437cc4360a4be905e17",
+  "archive_bytes": 18940218,
+  "event_types": {
+    "context-options": 1,
+    "event": 240,
+    "screencast-frame": 394,
+    "object": 105,
+    "before": 10,
+    "frame-snapshot": 30,
+    "input": 10,
+    "after": 10
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704274702142,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@6662527128a563dd23d4d98e0bb1c547",
+      "frameId": "frame@9da517c9815fd610524d0376b6dbaecb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/fresh-meal-kits.html?p=5&product_list_order=name",
+      "snapshotName": "before@call@0b57a95db6d0659af21c7cbb0ff7d5fb",
+      "timestamp": 24531.206,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6662527128a563dd23d4d98e0bb1c547",
+      "frameId": "frame@9da517c9815fd610524d0376b6dbaecb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/fresh-meal-kits.html?p=5&product_list_order=name",
+      "snapshotName": "input@call@0b57a95db6d0659af21c7cbb0ff7d5fb",
+      "timestamp": 24586.184,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6662527128a563dd23d4d98e0bb1c547",
+      "frameId": "frame@9da517c9815fd610524d0376b6dbaecb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/fresh-meal-kits.html?p=5&product_list_order=name",
+      "snapshotName": "after@call@0b57a95db6d0659af21c7cbb0ff7d5fb",
+      "timestamp": 24653.16,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6662527128a563dd23d4d98e0bb1c547",
+      "frameId": "frame@9da517c9815fd610524d0376b6dbaecb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/fresh-meal-kits.html?p=5&product_list_order=name",
+      "snapshotName": "before@call@e7f33b72508b8a13c452c248a9051575",
+      "timestamp": 26261.968,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6662527128a563dd23d4d98e0bb1c547",
+      "frameId": "frame@9da517c9815fd610524d0376b6dbaecb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/fresh-meal-kits.html?p=5&product_list_order=name",
+      "snapshotName": "input@call@e7f33b72508b8a13c452c248a9051575",
+      "timestamp": 26278.695,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6662527128a563dd23d4d98e0bb1c547",
+      "frameId": "frame@9da517c9815fd610524d0376b6dbaecb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=pop+tart",
+      "snapshotName": "after@call@e7f33b72508b8a13c452c248a9051575",
+      "timestamp": 27338.529,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2c37f8efc155bdda96dfc3353e52e657",
+      "frameId": "frame@29b63de0d061e2d2f364df1fecb98594",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pop-tarts-crisps-frosted-blueberrific-2-95lb-case-48-count.html",
+      "snapshotName": "before@call@051558a81cc1423e24fd6b05bf106a79",
+      "timestamp": 45611.535,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2c37f8efc155bdda96dfc3353e52e657",
+      "frameId": "frame@29b63de0d061e2d2f364df1fecb98594",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pop-tarts-crisps-frosted-blueberrific-2-95lb-case-48-count.html",
+      "snapshotName": "input@call@051558a81cc1423e24fd6b05bf106a79",
+      "timestamp": 45679.509,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2c37f8efc155bdda96dfc3353e52e657",
+      "frameId": "frame@29b63de0d061e2d2f364df1fecb98594",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pop-tarts-crisps-frosted-blueberrific-2-95lb-case-48-count.html",
+      "snapshotName": "after@call@051558a81cc1423e24fd6b05bf106a79",
+      "timestamp": 45709.927,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@b7e8369c21a93e2deffd1b72d9a5faaa",
+      "timestamp": 67592.185,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@b7e8369c21a93e2deffd1b72d9a5faaa",
+      "timestamp": 67648.856,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@b7e8369c21a93e2deffd1b72d9a5faaa",
+      "timestamp": 68343.97,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@bfaca2b49405370449eb1f8198a968bf",
+      "timestamp": 69958.583,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@bfaca2b49405370449eb1f8198a968bf",
+      "timestamp": 69999.428,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/news",
+      "snapshotName": "after@call@bfaca2b49405370449eb1f8198a968bf",
+      "timestamp": 70520.85,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food",
+      "snapshotName": "before@call@4e803b469d9f9b52711c94db03e6f9ea",
+      "timestamp": 78403.878,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food",
+      "snapshotName": "input@call@4e803b469d9f9b52711c94db03e6f9ea",
+      "timestamp": 78452.382,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/food",
+      "snapshotName": "after@call@4e803b469d9f9b52711c94db03e6f9ea",
+      "timestamp": 78850.615,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/food",
+      "snapshotName": "before@call@cf7de1635085769d4c474dd9231481f9",
+      "timestamp": 80553.074,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/food",
+      "snapshotName": "input@call@cf7de1635085769d4c474dd9231481f9",
+      "timestamp": 80594.142,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/food",
+      "snapshotName": "after@call@cf7de1635085769d4c474dd9231481f9",
+      "timestamp": 80629,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/food",
+      "snapshotName": "before@call@84beedf5ce6c7e75c1da3ca62641e83f",
+      "timestamp": 82049.302,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/food",
+      "snapshotName": "input@call@84beedf5ce6c7e75c1da3ca62641e83f",
+      "timestamp": 82076.797,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/food",
+      "snapshotName": "after@call@84beedf5ce6c7e75c1da3ca62641e83f",
+      "timestamp": 83025.676,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/food",
+      "snapshotName": "before@call@890baebabd95dbcf3b5e72238a8fc30e",
+      "timestamp": 88964.097,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/food",
+      "snapshotName": "input@call@890baebabd95dbcf3b5e72238a8fc30e",
+      "timestamp": 88995.491,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/food",
+      "snapshotName": "after@call@890baebabd95dbcf3b5e72238a8fc30e",
+      "timestamp": 89055.142,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/food",
+      "snapshotName": "before@call@20a83893183dd1f487ef8d23d8ce140f",
+      "timestamp": 96948.43,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submit/food",
+      "snapshotName": "input@call@20a83893183dd1f487ef8d23d8ce140f",
+      "timestamp": 96997.634,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "frameId": "frame@334a26ddf5be6c80605e4984bd2c9ae7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/food/5/i-ate-this",
+      "snapshotName": "after@call@20a83893183dd1f487ef8d23d8ce140f",
+      "timestamp": 98912.549,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@6662527128a563dd23d4d98e0bb1c547",
+      "timestamp": 40777.112,
+      "resource": "page@6662527128a563dd23d4d98e0bb1c547-1704274741.803728.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_184__page0.jpg",
+      "sha256": "c90865c0d927760bc09ea9ff9b858f6c6368a29dde41190aa02aeead12919e27",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@2c37f8efc155bdda96dfc3353e52e657",
+      "timestamp": 62012.212,
+      "resource": "page@2c37f8efc155bdda96dfc3353e52e657-1704274763.041113.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_184__page1.jpg",
+      "sha256": "304085663e12442c34c56c2cd3581752ccb8e63f16104feb6e1544bd0635ecdb",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@2460252178cddd5e76f4172c5eb0eda3",
+      "timestamp": 103011.252,
+      "resource": "page@2460252178cddd5e76f4172c5eb0eda3-1704274804.038651.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_184__page2.jpg",
+      "sha256": "c2fab24eb2648de84e52720e5c6ea7ff7cdd75f3cc91d60a632fc8ff376102bd",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_184__page2.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

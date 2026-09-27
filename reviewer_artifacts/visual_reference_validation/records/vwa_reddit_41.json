@@ -1,0 +1,256 @@
+{
+  "instance_id": "vwa_reddit_41",
+  "domain": "reddit",
+  "filename_task_id": 41,
+  "source_url": "https://drive.usercontent.google.com/download?id=1lXXzNk9JrXD4ymrcnH8ciMNHapKxlF8P&export=download&confirm=t",
+  "source_file_id": "1lXXzNk9JrXD4ymrcnH8ciMNHapKxlF8P",
+  "archive_sha256": "0d0cbbaf3d8b627798fdb933d3d493fcc6de7e206e9deb084dca02912a59ce37",
+  "archive_bytes": 10303638,
+  "event_types": {
+    "context-options": 1,
+    "event": 111,
+    "screencast-frame": 214,
+    "object": 45,
+    "before": 3,
+    "frame-snapshot": 14,
+    "input": 8,
+    "after": 3
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704320847848,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@9550ff7c9d281efb95d7cc30fcbf9d2d",
+      "frameId": "frame@065f215f43fef5067757d207c66ec63c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@bb9adacbad4f53bce4a0e69e66e3950d",
+      "timestamp": 16267.792,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9550ff7c9d281efb95d7cc30fcbf9d2d",
+      "frameId": "frame@065f215f43fef5067757d207c66ec63c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@bb9adacbad4f53bce4a0e69e66e3950d",
+      "timestamp": 16308.732,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9550ff7c9d281efb95d7cc30fcbf9d2d",
+      "frameId": "frame@065f215f43fef5067757d207c66ec63c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/Newark",
+      "snapshotName": "after@call@bb9adacbad4f53bce4a0e69e66e3950d",
+      "timestamp": 16729.454,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d2080ce924c98e27ffadc2392809ce4d",
+      "frameId": "frame@863211518b246dc046ea940a8abce0bc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/4b2b1b0890ee42f1cc7447e925bcc50d37de165254e268c1e792ef8cb30ac338.jpg",
+      "snapshotName": "before@call@40081aada24d2bdf207cc28fc75d3226",
+      "timestamp": 50412.825,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d2080ce924c98e27ffadc2392809ce4d",
+      "frameId": "frame@863211518b246dc046ea940a8abce0bc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/4b2b1b0890ee42f1cc7447e925bcc50d37de165254e268c1e792ef8cb30ac338.jpg",
+      "snapshotName": "input@call@40081aada24d2bdf207cc28fc75d3226",
+      "timestamp": 50436.165,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@d2080ce924c98e27ffadc2392809ce4d",
+      "frameId": "frame@863211518b246dc046ea940a8abce0bc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/4b2b1b0890ee42f1cc7447e925bcc50d37de165254e268c1e792ef8cb30ac338.jpg",
+      "snapshotName": "after@call@40081aada24d2bdf207cc28fc75d3226",
+      "timestamp": 50441.528,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9550ff7c9d281efb95d7cc30fcbf9d2d",
+      "frameId": "frame@065f215f43fef5067757d207c66ec63c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/Newark",
+      "snapshotName": "before@call@6b86dc5755699ec212f80e806c2cdf8d",
+      "timestamp": 70460.16,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9550ff7c9d281efb95d7cc30fcbf9d2d",
+      "frameId": "frame@065f215f43fef5067757d207c66ec63c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/Newark",
+      "snapshotName": "input@call@6b86dc5755699ec212f80e806c2cdf8d",
+      "timestamp": 70527.639,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9550ff7c9d281efb95d7cc30fcbf9d2d",
+      "frameId": "frame@065f215f43fef5067757d207c66ec63c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/Newark",
+      "snapshotName": "input@call@6b86dc5755699ec212f80e806c2cdf8d",
+      "timestamp": 70559.983,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9550ff7c9d281efb95d7cc30fcbf9d2d",
+      "frameId": "frame@065f215f43fef5067757d207c66ec63c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/Newark",
+      "snapshotName": "input@call@6b86dc5755699ec212f80e806c2cdf8d",
+      "timestamp": 70613.088,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9550ff7c9d281efb95d7cc30fcbf9d2d",
+      "frameId": "frame@065f215f43fef5067757d207c66ec63c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/Newark",
+      "snapshotName": "input@call@6b86dc5755699ec212f80e806c2cdf8d",
+      "timestamp": 70743.325,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9550ff7c9d281efb95d7cc30fcbf9d2d",
+      "frameId": "frame@065f215f43fef5067757d207c66ec63c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/Newark",
+      "snapshotName": "input@call@6b86dc5755699ec212f80e806c2cdf8d",
+      "timestamp": 70876.339,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9550ff7c9d281efb95d7cc30fcbf9d2d",
+      "frameId": "frame@065f215f43fef5067757d207c66ec63c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/Newark",
+      "snapshotName": "input@call@6b86dc5755699ec212f80e806c2cdf8d",
+      "timestamp": 71426.988,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9550ff7c9d281efb95d7cc30fcbf9d2d",
+      "frameId": "frame@065f215f43fef5067757d207c66ec63c",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/Newark/100584/the-latest-tower-proposed-for-downtown",
+      "snapshotName": "after@call@6b86dc5755699ec212f80e806c2cdf8d",
+      "timestamp": 72361.291,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@f7365ec1c2f51ee4c7f7f76599e72623",
+      "timestamp": 42165.788,
+      "resource": "page@f7365ec1c2f51ee4c7f7f76599e72623-1704320889.197433.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_41__page0.jpg",
+      "sha256": "42f25967ea58f9010612e1c82d8e981a87c0353b4dd86449a52c9b2a2a74d19a",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@d2080ce924c98e27ffadc2392809ce4d",
+      "timestamp": 50488.801,
+      "resource": "page@d2080ce924c98e27ffadc2392809ce4d-1704320897.519741.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_41__page1.jpg",
+      "sha256": "5f024f0893e4f5f44f1684f9002ce3c5822080887a061a14f416302b56c21007",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@8c30236edaf7ef6015944a428a9847bb",
+      "timestamp": 60982.597,
+      "resource": "page@8c30236edaf7ef6015944a428a9847bb-1704320908.015972.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_41__page2.jpg",
+      "sha256": "1d6d95657ba10b39b0e49fd1956e67ebc3e5cbe5b71bddeb0836f31d65847ede",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@9550ff7c9d281efb95d7cc30fcbf9d2d",
+      "timestamp": 76440.994,
+      "resource": "page@9550ff7c9d281efb95d7cc30fcbf9d2d-1704320923.473783.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_41__page3.jpg",
+      "sha256": "5a337e4232c4cec3a600c974aa94195469a836716ea53731f123e51ca462a818",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_41__page3.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

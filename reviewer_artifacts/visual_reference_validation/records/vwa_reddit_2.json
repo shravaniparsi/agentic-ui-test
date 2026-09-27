@@ -1,0 +1,100 @@
+{
+  "instance_id": "vwa_reddit_2",
+  "domain": "reddit",
+  "filename_task_id": 2,
+  "source_url": "https://drive.usercontent.google.com/download?id=1nJQpO1PH4AzkD8E_nRL_rUUKSszV1-zL&export=download&confirm=t",
+  "source_file_id": "1nJQpO1PH4AzkD8E_nRL_rUUKSszV1-zL",
+  "archive_sha256": "cb25d8002822931401e708e3d276201c4f9f544fc1418fe48fcd5ece97e7173c",
+  "archive_bytes": 6467801,
+  "event_types": {
+    "context-options": 1,
+    "event": 85,
+    "screencast-frame": 108,
+    "object": 33,
+    "before": 1,
+    "frame-snapshot": 3,
+    "input": 1,
+    "after": 1
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704258666860,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@08d836950d9258cd646fb6073ae2c7fd",
+      "frameId": "frame@c37f91ab453b0964fe19970839733bc1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies",
+      "snapshotName": "before@call@6e3ddf5d76a756814c4a25a497d1744e",
+      "timestamp": 36612.391,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@08d836950d9258cd646fb6073ae2c7fd",
+      "frameId": "frame@c37f91ab453b0964fe19970839733bc1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies",
+      "snapshotName": "input@call@6e3ddf5d76a756814c4a25a497d1744e",
+      "timestamp": 36660.94,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@08d836950d9258cd646fb6073ae2c7fd",
+      "frameId": "frame@c37f91ab453b0964fe19970839733bc1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies/107714/first-image-of-ben-mendelsohn-jovan-adepo-amp-shailene",
+      "snapshotName": "after@call@6e3ddf5d76a756814c4a25a497d1744e",
+      "timestamp": 37326.831,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@a1628cdedf97760d6b685870f587af07",
+      "timestamp": 18623.154,
+      "resource": "page@a1628cdedf97760d6b685870f587af07-1704258684.065026.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_2__page0.jpg",
+      "sha256": "3b558722026df360e09b667cf441a5a6f836bcab4fcb55f442348768a6da83fe",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@08d836950d9258cd646fb6073ae2c7fd",
+      "timestamp": 39294.637,
+      "resource": "page@08d836950d9258cd646fb6073ae2c7fd-1704258704.739026.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_2__page1.jpg",
+      "sha256": "656ff25adde5a1617533cea16b535c619d30cc9463ce38c87eb506b2279979b6",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_2__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

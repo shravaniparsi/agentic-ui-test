@@ -1,0 +1,267 @@
+{
+  "instance_id": "vwa_classifieds_113",
+  "domain": "classifieds",
+  "filename_task_id": 113,
+  "source_url": "https://drive.usercontent.google.com/download?id=1BGnWaJWKM8t5Ku07Jjm32L2XCW_VGBWL&export=download&confirm=t",
+  "source_file_id": "1BGnWaJWKM8t5Ku07Jjm32L2XCW_VGBWL",
+  "archive_sha256": "2b9f0b44ecd15200506b2bb088ab44e100e9b7043040114cef091d59d800b0e1",
+  "archive_bytes": 15386905,
+  "event_types": {
+    "context-options": 1,
+    "event": 78,
+    "screencast-frame": 206,
+    "before": 6,
+    "frame-snapshot": 18,
+    "input": 6,
+    "after": 6
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704176095047,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "before@call@6d98bd20b811ba82738cc051580ef251",
+      "timestamp": 24770.369,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "input@call@6d98bd20b811ba82738cc051580ef251",
+      "timestamp": 24793.641,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "after@call@6d98bd20b811ba82738cc051580ef251",
+      "timestamp": 24805.9,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "before@call@2b07ba29b5cc42407b079e84cf1e2b0b",
+      "timestamp": 26892.486,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "input@call@2b07ba29b5cc42407b079e84cf1e2b0b",
+      "timestamp": 26900.194,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=football",
+      "snapshotName": "after@call@2b07ba29b5cc42407b079e84cf1e2b0b",
+      "timestamp": 28050.705,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=football",
+      "snapshotName": "before@call@ea60d5265346bb46f9fee1ed68827b2b",
+      "timestamp": 33211.311,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=football",
+      "snapshotName": "input@call@ea60d5265346bb46f9fee1ed68827b2b",
+      "timestamp": 33234.673,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=football",
+      "snapshotName": "after@call@ea60d5265346bb46f9fee1ed68827b2b",
+      "timestamp": 33240.12,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=football",
+      "snapshotName": "before@call@f8cdc9cc0ea820df46129625bf1c0da4",
+      "timestamp": 34606.019,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=football",
+      "snapshotName": "input@call@f8cdc9cc0ea820df46129625bf1c0da4",
+      "timestamp": 34637.811,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=football&sOrder=i_price&iOrderType=desc",
+      "snapshotName": "after@call@f8cdc9cc0ea820df46129625bf1c0da4",
+      "timestamp": 35430.289,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=football&sOrder=i_price&iOrderType=desc",
+      "snapshotName": "before@call@39f58caa9329862d6f9b2aa4a94dbb61",
+      "timestamp": 56063.621,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=football&sOrder=i_price&iOrderType=desc",
+      "snapshotName": "input@call@39f58caa9329862d6f9b2aa4a94dbb61",
+      "timestamp": 56093.418,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=football&sOrder=i_price&iOrderType=desc&iPage=2",
+      "snapshotName": "after@call@39f58caa9329862d6f9b2aa4a94dbb61",
+      "timestamp": 56848.429,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=football&sOrder=i_price&iOrderType=desc&iPage=2",
+      "snapshotName": "before@call@1082e680638d3f1528dff96a10bf904b",
+      "timestamp": 74036.669,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sPattern=football&sOrder=i_price&iOrderType=desc&iPage=2",
+      "snapshotName": "input@call@1082e680638d3f1528dff96a10bf904b",
+      "timestamp": 74064.768,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "frameId": "frame@029145f90bbb8fd1e3799b1a732cbb0e",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=30630",
+      "snapshotName": "after@call@1082e680638d3f1528dff96a10bf904b",
+      "timestamp": 74588.193,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@07a8af14fccd7cdfbf7d135f40188a46",
+      "timestamp": 79613.199,
+      "resource": "page@07a8af14fccd7cdfbf7d135f40188a46-1704176174.269588.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_113__page0.jpg",
+      "sha256": "d07bdda9a1650963e1296a9e2521f33209d67150b014ad4a6d141b8cf3e8b9bb",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_classifieds_113__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

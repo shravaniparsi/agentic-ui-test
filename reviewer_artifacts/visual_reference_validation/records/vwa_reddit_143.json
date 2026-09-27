@@ -1,0 +1,124 @@
+{
+  "instance_id": "vwa_reddit_143",
+  "domain": "reddit",
+  "filename_task_id": 143,
+  "source_url": "https://drive.usercontent.google.com/download?id=11A0-bjCwBTkcKLFd0Mn8EtUGeH144Qjb&export=download&confirm=t",
+  "source_file_id": "11A0-bjCwBTkcKLFd0Mn8EtUGeH144Qjb",
+  "archive_sha256": "d1554d51700ad7a3fb26d8ecb916736badbdc16b99526d6b42bf99c95485044d",
+  "archive_bytes": 3898915,
+  "event_types": {
+    "context-options": 1,
+    "event": 74,
+    "screencast-frame": 103,
+    "object": 38,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704320088171,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@1f3c06a1c13f103387e7211a0be3d0f7",
+      "frameId": "frame@ae24afd5a80c44241587e791159fa7c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies/86107",
+      "snapshotName": "before@call@705c2b9611733ed1a7d936c392f7a97a",
+      "timestamp": 17421.307,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1f3c06a1c13f103387e7211a0be3d0f7",
+      "frameId": "frame@ae24afd5a80c44241587e791159fa7c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies/86107",
+      "snapshotName": "input@call@705c2b9611733ed1a7d936c392f7a97a",
+      "timestamp": 17533.152000000002,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1f3c06a1c13f103387e7211a0be3d0f7",
+      "frameId": "frame@ae24afd5a80c44241587e791159fa7c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies/86107",
+      "snapshotName": "after@call@705c2b9611733ed1a7d936c392f7a97a",
+      "timestamp": 17636.225,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1f3c06a1c13f103387e7211a0be3d0f7",
+      "frameId": "frame@ae24afd5a80c44241587e791159fa7c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies/86107",
+      "snapshotName": "before@call@2dce409c4b93d5a3ae8beb8ba6593f71",
+      "timestamp": 35396.138,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1f3c06a1c13f103387e7211a0be3d0f7",
+      "frameId": "frame@ae24afd5a80c44241587e791159fa7c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies/86107",
+      "snapshotName": "input@call@2dce409c4b93d5a3ae8beb8ba6593f71",
+      "timestamp": 35477.464,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1f3c06a1c13f103387e7211a0be3d0f7",
+      "frameId": "frame@ae24afd5a80c44241587e791159fa7c8",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/movies/86107/new-poster-for-creed-iii/comment/13",
+      "snapshotName": "after@call@2dce409c4b93d5a3ae8beb8ba6593f71",
+      "timestamp": 36096.946,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@1f3c06a1c13f103387e7211a0be3d0f7",
+      "timestamp": 37986.526,
+      "resource": "page@1f3c06a1c13f103387e7211a0be3d0f7-1704320124.788821.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_143__page0.jpg",
+      "sha256": "27648ff244aaa761ad90c3ef3c8a8572f13f9af6a3e9d9d6452c49f9c68a5f83",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_143__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,231 @@
+{
+  "instance_id": "vwa_shopping_70",
+  "domain": "shopping",
+  "filename_task_id": 70,
+  "source_url": "https://drive.usercontent.google.com/download?id=1AaFhQ7dVQWOWCCBCo8AxoJWORxOb1kga&export=download&confirm=t",
+  "source_file_id": "1AaFhQ7dVQWOWCCBCo8AxoJWORxOb1kga",
+  "archive_sha256": "aa58487385992107ee36ec97c2cf85492fb6ef05781718f15fb636c5e57730e3",
+  "archive_bytes": 10918633,
+  "event_types": {
+    "context-options": 1,
+    "event": 31,
+    "screencast-frame": 206,
+    "before": 5,
+    "frame-snapshot": 15,
+    "input": 5,
+    "after": 5
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703273117502,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@1e8ce858fa9ffa5017dd9a9cb54a2757",
+      "frameId": "frame@441f2d83a2b1b33a4573427d2b123f3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/bedding/decorative-pillows-inserts-covers.html",
+      "snapshotName": "before@call@9c754b015c2b236b16fbab08a2d450e3",
+      "timestamp": 15438.731,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1e8ce858fa9ffa5017dd9a9cb54a2757",
+      "frameId": "frame@441f2d83a2b1b33a4573427d2b123f3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/bedding/decorative-pillows-inserts-covers.html",
+      "snapshotName": "input@call@9c754b015c2b236b16fbab08a2d450e3",
+      "timestamp": 15483.456,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1e8ce858fa9ffa5017dd9a9cb54a2757",
+      "frameId": "frame@441f2d83a2b1b33a4573427d2b123f3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/flower-decorative-pillow-3d-daisy-flower-pillow-sunflower-throw-pillow-14-5-x-13-inch-round-decor-pillow-flower-home-decorations-couch-bed-flower-gifts-for-her-case-insert-solid-pink.html",
+      "snapshotName": "after@call@9c754b015c2b236b16fbab08a2d450e3",
+      "timestamp": 17015.111,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1e8ce858fa9ffa5017dd9a9cb54a2757",
+      "frameId": "frame@441f2d83a2b1b33a4573427d2b123f3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/flower-decorative-pillow-3d-daisy-flower-pillow-sunflower-throw-pillow-14-5-x-13-inch-round-decor-pillow-flower-home-decorations-couch-bed-flower-gifts-for-her-case-insert-solid-pink.html",
+      "snapshotName": "before@call@1c4825b61be8833c04023f93e3a30e4e",
+      "timestamp": 21235.627,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1e8ce858fa9ffa5017dd9a9cb54a2757",
+      "frameId": "frame@441f2d83a2b1b33a4573427d2b123f3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/flower-decorative-pillow-3d-daisy-flower-pillow-sunflower-throw-pillow-14-5-x-13-inch-round-decor-pillow-flower-home-decorations-couch-bed-flower-gifts-for-her-case-insert-solid-pink.html",
+      "snapshotName": "input@call@1c4825b61be8833c04023f93e3a30e4e",
+      "timestamp": 21282.453,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1e8ce858fa9ffa5017dd9a9cb54a2757",
+      "frameId": "frame@441f2d83a2b1b33a4573427d2b123f3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/flower-decorative-pillow-3d-daisy-flower-pillow-sunflower-throw-pillow-14-5-x-13-inch-round-decor-pillow-flower-home-decorations-couch-bed-flower-gifts-for-her-case-insert-solid-pink.html",
+      "snapshotName": "after@call@1c4825b61be8833c04023f93e3a30e4e",
+      "timestamp": 21318.052,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1e8ce858fa9ffa5017dd9a9cb54a2757",
+      "frameId": "frame@441f2d83a2b1b33a4573427d2b123f3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/flower-decorative-pillow-3d-daisy-flower-pillow-sunflower-throw-pillow-14-5-x-13-inch-round-decor-pillow-flower-home-decorations-couch-bed-flower-gifts-for-her-case-insert-solid-pink.html",
+      "snapshotName": "before@call@8eed369fe4c4c3ac73de641f3528678c",
+      "timestamp": 26905.958,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1e8ce858fa9ffa5017dd9a9cb54a2757",
+      "frameId": "frame@441f2d83a2b1b33a4573427d2b123f3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/flower-decorative-pillow-3d-daisy-flower-pillow-sunflower-throw-pillow-14-5-x-13-inch-round-decor-pillow-flower-home-decorations-couch-bed-flower-gifts-for-her-case-insert-solid-pink.html",
+      "snapshotName": "input@call@8eed369fe4c4c3ac73de641f3528678c",
+      "timestamp": 26948.605,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1e8ce858fa9ffa5017dd9a9cb54a2757",
+      "frameId": "frame@441f2d83a2b1b33a4573427d2b123f3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/flower-decorative-pillow-3d-daisy-flower-pillow-sunflower-throw-pillow-14-5-x-13-inch-round-decor-pillow-flower-home-decorations-couch-bed-flower-gifts-for-her-case-insert-solid-pink.html",
+      "snapshotName": "after@call@8eed369fe4c4c3ac73de641f3528678c",
+      "timestamp": 26958.367,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1e8ce858fa9ffa5017dd9a9cb54a2757",
+      "frameId": "frame@441f2d83a2b1b33a4573427d2b123f3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/flower-decorative-pillow-3d-daisy-flower-pillow-sunflower-throw-pillow-14-5-x-13-inch-round-decor-pillow-flower-home-decorations-couch-bed-flower-gifts-for-her-case-insert-solid-pink.html",
+      "snapshotName": "before@call@a4b280fa07e6184ba23035f8ee94a0bd",
+      "timestamp": 33482.011,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1e8ce858fa9ffa5017dd9a9cb54a2757",
+      "frameId": "frame@441f2d83a2b1b33a4573427d2b123f3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/flower-decorative-pillow-3d-daisy-flower-pillow-sunflower-throw-pillow-14-5-x-13-inch-round-decor-pillow-flower-home-decorations-couch-bed-flower-gifts-for-her-case-insert-solid-pink.html",
+      "snapshotName": "input@call@a4b280fa07e6184ba23035f8ee94a0bd",
+      "timestamp": 33497.2,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1e8ce858fa9ffa5017dd9a9cb54a2757",
+      "frameId": "frame@441f2d83a2b1b33a4573427d2b123f3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/flower-decorative-pillow-3d-daisy-flower-pillow-sunflower-throw-pillow-14-5-x-13-inch-round-decor-pillow-flower-home-decorations-couch-bed-flower-gifts-for-her-case-insert-solid-pink.html",
+      "snapshotName": "after@call@a4b280fa07e6184ba23035f8ee94a0bd",
+      "timestamp": 33506.08,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1e8ce858fa9ffa5017dd9a9cb54a2757",
+      "frameId": "frame@441f2d83a2b1b33a4573427d2b123f3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/flower-decorative-pillow-3d-daisy-flower-pillow-sunflower-throw-pillow-14-5-x-13-inch-round-decor-pillow-flower-home-decorations-couch-bed-flower-gifts-for-her-case-insert-solid-pink.html",
+      "snapshotName": "before@call@1afce44e7cc93586d6a17a7745f0aaf7",
+      "timestamp": 66459.789,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1e8ce858fa9ffa5017dd9a9cb54a2757",
+      "frameId": "frame@441f2d83a2b1b33a4573427d2b123f3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/flower-decorative-pillow-3d-daisy-flower-pillow-sunflower-throw-pillow-14-5-x-13-inch-round-decor-pillow-flower-home-decorations-couch-bed-flower-gifts-for-her-case-insert-solid-pink.html",
+      "snapshotName": "input@call@1afce44e7cc93586d6a17a7745f0aaf7",
+      "timestamp": 66520.703,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1e8ce858fa9ffa5017dd9a9cb54a2757",
+      "frameId": "frame@441f2d83a2b1b33a4573427d2b123f3b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/flower-decorative-pillow-3d-daisy-flower-pillow-sunflower-throw-pillow-14-5-x-13-inch-round-decor-pillow-flower-home-decorations-couch-bed-flower-gifts-for-her-case-insert-solid-pink.html",
+      "snapshotName": "after@call@1afce44e7cc93586d6a17a7745f0aaf7",
+      "timestamp": 66532.496,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@1e8ce858fa9ffa5017dd9a9cb54a2757",
+      "timestamp": 66956.444,
+      "resource": "page@1e8ce858fa9ffa5017dd9a9cb54a2757-1703273183.678048.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_70__page0.jpg",
+      "sha256": "f2fb20b20c87f6157aa1c661ff3a9a2d7035e30c023d499d922322e57a020c47",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_70__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

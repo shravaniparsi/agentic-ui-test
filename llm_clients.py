@@ -115,7 +115,7 @@ def _build_multimodal_messages(
         user_content.append({
             "type": "image_url",
             "image_url": {
-                "url": f"data:image/png;base64,{_encode_image(reference_screenshot)}",
+                "url": f"data:{_detect_media_type(reference_screenshot)};base64,{_encode_image(reference_screenshot)}",
                 "detail": "high",
             },
         })
@@ -123,7 +123,7 @@ def _build_multimodal_messages(
     user_content.append({
         "type": "image_url",
         "image_url": {
-            "url": f"data:image/png;base64,{_encode_image(actual_screenshot)}",
+            "url": f"data:{_detect_media_type(actual_screenshot)};base64,{_encode_image(actual_screenshot)}",
             "detail": "high",
         },
     })

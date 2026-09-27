@@ -1,0 +1,832 @@
+{
+  "instance_id": "vwa_reddit_180",
+  "domain": "reddit",
+  "filename_task_id": 180,
+  "source_url": "https://drive.usercontent.google.com/download?id=1PpD-iS6wCjAbBKrVhn0gICVvv3yh2VBH&export=download&confirm=t",
+  "source_file_id": "1PpD-iS6wCjAbBKrVhn0gICVvv3yh2VBH",
+  "archive_sha256": "c1f8000d73c91f5b8379c14181a0eb950fd619aecab323daefa3857081c779d9",
+  "archive_bytes": 35906984,
+  "event_types": {
+    "context-options": 1,
+    "event": 310,
+    "screencast-frame": 629,
+    "object": 117,
+    "before": 21,
+    "frame-snapshot": 63,
+    "input": 21,
+    "after": 21
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704270610170,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://www.google.com/search?q=us+state+list&oq=us+state+list&aqs=chrome..69i57.2088j0j1&sourceid=chrome&ie=UTF-8",
+      "snapshotName": "before@call@e01570c328301836bf835fd24f83599a",
+      "timestamp": 58933.558,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://www.google.com/search?q=us+state+list&oq=us+state+list&aqs=chrome..69i57.2088j0j1&sourceid=chrome&ie=UTF-8",
+      "snapshotName": "input@call@e01570c328301836bf835fd24f83599a",
+      "timestamp": 59327.288,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States",
+      "snapshotName": "after@call@e01570c328301836bf835fd24f83599a",
+      "timestamp": 59870.654,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States",
+      "snapshotName": "before@call@b5108434693ecc77cf35b6ed5f7a32fd",
+      "timestamp": 62682.56,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States",
+      "snapshotName": "input@call@b5108434693ecc77cf35b6ed5f7a32fd",
+      "timestamp": 62769.535,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States#/media/File:Map_of_USA_with_state_and_territory_names_2.png",
+      "snapshotName": "after@call@b5108434693ecc77cf35b6ed5f7a32fd",
+      "timestamp": 62937.006,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States#/media/File:Map_of_USA_with_state_and_territory_names_2.png",
+      "snapshotName": "before@call@13184d6fa09e06c70419d5cbd93acd9a",
+      "timestamp": 75808.928,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States#/media/File:Map_of_USA_with_state_and_territory_names_2.png",
+      "snapshotName": "input@call@13184d6fa09e06c70419d5cbd93acd9a",
+      "timestamp": 75876.808,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States",
+      "snapshotName": "after@call@13184d6fa09e06c70419d5cbd93acd9a",
+      "timestamp": 76069.627,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States",
+      "snapshotName": "before@call@8f43ce1750828d1bc7ada17beec60237",
+      "timestamp": 79711.567,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States",
+      "snapshotName": "input@call@8f43ce1750828d1bc7ada17beec60237",
+      "timestamp": 79761.712,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States",
+      "snapshotName": "after@call@8f43ce1750828d1bc7ada17beec60237",
+      "timestamp": 79786.472,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States",
+      "snapshotName": "before@call@b69af20b8477d016fce3ba46551acdb8",
+      "timestamp": 81729.813,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States",
+      "snapshotName": "input@call@b69af20b8477d016fce3ba46551acdb8",
+      "timestamp": 81777.174,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States#External_links",
+      "snapshotName": "after@call@b69af20b8477d016fce3ba46551acdb8",
+      "timestamp": 82083.904,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States#External_links",
+      "snapshotName": "before@call@d7114760f6bb922b98dc9c1df69af059",
+      "timestamp": 85433.663,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States#External_links",
+      "snapshotName": "input@call@d7114760f6bb922b98dc9c1df69af059",
+      "timestamp": 85515.428,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/Missouri",
+      "snapshotName": "after@call@d7114760f6bb922b98dc9c1df69af059",
+      "timestamp": 86915.541,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/Missouri",
+      "snapshotName": "before@call@efb545b3cd600e5a43198330558ee96d",
+      "timestamp": 92476.15,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/Missouri",
+      "snapshotName": "input@call@efb545b3cd600e5a43198330558ee96d",
+      "timestamp": 92580.905,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/Missouri#Cities_and_towns",
+      "snapshotName": "after@call@efb545b3cd600e5a43198330558ee96d",
+      "timestamp": 94330.078,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/Missouri#Cities_and_towns",
+      "snapshotName": "before@call@2ea62c3cbdfb98342b28ab7ad6bf9808",
+      "timestamp": 110203.055,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/Missouri#Cities_and_towns",
+      "snapshotName": "input@call@2ea62c3cbdfb98342b28ab7ad6bf9808",
+      "timestamp": 110322.679,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "frameId": "frame@26aada8cc8a2e31f280de8e296ad307e",
+      "frameUrl": "https://en.wikipedia.org/wiki/Missouri#Cities_and_towns",
+      "snapshotName": "after@call@2ea62c3cbdfb98342b28ab7ad6bf9808",
+      "timestamp": 110371.741,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@76762e2d5a1d10d0fd5e289a6a1a3558",
+      "timestamp": 118777.844,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@76762e2d5a1d10d0fd5e289a6a1a3558",
+      "timestamp": 118835.273,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@76762e2d5a1d10d0fd5e289a6a1a3558",
+      "timestamp": 119734.245,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@3d5ff58ed6f322db683e6673ab81c6ff",
+      "timestamp": 124324.814,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@3d5ff58ed6f322db683e6673ab81c6ff",
+      "timestamp": 124375.499,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@3d5ff58ed6f322db683e6673ab81c6ff",
+      "timestamp": 124394.141,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums?t=all",
+      "snapshotName": "before@call@8dee16c4ee75d181c76372e58f2e8a8c",
+      "timestamp": 136894.267,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums?t=all",
+      "snapshotName": "input@call@8dee16c4ee75d181c76372e58f2e8a8c",
+      "timestamp": 136957.424,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums?t=all",
+      "snapshotName": "after@call@8dee16c4ee75d181c76372e58f2e8a8c",
+      "timestamp": 136988.413,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums?t=all",
+      "snapshotName": "before@call@e5c922ba47f396c1dc9e9e63363dec21",
+      "timestamp": 142879.494,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums?t=all",
+      "snapshotName": "input@call@e5c922ba47f396c1dc9e9e63363dec21",
+      "timestamp": 142926.48,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums?t=all",
+      "snapshotName": "after@call@e5c922ba47f396c1dc9e9e63363dec21",
+      "timestamp": 142956.226,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums?t=all",
+      "snapshotName": "before@call@911fb1bc65208b96b5b35501c5108591",
+      "timestamp": 145211.733,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums?t=all",
+      "snapshotName": "input@call@911fb1bc65208b96b5b35501c5108591",
+      "timestamp": 145241.532,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums?t=all",
+      "snapshotName": "after@call@911fb1bc65208b96b5b35501c5108591",
+      "timestamp": 145260.429,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums?t=all",
+      "snapshotName": "before@call@4c18ef3347663f2021e0dc1e62b3e441",
+      "timestamp": 146629.249,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums?t=all",
+      "snapshotName": "input@call@4c18ef3347663f2021e0dc1e62b3e441",
+      "timestamp": 146660.036,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums?t=all",
+      "snapshotName": "after@call@4c18ef3347663f2021e0dc1e62b3e441",
+      "timestamp": 146675.708,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums?t=all",
+      "snapshotName": "before@call@909720dca2a7ceb5f691625fc58a40bd",
+      "timestamp": 155842.65,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums?t=all",
+      "snapshotName": "input@call@909720dca2a7ceb5f691625fc58a40bd",
+      "timestamp": 155862.562,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/by_submissions/2?t=all",
+      "snapshotName": "after@call@909720dca2a7ceb5f691625fc58a40bd",
+      "timestamp": 156562.149,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/by_submissions/2?t=all",
+      "snapshotName": "before@call@be18814adcc7ab5b1d7d45079b81cb0d",
+      "timestamp": 171645.701,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/by_submissions/2?t=all",
+      "snapshotName": "input@call@be18814adcc7ab5b1d7d45079b81cb0d",
+      "timestamp": 171708.267,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/by_submissions/3?t=all",
+      "snapshotName": "after@call@be18814adcc7ab5b1d7d45079b81cb0d",
+      "timestamp": 172433.044,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/by_submissions/3?t=all",
+      "snapshotName": "before@call@348b3df2b02c1c6af25a33811bb6a753",
+      "timestamp": 176469.059,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/by_submissions/3?t=all",
+      "snapshotName": "input@call@348b3df2b02c1c6af25a33811bb6a753",
+      "timestamp": 176543.023,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/springfieldMO",
+      "snapshotName": "after@call@348b3df2b02c1c6af25a33811bb6a753",
+      "timestamp": 177105.435,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/springfieldMO",
+      "snapshotName": "before@call@97f632af92992daf9d41d5ac4e80ec53",
+      "timestamp": 188652.98,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/springfieldMO",
+      "snapshotName": "input@call@97f632af92992daf9d41d5ac4e80ec53",
+      "timestamp": 188702.703,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/springfieldMO",
+      "snapshotName": "after@call@97f632af92992daf9d41d5ac4e80ec53",
+      "timestamp": 188724.932,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/springfieldMO",
+      "snapshotName": "before@call@fb25920cdf19540464b781fee183dc04",
+      "timestamp": 189738.039,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/springfieldMO",
+      "snapshotName": "input@call@fb25920cdf19540464b781fee183dc04",
+      "timestamp": 189802.392,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/springfieldMO/controversial?t=day",
+      "snapshotName": "after@call@fb25920cdf19540464b781fee183dc04",
+      "timestamp": 190265.287,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/springfieldMO/controversial?t=day",
+      "snapshotName": "before@call@203dd0f4f5f237ad23ef8504ee503f44",
+      "timestamp": 191263.264,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/springfieldMO/controversial?t=day",
+      "snapshotName": "input@call@203dd0f4f5f237ad23ef8504ee503f44",
+      "timestamp": 191312.722,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/springfieldMO/controversial?t=day",
+      "snapshotName": "after@call@203dd0f4f5f237ad23ef8504ee503f44",
+      "timestamp": 191323.203,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/springfieldMO/controversial?t=day",
+      "snapshotName": "before@call@93a6d1ade4d0827d2661abe4661c33f7",
+      "timestamp": 192157.251,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/springfieldMO/controversial?t=day",
+      "snapshotName": "input@call@93a6d1ade4d0827d2661abe4661c33f7",
+      "timestamp": 192195.42,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@8016324cca36446fab2b607397a2929c",
+      "frameId": "frame@77a6446fc236447b3dcd30205717ba87",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/springfieldMO/controversial?t=month",
+      "snapshotName": "after@call@93a6d1ade4d0827d2661abe4661c33f7",
+      "timestamp": 192576.111,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@851d5297ac374e986f6791340dd4c184",
+      "timestamp": 70174.781,
+      "resource": "page@851d5297ac374e986f6791340dd4c184-1704270679.750908.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_180__page0.jpg",
+      "sha256": "be5e7e044fdb316c6b0ca591d8d8da4ea8b6cfc4783cc72d903bf98439d03ce7",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@f0b0c96599aa0b324482ae5eeca4fa35",
+      "timestamp": 166305.292,
+      "resource": "page@f0b0c96599aa0b324482ae5eeca4fa35-1704270775.875466.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_180__page1.jpg",
+      "sha256": "1c45a066e775b1f7f89dc9050319db2ce78fc369d64630be93e68dca0498b2bc",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@8016324cca36446fab2b607397a2929c",
+      "timestamp": 209630.276,
+      "resource": "page@8016324cca36446fab2b607397a2929c-1704270819.202827.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_180__page2.jpg",
+      "sha256": "4814e5902385f3a4ce4853b128cfc2e05294a89ad2f2fa56097165057dc43d45",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_180__page2.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

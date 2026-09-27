@@ -1,0 +1,123 @@
+{
+  "instance_id": "vwa_shopping_230",
+  "domain": "shopping",
+  "filename_task_id": 230,
+  "source_url": "https://drive.usercontent.google.com/download?id=1K8MFV9oxPdbmKwUWuE-Jq7u2iE-yCw0r&export=download&confirm=t",
+  "source_file_id": "1K8MFV9oxPdbmKwUWuE-Jq7u2iE-yCw0r",
+  "archive_sha256": "935e35114b5c61013aa88b4c27874dba45738665ab2a898e4d46acf410997a2c",
+  "archive_bytes": 4785005,
+  "event_types": {
+    "context-options": 1,
+    "event": 50,
+    "screencast-frame": 90,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703279435492,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@2e950edaded8029c6e226365f35c6985",
+      "frameId": "frame@58191ebe1b593f4a27472c305ac720cc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sports-outdoors/fan-shop/clothing.html?p=2",
+      "snapshotName": "before@call@b56829d8c984533861d4aced93b4b9d5",
+      "timestamp": 19039.663,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2e950edaded8029c6e226365f35c6985",
+      "frameId": "frame@58191ebe1b593f4a27472c305ac720cc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sports-outdoors/fan-shop/clothing.html?p=2",
+      "snapshotName": "input@call@b56829d8c984533861d4aced93b4b9d5",
+      "timestamp": 19081.452,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2e950edaded8029c6e226365f35c6985",
+      "frameId": "frame@58191ebe1b593f4a27472c305ac720cc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dzquy-men-s-classic-plaid-pants-chinos-stretch-slim-fit-lattice-trousers-casual-running-jogger-business-pencil-dress-pants.html",
+      "snapshotName": "after@call@b56829d8c984533861d4aced93b4b9d5",
+      "timestamp": 20626.589,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2e950edaded8029c6e226365f35c6985",
+      "frameId": "frame@58191ebe1b593f4a27472c305ac720cc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dzquy-men-s-classic-plaid-pants-chinos-stretch-slim-fit-lattice-trousers-casual-running-jogger-business-pencil-dress-pants.html",
+      "snapshotName": "before@call@75bf9068224cf18e544c86bf8c1067e7",
+      "timestamp": 23618.233,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2e950edaded8029c6e226365f35c6985",
+      "frameId": "frame@58191ebe1b593f4a27472c305ac720cc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dzquy-men-s-classic-plaid-pants-chinos-stretch-slim-fit-lattice-trousers-casual-running-jogger-business-pencil-dress-pants.html",
+      "snapshotName": "input@call@75bf9068224cf18e544c86bf8c1067e7",
+      "timestamp": 23666.512,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@2e950edaded8029c6e226365f35c6985",
+      "frameId": "frame@58191ebe1b593f4a27472c305ac720cc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@75bf9068224cf18e544c86bf8c1067e7",
+      "timestamp": 25352.15,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@2e950edaded8029c6e226365f35c6985",
+      "timestamp": 28272.029,
+      "resource": "page@2e950edaded8029c6e226365f35c6985-1703279462.979095.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_230__page0.jpg",
+      "sha256": "842091858213c57fbaaa782e467b97e9a4eb23ad6f7815c76dcbfea76a6f5521",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_230__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

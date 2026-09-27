@@ -1,0 +1,196 @@
+{
+  "instance_id": "vwa_shopping_377",
+  "domain": "shopping",
+  "filename_task_id": 377,
+  "source_url": "https://drive.usercontent.google.com/download?id=1syYrwDD6t6u9ApvqGNDIxJ0zPWWY1ain&export=download&confirm=t",
+  "source_file_id": "1syYrwDD6t6u9ApvqGNDIxJ0zPWWY1ain",
+  "archive_sha256": "0ac69dd457c828d30b92bf589aa80d90c83a437ab7da91aafebdfd98e29dac84",
+  "archive_bytes": 34975623,
+  "event_types": {
+    "context-options": 1,
+    "event": 269,
+    "screencast-frame": 523,
+    "before": 4,
+    "frame-snapshot": 12,
+    "input": 4,
+    "after": 4,
+    "object": 15
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703209086784,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@a86c0c414a68aa1d824cbb3a38993e7e",
+      "frameId": "frame@dca36f4b10c20d90d41543650e5c4ed0",
+      "frameUrl": "http://localhost:7770/cell-phones-accessories/cases-holsters-sleeves.html?product_list_limit=36",
+      "snapshotName": "before@call@6eea85decb3480a009d955dd7f003503",
+      "timestamp": 18802.465,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a86c0c414a68aa1d824cbb3a38993e7e",
+      "frameId": "frame@dca36f4b10c20d90d41543650e5c4ed0",
+      "frameUrl": "http://localhost:7770/cell-phones-accessories/cases-holsters-sleeves.html?product_list_limit=36",
+      "snapshotName": "input@call@6eea85decb3480a009d955dd7f003503",
+      "timestamp": 18849.177,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a86c0c414a68aa1d824cbb3a38993e7e",
+      "frameId": "frame@dca36f4b10c20d90d41543650e5c4ed0",
+      "frameUrl": "http://localhost:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=2&product_list_limit=36",
+      "snapshotName": "after@call@6eea85decb3480a009d955dd7f003503",
+      "timestamp": 19252.311,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a86c0c414a68aa1d824cbb3a38993e7e",
+      "frameId": "frame@dca36f4b10c20d90d41543650e5c4ed0",
+      "frameUrl": "http://localhost:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=4&product_list_limit=36",
+      "snapshotName": "before@call@6aa936a6b479d79f8138a7062f726331",
+      "timestamp": 35165.228,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a86c0c414a68aa1d824cbb3a38993e7e",
+      "frameId": "frame@dca36f4b10c20d90d41543650e5c4ed0",
+      "frameUrl": "http://localhost:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=4&product_list_limit=36",
+      "snapshotName": "input@call@6aa936a6b479d79f8138a7062f726331",
+      "timestamp": 35206.51,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a86c0c414a68aa1d824cbb3a38993e7e",
+      "frameId": "frame@dca36f4b10c20d90d41543650e5c4ed0",
+      "frameUrl": "http://localhost:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=5&product_list_limit=36",
+      "snapshotName": "after@call@6aa936a6b479d79f8138a7062f726331",
+      "timestamp": 35689.728,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a86c0c414a68aa1d824cbb3a38993e7e",
+      "frameId": "frame@dca36f4b10c20d90d41543650e5c4ed0",
+      "frameUrl": "http://localhost:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=7&product_list_limit=36",
+      "snapshotName": "before@call@70b508421b1870f3ba1d6ea597f9ccf9",
+      "timestamp": 54106.835,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a86c0c414a68aa1d824cbb3a38993e7e",
+      "frameId": "frame@dca36f4b10c20d90d41543650e5c4ed0",
+      "frameUrl": "http://localhost:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=7&product_list_limit=36",
+      "snapshotName": "input@call@70b508421b1870f3ba1d6ea597f9ccf9",
+      "timestamp": 54138.632,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a86c0c414a68aa1d824cbb3a38993e7e",
+      "frameId": "frame@dca36f4b10c20d90d41543650e5c4ed0",
+      "frameUrl": "http://localhost:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=8&product_list_limit=36",
+      "snapshotName": "after@call@70b508421b1870f3ba1d6ea597f9ccf9",
+      "timestamp": 54562.92,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a86c0c414a68aa1d824cbb3a38993e7e",
+      "frameId": "frame@dca36f4b10c20d90d41543650e5c4ed0",
+      "frameUrl": "http://localhost:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=9&product_list_limit=36",
+      "snapshotName": "before@call@f93236ada44d035f20a7a90f9c6e2b0d",
+      "timestamp": 67087.03,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a86c0c414a68aa1d824cbb3a38993e7e",
+      "frameId": "frame@dca36f4b10c20d90d41543650e5c4ed0",
+      "frameUrl": "http://localhost:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=9&product_list_limit=36",
+      "snapshotName": "input@call@f93236ada44d035f20a7a90f9c6e2b0d",
+      "timestamp": 67122.597,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@a86c0c414a68aa1d824cbb3a38993e7e",
+      "frameId": "frame@dca36f4b10c20d90d41543650e5c4ed0",
+      "frameUrl": "http://localhost:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=10&product_list_limit=36",
+      "snapshotName": "after@call@f93236ada44d035f20a7a90f9c6e2b0d",
+      "timestamp": 67503.746,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@a86c0c414a68aa1d824cbb3a38993e7e",
+      "timestamp": 101920.383,
+      "resource": "page@a86c0c414a68aa1d824cbb3a38993e7e-1703209188.096888.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_377__page0.jpg",
+      "sha256": "2536b0033fb806511b56b11809b7955184eda9047b28bcbc45f4c4429b0e82eb",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_377__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

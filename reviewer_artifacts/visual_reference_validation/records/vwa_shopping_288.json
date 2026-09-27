@@ -1,0 +1,123 @@
+{
+  "instance_id": "vwa_shopping_288",
+  "domain": "shopping",
+  "filename_task_id": 288,
+  "source_url": "https://drive.usercontent.google.com/download?id=1X4Xh1fJLcirHOUS4kTnnNP0bxFt2qfad&export=download&confirm=t",
+  "source_file_id": "1X4Xh1fJLcirHOUS4kTnnNP0bxFt2qfad",
+  "archive_sha256": "8d431a018af29ea7d24ba186be6a4c20f451edd4dd8432d1886deb14ef5b6caa",
+  "archive_bytes": 6150662,
+  "event_types": {
+    "context-options": 1,
+    "event": 50,
+    "screencast-frame": 107,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703283354247,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@e8ce5a37c3adcc0c72d38b6fc699d9bd",
+      "frameId": "frame@148ec12a3fea648bc322449358e72aa7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=reed+diffuser",
+      "snapshotName": "before@call@2063237dc97f77e58c1cb8336a5d128f",
+      "timestamp": 19275.255,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e8ce5a37c3adcc0c72d38b6fc699d9bd",
+      "frameId": "frame@148ec12a3fea648bc322449358e72aa7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=reed+diffuser",
+      "snapshotName": "input@call@2063237dc97f77e58c1cb8336a5d128f",
+      "timestamp": 19322.119,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e8ce5a37c3adcc0c72d38b6fc699d9bd",
+      "frameId": "frame@148ec12a3fea648bc322449358e72aa7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@2063237dc97f77e58c1cb8336a5d128f",
+      "timestamp": 20955.666,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e8ce5a37c3adcc0c72d38b6fc699d9bd",
+      "frameId": "frame@148ec12a3fea648bc322449358e72aa7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "before@call@e300a2b8eb4f73b9c2763368af6bd1a4",
+      "timestamp": 23362.952,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e8ce5a37c3adcc0c72d38b6fc699d9bd",
+      "frameId": "frame@148ec12a3fea648bc322449358e72aa7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "input@call@e300a2b8eb4f73b9c2763368af6bd1a4",
+      "timestamp": 23406.583,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e8ce5a37c3adcc0c72d38b6fc699d9bd",
+      "frameId": "frame@148ec12a3fea648bc322449358e72aa7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/?p=2",
+      "snapshotName": "after@call@e300a2b8eb4f73b9c2763368af6bd1a4",
+      "timestamp": 24410.572,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@e8ce5a37c3adcc0c72d38b6fc699d9bd",
+      "timestamp": 26277.123,
+      "resource": "page@e8ce5a37c3adcc0c72d38b6fc699d9bd-1703283379.662829.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_288__page0.jpg",
+      "sha256": "8c13c57e4807802dd837fce6ae0753ed10a286b430e6b82d91391cad6f7d025a",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_288__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

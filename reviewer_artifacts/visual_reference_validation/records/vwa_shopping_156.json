@@ -1,0 +1,183 @@
+{
+  "instance_id": "vwa_shopping_156",
+  "domain": "shopping",
+  "filename_task_id": 156,
+  "source_url": "https://drive.usercontent.google.com/download?id=1fTPNr8bglihZxCrMU1sWPbkjCmzjaWi0&export=download&confirm=t",
+  "source_file_id": "1fTPNr8bglihZxCrMU1sWPbkjCmzjaWi0",
+  "archive_sha256": "83f25c49da85a40732eb93f1370a6398421eb888299fadf418f67d599e46f1ce",
+  "archive_bytes": 7901997,
+  "event_types": {
+    "context-options": 1,
+    "event": 73,
+    "screencast-frame": 136,
+    "before": 4,
+    "frame-snapshot": 11,
+    "input": 4,
+    "after": 4
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703276607070,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@0c41fc7ca989cff06f5786292b045e19",
+      "frameId": "frame@a6000fc2d45c20517ed96c5e1b248758",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@cfcb58d30ae441c2c63e21aae8c7a49f",
+      "timestamp": 19895.747,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0c41fc7ca989cff06f5786292b045e19",
+      "frameId": "frame@a6000fc2d45c20517ed96c5e1b248758",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@cfcb58d30ae441c2c63e21aae8c7a49f",
+      "timestamp": 19929.434,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0c41fc7ca989cff06f5786292b045e19",
+      "frameId": "frame@a6000fc2d45c20517ed96c5e1b248758",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@cfcb58d30ae441c2c63e21aae8c7a49f",
+      "timestamp": 19949.734,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0c41fc7ca989cff06f5786292b045e19",
+      "frameId": "frame@a6000fc2d45c20517ed96c5e1b248758",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@6421cfa96d5703b6139b21bccad84d7f",
+      "timestamp": 22204.244,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0c41fc7ca989cff06f5786292b045e19",
+      "frameId": "frame@a6000fc2d45c20517ed96c5e1b248758",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@6421cfa96d5703b6139b21bccad84d7f",
+      "timestamp": 22216.072,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0c41fc7ca989cff06f5786292b045e19",
+      "frameId": "frame@a6000fc2d45c20517ed96c5e1b248758",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=hp+printer",
+      "snapshotName": "before@call@c5bf5a64a380f978eee91b03c5e18d1d",
+      "timestamp": 37721.507,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0c41fc7ca989cff06f5786292b045e19",
+      "frameId": "frame@a6000fc2d45c20517ed96c5e1b248758",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=hp+printer",
+      "snapshotName": "input@call@c5bf5a64a380f978eee91b03c5e18d1d",
+      "timestamp": 37764.61,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0c41fc7ca989cff06f5786292b045e19",
+      "frameId": "frame@a6000fc2d45c20517ed96c5e1b248758",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=hp+printer",
+      "snapshotName": "after@call@c5bf5a64a380f978eee91b03c5e18d1d",
+      "timestamp": 38928.393,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0c41fc7ca989cff06f5786292b045e19",
+      "frameId": "frame@a6000fc2d45c20517ed96c5e1b248758",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=hp+printer",
+      "snapshotName": "before@call@2e26e060533ca5f74e3cd5cad5103799",
+      "timestamp": 41138.035,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0c41fc7ca989cff06f5786292b045e19",
+      "frameId": "frame@a6000fc2d45c20517ed96c5e1b248758",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=hp+printer",
+      "snapshotName": "input@call@2e26e060533ca5f74e3cd5cad5103799",
+      "timestamp": 41184.914,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0c41fc7ca989cff06f5786292b045e19",
+      "frameId": "frame@a6000fc2d45c20517ed96c5e1b248758",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/hp-deskjet-f380-all-in-one-printer-scanner-copier.html",
+      "snapshotName": "after@call@2e26e060533ca5f74e3cd5cad5103799",
+      "timestamp": 42434.578,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@0c41fc7ca989cff06f5786292b045e19",
+      "timestamp": 46054.676,
+      "resource": "page@0c41fc7ca989cff06f5786292b045e19-1703276652.347104.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_156__page0.jpg",
+      "sha256": "4597d427fa7718f997b028a5c2bafb0db8ce92a47b1d4819ebbd41733d1705be",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_156__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

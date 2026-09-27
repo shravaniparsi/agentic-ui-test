@@ -1,7 +1,7 @@
-# Can LLM Web Agents Verify Their Own Work?
+# Can Multimodal Models Verify Web-Agent Work?
 
-Replication package for *Can LLM Web Agents Verify Their Own Work? The Role of Visual and
-Textual References in Post-Hoc Verification* (IEEE Access, manuscript Access-2026-32332,
+Replication package for *Can Multimodal Models Verify Web-Agent Work? The Role of Visual
+and Textual References in Post-Hoc Verification* (IEEE Access, manuscript Access-2026-32332,
 under revision).
 
 A controlled study of reference-augmented post-hoc verification: five frontier closed-API
@@ -10,13 +10,17 @@ LMMs judge whether a web task succeeded, from the agent's final screenshot alone
 both (D), across 909 VisualWebArena trajectories produced by a single GPT-4V + Set-of-Mark
 agent.
 
-## Version of record
+## Review release
 
-The exact state of this repository behind the IEEE Access revision (Access-2026-32332) is tagged **`v1.1-ieee-access-r1`**. Every number in the manuscript can be reproduced from the code and data at that tag:
+The stable reviewer-evidence release is tagged **`v1.2-ieee-access-reviewer-evidence`**. It
+adds the matched reference-information experiment, the visual-reference audit and the
+offline robustness tables used in the revision. The earlier **`v1.1-ieee-access-r1`** tag
+is preserved as the historical R1 snapshot. See [`PROVENANCE.md`](PROVENANCE.md) for the
+scope and limitations of each release.
 
 ```bash
 git clone https://github.com/shravaniparsi/agentic-ui-test
-cd agentic-ui-test && git checkout v1.1-ieee-access-r1
+cd agentic-ui-test && git checkout v1.2-ieee-access-reviewer-evidence
 ```
 
 ## Quick start
@@ -51,13 +55,14 @@ data/
   verification_dataset_textref.jsonl    + text references (GPT-4.1 Nano)
   verification_dataset_xref_claude.jsonl  + cross-generator refs (Claude Sonnet 4)
   verification_dataset_nocriteria.jsonl   + refs generated without eval criteria
-  visual_subset_ids.txt                 the 147 instances with a human reference
+  visual_subset_ids.txt                 historical 147-task analysis pool (not a validation certificate)
   screenshots/ references/              rebuilt by the two extraction scripts below
 results/                  supplement tables, cross-reference runs, task-ID lists
 figures/                  manuscript figures
 scripts/                  data preparation and analysis
-manuscripts/              revised manuscript and response to reviewers
-archive/                  superseded runs, kept for provenance (see each README)
+experiments/reference_information/  completed matched control with raw API records
+reviewer_artifacts/visual_reference_validation/  screened reference set and audit records
+archive/                  historical runs needed to interpret the submitted results
 ```
 
 ## Rebuilding the image data
@@ -69,13 +74,24 @@ the archives published by the VisualWebArena authors:
 # agent final screenshots, from the GPT-4V + SoM trajectory archive
 python3 scripts/parse_vwa_trajectories.py --archive path/to/gpt4v_som.tar
 
-# human reference screenshots, from the human Playwright traces
+# unvalidated human screenshot candidates, from the human Playwright traces
 python3 scripts/extract_human_references.py --human-dir path/to/vwa_human_trajectories
 ```
 
-The first writes 909 agent final states; the second writes 233 human final states, of which
-the 147 in `data/visual_subset_ids.txt` form the visual-reference subset used by Conditions
-C and D.
+The first extracts agent final-state images. The second extracts last-frame candidates
+from the available human traces into `data/reference_candidates/` by default. The full
+public inventory contains 233 traces; the 147 IDs in `data/visual_subset_ids.txt` identify
+the historical C/D analysis pool. Neither filename matching nor the final recorded
+frame establishes successful completion or useful reference coverage. Preserve that
+historical pool for reproduction; do not relabel it as a newly validated pool.
+
+For a new run, use separately adjudicated references with task-specific identity and
+completion evidence and a byte-hashed manifest. `scripts/prepare_validated_visual_dataset.py`
+checks such a manifest and writes a separate dataset restricted to its approved IDs.
+It refuses unapproved entries, altered images, implicit task remapping and overwriting
+an existing dataset. Repaired images require fresh C/D predictions; old predictions
+must not be attached to the new images. Screening does not equalize viewport, recorder
+overlays, compression or provider-side image processing.
 
 ## Notes for reviewers
 
@@ -89,12 +105,20 @@ C and D.
   the retired model are preserved in `archive/original_submission_gemini25/`.
 - Conditions C and D were re-run after a prompt correction; the pre-correction runs are in
   `archive/cd_original_prompt/`, which documents the change.
+- `experiments/reference_information/` contains a new 147-task matched control. It compares
+  criteria-enriched and task-only references while holding the generator wrapper, screenshot,
+  verifier prompt and provider settings fixed. It is separate from the historical study.
+- `reviewer_artifacts/visual_reference_validation/` contains the disclosed reference audit.
+  Sixty-seven of 147 historical candidates passed the implemented screen; this was an
+  author-confirmed, AI-assisted audit rather than an independent human annotation study.
+- Working manuscripts and peer-review correspondence are intentionally excluded from the
+  public replication package.
 
 ## Citation
 
 ```bibtex
 @article{thatikonda2026canllmwebagents,
-  title={Can LLM Web Agents Verify Their Own Work? The Role of Visual and
+  title={Can Multimodal Models Verify Web-Agent Work? The Role of Visual and
          Textual References in Post-Hoc Verification},
   author={Thatikonda, Vishwak and Parsi, Shravani},
   journal={IEEE Access},

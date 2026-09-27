@@ -1,0 +1,280 @@
+{
+  "instance_id": "vwa_reddit_189",
+  "domain": "reddit",
+  "filename_task_id": 189,
+  "source_url": "https://drive.usercontent.google.com/download?id=1Y16qaqrjgUePL7cHiEhBHQL2dIP3Q0XX&export=download&confirm=t",
+  "source_file_id": "1Y16qaqrjgUePL7cHiEhBHQL2dIP3Q0XX",
+  "archive_sha256": "ca8f6f1aa708a12bc37af0ce73ddec51ce0f852d4288cd40ce383b6e76da928e",
+  "archive_bytes": 10797474,
+  "event_types": {
+    "context-options": 1,
+    "event": 171,
+    "screencast-frame": 167,
+    "object": 71,
+    "before": 6,
+    "frame-snapshot": 18,
+    "input": 6,
+    "after": 6
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704271422370,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@04fc1488d72c7098e0e111b6490f8a79",
+      "timestamp": 14813.535,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@04fc1488d72c7098e0e111b6490f8a79",
+      "timestamp": 14868.817,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "after@call@04fc1488d72c7098e0e111b6490f8a79",
+      "timestamp": 14927.991,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@538acad6aa37a53f8ee7ae6c53097631",
+      "timestamp": 15942.107,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@538acad6aa37a53f8ee7ae6c53097631",
+      "timestamp": 15957.445,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=iphone",
+      "snapshotName": "after@call@538acad6aa37a53f8ee7ae6c53097631",
+      "timestamp": 16855.438,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=iphone",
+      "snapshotName": "before@call@1f9f4337bcf23584bc3140b74b8e1826",
+      "timestamp": 18139.831,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=iphone",
+      "snapshotName": "input@call@1f9f4337bcf23584bc3140b74b8e1826",
+      "timestamp": 18232.546,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@1f9f4337bcf23584bc3140b74b8e1826",
+      "timestamp": 19048.163,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=iphone",
+      "snapshotName": "before@call@3045d8198fcdf9cd9b56a53a7c38cb72",
+      "timestamp": 22186.668,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/search?q=iphone",
+      "snapshotName": "input@call@3045d8198fcdf9cd9b56a53a7c38cb72",
+      "timestamp": 22270.86,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/iphone/106106/which-iphone-compares-to-the-latest-iphone-cameras-example",
+      "snapshotName": "after@call@3045d8198fcdf9cd9b56a53a7c38cb72",
+      "timestamp": 23209.597,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/iphone/106106/which-iphone-compares-to-the-latest-iphone-cameras-example",
+      "snapshotName": "before@call@0eb5871f3032faa1f8fe97368336e28c",
+      "timestamp": 24289.995,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/iphone/106106/which-iphone-compares-to-the-latest-iphone-cameras-example",
+      "snapshotName": "input@call@0eb5871f3032faa1f8fe97368336e28c",
+      "timestamp": 24334.07,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/iphone",
+      "snapshotName": "after@call@0eb5871f3032faa1f8fe97368336e28c",
+      "timestamp": 24827.661,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/iphone",
+      "snapshotName": "before@call@54ab44bf73ab7158cd8abe2dc3bc1ba7",
+      "timestamp": 26092.323,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/iphone",
+      "snapshotName": "input@call@54ab44bf73ab7158cd8abe2dc3bc1ba7",
+      "timestamp": 26172.451,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "frameId": "frame@69b7cbfeac39df52cb78a44614325600",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/iphone",
+      "snapshotName": "after@call@54ab44bf73ab7158cd8abe2dc3bc1ba7",
+      "timestamp": 26235.735,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@d8eabe85b409bb3257ea360cc5e8e6e5",
+      "timestamp": 13886.361,
+      "resource": "page@d8eabe85b409bb3257ea360cc5e8e6e5-1704271435.523097.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_189__page0.jpg",
+      "sha256": "249636134e3c3549cd081aeea17f35c2288ceb12aceff8b331b479ac8ae19c86",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@aef80f9a12979e4b200f77981e0b3c68",
+      "timestamp": 29646.034,
+      "resource": "page@aef80f9a12979e4b200f77981e0b3c68-1704271451.279976.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_189__page1.jpg",
+      "sha256": "d4c7143f45aebb55a128bc1e7188c0c6d95d46c3b30d0573a3351320453a36ba",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_189__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,353 @@
+{
+  "instance_id": "vwa_classifieds_170",
+  "domain": "classifieds",
+  "filename_task_id": 170,
+  "source_url": "https://drive.usercontent.google.com/download?id=1VxKUjpSUSzCyqFfulLYn_IMPrFOKDgzm&export=download&confirm=t",
+  "source_file_id": "1VxKUjpSUSzCyqFfulLYn_IMPrFOKDgzm",
+  "archive_sha256": "a4240133a900f5daae1fd3d114128fb3b1169ae4ca35860db21c7cda2b495623",
+  "archive_bytes": 9951102,
+  "event_types": {
+    "context-options": 1,
+    "event": 59,
+    "screencast-frame": 150,
+    "before": 4,
+    "frame-snapshot": 12,
+    "input": 4,
+    "after": 4
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704257799417,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@f4c0c7138068241107345b4063a781f8",
+      "frameId": "frame@8ea916be80b3c94848ddd1b2c4d0abf2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "before@call@bc9190b8b0d6495777e5514febd462c8",
+      "timestamp": 14632.596,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f4c0c7138068241107345b4063a781f8",
+      "frameId": "frame@8ea916be80b3c94848ddd1b2c4d0abf2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/",
+      "snapshotName": "input@call@bc9190b8b0d6495777e5514febd462c8",
+      "timestamp": 14659.235,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f4c0c7138068241107345b4063a781f8",
+      "frameId": "frame@8ea916be80b3c94848ddd1b2c4d0abf2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=11",
+      "snapshotName": "after@call@bc9190b8b0d6495777e5514febd462c8",
+      "timestamp": 14921.149,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f4c0c7138068241107345b4063a781f8",
+      "frameId": "frame@8ea916be80b3c94848ddd1b2c4d0abf2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=11",
+      "snapshotName": "before@call@86a44d81dece903c2332914fedeee530",
+      "timestamp": 16714.03,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f4c0c7138068241107345b4063a781f8",
+      "frameId": "frame@8ea916be80b3c94848ddd1b2c4d0abf2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=11",
+      "snapshotName": "input@call@86a44d81dece903c2332914fedeee530",
+      "timestamp": 16743.43,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f4c0c7138068241107345b4063a781f8",
+      "frameId": "frame@8ea916be80b3c94848ddd1b2c4d0abf2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=11",
+      "snapshotName": "after@call@86a44d81dece903c2332914fedeee530",
+      "timestamp": 16747.42,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f4c0c7138068241107345b4063a781f8",
+      "frameId": "frame@8ea916be80b3c94848ddd1b2c4d0abf2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=11",
+      "snapshotName": "before@call@fed997a53f890e600f98031fd56b0dc8",
+      "timestamp": 19040.202,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f4c0c7138068241107345b4063a781f8",
+      "frameId": "frame@8ea916be80b3c94848ddd1b2c4d0abf2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=11",
+      "snapshotName": "input@call@fed997a53f890e600f98031fd56b0dc8",
+      "timestamp": 19058.932,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f4c0c7138068241107345b4063a781f8",
+      "frameId": "frame@8ea916be80b3c94848ddd1b2c4d0abf2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=11&sOrder=i_price&iOrderType=desc",
+      "snapshotName": "after@call@fed997a53f890e600f98031fd56b0dc8",
+      "timestamp": 19246.016,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f4c0c7138068241107345b4063a781f8",
+      "frameId": "frame@8ea916be80b3c94848ddd1b2c4d0abf2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=11&sOrder=i_price&iOrderType=desc",
+      "snapshotName": "before@call@54a55a46065c2564aebe02312444a098",
+      "timestamp": 28192.762,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f4c0c7138068241107345b4063a781f8",
+      "frameId": "frame@8ea916be80b3c94848ddd1b2c4d0abf2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=search&sCategory=11&sOrder=i_price&iOrderType=desc",
+      "snapshotName": "input@call@54a55a46065c2564aebe02312444a098",
+      "timestamp": 28209.021,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@f4c0c7138068241107345b4063a781f8",
+      "frameId": "frame@8ea916be80b3c94848ddd1b2c4d0abf2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=36313",
+      "snapshotName": "after@call@54a55a46065c2564aebe02312444a098",
+      "timestamp": 28428.398,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@f4c0c7138068241107345b4063a781f8",
+      "timestamp": 30854.564,
+      "resource": "page@f4c0c7138068241107345b4063a781f8-1704257829.916985.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_170__page0.jpg",
+      "sha256": "adb16f00ea119d386206e8c08782fdcdeb50987bc6003aa91e3e6ec66e512ac6",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_classifieds_170__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false,
+  "candidate_frames": [
+    {
+      "page_id": "page@f4c0c7138068241107345b4063a781f8",
+      "timestamp": 985.407,
+      "resource": "page@f4c0c7138068241107345b4063a781f8-1704257800.049201.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_170__candidate0.jpg",
+      "sha256": "a6cc24af1b405a6657b193f8071c62e0cc03cd336f05e0a8b04ec32890a50a8a",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@f4c0c7138068241107345b4063a781f8",
+      "timestamp": 4921.753,
+      "resource": "page@f4c0c7138068241107345b4063a781f8-1704257803.981895.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_170__candidate14.jpg",
+      "sha256": "5f3ffc713455ed63e852452561eb856cc05c9b0aaee8c060a7f92628f9679306",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@f4c0c7138068241107345b4063a781f8",
+      "timestamp": 10685.944,
+      "resource": "page@f4c0c7138068241107345b4063a781f8-1704257809.749117.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_170__candidate27.jpg",
+      "sha256": "1cba7dcab54a40b04ab1fd693a0dd6310b4c39c3d3a4c5e340064322854fdaff",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@f4c0c7138068241107345b4063a781f8",
+      "timestamp": 13711.384,
+      "resource": "page@f4c0c7138068241107345b4063a781f8-1704257812.772765.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_170__candidate41.jpg",
+      "sha256": "281e60ad0760a38b1d4fc7bf931cf524e23e86dc38e72e0d809c86e1d56cf391",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@f4c0c7138068241107345b4063a781f8",
+      "timestamp": 15982.246,
+      "resource": "page@f4c0c7138068241107345b4063a781f8-1704257815.045566.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_170__candidate54.jpg",
+      "sha256": "675504877cc6deab5d8e426f4f7716e9671f0e170a149f7bad63f0b2b5ece02c",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@f4c0c7138068241107345b4063a781f8",
+      "timestamp": 16968.023,
+      "resource": "page@f4c0c7138068241107345b4063a781f8-1704257816.029943.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_170__candidate68.jpg",
+      "sha256": "2965cb058222ceec5b655b83201f1d3e274f341277fcc41cf123db432f8cb3a4",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@f4c0c7138068241107345b4063a781f8",
+      "timestamp": 19085.798,
+      "resource": "page@f4c0c7138068241107345b4063a781f8-1704257818.149816.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_170__candidate81.jpg",
+      "sha256": "ce2980e083e95e2ab09a6be1fa0aadbd34abe1cd9d851b4a8619e3d9d683fc7d",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@f4c0c7138068241107345b4063a781f8",
+      "timestamp": 20462.266,
+      "resource": "page@f4c0c7138068241107345b4063a781f8-1704257819.525516.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_170__candidate95.jpg",
+      "sha256": "9a8a771e2540bf28b366488f8b5cc3bfe203ec06d90ac3ef70582a9ff2fa1dac",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@f4c0c7138068241107345b4063a781f8",
+      "timestamp": 23124.688,
+      "resource": "page@f4c0c7138068241107345b4063a781f8-1704257822.188361.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_170__candidate108.jpg",
+      "sha256": "86db87ed4d59a800f8442cdc40a3a4a63c1042c4f8ff75397601bfe55b600dea",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@f4c0c7138068241107345b4063a781f8",
+      "timestamp": 26012.781,
+      "resource": "page@f4c0c7138068241107345b4063a781f8-1704257825.076937.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_170__candidate122.jpg",
+      "sha256": "d8eb73a6e3c5cdedddd85bef46bd9895cf3415b7b1fdb4c2971eb101cbf05b18",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@f4c0c7138068241107345b4063a781f8",
+      "timestamp": 28808.264,
+      "resource": "page@f4c0c7138068241107345b4063a781f8-1704257827.872513.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_170__candidate135.jpg",
+      "sha256": "e2252b05afabcfa38df06cdc39de248da5c1e30c4b96e9f071ad195ca3aed089",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    },
+    {
+      "page_id": "page@f4c0c7138068241107345b4063a781f8",
+      "timestamp": 30854.564,
+      "resource": "page@f4c0c7138068241107345b4063a781f8-1704257829.916985.jpeg",
+      "path": "reference_validation/frames/vwa_classifieds_170__candidate149.jpg",
+      "sha256": "adb16f00ea119d386206e8c08782fdcdeb50987bc6003aa91e3e6ec66e512ac6",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ],
+      "selection_type": "earlier_recorded_candidate"
+    }
+  ]
+}

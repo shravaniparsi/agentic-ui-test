@@ -1,0 +1,159 @@
+{
+  "instance_id": "vwa_shopping_131",
+  "domain": "shopping",
+  "filename_task_id": 131,
+  "source_url": "https://drive.usercontent.google.com/download?id=1EfifwkMy2Xs06N-OrConGaUdceilPjIM&export=download&confirm=t",
+  "source_file_id": "1EfifwkMy2Xs06N-OrConGaUdceilPjIM",
+  "archive_sha256": "210baf410f85037a70225cb2d62386c5fb38c0fccc6ea6dbd5ad070dde694a9c",
+  "archive_bytes": 5686885,
+  "event_types": {
+    "context-options": 1,
+    "event": 31,
+    "screencast-frame": 115,
+    "before": 3,
+    "frame-snapshot": 9,
+    "input": 3,
+    "after": 3
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703284970777,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@7dc9719ef170f09c5f04179f7838eca8",
+      "frameId": "frame@c409bd6b1249b399db27733685b83afc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/furniture/living-room-furniture.html",
+      "snapshotName": "before@call@fd94b604bb708de1bca60d2536c2c66e",
+      "timestamp": 14848.386,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7dc9719ef170f09c5f04179f7838eca8",
+      "frameId": "frame@c409bd6b1249b399db27733685b83afc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/furniture/living-room-furniture.html",
+      "snapshotName": "input@call@fd94b604bb708de1bca60d2536c2c66e",
+      "timestamp": 14902.24,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7dc9719ef170f09c5f04179f7838eca8",
+      "frameId": "frame@c409bd6b1249b399db27733685b83afc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/coffee-table-set-3-pieces-nesting-end-table-set-set-of-3-modern-accent-furniture-unique-design-coffee-table-leisure-table-minimalist-side-table-for-living-room-brown-and-black.html",
+      "snapshotName": "after@call@fd94b604bb708de1bca60d2536c2c66e",
+      "timestamp": 16385.204,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7dc9719ef170f09c5f04179f7838eca8",
+      "frameId": "frame@c409bd6b1249b399db27733685b83afc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/coffee-table-set-3-pieces-nesting-end-table-set-set-of-3-modern-accent-furniture-unique-design-coffee-table-leisure-table-minimalist-side-table-for-living-room-brown-and-black.html",
+      "snapshotName": "before@call@4a3a259a8ff78e33e487c45f1129eb3e",
+      "timestamp": 19674.819,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7dc9719ef170f09c5f04179f7838eca8",
+      "frameId": "frame@c409bd6b1249b399db27733685b83afc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/coffee-table-set-3-pieces-nesting-end-table-set-set-of-3-modern-accent-furniture-unique-design-coffee-table-leisure-table-minimalist-side-table-for-living-room-brown-and-black.html",
+      "snapshotName": "input@call@4a3a259a8ff78e33e487c45f1129eb3e",
+      "timestamp": 19736.582,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7dc9719ef170f09c5f04179f7838eca8",
+      "frameId": "frame@c409bd6b1249b399db27733685b83afc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/coffee-table-set-3-pieces-nesting-end-table-set-set-of-3-modern-accent-furniture-unique-design-coffee-table-leisure-table-minimalist-side-table-for-living-room-brown-and-black.html",
+      "snapshotName": "after@call@4a3a259a8ff78e33e487c45f1129eb3e",
+      "timestamp": 19746.895,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7dc9719ef170f09c5f04179f7838eca8",
+      "frameId": "frame@c409bd6b1249b399db27733685b83afc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/coffee-table-set-3-pieces-nesting-end-table-set-set-of-3-modern-accent-furniture-unique-design-coffee-table-leisure-table-minimalist-side-table-for-living-room-brown-and-black.html",
+      "snapshotName": "before@call@0aa21f7b09397dfc8f368db2a0b7f5d4",
+      "timestamp": 21625.673,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7dc9719ef170f09c5f04179f7838eca8",
+      "frameId": "frame@c409bd6b1249b399db27733685b83afc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/coffee-table-set-3-pieces-nesting-end-table-set-set-of-3-modern-accent-furniture-unique-design-coffee-table-leisure-table-minimalist-side-table-for-living-room-brown-and-black.html",
+      "snapshotName": "input@call@0aa21f7b09397dfc8f368db2a0b7f5d4",
+      "timestamp": 21667.229,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7dc9719ef170f09c5f04179f7838eca8",
+      "frameId": "frame@c409bd6b1249b399db27733685b83afc",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/coffee-table-set-3-pieces-nesting-end-table-set-set-of-3-modern-accent-furniture-unique-design-coffee-table-leisure-table-minimalist-side-table-for-living-room-brown-and-black.html",
+      "snapshotName": "after@call@0aa21f7b09397dfc8f368db2a0b7f5d4",
+      "timestamp": 21681.495,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@7dc9719ef170f09c5f04179f7838eca8",
+      "timestamp": 25742.238,
+      "resource": "page@7dc9719ef170f09c5f04179f7838eca8-1703284995.607959.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_131__page0.jpg",
+      "sha256": "2ec3065af94b1e96a9e54bbb3785aafb7e0f49bc7cfbd2b56a089c6407637e98",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_131__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,183 @@
+{
+  "instance_id": "vwa_shopping_21",
+  "domain": "shopping",
+  "filename_task_id": 21,
+  "source_url": "https://drive.usercontent.google.com/download?id=1o_4seqddPVPOqE9afyYdkfqFGYtT-8JK&export=download&confirm=t",
+  "source_file_id": "1o_4seqddPVPOqE9afyYdkfqFGYtT-8JK",
+  "archive_sha256": "d76c3aa777de8ddec5042f87028bf3eea58a5f5f3a140a26c985de55fef8c402",
+  "archive_bytes": 12805445,
+  "event_types": {
+    "context-options": 1,
+    "event": 74,
+    "screencast-frame": 203,
+    "before": 4,
+    "frame-snapshot": 11,
+    "input": 4,
+    "after": 4
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703272676973,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@1442ba1351dbf5c2c6e8bc243ac4d813",
+      "frameId": "frame@afafae4a91e239dd76ce55251137b736",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@c2bc910594e48468e11effeb7ce61bd6",
+      "timestamp": 48410.72,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1442ba1351dbf5c2c6e8bc243ac4d813",
+      "frameId": "frame@afafae4a91e239dd76ce55251137b736",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@c2bc910594e48468e11effeb7ce61bd6",
+      "timestamp": 48476.779,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1442ba1351dbf5c2c6e8bc243ac4d813",
+      "frameId": "frame@afafae4a91e239dd76ce55251137b736",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones/over-ear-headphones.html",
+      "snapshotName": "after@call@c2bc910594e48468e11effeb7ce61bd6",
+      "timestamp": 50259.937,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1442ba1351dbf5c2c6e8bc243ac4d813",
+      "frameId": "frame@afafae4a91e239dd76ce55251137b736",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones/over-ear-headphones.html?product_list_order=price",
+      "snapshotName": "input@call@40986d41f0ae70aecb9e09f25b9979f7",
+      "timestamp": 55057.631,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1442ba1351dbf5c2c6e8bc243ac4d813",
+      "frameId": "frame@afafae4a91e239dd76ce55251137b736",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones/over-ear-headphones.html?product_list_order=price",
+      "snapshotName": "after@call@40986d41f0ae70aecb9e09f25b9979f7",
+      "timestamp": 55078.008,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1442ba1351dbf5c2c6e8bc243ac4d813",
+      "frameId": "frame@afafae4a91e239dd76ce55251137b736",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones/over-ear-headphones.html?product_list_order=price",
+      "snapshotName": "before@call@c06e99c76af87cd465fbb96125843553",
+      "timestamp": 56188.126,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1442ba1351dbf5c2c6e8bc243ac4d813",
+      "frameId": "frame@afafae4a91e239dd76ce55251137b736",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones/over-ear-headphones.html?product_list_order=price",
+      "snapshotName": "input@call@c06e99c76af87cd465fbb96125843553",
+      "timestamp": 56238.945,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1442ba1351dbf5c2c6e8bc243ac4d813",
+      "frameId": "frame@afafae4a91e239dd76ce55251137b736",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones/over-ear-headphones.html?product_list_order=price&product_list_dir=desc",
+      "snapshotName": "after@call@c06e99c76af87cd465fbb96125843553",
+      "timestamp": 57631.767,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1442ba1351dbf5c2c6e8bc243ac4d813",
+      "frameId": "frame@afafae4a91e239dd76ce55251137b736",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones/over-ear-headphones.html?product_list_order=price&product_list_dir=desc",
+      "snapshotName": "before@call@2d4f696df37e629dd0cf7ae3317cfa93",
+      "timestamp": 62812.409,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1442ba1351dbf5c2c6e8bc243ac4d813",
+      "frameId": "frame@afafae4a91e239dd76ce55251137b736",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/headphones/over-ear-headphones.html?product_list_order=price&product_list_dir=desc",
+      "snapshotName": "input@call@2d4f696df37e629dd0cf7ae3317cfa93",
+      "timestamp": 62874.977,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@1442ba1351dbf5c2c6e8bc243ac4d813",
+      "frameId": "frame@afafae4a91e239dd76ce55251137b736",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/hedd-phone-one-headphone.html",
+      "snapshotName": "after@call@2d4f696df37e629dd0cf7ae3317cfa93",
+      "timestamp": 64037.976,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@1442ba1351dbf5c2c6e8bc243ac4d813",
+      "timestamp": 81748.862,
+      "resource": "page@1442ba1351dbf5c2c6e8bc243ac4d813-1703272757.905989.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_21__page0.jpg",
+      "sha256": "b20c1768b02c2702a7f7b04c150431d68b6c45862c655720aa4a62bdf42d2df5",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_21__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

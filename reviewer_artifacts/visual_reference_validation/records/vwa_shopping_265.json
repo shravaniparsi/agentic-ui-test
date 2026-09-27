@@ -1,0 +1,327 @@
+{
+  "instance_id": "vwa_shopping_265",
+  "domain": "shopping",
+  "filename_task_id": 265,
+  "source_url": "https://drive.usercontent.google.com/download?id=1aTGAdlMlP8pXK4A6l26q9jVrOX47t4cS&export=download&confirm=t",
+  "source_file_id": "1aTGAdlMlP8pXK4A6l26q9jVrOX47t4cS",
+  "archive_sha256": "69afae8095f7d8943c5e11acef1e72026c5dc2f6526b4c3025043da0b24edfa2",
+  "archive_bytes": 12885246,
+  "event_types": {
+    "context-options": 1,
+    "event": 102,
+    "screencast-frame": 289,
+    "before": 8,
+    "frame-snapshot": 23,
+    "input": 8,
+    "after": 8
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703281862434,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@a04f7b5af6c9517f2612bdf70c3d540d",
+      "timestamp": 22635.968,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@a04f7b5af6c9517f2612bdf70c3d540d",
+      "timestamp": 22687.491,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/portable-audio-video/boomboxes.html",
+      "snapshotName": "after@call@a04f7b5af6c9517f2612bdf70c3d540d",
+      "timestamp": 24462.76,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/portable-audio-video/boomboxes.html?product_list_order=price",
+      "snapshotName": "input@call@277fd55b152215197cbfbc1678ad8a9e",
+      "timestamp": 28117.879,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/portable-audio-video/boomboxes.html?product_list_order=price",
+      "snapshotName": "after@call@277fd55b152215197cbfbc1678ad8a9e",
+      "timestamp": 28601.104,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/portable-audio-video/boomboxes.html?product_list_order=price",
+      "snapshotName": "before@call@e483bcefb1857d715f43a11be4e47dc1",
+      "timestamp": 30850.726,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/electronics/portable-audio-video/boomboxes.html?product_list_order=price",
+      "snapshotName": "input@call@e483bcefb1857d715f43a11be4e47dc1",
+      "timestamp": 30884.681,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sony-zsh10cp-portable-heavy-duty-cd-radio-boombox-speaker-system-discontinued-by-manufacturer.html",
+      "snapshotName": "after@call@e483bcefb1857d715f43a11be4e47dc1",
+      "timestamp": 32574.395,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sony-zsh10cp-portable-heavy-duty-cd-radio-boombox-speaker-system-discontinued-by-manufacturer.html",
+      "snapshotName": "before@call@76d7780bcecc0cfcadcf09f5ed5f0978",
+      "timestamp": 34685.797,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sony-zsh10cp-portable-heavy-duty-cd-radio-boombox-speaker-system-discontinued-by-manufacturer.html",
+      "snapshotName": "input@call@76d7780bcecc0cfcadcf09f5ed5f0978",
+      "timestamp": 34734.972,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sony-zsh10cp-portable-heavy-duty-cd-radio-boombox-speaker-system-discontinued-by-manufacturer.html",
+      "snapshotName": "after@call@76d7780bcecc0cfcadcf09f5ed5f0978",
+      "timestamp": 34769.11,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sony-zsh10cp-portable-heavy-duty-cd-radio-boombox-speaker-system-discontinued-by-manufacturer.html",
+      "snapshotName": "before@call@52996670a97d02b3aafd1a7452315b54",
+      "timestamp": 36832.727,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sony-zsh10cp-portable-heavy-duty-cd-radio-boombox-speaker-system-discontinued-by-manufacturer.html",
+      "snapshotName": "input@call@52996670a97d02b3aafd1a7452315b54",
+      "timestamp": 36890.627,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sony-zsh10cp-portable-heavy-duty-cd-radio-boombox-speaker-system-discontinued-by-manufacturer.html",
+      "snapshotName": "after@call@52996670a97d02b3aafd1a7452315b54",
+      "timestamp": 36925.651,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sony-zsh10cp-portable-heavy-duty-cd-radio-boombox-speaker-system-discontinued-by-manufacturer.html",
+      "snapshotName": "before@call@abd892cc6a8137593e7847ff613249b4",
+      "timestamp": 37748.555,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sony-zsh10cp-portable-heavy-duty-cd-radio-boombox-speaker-system-discontinued-by-manufacturer.html",
+      "snapshotName": "input@call@abd892cc6a8137593e7847ff613249b4",
+      "timestamp": 37774.623,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/",
+      "snapshotName": "after@call@abd892cc6a8137593e7847ff613249b4",
+      "timestamp": 38903.768,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "before@call@7564c447a3b049645ceaf5068e5bfda8",
+      "timestamp": 46398.294,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "input@call@7564c447a3b049645ceaf5068e5bfda8",
+      "timestamp": 46455.457,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "after@call@7564c447a3b049645ceaf5068e5bfda8",
+      "timestamp": 46480.626,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "before@call@4be86fbe122c7717b344f2b5179f80bc",
+      "timestamp": 49996.659,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "input@call@4be86fbe122c7717b344f2b5179f80bc",
+      "timestamp": 50040.582,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "frameId": "frame@f2ea2d410f47e7dada90703241b54282",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "after@call@4be86fbe122c7717b344f2b5179f80bc",
+      "timestamp": 50063.397,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@3cd8e9c73503053defdb63460d02f0ae",
+      "timestamp": 57388.732,
+      "resource": "page@3cd8e9c73503053defdb63460d02f0ae-1703281918.926354.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_265__page0.jpg",
+      "sha256": "146cb8ea3dd48fc98ab6c1a37051a6a76d7b5545d3d5d7fffaca68d340631e6b",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_265__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

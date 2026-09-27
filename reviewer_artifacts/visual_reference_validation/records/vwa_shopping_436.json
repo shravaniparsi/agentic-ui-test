@@ -1,0 +1,111 @@
+{
+  "instance_id": "vwa_shopping_436",
+  "domain": "shopping",
+  "filename_task_id": 436,
+  "source_url": "https://drive.usercontent.google.com/download?id=1Vx74aG2v_ZoLvFicpdHZ2ZMJns88-5rK&export=download&confirm=t",
+  "source_file_id": "1Vx74aG2v_ZoLvFicpdHZ2ZMJns88-5rK",
+  "archive_sha256": "1021e0862dcd4259fd3e04f9a4611922a83dd1d68686bb809bc42330ba3696fc",
+  "archive_bytes": 11046318,
+  "event_types": {
+    "context-options": 1,
+    "event": 99,
+    "screencast-frame": 199,
+    "before": 2,
+    "frame-snapshot": 5,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703217264775,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@7fa1eda72216cc41a254b86d60eebebb",
+      "frameId": "frame@455cae90fca2d6a7ce971ff3d220c0d0",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=screen+projector",
+      "snapshotName": "before@call@a145ef2a4ca4bb83d07c54b53bd02366",
+      "timestamp": 43727.592,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7fa1eda72216cc41a254b86d60eebebb",
+      "frameId": "frame@455cae90fca2d6a7ce971ff3d220c0d0",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=screen+projector",
+      "snapshotName": "input@call@a145ef2a4ca4bb83d07c54b53bd02366",
+      "timestamp": 43759.583,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7fa1eda72216cc41a254b86d60eebebb",
+      "frameId": "frame@455cae90fca2d6a7ce971ff3d220c0d0",
+      "frameUrl": "http://localhost:7770/electronics/video-projectors.html",
+      "snapshotName": "after@call@a145ef2a4ca4bb83d07c54b53bd02366",
+      "timestamp": 44159.049,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7fa1eda72216cc41a254b86d60eebebb",
+      "frameId": "frame@455cae90fca2d6a7ce971ff3d220c0d0",
+      "frameUrl": "http://localhost:7770/electronics/video-projectors.html?product_list_order=price",
+      "snapshotName": "input@call@840777c2bd442fdfbb27a67615522c36",
+      "timestamp": 47464.14,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@7fa1eda72216cc41a254b86d60eebebb",
+      "frameId": "frame@455cae90fca2d6a7ce971ff3d220c0d0",
+      "frameUrl": "http://localhost:7770/electronics/video-projectors.html?product_list_order=price",
+      "snapshotName": "after@call@840777c2bd442fdfbb27a67615522c36",
+      "timestamp": 47476.969,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@7fa1eda72216cc41a254b86d60eebebb",
+      "timestamp": 66988.438,
+      "resource": "page@7fa1eda72216cc41a254b86d60eebebb-1703217331.333737.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_436__page0.jpg",
+      "sha256": "265e678a1750e28e5d2740d3dd301f8ffc2bde001eea62752a7a6d93428b6804",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_436__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

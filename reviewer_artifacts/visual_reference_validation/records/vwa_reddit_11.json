@@ -1,0 +1,136 @@
+{
+  "instance_id": "vwa_reddit_11",
+  "domain": "reddit",
+  "filename_task_id": 11,
+  "source_url": "https://drive.usercontent.google.com/download?id=1uU95HhExDWOJS2xLOYwUexuQ5Ru694IR&export=download&confirm=t",
+  "source_file_id": "1uU95HhExDWOJS2xLOYwUexuQ5Ru694IR",
+  "archive_sha256": "3dd311cfe47726233983d81fcc3c91a17c79a28393bd9059255d1387d6de964a",
+  "archive_bytes": 5992974,
+  "event_types": {
+    "context-options": 1,
+    "event": 112,
+    "screencast-frame": 101,
+    "object": 46,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704258851058,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@6a0d2200bc42fe697d3f3752aa20a6cd",
+      "frameId": "frame@4f721ac8db88489c3981251065c7a88b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@2115bf1f10d65f0b193b58faac31dc1d",
+      "timestamp": 26080.153,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6a0d2200bc42fe697d3f3752aa20a6cd",
+      "frameId": "frame@4f721ac8db88489c3981251065c7a88b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@2115bf1f10d65f0b193b58faac31dc1d",
+      "timestamp": 26132.332,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6a0d2200bc42fe697d3f3752aa20a6cd",
+      "frameId": "frame@4f721ac8db88489c3981251065c7a88b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh",
+      "snapshotName": "after@call@2115bf1f10d65f0b193b58faac31dc1d",
+      "timestamp": 28116.143,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6a0d2200bc42fe697d3f3752aa20a6cd",
+      "frameId": "frame@4f721ac8db88489c3981251065c7a88b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh",
+      "snapshotName": "before@call@80c5ff2b09ed8fc1bbf622abfa689fb2",
+      "timestamp": 36830.289,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6a0d2200bc42fe697d3f3752aa20a6cd",
+      "frameId": "frame@4f721ac8db88489c3981251065c7a88b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh",
+      "snapshotName": "input@call@80c5ff2b09ed8fc1bbf622abfa689fb2",
+      "timestamp": 36866.324,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6a0d2200bc42fe697d3f3752aa20a6cd",
+      "frameId": "frame@4f721ac8db88489c3981251065c7a88b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh/45900/happy-light-up-night-pittsburgh",
+      "snapshotName": "after@call@80c5ff2b09ed8fc1bbf622abfa689fb2",
+      "timestamp": 37839.547,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@a9df5e5966050913e9cc05b5dffa8893",
+      "timestamp": 33034.384,
+      "resource": "page@a9df5e5966050913e9cc05b5dffa8893-1704258883.337103.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_11__page0.jpg",
+      "sha256": "226770faa1c67619b9cb4830958b29b8e92a9e5f74e5852f6845e78ded27a7ea",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@6a0d2200bc42fe697d3f3752aa20a6cd",
+      "timestamp": 43594.828,
+      "resource": "page@6a0d2200bc42fe697d3f3752aa20a6cd-1704258893.892051.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_11__page1.jpg",
+      "sha256": "73fa7d1f51022b014ec8aa6e586407406b9c999b38c1ea5cb49510add1e0570c",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_11__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

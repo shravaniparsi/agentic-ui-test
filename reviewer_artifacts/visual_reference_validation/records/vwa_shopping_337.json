@@ -1,0 +1,195 @@
+{
+  "instance_id": "vwa_shopping_337",
+  "domain": "shopping",
+  "filename_task_id": 337,
+  "source_url": "https://drive.usercontent.google.com/download?id=1pF4hePRUiQfmXP18XpYO57Nz9rYa3oPk&export=download&confirm=t",
+  "source_file_id": "1pF4hePRUiQfmXP18XpYO57Nz9rYa3oPk",
+  "archive_sha256": "54841722c1b32caa5570f1fd5c05316ef2b3e3f797d809694d55c6ae81f39c33",
+  "archive_bytes": 20340838,
+  "event_types": {
+    "context-options": 1,
+    "event": 59,
+    "screencast-frame": 326,
+    "before": 4,
+    "frame-snapshot": 12,
+    "input": 4,
+    "after": 4
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703218806855,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@423577ef8809f3476781e930181d852e",
+      "frameId": "frame@f588faf7271d04a50bd5633035d5be9b",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=bicycle",
+      "snapshotName": "before@call@ded195b9eba082dfe4aee95929aaa691",
+      "timestamp": 90646.098,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@423577ef8809f3476781e930181d852e",
+      "frameId": "frame@f588faf7271d04a50bd5633035d5be9b",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=bicycle",
+      "snapshotName": "input@call@ded195b9eba082dfe4aee95929aaa691",
+      "timestamp": 90682.151,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@423577ef8809f3476781e930181d852e",
+      "frameId": "frame@f588faf7271d04a50bd5633035d5be9b",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=bicycle",
+      "snapshotName": "after@call@ded195b9eba082dfe4aee95929aaa691",
+      "timestamp": 90701.713,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@423577ef8809f3476781e930181d852e",
+      "frameId": "frame@f588faf7271d04a50bd5633035d5be9b",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=bicycle",
+      "snapshotName": "before@call@b6f6b7d8216efbd47b115dff3c9f02e7",
+      "timestamp": 90868.144,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@423577ef8809f3476781e930181d852e",
+      "frameId": "frame@f588faf7271d04a50bd5633035d5be9b",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=bicycle",
+      "snapshotName": "input@call@b6f6b7d8216efbd47b115dff3c9f02e7",
+      "timestamp": 90881.789,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@423577ef8809f3476781e930181d852e",
+      "frameId": "frame@f588faf7271d04a50bd5633035d5be9b",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=bicycle",
+      "snapshotName": "after@call@b6f6b7d8216efbd47b115dff3c9f02e7",
+      "timestamp": 90889.01,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@423577ef8809f3476781e930181d852e",
+      "frameId": "frame@f588faf7271d04a50bd5633035d5be9b",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=bicycle",
+      "snapshotName": "before@call@5512b7c6ff5807145fc42a5a09409c79",
+      "timestamp": 91048.513,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@423577ef8809f3476781e930181d852e",
+      "frameId": "frame@f588faf7271d04a50bd5633035d5be9b",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=bicycle",
+      "snapshotName": "input@call@5512b7c6ff5807145fc42a5a09409c79",
+      "timestamp": 91062.872,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@423577ef8809f3476781e930181d852e",
+      "frameId": "frame@f588faf7271d04a50bd5633035d5be9b",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=bicycle",
+      "snapshotName": "after@call@5512b7c6ff5807145fc42a5a09409c79",
+      "timestamp": 91072.279,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@423577ef8809f3476781e930181d852e",
+      "frameId": "frame@f588faf7271d04a50bd5633035d5be9b",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=bicycle",
+      "snapshotName": "before@call@d854a24a0e4c1ac3a4325a931999fb50",
+      "timestamp": 93614.883,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@423577ef8809f3476781e930181d852e",
+      "frameId": "frame@f588faf7271d04a50bd5633035d5be9b",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=bicycle",
+      "snapshotName": "input@call@d854a24a0e4c1ac3a4325a931999fb50",
+      "timestamp": 93626.869,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@423577ef8809f3476781e930181d852e",
+      "frameId": "frame@f588faf7271d04a50bd5633035d5be9b",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/?q=bike",
+      "snapshotName": "after@call@d854a24a0e4c1ac3a4325a931999fb50",
+      "timestamp": 93991.93,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@423577ef8809f3476781e930181d852e",
+      "timestamp": 100324.236,
+      "resource": "page@423577ef8809f3476781e930181d852e-1703218906.880128.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_337__page0.jpg",
+      "sha256": "7c07a6315e1594bd814efab34225e4ba60f833cd0f34db4bc6787a8aa42e0c11",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_337__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,0 +1,100 @@
+{
+  "instance_id": "vwa_reddit_201",
+  "domain": "reddit",
+  "filename_task_id": 201,
+  "source_url": "https://drive.usercontent.google.com/download?id=1wMlotm8cDNuwNII4pqvcErcIKG-t94Zl&export=download&confirm=t",
+  "source_file_id": "1wMlotm8cDNuwNII4pqvcErcIKG-t94Zl",
+  "archive_sha256": "1bc8d33a7c6d228833017954d56d15dbf5f5d27cb6cb4f0a7575d03b9bd7dfe8",
+  "archive_bytes": 3718486,
+  "event_types": {
+    "context-options": 1,
+    "event": 89,
+    "screencast-frame": 73,
+    "object": 37,
+    "before": 1,
+    "frame-snapshot": 3,
+    "input": 1,
+    "after": 1
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704271707098,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@16dd0c93d213fcf0c98c7611b92ec5d2",
+      "frameId": "frame@cc2ba65dd4ad63b410849e79ba9c8224",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/explainlikeimfive",
+      "snapshotName": "before@call@c252a01398850277e859eaad6b374c0b",
+      "timestamp": 15932.08,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@16dd0c93d213fcf0c98c7611b92ec5d2",
+      "frameId": "frame@cc2ba65dd4ad63b410849e79ba9c8224",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/explainlikeimfive",
+      "snapshotName": "input@call@c252a01398850277e859eaad6b374c0b",
+      "timestamp": 16000.064,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@16dd0c93d213fcf0c98c7611b92ec5d2",
+      "frameId": "frame@cc2ba65dd4ad63b410849e79ba9c8224",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/explainlikeimfive/125106/eli5-why-are-pickles-not-just-called-pickled-cucumbers",
+      "snapshotName": "after@call@c252a01398850277e859eaad6b374c0b",
+      "timestamp": 19280.315,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@710f8eca52d8b361aff1ace208a78fed",
+      "timestamp": 9419.384,
+      "resource": "page@710f8eca52d8b361aff1ace208a78fed-1704271715.908408.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_201__page0.jpg",
+      "sha256": "201250e9df822952f71fb0f7db128d543e70d7e312e08a3cd394332d3406c40a",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@16dd0c93d213fcf0c98c7611b92ec5d2",
+      "timestamp": 22682.136,
+      "resource": "page@16dd0c93d213fcf0c98c7611b92ec5d2-1704271729.172289.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_201__page1.jpg",
+      "sha256": "67d9b379ea65bd1495b373c7ab6546788682a5fb2e4865bdddf8ff4117e8df8a",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_201__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

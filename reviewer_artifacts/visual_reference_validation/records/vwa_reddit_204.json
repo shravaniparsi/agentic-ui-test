@@ -1,0 +1,172 @@
+{
+  "instance_id": "vwa_reddit_204",
+  "domain": "reddit",
+  "filename_task_id": 204,
+  "source_url": "https://drive.usercontent.google.com/download?id=1fUy6eBfmWahARWqOAXdKhyx7J2mylbrM&export=download&confirm=t",
+  "source_file_id": "1fUy6eBfmWahARWqOAXdKhyx7J2mylbrM",
+  "archive_sha256": "acfeae4e996d60125d40121b26c57dac773a1e942060c2ff51ee9ed24f3313c2",
+  "archive_bytes": 12787461,
+  "event_types": {
+    "context-options": 1,
+    "event": 95,
+    "screencast-frame": 221,
+    "object": 45,
+    "before": 3,
+    "frame-snapshot": 10,
+    "input": 4,
+    "after": 3
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704271746969,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@008fcd3a82737f3c4bbfba3743bf7be3",
+      "frameId": "frame@c6eb907a337a8762fe077ca3c8720856",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming?next%5Branking%5D=712&next%5Bid%5D=83741",
+      "snapshotName": "before@call@f756c6aa413985a56b5276e495b43f22",
+      "timestamp": 49078.109,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@008fcd3a82737f3c4bbfba3743bf7be3",
+      "frameId": "frame@c6eb907a337a8762fe077ca3c8720856",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming?next%5Branking%5D=712&next%5Bid%5D=83741",
+      "snapshotName": "input@call@f756c6aa413985a56b5276e495b43f22",
+      "timestamp": 49154.324,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@008fcd3a82737f3c4bbfba3743bf7be3",
+      "frameId": "frame@c6eb907a337a8762fe077ca3c8720856",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming?next%5Branking%5D=712&next%5Bid%5D=83741",
+      "snapshotName": "input@call@f756c6aa413985a56b5276e495b43f22",
+      "timestamp": 49181.683,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@008fcd3a82737f3c4bbfba3743bf7be3",
+      "frameId": "frame@c6eb907a337a8762fe077ca3c8720856",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming/61518/fan-made-pulp-novel-covers-for-classic-nintendo-games",
+      "snapshotName": "after@call@f756c6aa413985a56b5276e495b43f22",
+      "timestamp": 50010.085,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@008fcd3a82737f3c4bbfba3743bf7be3",
+      "frameId": "frame@c6eb907a337a8762fe077ca3c8720856",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming/61518/fan-made-pulp-novel-covers-for-classic-nintendo-games",
+      "snapshotName": "before@call@fdb97bfeb3573683f2ab08613718d2f6",
+      "timestamp": 59911.667,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@008fcd3a82737f3c4bbfba3743bf7be3",
+      "frameId": "frame@c6eb907a337a8762fe077ca3c8720856",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming/61518/fan-made-pulp-novel-covers-for-classic-nintendo-games",
+      "snapshotName": "input@call@fdb97bfeb3573683f2ab08613718d2f6",
+      "timestamp": 59957.569,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@008fcd3a82737f3c4bbfba3743bf7be3",
+      "frameId": "frame@c6eb907a337a8762fe077ca3c8720856",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming/61518/fan-made-pulp-novel-covers-for-classic-nintendo-games",
+      "snapshotName": "after@call@fdb97bfeb3573683f2ab08613718d2f6",
+      "timestamp": 60071.82,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@008fcd3a82737f3c4bbfba3743bf7be3",
+      "frameId": "frame@c6eb907a337a8762fe077ca3c8720856",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming/61518/fan-made-pulp-novel-covers-for-classic-nintendo-games",
+      "snapshotName": "before@call@642d2189efda03043ef5c438914e7d56",
+      "timestamp": 61917.157,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@008fcd3a82737f3c4bbfba3743bf7be3",
+      "frameId": "frame@c6eb907a337a8762fe077ca3c8720856",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming/61518/fan-made-pulp-novel-covers-for-classic-nintendo-games",
+      "snapshotName": "input@call@642d2189efda03043ef5c438914e7d56",
+      "timestamp": 61980.03,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@008fcd3a82737f3c4bbfba3743bf7be3",
+      "frameId": "frame@c6eb907a337a8762fe077ca3c8720856",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/gaming/61518/fan-made-pulp-novel-covers-for-classic-nintendo-games/comment/7",
+      "snapshotName": "after@call@642d2189efda03043ef5c438914e7d56",
+      "timestamp": 62749.178,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@008fcd3a82737f3c4bbfba3743bf7be3",
+      "timestamp": 65877.737,
+      "resource": "page@008fcd3a82737f3c4bbfba3743bf7be3-1704271812.229908.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_204__page0.jpg",
+      "sha256": "068ee8ed2a7e9efb517b9db8c23b8bd812fd8ef41321e39de9728d8b5aa4bbba",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_204__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

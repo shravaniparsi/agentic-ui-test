@@ -1,0 +1,1143 @@
+{
+  "instance_id": "vwa_shopping_119",
+  "domain": "shopping",
+  "filename_task_id": 119,
+  "source_url": "https://drive.usercontent.google.com/download?id=11_z-EYkUmYXzWzYIsysTeIF3wH9aPvYX&export=download&confirm=t",
+  "source_file_id": "11_z-EYkUmYXzWzYIsysTeIF3wH9aPvYX",
+  "archive_sha256": "a1f1f078984658894e18f97a6e2c7360e42274f42dc6c0d75a08482f59334cba",
+  "archive_bytes": 70011278,
+  "event_types": {
+    "context-options": 1,
+    "event": 460,
+    "screencast-frame": 1178,
+    "before": 32,
+    "frame-snapshot": 91,
+    "input": 32,
+    "after": 32
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703276138234,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@36220df31288bc172aaf985198ad83d2",
+      "timestamp": 81572.512,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@36220df31288bc172aaf985198ad83d2",
+      "timestamp": 81625.532,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products.html",
+      "snapshotName": "after@call@36220df31288bc172aaf985198ad83d2",
+      "timestamp": 83106.419,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products.html",
+      "snapshotName": "before@call@1bdf9e7cce8ff65e045913f62463a619",
+      "timestamp": 88922.352,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products.html",
+      "snapshotName": "input@call@1bdf9e7cce8ff65e045913f62463a619",
+      "timestamp": 88974.208,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products.html",
+      "snapshotName": "after@call@1bdf9e7cce8ff65e045913f62463a619",
+      "timestamp": 88993.413,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products.html",
+      "snapshotName": "before@call@39f6647c97d9443dae0a2601ada41a3a",
+      "timestamp": 89170.838,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products.html",
+      "snapshotName": "input@call@39f6647c97d9443dae0a2601ada41a3a",
+      "timestamp": 89207.527,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products.html",
+      "snapshotName": "after@call@39f6647c97d9443dae0a2601ada41a3a",
+      "timestamp": 89216.605,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products.html",
+      "snapshotName": "before@call@14fc606d944828aa42bff96b278dc83e",
+      "timestamp": 90275.639,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products.html",
+      "snapshotName": "input@call@14fc606d944828aa42bff96b278dc83e",
+      "timestamp": 90308.463,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/advanced/",
+      "snapshotName": "after@call@14fc606d944828aa42bff96b278dc83e",
+      "timestamp": 91341.042,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/advanced/",
+      "snapshotName": "before@call@632b69946df4aed6f890e185aef6bcb8",
+      "timestamp": 92683.742,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/advanced/",
+      "snapshotName": "input@call@632b69946df4aed6f890e185aef6bcb8",
+      "timestamp": 92723.048,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/advanced/",
+      "snapshotName": "after@call@632b69946df4aed6f890e185aef6bcb8",
+      "timestamp": 92730.225,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/advanced/",
+      "snapshotName": "before@call@672b626a55bdac99bdc47d8988d48815",
+      "timestamp": 92931.577,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/advanced/",
+      "snapshotName": "input@call@672b626a55bdac99bdc47d8988d48815",
+      "timestamp": 92957.919,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/advanced/",
+      "snapshotName": "after@call@672b626a55bdac99bdc47d8988d48815",
+      "timestamp": 92971.879,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/advanced/",
+      "snapshotName": "before@call@fd673b4e020747aa0e43cbe919ce2914",
+      "timestamp": 94805.419,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/advanced/",
+      "snapshotName": "input@call@fd673b4e020747aa0e43cbe919ce2914",
+      "timestamp": 94820.417,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products.html",
+      "snapshotName": "before@call@9385f29245670467e7990bc2597b59e2",
+      "timestamp": 105223.107,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products.html",
+      "snapshotName": "input@call@9385f29245670467e7990bc2597b59e2",
+      "timestamp": 105259.94,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products.html",
+      "snapshotName": "after@call@9385f29245670467e7990bc2597b59e2",
+      "timestamp": 105273.65,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products.html",
+      "snapshotName": "before@call@f3d1272faa10db789678ea4fe4434822",
+      "timestamp": 106251.629,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/home-decor-products.html",
+      "snapshotName": "input@call@f3d1272faa10db789678ea4fe4434822",
+      "timestamp": 106266.081,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=lamp",
+      "snapshotName": "before@call@0a826e0d4469d526fb7dcc5fc9ee98e3",
+      "timestamp": 116775.455,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=lamp",
+      "snapshotName": "input@call@0a826e0d4469d526fb7dcc5fc9ee98e3",
+      "timestamp": 116825.759,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=6&q=lamp",
+      "snapshotName": "after@call@0a826e0d4469d526fb7dcc5fc9ee98e3",
+      "timestamp": 118115.434,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=6&q=lamp",
+      "snapshotName": "before@call@51e1b53dc9abe3438a396472d902aef8",
+      "timestamp": 123027.247,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=6&q=lamp",
+      "snapshotName": "input@call@51e1b53dc9abe3438a396472d902aef8",
+      "timestamp": 123079.201,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&q=lamp",
+      "snapshotName": "after@call@51e1b53dc9abe3438a396472d902aef8",
+      "timestamp": 124269.461,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&q=lamp",
+      "snapshotName": "before@call@8b81a371a37e093993a184600b92d225",
+      "timestamp": 132886.926,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&q=lamp",
+      "snapshotName": "input@call@8b81a371a37e093993a184600b92d225",
+      "timestamp": 132927.813,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=2&q=lamp",
+      "snapshotName": "after@call@8b81a371a37e093993a184600b92d225",
+      "timestamp": 134148.251,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=2&q=lamp",
+      "snapshotName": "before@call@cea31c427f56292ada6bfa5bf0bc6154",
+      "timestamp": 137748.994,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=2&q=lamp",
+      "snapshotName": "input@call@cea31c427f56292ada6bfa5bf0bc6154",
+      "timestamp": 137814.579,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=3&q=lamp",
+      "snapshotName": "after@call@cea31c427f56292ada6bfa5bf0bc6154",
+      "timestamp": 138970.209,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=3&q=light",
+      "snapshotName": "before@call@6ee03ca293dea6531e36119a6585c2d3",
+      "timestamp": 150753.547,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=3&q=light",
+      "snapshotName": "input@call@6ee03ca293dea6531e36119a6585c2d3",
+      "timestamp": 150791.727,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&q=light",
+      "snapshotName": "after@call@6ee03ca293dea6531e36119a6585c2d3",
+      "timestamp": 151821.427,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&q=light&product_list_limit=36",
+      "snapshotName": "input@call@4871b87780a0b606b2f523285788ab5c",
+      "timestamp": 156782.395,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&q=light&product_list_limit=36",
+      "snapshotName": "after@call@4871b87780a0b606b2f523285788ab5c",
+      "timestamp": 156937.188,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&q=light&product_list_limit=36",
+      "snapshotName": "before@call@7b6d62a84a14fade4d8ae8d9ac11e014",
+      "timestamp": 164615.205,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&q=light&product_list_limit=36",
+      "snapshotName": "input@call@7b6d62a84a14fade4d8ae8d9ac11e014",
+      "timestamp": 164667.633,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=2&product_list_limit=36&q=light",
+      "snapshotName": "after@call@7b6d62a84a14fade4d8ae8d9ac11e014",
+      "timestamp": 166409.588,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=2&product_list_limit=36&q=light",
+      "snapshotName": "before@call@054fdd46bc63f6b5981e6722e85b3fd7",
+      "timestamp": 173570.056,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=2&product_list_limit=36&q=light",
+      "snapshotName": "input@call@054fdd46bc63f6b5981e6722e85b3fd7",
+      "timestamp": 173633.787,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=4&product_list_limit=36&q=light",
+      "snapshotName": "after@call@054fdd46bc63f6b5981e6722e85b3fd7",
+      "timestamp": 175705.218,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=4&product_list_limit=36&q=light",
+      "snapshotName": "before@call@d904e622155d3f4ff223b937ea9b6c7b",
+      "timestamp": 182066.596,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=4&product_list_limit=36&q=light",
+      "snapshotName": "input@call@d904e622155d3f4ff223b937ea9b6c7b",
+      "timestamp": 182117.943,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=3&product_list_limit=36&q=light",
+      "snapshotName": "after@call@d904e622155d3f4ff223b937ea9b6c7b",
+      "timestamp": 183932.814,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=3&product_list_limit=36&q=light",
+      "snapshotName": "before@call@32c0438211eb7e5b4417d1c715ebe8ed",
+      "timestamp": 190611.586,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=3&product_list_limit=36&q=light",
+      "snapshotName": "input@call@32c0438211eb7e5b4417d1c715ebe8ed",
+      "timestamp": 190667.636,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=5&product_list_limit=36&q=light",
+      "snapshotName": "after@call@32c0438211eb7e5b4417d1c715ebe8ed",
+      "timestamp": 192305.459,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=5&product_list_limit=36&q=light",
+      "snapshotName": "before@call@43fa3488df9b57d71b76c40b703b7168",
+      "timestamp": 198391.64,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=5&product_list_limit=36&q=light",
+      "snapshotName": "input@call@43fa3488df9b57d71b76c40b703b7168",
+      "timestamp": 198451.406,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=5&product_list_limit=36&q=light",
+      "snapshotName": "after@call@43fa3488df9b57d71b76c40b703b7168",
+      "timestamp": 198465.134,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=5&product_list_limit=36&q=light",
+      "snapshotName": "before@call@ef6d74108e479f887063311537610d09",
+      "timestamp": 206755.087,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=5&product_list_limit=36&q=light",
+      "snapshotName": "input@call@ef6d74108e479f887063311537610d09",
+      "timestamp": 206774.422,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=5&product_list_limit=36&q=wall+lamp",
+      "snapshotName": "before@call@c8acb483f24459e332d12152517f782e",
+      "timestamp": 237291.433,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=5&product_list_limit=36&q=wall+lamp",
+      "snapshotName": "input@call@c8acb483f24459e332d12152517f782e",
+      "timestamp": 237332.665,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=3&product_list_limit=36&q=wall+lamp",
+      "snapshotName": "after@call@c8acb483f24459e332d12152517f782e",
+      "timestamp": 238914.377,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=3&product_list_limit=36&q=wall+lamp",
+      "snapshotName": "before@call@495c8b419b7f8ae73f6acfd7633f4739",
+      "timestamp": 242559.464,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=3&product_list_limit=36&q=wall+lamp",
+      "snapshotName": "input@call@495c8b419b7f8ae73f6acfd7633f4739",
+      "timestamp": 242599.809,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&product_list_limit=36&q=wall+lamp",
+      "snapshotName": "after@call@495c8b419b7f8ae73f6acfd7633f4739",
+      "timestamp": 244184.195,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&product_list_limit=36&q=wall+lamp",
+      "snapshotName": "before@call@a21d0977528675eb03f03e31c5e5c376",
+      "timestamp": 251875.658,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&product_list_limit=36&q=wall+lamp",
+      "snapshotName": "input@call@a21d0977528675eb03f03e31c5e5c376",
+      "timestamp": 251916.104,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=2&product_list_limit=36&q=wall+lamp",
+      "snapshotName": "after@call@a21d0977528675eb03f03e31c5e5c376",
+      "timestamp": 253604.862,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@54587164930b0f09f82894e9f5f56c6c",
+      "timestamp": 283731.473,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@54587164930b0f09f82894e9f5f56c6c",
+      "timestamp": 283767.467,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@54587164930b0f09f82894e9f5f56c6c",
+      "timestamp": 283785.788,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@c118825539dc147b1f7c0b7e9f1c0267",
+      "timestamp": 286672.692,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@c118825539dc147b1f7c0b7e9f1c0267",
+      "timestamp": 286683.974,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=four+lamps",
+      "snapshotName": "before@call@3abbbe2f6e042efa7677ef887dbcb3c0",
+      "timestamp": 293015.744,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=four+lamps",
+      "snapshotName": "input@call@3abbbe2f6e042efa7677ef887dbcb3c0",
+      "timestamp": 293051.031,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=6&q=four+lamps",
+      "snapshotName": "after@call@3abbbe2f6e042efa7677ef887dbcb3c0",
+      "timestamp": 294357.06,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=6&q=four+lamps",
+      "snapshotName": "before@call@f06e14eb4f4f447c51400ebee2ade58c",
+      "timestamp": 297492.972,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=6&q=four+lamps",
+      "snapshotName": "input@call@f06e14eb4f4f447c51400ebee2ade58c",
+      "timestamp": 297537.419,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&q=four+lamps",
+      "snapshotName": "after@call@f06e14eb4f4f447c51400ebee2ade58c",
+      "timestamp": 298623.267,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&q=four+lamps",
+      "snapshotName": "before@call@5aa68f92cddb62b218185887c0755a5d",
+      "timestamp": 302609.268,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&q=four+lamps",
+      "snapshotName": "input@call@5aa68f92cddb62b218185887c0755a5d",
+      "timestamp": 302654.167,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=2&q=four+lamps",
+      "snapshotName": "after@call@5aa68f92cddb62b218185887c0755a5d",
+      "timestamp": 303687.822,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=2&q=four+lamps",
+      "snapshotName": "before@call@1f8cc38ab3deb004d45b5cbd18d1dc57",
+      "timestamp": 306345.007,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=2&q=four+lamps",
+      "snapshotName": "input@call@1f8cc38ab3deb004d45b5cbd18d1dc57",
+      "timestamp": 306387.258,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=3&q=four+lamps",
+      "snapshotName": "after@call@1f8cc38ab3deb004d45b5cbd18d1dc57",
+      "timestamp": 307570.991,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=3&q=four+lamps",
+      "snapshotName": "before@call@75a96b4c612d20b0a72ce6440ff8c82b",
+      "timestamp": 310352.176,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=3&q=four+lamps",
+      "snapshotName": "input@call@75a96b4c612d20b0a72ce6440ff8c82b",
+      "timestamp": 310390.091,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=4&q=four+lamps",
+      "snapshotName": "after@call@75a96b4c612d20b0a72ce6440ff8c82b",
+      "timestamp": 311693.265,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=4&q=four+lamps",
+      "snapshotName": "before@call@ea941b66a6ae5479f08b336e5071b234",
+      "timestamp": 316336.444,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=38&p=4&q=four+lamps",
+      "snapshotName": "input@call@ea941b66a6ae5479f08b336e5071b234",
+      "timestamp": 316389.909,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "frameId": "frame@b8b7d809165ab66004daf8047e30dc81",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/advanced/",
+      "snapshotName": "after@call@ea941b66a6ae5479f08b336e5071b234",
+      "timestamp": 316703.755,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@6b22bd62de4bbe50ad4d810d3690212a",
+      "timestamp": 321700.884,
+      "resource": "page@6b22bd62de4bbe50ad4d810d3690212a-1703276459.127154.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_119__page0.jpg",
+      "sha256": "5a771f600e4431e86d44d43d980219939e0a2d765e9f0fcaacbdd5af9728aad2",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_119__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

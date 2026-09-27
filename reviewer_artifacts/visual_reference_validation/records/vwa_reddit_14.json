@@ -1,0 +1,688 @@
+{
+  "instance_id": "vwa_reddit_14",
+  "domain": "reddit",
+  "filename_task_id": 14,
+  "source_url": "https://drive.usercontent.google.com/download?id=1WgYZuX1_eNHfm_U1qJgI7dojD_HswDHI&export=download&confirm=t",
+  "source_file_id": "1WgYZuX1_eNHfm_U1qJgI7dojD_HswDHI",
+  "archive_sha256": "783a7c21b2bffafa95cc1f80f7b2409ce808c8b3f950bb33a602778a56aacaec",
+  "archive_bytes": 44350795,
+  "event_types": {
+    "context-options": 1,
+    "event": 363,
+    "screencast-frame": 799,
+    "object": 164,
+    "before": 13,
+    "frame-snapshot": 51,
+    "input": 25,
+    "after": 13
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704258913970,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@167e7b07e05ba91ee8017856ce7c4dea",
+      "timestamp": 63860.549,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@167e7b07e05ba91ee8017856ce7c4dea",
+      "timestamp": 63931.882,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh",
+      "snapshotName": "after@call@167e7b07e05ba91ee8017856ce7c4dea",
+      "timestamp": 65912.171,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh",
+      "snapshotName": "before@call@cd60774d8f30f3f87d0f61bbf070322d",
+      "timestamp": 80163.681,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh",
+      "snapshotName": "input@call@cd60774d8f30f3f87d0f61bbf070322d",
+      "timestamp": 80234.587,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "after@call@cd60774d8f30f3f87d0f61bbf070322d",
+      "timestamp": 81609.745,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "before@call@018c1f1a40f674beb72494dbd53c3e25",
+      "timestamp": 116762.934,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "input@call@018c1f1a40f674beb72494dbd53c3e25",
+      "timestamp": 116831.641,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "input@call@018c1f1a40f674beb72494dbd53c3e25",
+      "timestamp": 116862.521,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "input@call@018c1f1a40f674beb72494dbd53c3e25",
+      "timestamp": 116933.073,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "input@call@018c1f1a40f674beb72494dbd53c3e25",
+      "timestamp": 117080.884,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "input@call@018c1f1a40f674beb72494dbd53c3e25",
+      "timestamp": 117235.014,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "input@call@018c1f1a40f674beb72494dbd53c3e25",
+      "timestamp": 117762.259,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "input@call@018c1f1a40f674beb72494dbd53c3e25",
+      "timestamp": 118311.247,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "input@call@018c1f1a40f674beb72494dbd53c3e25",
+      "timestamp": 118868.741,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "input@call@018c1f1a40f674beb72494dbd53c3e25",
+      "timestamp": 119448.195,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "input@call@018c1f1a40f674beb72494dbd53c3e25",
+      "timestamp": 120010.526,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "input@call@018c1f1a40f674beb72494dbd53c3e25",
+      "timestamp": 120529.328,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "input@call@018c1f1a40f674beb72494dbd53c3e25",
+      "timestamp": 121063.841,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "input@call@018c1f1a40f674beb72494dbd53c3e25",
+      "timestamp": 121596.391,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "after@call@018c1f1a40f674beb72494dbd53c3e25",
+      "timestamp": 121774.549,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "before@call@ba5f954718b369105a906d33a5259292",
+      "timestamp": 129915.736,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "input@call@ba5f954718b369105a906d33a5259292",
+      "timestamp": 129944.724,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=348&next%5Bid%5D=67661",
+      "snapshotName": "after@call@ba5f954718b369105a906d33a5259292",
+      "timestamp": 131007.582,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=348&next%5Bid%5D=67661",
+      "snapshotName": "before@call@325ee05674cc1c71e646a7420be006ff",
+      "timestamp": 140958.181,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=348&next%5Bid%5D=67661",
+      "snapshotName": "input@call@325ee05674cc1c71e646a7420be006ff",
+      "timestamp": 141038.567,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/d096e0d2951932ecb9d8b367ac06a74327ac996093381f4cf77df6fe280e46a2.jpg",
+      "snapshotName": "after@call@325ee05674cc1c71e646a7420be006ff",
+      "timestamp": 141191.752,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/d096e0d2951932ecb9d8b367ac06a74327ac996093381f4cf77df6fe280e46a2.jpg",
+      "snapshotName": "before@call@d508e2cf80a580138686f2c6e9ad2804",
+      "timestamp": 147537.734,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/d096e0d2951932ecb9d8b367ac06a74327ac996093381f4cf77df6fe280e46a2.jpg",
+      "snapshotName": "input@call@d508e2cf80a580138686f2c6e9ad2804",
+      "timestamp": 147573.626,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/d096e0d2951932ecb9d8b367ac06a74327ac996093381f4cf77df6fe280e46a2.jpg",
+      "snapshotName": "after@call@d508e2cf80a580138686f2c6e9ad2804",
+      "timestamp": 147578.324,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/d096e0d2951932ecb9d8b367ac06a74327ac996093381f4cf77df6fe280e46a2.jpg",
+      "snapshotName": "before@call@d9ce4d160b3636505e2c91fb7d9d92a3",
+      "timestamp": 149666.475,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/d096e0d2951932ecb9d8b367ac06a74327ac996093381f4cf77df6fe280e46a2.jpg",
+      "snapshotName": "input@call@d9ce4d160b3636505e2c91fb7d9d92a3",
+      "timestamp": 149704.272,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/submission_images/d096e0d2951932ecb9d8b367ac06a74327ac996093381f4cf77df6fe280e46a2.jpg",
+      "snapshotName": "after@call@d9ce4d160b3636505e2c91fb7d9d92a3",
+      "timestamp": 149707.958,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=348&next%5Bid%5D=67661",
+      "snapshotName": "before@call@ae58f652245daa83408c7e483fc05f82",
+      "timestamp": 156078.278,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=348&next%5Bid%5D=67661",
+      "snapshotName": "input@call@ae58f652245daa83408c7e483fc05f82",
+      "timestamp": 156131.46,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh/25336/christmas-market-is-starting-to-be-built-in-marky-square",
+      "snapshotName": "after@call@ae58f652245daa83408c7e483fc05f82",
+      "timestamp": 156802.761,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh/25336/christmas-market-is-starting-to-be-built-in-marky-square",
+      "snapshotName": "before@call@d54edb2654bb8700c668171e380e7883",
+      "timestamp": 165637.074,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh/25336/christmas-market-is-starting-to-be-built-in-marky-square",
+      "snapshotName": "input@call@d54edb2654bb8700c668171e380e7883",
+      "timestamp": 165680.964,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh",
+      "snapshotName": "after@call@d54edb2654bb8700c668171e380e7883",
+      "timestamp": 167609.612,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh",
+      "snapshotName": "before@call@aa21ffe914c3d67264a90d27f2a49988",
+      "timestamp": 177389.189,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh",
+      "snapshotName": "input@call@aa21ffe914c3d67264a90d27f2a49988",
+      "timestamp": 177429.886,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "after@call@aa21ffe914c3d67264a90d27f2a49988",
+      "timestamp": 178593.237,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "before@call@c20065e313feac99ab5b3f57a4f3624a",
+      "timestamp": 187521.422,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=496&next%5Bid%5D=45971",
+      "snapshotName": "input@call@c20065e313feac99ab5b3f57a4f3624a",
+      "timestamp": 187561.539,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=348&next%5Bid%5D=67661",
+      "snapshotName": "after@call@c20065e313feac99ab5b3f57a4f3624a",
+      "timestamp": 188547.194,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=348&next%5Bid%5D=67661",
+      "snapshotName": "before@call@7f20c68cb420d62df8d7dcbe9a95fda7",
+      "timestamp": 202648.993,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=348&next%5Bid%5D=67661",
+      "snapshotName": "input@call@7f20c68cb420d62df8d7dcbe9a95fda7",
+      "timestamp": 202695.482,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=290&next%5Bid%5D=46001",
+      "snapshotName": "after@call@7f20c68cb420d62df8d7dcbe9a95fda7",
+      "timestamp": 203751.875,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=290&next%5Bid%5D=46001",
+      "snapshotName": "before@call@93bef05c0ea8df40fe9bed855628303b",
+      "timestamp": 221000.746,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh?next%5Branking%5D=290&next%5Bid%5D=46001",
+      "snapshotName": "input@call@93bef05c0ea8df40fe9bed855628303b",
+      "timestamp": 221044.544,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@ea45151addc433aca5abc3433c37e18d",
+      "frameId": "frame@953117ebcf95df22ba916246caffbcdd",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/pittsburgh/45937/spooooky",
+      "snapshotName": "after@call@93bef05c0ea8df40fe9bed855628303b",
+      "timestamp": 221930.378,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@575423b595dc25216b6a08b504539ccf",
+      "timestamp": 105752.842,
+      "resource": "page@575423b595dc25216b6a08b504539ccf-1704259018.948927.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_14__page0.jpg",
+      "sha256": "861e53578fc32b3f3283e16a984af25fd034e77342a29e4cacafbf0a29b0ec52",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@277ed0a2c945d4d07af3b9c95531968f",
+      "timestamp": 216783.626,
+      "resource": "page@277ed0a2c945d4d07af3b9c95531968f-1704259129.974006.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_14__page1.jpg",
+      "sha256": "ba368d2632882b56a21a367882944549aef144475654c23785810d676e549841",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@ea45151addc433aca5abc3433c37e18d",
+      "timestamp": 225368.397,
+      "resource": "page@ea45151addc433aca5abc3433c37e18d-1704259138.557185.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_14__page2.jpg",
+      "sha256": "541402aa5d8a263f18312b50d169dbdf9749cfb7223fcd9390629139e0601c21",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_14__page2.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

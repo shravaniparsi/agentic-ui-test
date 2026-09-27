@@ -1,0 +1,340 @@
+{
+  "instance_id": "vwa_shopping_181",
+  "domain": "shopping",
+  "filename_task_id": 181,
+  "source_url": "https://drive.usercontent.google.com/download?id=1WfR-mSRtWR_gtmC6iQ4B4mKxxaHrxfxr&export=download&confirm=t",
+  "source_file_id": "1WfR-mSRtWR_gtmC6iQ4B4mKxxaHrxfxr",
+  "archive_sha256": "dde24ee53ce717f3d50f6dd4f636f49b1fcf8cf0a47a1a53e2ab2cd6052d8d71",
+  "archive_bytes": 10151205,
+  "event_types": {
+    "context-options": 1,
+    "event": 63,
+    "screencast-frame": 261,
+    "before": 8,
+    "frame-snapshot": 24,
+    "input": 8,
+    "after": 8,
+    "object": 3
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703277970450,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html",
+      "snapshotName": "before@call@1e5ecfdf4189552588c8c26fb41253f5",
+      "timestamp": 13613.243,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html",
+      "snapshotName": "input@call@1e5ecfdf4189552588c8c26fb41253f5",
+      "timestamp": 13650.219000000001,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/yelash-cute-elephant-canvas-wall-art-colorful-dots-and-sketch-elephant-picture-print-for-kids-room-bathroom-poster-framed-ready-to-hang-12-x16-x1-panel.html",
+      "snapshotName": "after@call@1e5ecfdf4189552588c8c26fb41253f5",
+      "timestamp": 15084.665,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/yelash-cute-elephant-canvas-wall-art-colorful-dots-and-sketch-elephant-picture-print-for-kids-room-bathroom-poster-framed-ready-to-hang-12-x16-x1-panel.html",
+      "snapshotName": "before@call@50b3c20e6e4faf7a36bc6d84110417d2",
+      "timestamp": 18384.717,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/yelash-cute-elephant-canvas-wall-art-colorful-dots-and-sketch-elephant-picture-print-for-kids-room-bathroom-poster-framed-ready-to-hang-12-x16-x1-panel.html",
+      "snapshotName": "input@call@50b3c20e6e4faf7a36bc6d84110417d2",
+      "timestamp": 18417.195,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/yelash-cute-elephant-canvas-wall-art-colorful-dots-and-sketch-elephant-picture-print-for-kids-room-bathroom-poster-framed-ready-to-hang-12-x16-x1-panel.html",
+      "snapshotName": "after@call@50b3c20e6e4faf7a36bc6d84110417d2",
+      "timestamp": 18434.268,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/yelash-cute-elephant-canvas-wall-art-colorful-dots-and-sketch-elephant-picture-print-for-kids-room-bathroom-poster-framed-ready-to-hang-12-x16-x1-panel.html",
+      "snapshotName": "before@call@16af0b69e8ec1726b8fbe1afe470371d",
+      "timestamp": 21816.52,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/yelash-cute-elephant-canvas-wall-art-colorful-dots-and-sketch-elephant-picture-print-for-kids-room-bathroom-poster-framed-ready-to-hang-12-x16-x1-panel.html",
+      "snapshotName": "input@call@16af0b69e8ec1726b8fbe1afe470371d",
+      "timestamp": 21872.706,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/yelash-cute-elephant-canvas-wall-art-colorful-dots-and-sketch-elephant-picture-print-for-kids-room-bathroom-poster-framed-ready-to-hang-12-x16-x1-panel.html",
+      "snapshotName": "after@call@16af0b69e8ec1726b8fbe1afe470371d",
+      "timestamp": 21911.872,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/yelash-cute-elephant-canvas-wall-art-colorful-dots-and-sketch-elephant-picture-print-for-kids-room-bathroom-poster-framed-ready-to-hang-12-x16-x1-panel.html",
+      "snapshotName": "before@call@f9c6ac31c27b631627b112fc468f3cb8",
+      "timestamp": 24749.691,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/yelash-cute-elephant-canvas-wall-art-colorful-dots-and-sketch-elephant-picture-print-for-kids-room-bathroom-poster-framed-ready-to-hang-12-x16-x1-panel.html",
+      "snapshotName": "input@call@f9c6ac31c27b631627b112fc468f3cb8",
+      "timestamp": 24771.19,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/yelash-cute-elephant-canvas-wall-art-colorful-dots-and-sketch-elephant-picture-print-for-kids-room-bathroom-poster-framed-ready-to-hang-12-x16-x1-panel.html",
+      "snapshotName": "after@call@f9c6ac31c27b631627b112fc468f3cb8",
+      "timestamp": 24807.332,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/yelash-cute-elephant-canvas-wall-art-colorful-dots-and-sketch-elephant-picture-print-for-kids-room-bathroom-poster-framed-ready-to-hang-12-x16-x1-panel.html",
+      "snapshotName": "before@call@2fc732252982a11e312a047b1572d845",
+      "timestamp": 28303.822,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/yelash-cute-elephant-canvas-wall-art-colorful-dots-and-sketch-elephant-picture-print-for-kids-room-bathroom-poster-framed-ready-to-hang-12-x16-x1-panel.html",
+      "snapshotName": "input@call@2fc732252982a11e312a047b1572d845",
+      "timestamp": 28355.425,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/yelash-cute-elephant-canvas-wall-art-colorful-dots-and-sketch-elephant-picture-print-for-kids-room-bathroom-poster-framed-ready-to-hang-12-x16-x1-panel.html",
+      "snapshotName": "after@call@2fc732252982a11e312a047b1572d845",
+      "timestamp": 28397.385,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/yelash-cute-elephant-canvas-wall-art-colorful-dots-and-sketch-elephant-picture-print-for-kids-room-bathroom-poster-framed-ready-to-hang-12-x16-x1-panel.html",
+      "snapshotName": "before@call@b9e71c2a7382c4a259b5059875a4d8ca",
+      "timestamp": 29176.365,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/yelash-cute-elephant-canvas-wall-art-colorful-dots-and-sketch-elephant-picture-print-for-kids-room-bathroom-poster-framed-ready-to-hang-12-x16-x1-panel.html",
+      "snapshotName": "input@call@b9e71c2a7382c4a259b5059875a4d8ca",
+      "timestamp": 29203.972,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/",
+      "snapshotName": "after@call@b9e71c2a7382c4a259b5059875a4d8ca",
+      "timestamp": 30382.107,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "before@call@626a1344f50f9e06ae845ab3b00d84e7",
+      "timestamp": 37823.096,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "input@call@626a1344f50f9e06ae845ab3b00d84e7",
+      "timestamp": 37872.564,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "after@call@626a1344f50f9e06ae845ab3b00d84e7",
+      "timestamp": 37893.544,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "before@call@18a8f646c89d6ef3333fbcc4369eb453",
+      "timestamp": 42677.043,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "input@call@18a8f646c89d6ef3333fbcc4369eb453",
+      "timestamp": 42722.526,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@fe120550c76d24196e316c61e3e90234",
+      "frameId": "frame@2846fc553ba2cfe59df3af4029c2100f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "after@call@18a8f646c89d6ef3333fbcc4369eb453",
+      "timestamp": 42745.995,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@fe120550c76d24196e316c61e3e90234",
+      "timestamp": 48856.444,
+      "resource": "page@fe120550c76d24196e316c61e3e90234-1703278018.511983.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_181__page0.jpg",
+      "sha256": "bfb6ca03e1140de52959872022c437c81a1154aac6434547836be8ec777be558",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_181__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

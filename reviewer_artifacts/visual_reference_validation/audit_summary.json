@@ -1,0 +1,32 @@
+{
+  "all_trace_archives_structurally_audited": 233,
+  "historical_candidates_visually_screened": 147,
+  "historical_status": {
+    "unresolved": 79,
+    "approved": 67,
+    "rejected_identity": 1
+  },
+  "by_domain": {
+    "classifieds": {
+      "unresolved": 14,
+      "approved": 24
+    },
+    "reddit": {
+      "rejected_identity": 1,
+      "unresolved": 1
+    },
+    "shopping": {
+      "approved": 43,
+      "unresolved": 64
+    }
+  },
+  "additional_ids_structural_only": 86,
+  "earlier_frame_repairs": [
+    "vwa_classifieds_170",
+    "vwa_classifieds_21",
+    "vwa_shopping_11",
+    "vwa_shopping_27"
+  ],
+  "model_calls": 0,
+  "independent_human_validation": false
+}

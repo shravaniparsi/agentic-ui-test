@@ -1,0 +1,2067 @@
+{
+  "instance_id": "vwa_shopping_123",
+  "domain": "shopping",
+  "filename_task_id": 123,
+  "source_url": "https://drive.usercontent.google.com/download?id=1Acv7GMoBmeVMjyVFjCL9bXPPxiKd2K7M&export=download&confirm=t",
+  "source_file_id": "1Acv7GMoBmeVMjyVFjCL9bXPPxiKd2K7M",
+  "archive_sha256": "c52699df7d707df78a9976a909b746c2bdcbb9db5448a1d06217040d4122d4ed",
+  "archive_bytes": 119929107,
+  "event_types": {
+    "context-options": 1,
+    "event": 717,
+    "screencast-frame": 1972,
+    "before": 57,
+    "frame-snapshot": 168,
+    "input": 57,
+    "after": 57
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703285018713,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@b8958e486d6024f570c0cb5735515853",
+      "timestamp": 15027.602,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@b8958e486d6024f570c0cb5735515853",
+      "timestamp": 15076.84,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@b8958e486d6024f570c0cb5735515853",
+      "timestamp": 15131.405,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@3f126825c48a4b30762d6946eb2e7b79",
+      "timestamp": 16037.41,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@3f126825c48a4b30762d6946eb2e7b79",
+      "timestamp": 16047.214,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=painting",
+      "snapshotName": "before@call@9b195e4fc427c79205d4ad87c019ad7d",
+      "timestamp": 24726.815,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=painting",
+      "snapshotName": "input@call@9b195e4fc427c79205d4ad87c019ad7d",
+      "timestamp": 24773.054,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=painting",
+      "snapshotName": "after@call@9b195e4fc427c79205d4ad87c019ad7d",
+      "timestamp": 26005.133,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=painting",
+      "snapshotName": "before@call@77f26fe0f85bcfb98f5607da8b68de7c",
+      "timestamp": 39529.705,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=painting",
+      "snapshotName": "input@call@77f26fe0f85bcfb98f5607da8b68de7c",
+      "timestamp": 39571.65,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html",
+      "snapshotName": "after@call@77f26fe0f85bcfb98f5607da8b68de7c",
+      "timestamp": 40046.564,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html",
+      "snapshotName": "before@call@04b0751df5756f81095335d73ecbb428",
+      "timestamp": 45437.847,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html",
+      "snapshotName": "input@call@04b0751df5756f81095335d73ecbb428",
+      "timestamp": 45488.04,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=2",
+      "snapshotName": "after@call@04b0751df5756f81095335d73ecbb428",
+      "timestamp": 46959.513,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=2",
+      "snapshotName": "before@call@8d8c73260d7c8e7ecf3232d3f3b7f3d8",
+      "timestamp": 51668.372,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=2",
+      "snapshotName": "input@call@8d8c73260d7c8e7ecf3232d3f3b7f3d8",
+      "timestamp": 51741.783,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=3",
+      "snapshotName": "after@call@8d8c73260d7c8e7ecf3232d3f3b7f3d8",
+      "timestamp": 53244.296,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=3",
+      "snapshotName": "before@call@217dfe8dc36854e52796fd74111ec1ba",
+      "timestamp": 56572.392,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=3",
+      "snapshotName": "input@call@217dfe8dc36854e52796fd74111ec1ba",
+      "timestamp": 56621.437,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=4",
+      "snapshotName": "after@call@217dfe8dc36854e52796fd74111ec1ba",
+      "timestamp": 57861.809,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=4",
+      "snapshotName": "before@call@7f3709aefaacedc07d15fd7a453a94c9",
+      "timestamp": 67039.219,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=4",
+      "snapshotName": "input@call@7f3709aefaacedc07d15fd7a453a94c9",
+      "timestamp": 67092.628,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=5",
+      "snapshotName": "after@call@7f3709aefaacedc07d15fd7a453a94c9",
+      "timestamp": 68197.027,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=5",
+      "snapshotName": "before@call@f9c8008ff1a6f1baaab76733bd9262a2",
+      "timestamp": 71976.309,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=5",
+      "snapshotName": "input@call@f9c8008ff1a6f1baaab76733bd9262a2",
+      "timestamp": 72057.51,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=6",
+      "snapshotName": "after@call@f9c8008ff1a6f1baaab76733bd9262a2",
+      "timestamp": 73294.75,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=6",
+      "snapshotName": "before@call@bb5a69f519ed4b7df9dceaa228b86991",
+      "timestamp": 77701.575,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=6",
+      "snapshotName": "input@call@bb5a69f519ed4b7df9dceaa228b86991",
+      "timestamp": 77741.636,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=7",
+      "snapshotName": "after@call@bb5a69f519ed4b7df9dceaa228b86991",
+      "timestamp": 79107.988,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=7",
+      "snapshotName": "before@call@4dea10f3e13284c862f5125904752bb1",
+      "timestamp": 82527.557,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=7",
+      "snapshotName": "input@call@4dea10f3e13284c862f5125904752bb1",
+      "timestamp": 82572.193,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=8",
+      "snapshotName": "after@call@4dea10f3e13284c862f5125904752bb1",
+      "timestamp": 83819.741,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=8",
+      "snapshotName": "before@call@1477f911a1fec1495d63df5e206677ae",
+      "timestamp": 88077.614,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=8",
+      "snapshotName": "input@call@1477f911a1fec1495d63df5e206677ae",
+      "timestamp": 88142.927,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=9",
+      "snapshotName": "after@call@1477f911a1fec1495d63df5e206677ae",
+      "timestamp": 89314.569,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=9",
+      "snapshotName": "before@call@9cfe32cebeabe043afd20c66f831ff97",
+      "timestamp": 94208.261,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=9",
+      "snapshotName": "input@call@9cfe32cebeabe043afd20c66f831ff97",
+      "timestamp": 94291.55,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=10",
+      "snapshotName": "after@call@9cfe32cebeabe043afd20c66f831ff97",
+      "timestamp": 95546.386,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=10",
+      "snapshotName": "before@call@be46dbd4257ac33da677dcdc0482df9f",
+      "timestamp": 99626.457,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=10",
+      "snapshotName": "input@call@be46dbd4257ac33da677dcdc0482df9f",
+      "timestamp": 99693.422,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=11",
+      "snapshotName": "after@call@be46dbd4257ac33da677dcdc0482df9f",
+      "timestamp": 100998.029,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=11",
+      "snapshotName": "before@call@03cf6c92a4f004b2e6073ce44f7f05d1",
+      "timestamp": 104754.033,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=11",
+      "snapshotName": "input@call@03cf6c92a4f004b2e6073ce44f7f05d1",
+      "timestamp": 104806.995,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=12",
+      "snapshotName": "after@call@03cf6c92a4f004b2e6073ce44f7f05d1",
+      "timestamp": 106081.073,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=12",
+      "snapshotName": "before@call@1f6de274de2c1ad50e4364ca2cbca25d",
+      "timestamp": 110289.545,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=12",
+      "snapshotName": "input@call@1f6de274de2c1ad50e4364ca2cbca25d",
+      "timestamp": 110340.928,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=13",
+      "snapshotName": "after@call@1f6de274de2c1ad50e4364ca2cbca25d",
+      "timestamp": 111575.077,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=13",
+      "snapshotName": "before@call@ff04be36445ea64550133c9ab124aad8",
+      "timestamp": 118434.609,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=13",
+      "snapshotName": "input@call@ff04be36445ea64550133c9ab124aad8",
+      "timestamp": 118494.595,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=14",
+      "snapshotName": "after@call@ff04be36445ea64550133c9ab124aad8",
+      "timestamp": 119665.746,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=14",
+      "snapshotName": "before@call@71bcf93186924af73749f2b9b7aa7cd4",
+      "timestamp": 123129.059,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=14",
+      "snapshotName": "input@call@71bcf93186924af73749f2b9b7aa7cd4",
+      "timestamp": 123224.222,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=15",
+      "snapshotName": "after@call@71bcf93186924af73749f2b9b7aa7cd4",
+      "timestamp": 124413.013,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=15",
+      "snapshotName": "before@call@a0dced62e8bed91c5034996580bd48ad",
+      "timestamp": 127732.207,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=15",
+      "snapshotName": "input@call@a0dced62e8bed91c5034996580bd48ad",
+      "timestamp": 127790.368,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=16",
+      "snapshotName": "after@call@a0dced62e8bed91c5034996580bd48ad",
+      "timestamp": 129263.548,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=16",
+      "snapshotName": "before@call@aa70c2c338ad593d63e72da43a5b2081",
+      "timestamp": 132996.614,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=16",
+      "snapshotName": "input@call@aa70c2c338ad593d63e72da43a5b2081",
+      "timestamp": 133060.369,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=17",
+      "snapshotName": "after@call@aa70c2c338ad593d63e72da43a5b2081",
+      "timestamp": 134311.692,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=17",
+      "snapshotName": "before@call@1781a5f61bca183ea1f291b2c0ec080b",
+      "timestamp": 137394.692,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=17",
+      "snapshotName": "input@call@1781a5f61bca183ea1f291b2c0ec080b",
+      "timestamp": 137458.293,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=18",
+      "snapshotName": "after@call@1781a5f61bca183ea1f291b2c0ec080b",
+      "timestamp": 138708.626,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=18",
+      "snapshotName": "before@call@b20cba871757c75ff231de032a2693dc",
+      "timestamp": 142378.199,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=18",
+      "snapshotName": "input@call@b20cba871757c75ff231de032a2693dc",
+      "timestamp": 142442.824,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=19",
+      "snapshotName": "after@call@b20cba871757c75ff231de032a2693dc",
+      "timestamp": 143781.894,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=19",
+      "snapshotName": "before@call@ba860eafbfa6058eaae434f49b864d02",
+      "timestamp": 148285.614,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=19",
+      "snapshotName": "input@call@ba860eafbfa6058eaae434f49b864d02",
+      "timestamp": 148344.724,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=20",
+      "snapshotName": "after@call@ba860eafbfa6058eaae434f49b864d02",
+      "timestamp": 149593.943,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=20",
+      "snapshotName": "before@call@2355193fe7ed55158e75e581bd1362d9",
+      "timestamp": 153162.742,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=20",
+      "snapshotName": "input@call@2355193fe7ed55158e75e581bd1362d9",
+      "timestamp": 153226.758,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=21",
+      "snapshotName": "after@call@2355193fe7ed55158e75e581bd1362d9",
+      "timestamp": 154373.09,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=21",
+      "snapshotName": "before@call@8e11035d244eeab50eb2352ea6ba3230",
+      "timestamp": 157992.506,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=21",
+      "snapshotName": "input@call@8e11035d244eeab50eb2352ea6ba3230",
+      "timestamp": 158059.056,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=22",
+      "snapshotName": "after@call@8e11035d244eeab50eb2352ea6ba3230",
+      "timestamp": 159462.484,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=22",
+      "snapshotName": "before@call@51006b0fea5074a8d9da79aa851b0b5b",
+      "timestamp": 162879.681,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=22",
+      "snapshotName": "input@call@51006b0fea5074a8d9da79aa851b0b5b",
+      "timestamp": 162940.449,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=23",
+      "snapshotName": "after@call@51006b0fea5074a8d9da79aa851b0b5b",
+      "timestamp": 164248.966,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=23",
+      "snapshotName": "before@call@7279fe5a61faf64a4d3d1297b4118540",
+      "timestamp": 167813.464,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=23",
+      "snapshotName": "input@call@7279fe5a61faf64a4d3d1297b4118540",
+      "timestamp": 167857.996,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=24",
+      "snapshotName": "after@call@7279fe5a61faf64a4d3d1297b4118540",
+      "timestamp": 169022.039,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=24",
+      "snapshotName": "before@call@32dca85083d054f0a5399c191c3d4c91",
+      "timestamp": 173162.768,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=24",
+      "snapshotName": "input@call@32dca85083d054f0a5399c191c3d4c91",
+      "timestamp": 173227.98,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=25",
+      "snapshotName": "after@call@32dca85083d054f0a5399c191c3d4c91",
+      "timestamp": 174613.519,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=25",
+      "snapshotName": "before@call@811190ff95413203b2d690929a007559",
+      "timestamp": 178804.926,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=25",
+      "snapshotName": "input@call@811190ff95413203b2d690929a007559",
+      "timestamp": 178876.12,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=26",
+      "snapshotName": "after@call@811190ff95413203b2d690929a007559",
+      "timestamp": 180311.934,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=26",
+      "snapshotName": "before@call@48c54b8e32348fe58e5e149ee42e5c74",
+      "timestamp": 184293.375,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=26",
+      "snapshotName": "input@call@48c54b8e32348fe58e5e149ee42e5c74",
+      "timestamp": 184378.276,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=27",
+      "snapshotName": "after@call@48c54b8e32348fe58e5e149ee42e5c74",
+      "timestamp": 185513.933,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=27",
+      "snapshotName": "before@call@5cebaa92ae8840a2863c4ede26183f54",
+      "timestamp": 190379.618,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=27",
+      "snapshotName": "input@call@5cebaa92ae8840a2863c4ede26183f54",
+      "timestamp": 190432.774,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=28",
+      "snapshotName": "after@call@5cebaa92ae8840a2863c4ede26183f54",
+      "timestamp": 191616.084,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=28",
+      "snapshotName": "before@call@733d82f77698ed4da2a9089de9e70bf5",
+      "timestamp": 195388.51,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=28",
+      "snapshotName": "input@call@733d82f77698ed4da2a9089de9e70bf5",
+      "timestamp": 195443.507,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=29",
+      "snapshotName": "after@call@733d82f77698ed4da2a9089de9e70bf5",
+      "timestamp": 196571.433,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=29",
+      "snapshotName": "before@call@5a696d9896fb577e2f695c805b0aec92",
+      "timestamp": 199899.947,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=29",
+      "snapshotName": "input@call@5a696d9896fb577e2f695c805b0aec92",
+      "timestamp": 199957.218,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=30",
+      "snapshotName": "after@call@5a696d9896fb577e2f695c805b0aec92",
+      "timestamp": 201158.669,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=30",
+      "snapshotName": "before@call@3ead089482e87ff8829804632f668315",
+      "timestamp": 206634.874,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=30",
+      "snapshotName": "input@call@3ead089482e87ff8829804632f668315",
+      "timestamp": 206693.479,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=31",
+      "snapshotName": "after@call@3ead089482e87ff8829804632f668315",
+      "timestamp": 207917.927,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=31",
+      "snapshotName": "before@call@6c86cc98d65040d18f3782c66e2f831c",
+      "timestamp": 211546.497,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=31",
+      "snapshotName": "input@call@6c86cc98d65040d18f3782c66e2f831c",
+      "timestamp": 211607.229,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=32",
+      "snapshotName": "after@call@6c86cc98d65040d18f3782c66e2f831c",
+      "timestamp": 212971.727,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=32",
+      "snapshotName": "before@call@fcb366908697b85fbb587ee2cdb60cc3",
+      "timestamp": 217100.124,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=32",
+      "snapshotName": "input@call@fcb366908697b85fbb587ee2cdb60cc3",
+      "timestamp": 217159.746,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=33",
+      "snapshotName": "after@call@fcb366908697b85fbb587ee2cdb60cc3",
+      "timestamp": 218522.403,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=33",
+      "snapshotName": "before@call@c49ea7f5989375486703590b4b56522e",
+      "timestamp": 222445.712,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=33",
+      "snapshotName": "input@call@c49ea7f5989375486703590b4b56522e",
+      "timestamp": 222508.783,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=34",
+      "snapshotName": "after@call@c49ea7f5989375486703590b4b56522e",
+      "timestamp": 223748.101,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=34",
+      "snapshotName": "before@call@98dc99c94fa95ffb43bccee0d0bbddeb",
+      "timestamp": 227278.985,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=34",
+      "snapshotName": "input@call@98dc99c94fa95ffb43bccee0d0bbddeb",
+      "timestamp": 227345.55,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=35",
+      "snapshotName": "after@call@98dc99c94fa95ffb43bccee0d0bbddeb",
+      "timestamp": 228992.813,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=35",
+      "snapshotName": "before@call@3c9954ac548c90fd4ed94eed8570e418",
+      "timestamp": 232392.078,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=35",
+      "snapshotName": "input@call@3c9954ac548c90fd4ed94eed8570e418",
+      "timestamp": 232457.721,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=36",
+      "snapshotName": "after@call@3c9954ac548c90fd4ed94eed8570e418",
+      "timestamp": 233662.316,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=36",
+      "snapshotName": "before@call@0065d40622fd169615cc96028a3890e4",
+      "timestamp": 236980.54,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=36",
+      "snapshotName": "input@call@0065d40622fd169615cc96028a3890e4",
+      "timestamp": 237042.304,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=37",
+      "snapshotName": "after@call@0065d40622fd169615cc96028a3890e4",
+      "timestamp": 238216.067,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=37",
+      "snapshotName": "before@call@c9413bcbc501774bb9f8230f22d4bd18",
+      "timestamp": 241478.992,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=37",
+      "snapshotName": "input@call@c9413bcbc501774bb9f8230f22d4bd18",
+      "timestamp": 241545.382,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=38",
+      "snapshotName": "after@call@c9413bcbc501774bb9f8230f22d4bd18",
+      "timestamp": 242775.699,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=38",
+      "snapshotName": "before@call@880d0c633f8ca966483d19f7370abc52",
+      "timestamp": 245563.645,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=38",
+      "snapshotName": "input@call@880d0c633f8ca966483d19f7370abc52",
+      "timestamp": 245609.57,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=39",
+      "snapshotName": "after@call@880d0c633f8ca966483d19f7370abc52",
+      "timestamp": 246774.179,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=39",
+      "snapshotName": "before@call@8670cbcc97afdf69ec6a46f37d4d1cc0",
+      "timestamp": 249440.425,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/wall-art/posters-prints.html?p=39",
+      "snapshotName": "input@call@8670cbcc97afdf69ec6a46f37d4d1cc0",
+      "timestamp": 249509.235,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/vintage-once-upon-a-time-i-picked-up-a-german-shepherd-puppy-and-the-rest-is-history-metal-sign-16x12-inch-home-barthroom-art-wall-decor.html",
+      "snapshotName": "after@call@8670cbcc97afdf69ec6a46f37d4d1cc0",
+      "timestamp": 250961.694,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/vintage-once-upon-a-time-i-picked-up-a-german-shepherd-puppy-and-the-rest-is-history-metal-sign-16x12-inch-home-barthroom-art-wall-decor.html",
+      "snapshotName": "before@call@ad06a1c3865087fb92e088d591842ad9",
+      "timestamp": 253402.438,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/vintage-once-upon-a-time-i-picked-up-a-german-shepherd-puppy-and-the-rest-is-history-metal-sign-16x12-inch-home-barthroom-art-wall-decor.html",
+      "snapshotName": "input@call@ad06a1c3865087fb92e088d591842ad9",
+      "timestamp": 253457.424,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/vintage-once-upon-a-time-i-picked-up-a-german-shepherd-puppy-and-the-rest-is-history-metal-sign-16x12-inch-home-barthroom-art-wall-decor.html",
+      "snapshotName": "after@call@ad06a1c3865087fb92e088d591842ad9",
+      "timestamp": 253501.531,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/vintage-once-upon-a-time-i-picked-up-a-german-shepherd-puppy-and-the-rest-is-history-metal-sign-16x12-inch-home-barthroom-art-wall-decor.html",
+      "snapshotName": "before@call@e29e3916e358828ca0d684d531450bab",
+      "timestamp": 255281.716,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/vintage-once-upon-a-time-i-picked-up-a-german-shepherd-puppy-and-the-rest-is-history-metal-sign-16x12-inch-home-barthroom-art-wall-decor.html",
+      "snapshotName": "input@call@e29e3916e358828ca0d684d531450bab",
+      "timestamp": 255288.842,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=forest+art",
+      "snapshotName": "before@call@6b6223a536bf2ed95049af57acee995f",
+      "timestamp": 260523.6,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=forest+art",
+      "snapshotName": "input@call@6b6223a536bf2ed95049af57acee995f",
+      "timestamp": 260629.03,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=forest+art",
+      "snapshotName": "after@call@6b6223a536bf2ed95049af57acee995f",
+      "timestamp": 260665.109,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=forest+art",
+      "snapshotName": "before@call@bd9a9fb16cb3f8e113f06088839441a7",
+      "timestamp": 260745.795,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=forest+art",
+      "snapshotName": "input@call@bd9a9fb16cb3f8e113f06088839441a7",
+      "timestamp": 260774.201,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=forest+art",
+      "snapshotName": "after@call@bd9a9fb16cb3f8e113f06088839441a7",
+      "timestamp": 260781.135,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=forest+art",
+      "snapshotName": "before@call@09f13816107e0910d83354249f309a42",
+      "timestamp": 262116.274,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=forest+art",
+      "snapshotName": "input@call@09f13816107e0910d83354249f309a42",
+      "timestamp": 262172.736,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=forest+art",
+      "snapshotName": "after@call@09f13816107e0910d83354249f309a42",
+      "timestamp": 263504.837,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=forest+art",
+      "snapshotName": "before@call@be1fa027fe76c964aff13e1b33ff2e94",
+      "timestamp": 267594.092,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=forest+art",
+      "snapshotName": "input@call@be1fa027fe76c964aff13e1b33ff2e94",
+      "timestamp": 267644.387,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&q=forest+art",
+      "snapshotName": "after@call@be1fa027fe76c964aff13e1b33ff2e94",
+      "timestamp": 269024.798,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&q=forest+art",
+      "snapshotName": "before@call@783a63ec5753d12b0d713f57b57e3b14",
+      "timestamp": 271779.784,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&q=forest+art",
+      "snapshotName": "input@call@783a63ec5753d12b0d713f57b57e3b14",
+      "timestamp": 271860.069,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&q=forest+art",
+      "snapshotName": "after@call@783a63ec5753d12b0d713f57b57e3b14",
+      "timestamp": 271871.19,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&q=forest+art",
+      "snapshotName": "before@call@e13428ae77f1e5502f4a942a12cd82d2",
+      "timestamp": 272030.722,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&q=forest+art",
+      "snapshotName": "input@call@e13428ae77f1e5502f4a942a12cd82d2",
+      "timestamp": 272059.635,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&q=forest+art",
+      "snapshotName": "after@call@e13428ae77f1e5502f4a942a12cd82d2",
+      "timestamp": 272071.359,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&q=forest+art",
+      "snapshotName": "before@call@1a8ea7c339a539bc6589c1a2f9cb9bf7",
+      "timestamp": 273661.266,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&q=forest+art",
+      "snapshotName": "input@call@1a8ea7c339a539bc6589c1a2f9cb9bf7",
+      "timestamp": 273682.267,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=tree",
+      "snapshotName": "after@call@1a8ea7c339a539bc6589c1a2f9cb9bf7",
+      "timestamp": 275261.986,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=tree",
+      "snapshotName": "before@call@0cf5542c3106ad07ae0ddad00042e771",
+      "timestamp": 277331.096,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=tree",
+      "snapshotName": "input@call@0cf5542c3106ad07ae0ddad00042e771",
+      "timestamp": 277380.707,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=tree",
+      "snapshotName": "after@call@0cf5542c3106ad07ae0ddad00042e771",
+      "timestamp": 277412.904,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=tree",
+      "snapshotName": "before@call@2db90104cd47e8337ad89016f776acdd",
+      "timestamp": 278178.645,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=tree",
+      "snapshotName": "input@call@2db90104cd47e8337ad89016f776acdd",
+      "timestamp": 278188.887,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=tree+art",
+      "snapshotName": "before@call@58e2bfe173f419903c2cc4a5e4d6f70e",
+      "timestamp": 285932.131,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=tree+art",
+      "snapshotName": "input@call@58e2bfe173f419903c2cc4a5e4d6f70e",
+      "timestamp": 285973.625,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=tree+art",
+      "snapshotName": "after@call@58e2bfe173f419903c2cc4a5e4d6f70e",
+      "timestamp": 287318.58,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=tree+art",
+      "snapshotName": "before@call@09a1c3d8f60958468c4c5f15db04f255",
+      "timestamp": 292130.866,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=2&q=tree+art",
+      "snapshotName": "input@call@09a1c3d8f60958468c4c5f15db04f255",
+      "timestamp": 292175.402,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&q=tree+art",
+      "snapshotName": "after@call@09a1c3d8f60958468c4c5f15db04f255",
+      "timestamp": 293565.245,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&q=tree+art",
+      "snapshotName": "before@call@bd5b4e44ce77f65c31b4249d8118a275",
+      "timestamp": 298356.399,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?p=3&q=tree+art",
+      "snapshotName": "input@call@bd5b4e44ce77f65c31b4249d8118a275",
+      "timestamp": 298406.991,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "frameId": "frame@f5ad1e48dcbe62feadca1bf296a717d6",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/skyinbags-hand-painted-abstract-plant-tree-oil-painting-on-canvas-large-picture-wall-artwork-modern-art-poster-decoration-for-corridor-live-room-home-decor-gift-90x130cm-unframed9.html",
+      "snapshotName": "after@call@bd5b4e44ce77f65c31b4249d8118a275",
+      "timestamp": 299783.646,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@95eaab1b4ec5a27209607e6fe044514c",
+      "timestamp": 303780.078,
+      "resource": "page@95eaab1b4ec5a27209607e6fe044514c-1703285321.776234.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_123__page0.jpg",
+      "sha256": "01b4ba2f4e55335a5cb87f1ffb554b0712a2a65e9b6e10f8d2c31b0bb13c284c",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_123__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

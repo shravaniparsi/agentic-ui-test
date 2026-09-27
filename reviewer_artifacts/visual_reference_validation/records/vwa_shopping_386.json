@@ -1,0 +1,88 @@
+{
+  "instance_id": "vwa_shopping_386",
+  "domain": "shopping",
+  "filename_task_id": 386,
+  "source_url": "https://drive.usercontent.google.com/download?id=1lqC057t61px67ZRqmrl1HFL9R3Q8dfqV&export=download&confirm=t",
+  "source_file_id": "1lqC057t61px67ZRqmrl1HFL9R3Q8dfqV",
+  "archive_sha256": "f2b459b7a246d3befe72c6e7aaaa00c7056ae3b02316cb29bf87b988583fc157",
+  "archive_bytes": 19317911,
+  "event_types": {
+    "context-options": 1,
+    "event": 181,
+    "screencast-frame": 348,
+    "before": 1,
+    "frame-snapshot": 3,
+    "input": 1,
+    "after": 1,
+    "object": 20
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703209706631,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@51ca3cd2bb3a71f5c0fdee71af37324c",
+      "frameId": "frame@2ca293bd28b4a8de1e62267f24711d09",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/index/?cat=14&q=bud+light",
+      "snapshotName": "before@call@bb0da8f15323f8b4b57ed71151e9bb28",
+      "timestamp": 79291.694,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@51ca3cd2bb3a71f5c0fdee71af37324c",
+      "frameId": "frame@2ca293bd28b4a8de1e62267f24711d09",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/index/?cat=14&q=bud+light",
+      "snapshotName": "input@call@bb0da8f15323f8b4b57ed71151e9bb28",
+      "timestamp": 79322.498,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@51ca3cd2bb3a71f5c0fdee71af37324c",
+      "frameId": "frame@2ca293bd28b4a8de1e62267f24711d09",
+      "frameUrl": "http://localhost:7770/bud-light-12-pk-12-oz-cans-4-2-abv.html",
+      "snapshotName": "after@call@bb0da8f15323f8b4b57ed71151e9bb28",
+      "timestamp": 79802.331,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@51ca3cd2bb3a71f5c0fdee71af37324c",
+      "timestamp": 121958.089,
+      "resource": "page@51ca3cd2bb3a71f5c0fdee71af37324c-1703209828.305532.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_386__page0.jpg",
+      "sha256": "276dc30629d05cdc7f915221ffaac2e56efd9db2ffa5c82ec792fda6741bf2a8",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_386__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

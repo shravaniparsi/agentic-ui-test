@@ -1,0 +1,303 @@
+{
+  "instance_id": "vwa_shopping_173",
+  "domain": "shopping",
+  "filename_task_id": 173,
+  "source_url": "https://drive.usercontent.google.com/download?id=1yjL9ZB78ScPCLL_h30K9iT7EnjNXSzxz&export=download&confirm=t",
+  "source_file_id": "1yjL9ZB78ScPCLL_h30K9iT7EnjNXSzxz",
+  "archive_sha256": "d1ba7fa1fbc5b371621572262c9a0d27824e8c893b8259028aa7930578d1ab9b",
+  "archive_bytes": 10709474,
+  "event_types": {
+    "context-options": 1,
+    "event": 43,
+    "screencast-frame": 193,
+    "before": 7,
+    "frame-snapshot": 21,
+    "input": 7,
+    "after": 7
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703277772763,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@cc9f847904dbf12794d1c275a910c8b1",
+      "timestamp": 5077.745,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@cc9f847904dbf12794d1c275a910c8b1",
+      "timestamp": 5131.206,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@cc9f847904dbf12794d1c275a910c8b1",
+      "timestamp": 5212.767,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@98be0586bad0adaecfcfe84db9063bf9",
+      "timestamp": 5724.777,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@98be0586bad0adaecfcfe84db9063bf9",
+      "timestamp": 5748.968,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@98be0586bad0adaecfcfe84db9063bf9",
+      "timestamp": 5761.591,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@6b2c9b17a8efc7b48fc21ae36178773c",
+      "timestamp": 8225.353,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@6b2c9b17a8efc7b48fc21ae36178773c",
+      "timestamp": 8237.851,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=grapefruit+fragance",
+      "snapshotName": "after@call@6b2c9b17a8efc7b48fc21ae36178773c",
+      "timestamp": 10337.881,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=grapefruit+fragance",
+      "snapshotName": "before@call@437af0586039f45ae7c5781d6d95fac9",
+      "timestamp": 15147.435,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=grapefruit+fragance",
+      "snapshotName": "input@call@437af0586039f45ae7c5781d6d95fac9",
+      "timestamp": 15181.814,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jo-malone-grapefruit-cologne-spray-for-women-1-ounce.html",
+      "snapshotName": "after@call@437af0586039f45ae7c5781d6d95fac9",
+      "timestamp": 16582.6,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jo-malone-grapefruit-cologne-spray-for-women-1-ounce.html",
+      "snapshotName": "before@call@db42409ecc98379e80c0f1654d6e73c9",
+      "timestamp": 18271.292,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jo-malone-grapefruit-cologne-spray-for-women-1-ounce.html",
+      "snapshotName": "input@call@db42409ecc98379e80c0f1654d6e73c9",
+      "timestamp": 18333.266,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jo-malone-grapefruit-cologne-spray-for-women-1-ounce.html",
+      "snapshotName": "after@call@db42409ecc98379e80c0f1654d6e73c9",
+      "timestamp": 18382.561,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jo-malone-grapefruit-cologne-spray-for-women-1-ounce.html",
+      "snapshotName": "before@call@9ea49f89ed56506365531dc113c33ca1",
+      "timestamp": 19459.938,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jo-malone-grapefruit-cologne-spray-for-women-1-ounce.html",
+      "snapshotName": "input@call@9ea49f89ed56506365531dc113c33ca1",
+      "timestamp": 19482.545,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jo-malone-grapefruit-cologne-spray-for-women-1-ounce.html",
+      "snapshotName": "after@call@9ea49f89ed56506365531dc113c33ca1",
+      "timestamp": 19513.853,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jo-malone-grapefruit-cologne-spray-for-women-1-ounce.html",
+      "snapshotName": "before@call@cc906a84d15d8db4272345fe94f03938",
+      "timestamp": 23541.058,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jo-malone-grapefruit-cologne-spray-for-women-1-ounce.html",
+      "snapshotName": "input@call@cc906a84d15d8db4272345fe94f03938",
+      "timestamp": 23606.85,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jo-malone-grapefruit-cologne-spray-for-women-1-ounce.html",
+      "snapshotName": "after@call@cc906a84d15d8db4272345fe94f03938",
+      "timestamp": 23653.961,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@9648d02e0acc9469686694584423408f",
+      "timestamp": 29954.226,
+      "resource": "page@9648d02e0acc9469686694584423408f-1703277801.806862.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_173__page0.jpg",
+      "sha256": "8d37d3092efe07f4aa970842e100967ddc65677f7f0d32054c1f902e8b17dee5",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_173__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

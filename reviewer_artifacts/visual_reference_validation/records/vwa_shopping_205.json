@@ -1,0 +1,88 @@
+{
+  "instance_id": "vwa_shopping_205",
+  "domain": "shopping",
+  "filename_task_id": 205,
+  "source_url": "https://drive.usercontent.google.com/download?id=13rKS-TuxnwocBHVuoBjluprvTVSzLjPH&export=download&confirm=t",
+  "source_file_id": "13rKS-TuxnwocBHVuoBjluprvTVSzLjPH",
+  "archive_sha256": "c2c311e01576d642a93f6d2e01c3bfab166a23b4a8e24924c151b5d3900fd17c",
+  "archive_bytes": 6227056,
+  "event_types": {
+    "context-options": 1,
+    "event": 42,
+    "screencast-frame": 62,
+    "before": 1,
+    "frame-snapshot": 3,
+    "input": 1,
+    "after": 1,
+    "object": 10
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703218474947,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@60bd1529b85484828176dcba0f7b3aea",
+      "frameId": "frame@f717d73370e09c48cc25f16e820f9129",
+      "frameUrl": "http://localhost:7770/home-kitchen/bedding/kids-bedding.html",
+      "snapshotName": "before@call@f50f6807c99c7e15db415e8b74f35d5d",
+      "timestamp": 10662.197,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@60bd1529b85484828176dcba0f7b3aea",
+      "frameId": "frame@f717d73370e09c48cc25f16e820f9129",
+      "frameUrl": "http://localhost:7770/home-kitchen/bedding/kids-bedding.html",
+      "snapshotName": "input@call@f50f6807c99c7e15db415e8b74f35d5d",
+      "timestamp": 10694.771,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@60bd1529b85484828176dcba0f7b3aea",
+      "frameId": "frame@f717d73370e09c48cc25f16e820f9129",
+      "frameUrl": "http://localhost:7770/stolphi-glow-in-the-dark-unicorn-sherpa-throw-blanket-for-girls-kids-teens-premium-super-soft-plush-microfiber-fun-gift-for-all-occasions-purple-gradient.html",
+      "snapshotName": "after@call@f50f6807c99c7e15db415e8b74f35d5d",
+      "timestamp": 11142.596,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@60bd1529b85484828176dcba0f7b3aea",
+      "timestamp": 37834.441,
+      "resource": "page@60bd1529b85484828176dcba0f7b3aea-1703218512.385131.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_205__page0.jpg",
+      "sha256": "33d5085cbcab1feed17e4669015f7a25310253427aa3d25804876de3746cbafd",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_205__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

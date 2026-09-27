@@ -1,0 +1,219 @@
+{
+  "instance_id": "vwa_shopping_26",
+  "domain": "shopping",
+  "filename_task_id": 26,
+  "source_url": "https://drive.usercontent.google.com/download?id=1pDXjVLb7PP7gXm45lE2NhvgYqD3h7EGs&export=download&confirm=t",
+  "source_file_id": "1pDXjVLb7PP7gXm45lE2NhvgYqD3h7EGs",
+  "archive_sha256": "3639a0aeca0b9f0874bfae85d09bc731b33b4620082bb065cc6d82542444baab",
+  "archive_bytes": 8345697,
+  "event_types": {
+    "context-options": 1,
+    "event": 45,
+    "screencast-frame": 129,
+    "before": 5,
+    "frame-snapshot": 14,
+    "input": 5,
+    "after": 5
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703274765508,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@23508433033c080a480331c6996c17d1",
+      "frameId": "frame@3eb372cf2fc482346ba72d60664b1f21",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@3ebde2aa05ac3a8b6af65a8bbc1690c0",
+      "timestamp": 8381.484,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@23508433033c080a480331c6996c17d1",
+      "frameId": "frame@3eb372cf2fc482346ba72d60664b1f21",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@3ebde2aa05ac3a8b6af65a8bbc1690c0",
+      "timestamp": 8441.24,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@23508433033c080a480331c6996c17d1",
+      "frameId": "frame@3eb372cf2fc482346ba72d60664b1f21",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@3ebde2aa05ac3a8b6af65a8bbc1690c0",
+      "timestamp": 8453.705,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@23508433033c080a480331c6996c17d1",
+      "frameId": "frame@3eb372cf2fc482346ba72d60664b1f21",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@d8d179b769fa0775b7364388b70f8aa5",
+      "timestamp": 8603.909,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@23508433033c080a480331c6996c17d1",
+      "frameId": "frame@3eb372cf2fc482346ba72d60664b1f21",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@d8d179b769fa0775b7364388b70f8aa5",
+      "timestamp": 8624.919,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@23508433033c080a480331c6996c17d1",
+      "frameId": "frame@3eb372cf2fc482346ba72d60664b1f21",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@d8d179b769fa0775b7364388b70f8aa5",
+      "timestamp": 8632.643,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@23508433033c080a480331c6996c17d1",
+      "frameId": "frame@3eb372cf2fc482346ba72d60664b1f21",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@42bed21f7cff8139b3f0f8855279ce00",
+      "timestamp": 8923.692,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@23508433033c080a480331c6996c17d1",
+      "frameId": "frame@3eb372cf2fc482346ba72d60664b1f21",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@42bed21f7cff8139b3f0f8855279ce00",
+      "timestamp": 8941.041,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@23508433033c080a480331c6996c17d1",
+      "frameId": "frame@3eb372cf2fc482346ba72d60664b1f21",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=plush+toy",
+      "snapshotName": "before@call@79331b1c9334234903aaed65dcfebdf3",
+      "timestamp": 19726.395,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@23508433033c080a480331c6996c17d1",
+      "frameId": "frame@3eb372cf2fc482346ba72d60664b1f21",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=plush+toy",
+      "snapshotName": "input@call@79331b1c9334234903aaed65dcfebdf3",
+      "timestamp": 19762.951,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@23508433033c080a480331c6996c17d1",
+      "frameId": "frame@3eb372cf2fc482346ba72d60664b1f21",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/olpchee-foldable-plush-children-s-sofa-backrest-chair-cute-cartoon-infant-baby-seat-for-living-room-bedroom-corgi.html",
+      "snapshotName": "after@call@79331b1c9334234903aaed65dcfebdf3",
+      "timestamp": 21020.598,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@23508433033c080a480331c6996c17d1",
+      "frameId": "frame@3eb372cf2fc482346ba72d60664b1f21",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/olpchee-foldable-plush-children-s-sofa-backrest-chair-cute-cartoon-infant-baby-seat-for-living-room-bedroom-corgi.html",
+      "snapshotName": "before@call@7350f7b567d53a041b0beb4baa7a7463",
+      "timestamp": 24272.719,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@23508433033c080a480331c6996c17d1",
+      "frameId": "frame@3eb372cf2fc482346ba72d60664b1f21",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/olpchee-foldable-plush-children-s-sofa-backrest-chair-cute-cartoon-infant-baby-seat-for-living-room-bedroom-corgi.html",
+      "snapshotName": "input@call@7350f7b567d53a041b0beb4baa7a7463",
+      "timestamp": 24309.474,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@23508433033c080a480331c6996c17d1",
+      "frameId": "frame@3eb372cf2fc482346ba72d60664b1f21",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/olpchee-foldable-plush-children-s-sofa-backrest-chair-cute-cartoon-infant-baby-seat-for-living-room-bedroom-corgi.html",
+      "snapshotName": "after@call@7350f7b567d53a041b0beb4baa7a7463",
+      "timestamp": 24318.013,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@23508433033c080a480331c6996c17d1",
+      "timestamp": 24986.996,
+      "resource": "page@23508433033c080a480331c6996c17d1-1703274789.670992.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_26__page0.jpg",
+      "sha256": "c36fd37ad954ac02c726165bdd7e12baa3be701a07708ca3a4be0936717287a1",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_26__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

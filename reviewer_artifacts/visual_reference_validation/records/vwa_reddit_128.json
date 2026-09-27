@@ -1,0 +1,844 @@
+{
+  "instance_id": "vwa_reddit_128",
+  "domain": "reddit",
+  "filename_task_id": 128,
+  "source_url": "https://drive.usercontent.google.com/download?id=1nM46FNZp3Q4r39KLCBUgoLQYa-J9F9Gr&export=download&confirm=t",
+  "source_file_id": "1nM46FNZp3Q4r39KLCBUgoLQYa-J9F9Gr",
+  "archive_sha256": "38b655f9226c8c8fed0d1ba7f9a26feacde3bf33c1c90ae12bbdfd929344ae2e",
+  "archive_bytes": 38513093,
+  "event_types": {
+    "context-options": 1,
+    "event": 573,
+    "screencast-frame": 839,
+    "object": 259,
+    "before": 22,
+    "frame-snapshot": 65,
+    "input": 21,
+    "after": 22
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704320421721,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@2df7af58a409ac401da13ccbbb3f077d",
+      "timestamp": 23758.227,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@2df7af58a409ac401da13ccbbb3f077d",
+      "timestamp": 23817.542,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "after@call@2df7af58a409ac401da13ccbbb3f077d",
+      "timestamp": 24454.269,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "before@call@2cbe52c1a66d2063e4f65771edf3bbad",
+      "timestamp": 25324.881,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums",
+      "snapshotName": "input@call@2cbe52c1a66d2063e4f65771edf3bbad",
+      "timestamp": 25382.941,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "after@call@2cbe52c1a66d2063e4f65771edf3bbad",
+      "timestamp": 25629.571,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@2fe523cd4890a3e3e29486da9a3ac366",
+      "timestamp": 29492.344,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@2fe523cd4890a3e3e29486da9a3ac366",
+      "timestamp": 29547.853,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes",
+      "snapshotName": "after@call@2fe523cd4890a3e3e29486da9a3ac366",
+      "timestamp": 29960.1,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes",
+      "snapshotName": "before@call@da60c7aefa4ab6e2feb3cd43e76c5b63",
+      "timestamp": 75900.232,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes",
+      "snapshotName": "input@call@da60c7aefa4ab6e2feb3cd43e76c5b63",
+      "timestamp": 75948.639,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=8474&next%5Bid%5D=62899",
+      "snapshotName": "after@call@da60c7aefa4ab6e2feb3cd43e76c5b63",
+      "timestamp": 76363.317,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=8474&next%5Bid%5D=62899",
+      "snapshotName": "before@call@0343725490c52b4487c24989ac594375",
+      "timestamp": 83264.407,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=8474&next%5Bid%5D=62899",
+      "snapshotName": "input@call@0343725490c52b4487c24989ac594375",
+      "timestamp": 83337.387,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=4898&next%5Bid%5D=106849",
+      "snapshotName": "after@call@0343725490c52b4487c24989ac594375",
+      "timestamp": 83763.056,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=4898&next%5Bid%5D=106849",
+      "snapshotName": "before@call@b401b04ef5b35dca7cb6b37b412cb2de",
+      "timestamp": 94789.227,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=4898&next%5Bid%5D=106849",
+      "snapshotName": "input@call@b401b04ef5b35dca7cb6b37b412cb2de",
+      "timestamp": 94834.635,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=3256&next%5Bid%5D=85200",
+      "snapshotName": "after@call@b401b04ef5b35dca7cb6b37b412cb2de",
+      "timestamp": 95292.929,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=3256&next%5Bid%5D=85200",
+      "snapshotName": "before@call@ac511ad5a84ff36c62f46a1fb9cc1f31",
+      "timestamp": 104726.148,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=3256&next%5Bid%5D=85200",
+      "snapshotName": "input@call@ac511ad5a84ff36c62f46a1fb9cc1f31",
+      "timestamp": 104765.649,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=3256&next%5Bid%5D=85200",
+      "snapshotName": "after@call@ac511ad5a84ff36c62f46a1fb9cc1f31",
+      "timestamp": 104788.139,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=3256&next%5Bid%5D=85200",
+      "snapshotName": "before@call@2a6adffe700732e91461f0a2627b6db6",
+      "timestamp": 106388.139,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes?next%5Branking%5D=3256&next%5Bid%5D=85200",
+      "snapshotName": "input@call@2a6adffe700732e91461f0a2627b6db6",
+      "timestamp": 106451.453,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=day",
+      "snapshotName": "after@call@2a6adffe700732e91461f0a2627b6db6",
+      "timestamp": 106772.189,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=day",
+      "snapshotName": "before@call@d792fa86b580ebf80ba11e8c0606b956",
+      "timestamp": 107559.239,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=day",
+      "snapshotName": "input@call@d792fa86b580ebf80ba11e8c0606b956",
+      "timestamp": 107610.401,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=day",
+      "snapshotName": "after@call@d792fa86b580ebf80ba11e8c0606b956",
+      "timestamp": 107621.817,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=day",
+      "snapshotName": "before@call@023435abba84b2dcb6a04a344a7d76a9",
+      "timestamp": 108328.573,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=day",
+      "snapshotName": "input@call@023435abba84b2dcb6a04a344a7d76a9",
+      "timestamp": 108362.262,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all",
+      "snapshotName": "after@call@023435abba84b2dcb6a04a344a7d76a9",
+      "timestamp": 108733.595,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all",
+      "snapshotName": "before@call@62867cb84eab978c39aa73377ea0a55c",
+      "timestamp": 117039.812,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all",
+      "snapshotName": "input@call@62867cb84eab978c39aa73377ea0a55c",
+      "timestamp": 117079.023,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=7823&next%5Bid%5D=85076",
+      "snapshotName": "after@call@62867cb84eab978c39aa73377ea0a55c",
+      "timestamp": 117483.337,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=7823&next%5Bid%5D=85076",
+      "snapshotName": "before@call@db220178b828512ce53398b75671bdb4",
+      "timestamp": 132913.42,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=7823&next%5Bid%5D=85076",
+      "snapshotName": "input@call@db220178b828512ce53398b75671bdb4",
+      "timestamp": 132982.992,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=4816&next%5Bid%5D=106774",
+      "snapshotName": "after@call@db220178b828512ce53398b75671bdb4",
+      "timestamp": 133359.565,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=4816&next%5Bid%5D=106774",
+      "snapshotName": "before@call@b96331834923c61a353856809ac9040b",
+      "timestamp": 146479.96,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=4816&next%5Bid%5D=106774",
+      "snapshotName": "input@call@b96331834923c61a353856809ac9040b",
+      "timestamp": 146552.875,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=3038&next%5Bid%5D=127594",
+      "snapshotName": "after@call@b96331834923c61a353856809ac9040b",
+      "timestamp": 146920.108,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=3038&next%5Bid%5D=127594",
+      "snapshotName": "before@call@aaec561c7130d933d06a6dbcb741d561",
+      "timestamp": 155486.576,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=3038&next%5Bid%5D=127594",
+      "snapshotName": "input@call@aaec561c7130d933d06a6dbcb741d561",
+      "timestamp": 155522.684,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=2179&next%5Bid%5D=21118",
+      "snapshotName": "after@call@aaec561c7130d933d06a6dbcb741d561",
+      "timestamp": 155991.133,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=2179&next%5Bid%5D=21118",
+      "snapshotName": "before@call@40dc153f994301ffdd4dea4a8dc1297c",
+      "timestamp": 165776.443,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=2179&next%5Bid%5D=21118",
+      "snapshotName": "input@call@40dc153f994301ffdd4dea4a8dc1297c",
+      "timestamp": 165812.196,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=1626&next%5Bid%5D=62961",
+      "snapshotName": "after@call@40dc153f994301ffdd4dea4a8dc1297c",
+      "timestamp": 166269.068,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=1626&next%5Bid%5D=62961",
+      "snapshotName": "before@call@f12e7624771203117266975b453b891f",
+      "timestamp": 176412.362,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=1626&next%5Bid%5D=62961",
+      "snapshotName": "input@call@f12e7624771203117266975b453b891f",
+      "timestamp": 176460.889,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=1331&next%5Bid%5D=85114",
+      "snapshotName": "after@call@f12e7624771203117266975b453b891f",
+      "timestamp": 176879.119,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=1626&next%5Bid%5D=62961",
+      "snapshotName": "before@call@37ad79900aa506affb61cc02487a0396",
+      "timestamp": 187052.138,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=1626&next%5Bid%5D=62961",
+      "snapshotName": "after@call@37ad79900aa506affb61cc02487a0396",
+      "timestamp": 187179.473,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=1626&next%5Bid%5D=62961",
+      "snapshotName": "before@call@413f816001613d6d000b21815ce27e54",
+      "timestamp": 190990.654,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/top?t=all&next%5BnetScore%5D=1626&next%5Bid%5D=62961",
+      "snapshotName": "input@call@413f816001613d6d000b21815ce27e54",
+      "timestamp": 191016.416,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/cardiacbadge48",
+      "snapshotName": "after@call@413f816001613d6d000b21815ce27e54",
+      "timestamp": 191387.116,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/cardiacbadge48",
+      "snapshotName": "before@call@c108ef609a684c7bda86df8177b8b9c5",
+      "timestamp": 200909.692,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/cardiacbadge48",
+      "snapshotName": "input@call@c108ef609a684c7bda86df8177b8b9c5",
+      "timestamp": 200935.235,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/cardiacbadge48/submissions",
+      "snapshotName": "after@call@c108ef609a684c7bda86df8177b8b9c5",
+      "timestamp": 201223.465,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/cardiacbadge48/submissions",
+      "snapshotName": "before@call@23861de5fd52573470f58e2ea3addc8a",
+      "timestamp": 203764.964,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/cardiacbadge48/submissions",
+      "snapshotName": "input@call@23861de5fd52573470f58e2ea3addc8a",
+      "timestamp": 203790.532,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/cardiacbadge48/comments",
+      "snapshotName": "after@call@23861de5fd52573470f58e2ea3addc8a",
+      "timestamp": 204032.736,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/cardiacbadge48/comments",
+      "snapshotName": "before@call@d21ebb8ba4438ed9b92afbba3f689ac8",
+      "timestamp": 204673.529,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/cardiacbadge48/comments",
+      "snapshotName": "input@call@d21ebb8ba4438ed9b92afbba3f689ac8",
+      "timestamp": 204709.957,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/cardiacbadge48/submissions",
+      "snapshotName": "after@call@d21ebb8ba4438ed9b92afbba3f689ac8",
+      "timestamp": 204967.767,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/cardiacbadge48/submissions",
+      "snapshotName": "before@call@cd286a8e4801897b52ee7312ed2fe87a",
+      "timestamp": 208667.917,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/user/cardiacbadge48/submissions",
+      "snapshotName": "input@call@cd286a8e4801897b52ee7312ed2fe87a",
+      "timestamp": 208694.503,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "frameId": "frame@0e267d561bc48adc5d6981c489f45251",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/memes/41719/where-my-6-4-gb",
+      "snapshotName": "after@call@cd286a8e4801897b52ee7312ed2fe87a",
+      "timestamp": 209236.723,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@a766252eaa7a92f17e97d99b02a7d669",
+      "timestamp": 60104.463,
+      "resource": "page@a766252eaa7a92f17e97d99b02a7d669-1704320481.005793.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_128__page0.jpg",
+      "sha256": "7488b030eb4fdb2f55fddcd0580f775c9b68186c1fd0b5480c651e5b33d0d569",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@0bed0d660e74b6796b98d65e24b6b368",
+      "timestamp": 211371.736,
+      "resource": "page@0bed0d660e74b6796b98d65e24b6b368-1704320632.275051.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_128__page1.jpg",
+      "sha256": "f3b242eb3e0f5a22ae3a8f66f6bce4e455d92bfd6608c7ca5d56871a1406f070",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_128__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

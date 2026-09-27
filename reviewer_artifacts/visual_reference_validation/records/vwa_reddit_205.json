@@ -1,0 +1,124 @@
+{
+  "instance_id": "vwa_reddit_205",
+  "domain": "reddit",
+  "filename_task_id": 205,
+  "source_url": "https://drive.usercontent.google.com/download?id=1DW5G9L9YzUbMRXhetf9R6C84sE9yMyPd&export=download&confirm=t",
+  "source_file_id": "1DW5G9L9YzUbMRXhetf9R6C84sE9yMyPd",
+  "archive_sha256": "c5238563b4b75cb2e5d05db627eb256c1bba850a6cb7daea4463217c2f7f16a6",
+  "archive_bytes": 7537183,
+  "event_types": {
+    "context-options": 1,
+    "event": 90,
+    "screencast-frame": 124,
+    "object": 45,
+    "before": 2,
+    "frame-snapshot": 6,
+    "input": 2,
+    "after": 2
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704271824773,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@72b48002973350f19c53b57248bff7c0",
+      "frameId": "frame@3decafbc5fad340a1bf5b51aa41c670b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space",
+      "snapshotName": "before@call@b1825fc2f9a489d02e5d035fa79300e3",
+      "timestamp": 11077.667,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@72b48002973350f19c53b57248bff7c0",
+      "frameId": "frame@3decafbc5fad340a1bf5b51aa41c670b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space",
+      "snapshotName": "input@call@b1825fc2f9a489d02e5d035fa79300e3",
+      "timestamp": 11113.394,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@72b48002973350f19c53b57248bff7c0",
+      "frameId": "frame@3decafbc5fad340a1bf5b51aa41c670b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space/134033/3-years-ago-i-built-this-telescope-in-my-parents-garage-it-s",
+      "snapshotName": "after@call@b1825fc2f9a489d02e5d035fa79300e3",
+      "timestamp": 12190.313,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@72b48002973350f19c53b57248bff7c0",
+      "frameId": "frame@3decafbc5fad340a1bf5b51aa41c670b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space/134033/3-years-ago-i-built-this-telescope-in-my-parents-garage-it-s",
+      "snapshotName": "before@call@d374f33d528ab2b0585ce20fdca6fa70",
+      "timestamp": 24874.376,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@72b48002973350f19c53b57248bff7c0",
+      "frameId": "frame@3decafbc5fad340a1bf5b51aa41c670b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space/134033/3-years-ago-i-built-this-telescope-in-my-parents-garage-it-s",
+      "snapshotName": "input@call@d374f33d528ab2b0585ce20fdca6fa70",
+      "timestamp": 24983.089,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@72b48002973350f19c53b57248bff7c0",
+      "frameId": "frame@3decafbc5fad340a1bf5b51aa41c670b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/space/134033/3-years-ago-i-built-this-telescope-in-my-parents-garage-it-s",
+      "snapshotName": "after@call@d374f33d528ab2b0585ce20fdca6fa70",
+      "timestamp": 25939.482,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@72b48002973350f19c53b57248bff7c0",
+      "timestamp": 28400.579,
+      "resource": "page@72b48002973350f19c53b57248bff7c0-1704271852.580437.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_205__page0.jpg",
+      "sha256": "b98ecf393c77a7344183d2076e181305d4d19d4eb4d7a61aa897aad1f9641453",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_205__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

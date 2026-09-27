@@ -1,0 +1,604 @@
+{
+  "instance_id": "vwa_shopping_185",
+  "domain": "shopping",
+  "filename_task_id": 185,
+  "source_url": "https://drive.usercontent.google.com/download?id=1rYKm7v6R8T_9-d5BJhjpiu4Cy85ulOma&export=download&confirm=t",
+  "source_file_id": "1rYKm7v6R8T_9-d5BJhjpiu4Cy85ulOma",
+  "archive_sha256": "0cd302ee771e5d2561dbd285c3e1274683ed154152d6cf1a317625d7305153ba",
+  "archive_bytes": 34189246,
+  "event_types": {
+    "context-options": 1,
+    "event": 136,
+    "screencast-frame": 601,
+    "before": 16,
+    "frame-snapshot": 46,
+    "input": 15,
+    "after": 16,
+    "object": 4
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703278050042,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@e12f50855a0d5682feab082c0813596a",
+      "timestamp": 12882.732,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@e12f50855a0d5682feab082c0813596a",
+      "timestamp": 12936.83,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@e12f50855a0d5682feab082c0813596a",
+      "timestamp": 12984.902,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@9c19d021cc02e0dc2b2de123fef44d15",
+      "timestamp": 14328.577,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@9c19d021cc02e0dc2b2de123fef44d15",
+      "timestamp": 14345.231,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=twin+xl",
+      "snapshotName": "after@call@9c19d021cc02e0dc2b2de123fef44d15",
+      "timestamp": 15680.952,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=twin+xl",
+      "snapshotName": "before@call@30366333d3215e505e0a204f67d7a6af",
+      "timestamp": 20652.864,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=twin+xl",
+      "snapshotName": "input@call@30366333d3215e505e0a204f67d7a6af",
+      "timestamp": 20703.547,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=twin+xl",
+      "snapshotName": "after@call@30366333d3215e505e0a204f67d7a6af",
+      "timestamp": 20752.355,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=twin+xl",
+      "snapshotName": "before@call@ecc58f90c6bf29b9ec8c715ec5495856",
+      "timestamp": 21913.724,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=twin+xl",
+      "snapshotName": "input@call@ecc58f90c6bf29b9ec8c715ec5495856",
+      "timestamp": 21931.77,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=twin+xl+cheetah",
+      "snapshotName": "before@call@a6e3c0eeeb4e2702cf8ad3c919ff7184",
+      "timestamp": 38006.442,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=twin+xl+cheetah",
+      "snapshotName": "input@call@a6e3c0eeeb4e2702cf8ad3c919ff7184",
+      "timestamp": 38049.156,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/throw-blanket-leopard-cheetah-extra-large-throw-for-couch-bed-fluffy-cozy-flannel-blanket-twin-size-60-by-80.html",
+      "snapshotName": "after@call@a6e3c0eeeb4e2702cf8ad3c919ff7184",
+      "timestamp": 39422.744,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/throw-blanket-leopard-cheetah-extra-large-throw-for-couch-bed-fluffy-cozy-flannel-blanket-twin-size-60-by-80.html",
+      "snapshotName": "before@call@ac5c7911e0841180dcfead2295aa487c",
+      "timestamp": 51790.926,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/throw-blanket-leopard-cheetah-extra-large-throw-for-couch-bed-fluffy-cozy-flannel-blanket-twin-size-60-by-80.html",
+      "snapshotName": "input@call@ac5c7911e0841180dcfead2295aa487c",
+      "timestamp": 51830.699,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/bedding.html",
+      "snapshotName": "after@call@ac5c7911e0841180dcfead2295aa487c",
+      "timestamp": 53405.783,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/bedding.html",
+      "snapshotName": "before@call@7f07900ab6a98f28653df88aee0893a1",
+      "timestamp": 64838.033,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/bedding.html",
+      "snapshotName": "input@call@7f07900ab6a98f28653df88aee0893a1",
+      "timestamp": 64885.858,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/bedding.html",
+      "snapshotName": "after@call@7f07900ab6a98f28653df88aee0893a1",
+      "timestamp": 64923.65,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/bedding.html",
+      "snapshotName": "before@call@31ab0c4f52fcb96c42b038bf020ea8c3",
+      "timestamp": 66670.21,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/home-kitchen/bedding.html",
+      "snapshotName": "input@call@31ab0c4f52fcb96c42b038bf020ea8c3",
+      "timestamp": 66681.795,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=cheetah+bedding",
+      "snapshotName": "after@call@31ab0c4f52fcb96c42b038bf020ea8c3",
+      "timestamp": 68106.076,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=cheetah+bedding",
+      "snapshotName": "before@call@3cfe2604263462e7892fb851588c6a0f",
+      "timestamp": 71487.766,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=cheetah+bedding",
+      "snapshotName": "input@call@3cfe2604263462e7892fb851588c6a0f",
+      "timestamp": 71550.356,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/girls-leopard-print-bedding-set-teens-luxury-pink-black-cheetah-print-bed-sheet-set-twin-size-for-kids-children-women-bedroom-decor-fitted-sheet-chic-wild-animal-bed-cover-with-1-pillow-case.html",
+      "snapshotName": "after@call@3cfe2604263462e7892fb851588c6a0f",
+      "timestamp": 73027.628,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/girls-leopard-print-bedding-set-teens-luxury-pink-black-cheetah-print-bed-sheet-set-twin-size-for-kids-children-women-bedroom-decor-fitted-sheet-chic-wild-animal-bed-cover-with-1-pillow-case.html",
+      "snapshotName": "before@call@2ab2c0667b095620a61e279b3c950ac0",
+      "timestamp": 78693.65,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/girls-leopard-print-bedding-set-teens-luxury-pink-black-cheetah-print-bed-sheet-set-twin-size-for-kids-children-women-bedroom-decor-fitted-sheet-chic-wild-animal-bed-cover-with-1-pillow-case.html",
+      "snapshotName": "input@call@2ab2c0667b095620a61e279b3c950ac0",
+      "timestamp": 78846.222,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/girls-leopard-print-bedding-set-teens-luxury-pink-black-cheetah-print-bed-sheet-set-twin-size-for-kids-children-women-bedroom-decor-fitted-sheet-chic-wild-animal-bed-cover-with-1-pillow-case.html",
+      "snapshotName": "after@call@2ab2c0667b095620a61e279b3c950ac0",
+      "timestamp": 78958.038,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/girls-leopard-print-bedding-set-teens-luxury-pink-black-cheetah-print-bed-sheet-set-twin-size-for-kids-children-women-bedroom-decor-fitted-sheet-chic-wild-animal-bed-cover-with-1-pillow-case.html",
+      "snapshotName": "before@call@b33acbbdf7e78fbc676816eda71d7b47",
+      "timestamp": 82390.694,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/girls-leopard-print-bedding-set-teens-luxury-pink-black-cheetah-print-bed-sheet-set-twin-size-for-kids-children-women-bedroom-decor-fitted-sheet-chic-wild-animal-bed-cover-with-1-pillow-case.html",
+      "snapshotName": "input@call@b33acbbdf7e78fbc676816eda71d7b47",
+      "timestamp": 82419.767,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/girls-leopard-print-bedding-set-teens-luxury-pink-black-cheetah-print-bed-sheet-set-twin-size-for-kids-children-women-bedroom-decor-fitted-sheet-chic-wild-animal-bed-cover-with-1-pillow-case.html",
+      "snapshotName": "after@call@b33acbbdf7e78fbc676816eda71d7b47",
+      "timestamp": 82522.939,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/girls-leopard-print-bedding-set-teens-luxury-pink-black-cheetah-print-bed-sheet-set-twin-size-for-kids-children-women-bedroom-decor-fitted-sheet-chic-wild-animal-bed-cover-with-1-pillow-case.html",
+      "snapshotName": "before@call@183d8d9a8dd70c6554a87132510ca49d",
+      "timestamp": 83192.571,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/girls-leopard-print-bedding-set-teens-luxury-pink-black-cheetah-print-bed-sheet-set-twin-size-for-kids-children-women-bedroom-decor-fitted-sheet-chic-wild-animal-bed-cover-with-1-pillow-case.html",
+      "snapshotName": "input@call@183d8d9a8dd70c6554a87132510ca49d",
+      "timestamp": 83223.161,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/girls-leopard-print-bedding-set-teens-luxury-pink-black-cheetah-print-bed-sheet-set-twin-size-for-kids-children-women-bedroom-decor-fitted-sheet-chic-wild-animal-bed-cover-with-1-pillow-case.html",
+      "snapshotName": "after@call@183d8d9a8dd70c6554a87132510ca49d",
+      "timestamp": 83261.981,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/girls-leopard-print-bedding-set-teens-luxury-pink-black-cheetah-print-bed-sheet-set-twin-size-for-kids-children-women-bedroom-decor-fitted-sheet-chic-wild-animal-bed-cover-with-1-pillow-case.html",
+      "snapshotName": "before@call@6ecc5a992d9c7bf82ccbae7d5e79a3c9",
+      "timestamp": 92583.252,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/girls-leopard-print-bedding-set-teens-luxury-pink-black-cheetah-print-bed-sheet-set-twin-size-for-kids-children-women-bedroom-decor-fitted-sheet-chic-wild-animal-bed-cover-with-1-pillow-case.html",
+      "snapshotName": "input@call@6ecc5a992d9c7bf82ccbae7d5e79a3c9",
+      "timestamp": 92668.393,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/girls-leopard-print-bedding-set-teens-luxury-pink-black-cheetah-print-bed-sheet-set-twin-size-for-kids-children-women-bedroom-decor-fitted-sheet-chic-wild-animal-bed-cover-with-1-pillow-case.html",
+      "snapshotName": "after@call@6ecc5a992d9c7bf82ccbae7d5e79a3c9",
+      "timestamp": 92691.525,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/girls-leopard-print-bedding-set-teens-luxury-pink-black-cheetah-print-bed-sheet-set-twin-size-for-kids-children-women-bedroom-decor-fitted-sheet-chic-wild-animal-bed-cover-with-1-pillow-case.html",
+      "snapshotName": "before@call@d1bbfb2967db44a17489676a7ba13930",
+      "timestamp": 95267.642,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/",
+      "snapshotName": "after@call@d1bbfb2967db44a17489676a7ba13930",
+      "timestamp": 100274.084,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "before@call@f7c849353609fc4c0a6d98d252d1c859",
+      "timestamp": 104950.522,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "input@call@f7c849353609fc4c0a6d98d252d1c859",
+      "timestamp": 105001.29,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#shipping",
+      "snapshotName": "after@call@f7c849353609fc4c0a6d98d252d1c859",
+      "timestamp": 105020.703,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "before@call@4a5a66b6f63adcea581b9c478b717bcd",
+      "timestamp": 108449.749,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "input@call@4a5a66b6f63adcea581b9c478b717bcd",
+      "timestamp": 108499.404,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "frameId": "frame@234d79edd223101a73a254f6fba1240a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/checkout/#payment",
+      "snapshotName": "after@call@4a5a66b6f63adcea581b9c478b717bcd",
+      "timestamp": 108523.22,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@3f6ee35571be99c4989f9fbab700bf31",
+      "timestamp": 113996.872,
+      "resource": "page@3f6ee35571be99c4989f9fbab700bf31-1703278163.22472.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_185__page0.jpg",
+      "sha256": "d79f447896f1d38325ef69d93825cfa046ff18fc8708492acf38fdd647d9c283",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_185__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

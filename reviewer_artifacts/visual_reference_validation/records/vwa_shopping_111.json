@@ -1,0 +1,279 @@
+{
+  "instance_id": "vwa_shopping_111",
+  "domain": "shopping",
+  "filename_task_id": 111,
+  "source_url": "https://drive.usercontent.google.com/download?id=1p8_78K0-EYRKUDrI5-JmJKCmhBmiAxaA&export=download&confirm=t",
+  "source_file_id": "1p8_78K0-EYRKUDrI5-JmJKCmhBmiAxaA",
+  "archive_sha256": "02e3aa376c6bde4dad4dce663f0e7a47b369c63227f54478217945c9df60edfc",
+  "archive_bytes": 15967591,
+  "event_types": {
+    "context-options": 1,
+    "event": 73,
+    "screencast-frame": 262,
+    "before": 7,
+    "frame-snapshot": 19,
+    "input": 7,
+    "after": 7
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703276032295,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@3b53e2968bc3bb3d1473b6ef21641ce0",
+      "timestamp": 50758.022,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@3b53e2968bc3bb3d1473b6ef21641ce0",
+      "timestamp": 50789.808,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "after@call@3b53e2968bc3bb3d1473b6ef21641ce0",
+      "timestamp": 50802.811,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@c7976f0ea17239ad4374a383542a513e",
+      "timestamp": 51783.318,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@c7976f0ea17239ad4374a383542a513e",
+      "timestamp": 51801.145,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=herb",
+      "snapshotName": "before@call@625eac6612d749ade2fc2e7c965a1828",
+      "timestamp": 56888.013,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=herb",
+      "snapshotName": "input@call@625eac6612d749ade2fc2e7c965a1828",
+      "timestamp": 56940.176,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=14&q=herb",
+      "snapshotName": "after@call@625eac6612d749ade2fc2e7c965a1828",
+      "timestamp": 58055.919,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=14&q=herb",
+      "snapshotName": "before@call@38255864d26dfbfd892faa32b04b9e8b",
+      "timestamp": 70591.909,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/index/?cat=14&q=herb",
+      "snapshotName": "input@call@38255864d26dfbfd892faa32b04b9e8b",
+      "timestamp": 70644.049,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/food-beverage-gifts/herb-spice-seasoning-gifts.html",
+      "snapshotName": "after@call@38255864d26dfbfd892faa32b04b9e8b",
+      "timestamp": 72495.465,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/food-beverage-gifts/herb-spice-seasoning-gifts.html",
+      "snapshotName": "before@call@5ed651b6105d9ecc088234fbfc905e8b",
+      "timestamp": 79164.705,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/food-beverage-gifts/herb-spice-seasoning-gifts.html",
+      "snapshotName": "input@call@5ed651b6105d9ecc088234fbfc905e8b",
+      "timestamp": 79211.965,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/food-beverage-gifts/herb-spice-seasoning-gifts.html",
+      "snapshotName": "after@call@5ed651b6105d9ecc088234fbfc905e8b",
+      "timestamp": 79226.317,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/food-beverage-gifts/herb-spice-seasoning-gifts.html",
+      "snapshotName": "before@call@bd5a88611f7602775befc833a339b191",
+      "timestamp": 85332.747,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/grocery-gourmet-food/food-beverage-gifts/herb-spice-seasoning-gifts.html",
+      "snapshotName": "input@call@bd5a88611f7602775befc833a339b191",
+      "timestamp": 85347.627,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=chipotle",
+      "snapshotName": "before@call@1441eef0975428cec6ca32072d550c34",
+      "timestamp": 93135.775,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=chipotle",
+      "snapshotName": "input@call@1441eef0975428cec6ca32072d550c34",
+      "timestamp": 93192.948,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@3548f6a15113505c08178414fbb8117a",
+      "frameId": "frame@c2cf725e0c1d69220fa510bd35fd9f92",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/catalogsearch/result/?q=chipotle",
+      "snapshotName": "after@call@1441eef0975428cec6ca32072d550c34",
+      "timestamp": 93283.327,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@3548f6a15113505c08178414fbb8117a",
+      "timestamp": 95627.974,
+      "resource": "page@3548f6a15113505c08178414fbb8117a-1703276127.128262.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_111__page0.jpg",
+      "sha256": "5a8f4188b21e95c26648374f55758158699044a8051e53b63ff4c98c1b870665",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_111__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Can LLM Web Agents Verify Their Own Work? The Role of Visual and Textual References in Post-Hoc Verification"
+title: "Can Multimodal Models Verify Web-Agent Work? The Role of Visual and Textual References in Post-Hoc Verification"
 message: "If you use this software, please cite it using the metadata from this file."
 type: software
 authors:
@@ -12,7 +12,7 @@ repository-code: "https://github.com/shravaniparsi/agentic-ui-test"
 license: MIT
 preferred-citation:
   type: article
-  title: "Can LLM Web Agents Verify Their Own Work? The Role of Visual and Textual References in Post-Hoc Verification"
+  title: "Can Multimodal Models Verify Web-Agent Work? The Role of Visual and Textual References in Post-Hoc Verification"
   authors:
     - family-names: Thatikonda
       given-names: Vishwak

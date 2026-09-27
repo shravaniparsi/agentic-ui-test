@@ -1,0 +1,232 @@
+{
+  "instance_id": "vwa_shopping_303",
+  "domain": "shopping",
+  "filename_task_id": 303,
+  "source_url": "https://drive.usercontent.google.com/download?id=1ce8GPw6NydfCzWw5x9ZqoAx4jgeFMBaj&export=download&confirm=t",
+  "source_file_id": "1ce8GPw6NydfCzWw5x9ZqoAx4jgeFMBaj",
+  "archive_sha256": "9ad4bef1f6d2cf46b8d98c17e7b5b2e34321cdb741678a210bf34a1d19106896",
+  "archive_bytes": 5955216,
+  "event_types": {
+    "context-options": 1,
+    "event": 66,
+    "screencast-frame": 132,
+    "object": 46,
+    "before": 5,
+    "frame-snapshot": 15,
+    "input": 5,
+    "after": 5
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703218765385,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+      "frameId": "frame@cd3cd8deb8227af3f299685e864ef91f",
+      "frameUrl": "http://localhost:7770/tea-zone-2-lb-strawberry-powder.html",
+      "snapshotName": "before@call@47c33eb0e60aecfd1afcdbf0862eac66",
+      "timestamp": 6899.0470000000005,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+      "frameId": "frame@cd3cd8deb8227af3f299685e864ef91f",
+      "frameUrl": "http://localhost:7770/tea-zone-2-lb-strawberry-powder.html",
+      "snapshotName": "input@call@47c33eb0e60aecfd1afcdbf0862eac66",
+      "timestamp": 6930.145,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+      "frameId": "frame@cd3cd8deb8227af3f299685e864ef91f",
+      "frameUrl": "http://localhost:7770/tea-zone-2-lb-strawberry-powder.html",
+      "snapshotName": "after@call@47c33eb0e60aecfd1afcdbf0862eac66",
+      "timestamp": 6942.809,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+      "frameId": "frame@cd3cd8deb8227af3f299685e864ef91f",
+      "frameUrl": "http://localhost:7770/tea-zone-2-lb-strawberry-powder.html",
+      "snapshotName": "before@call@87f559c213fa41c0156970cc852b9f03",
+      "timestamp": 12654.539,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+      "frameId": "frame@cd3cd8deb8227af3f299685e864ef91f",
+      "frameUrl": "http://localhost:7770/tea-zone-2-lb-strawberry-powder.html",
+      "snapshotName": "input@call@87f559c213fa41c0156970cc852b9f03",
+      "timestamp": 12679.333,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+      "frameId": "frame@cd3cd8deb8227af3f299685e864ef91f",
+      "frameUrl": "http://localhost:7770/tea-zone-2-lb-strawberry-powder.html",
+      "snapshotName": "after@call@87f559c213fa41c0156970cc852b9f03",
+      "timestamp": 12686.387,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+      "frameId": "frame@cd3cd8deb8227af3f299685e864ef91f",
+      "frameUrl": "http://localhost:7770/tea-zone-2-lb-strawberry-powder.html",
+      "snapshotName": "before@call@6b1e7d4fadcd6cca5441bd3f5e32db65",
+      "timestamp": 14622.594000000001,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+      "frameId": "frame@cd3cd8deb8227af3f299685e864ef91f",
+      "frameUrl": "http://localhost:7770/tea-zone-2-lb-strawberry-powder.html",
+      "snapshotName": "input@call@6b1e7d4fadcd6cca5441bd3f5e32db65",
+      "timestamp": 14639.428,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+      "frameId": "frame@cd3cd8deb8227af3f299685e864ef91f",
+      "frameUrl": "http://localhost:7770/tea-zone-2-lb-strawberry-powder.html",
+      "snapshotName": "after@call@6b1e7d4fadcd6cca5441bd3f5e32db65",
+      "timestamp": 14648.106,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+      "frameId": "frame@cd3cd8deb8227af3f299685e864ef91f",
+      "frameUrl": "http://localhost:7770/tea-zone-2-lb-strawberry-powder.html",
+      "snapshotName": "before@call@d2486388a99bdd670fe0341d9b96a730",
+      "timestamp": 15154.774,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+      "frameId": "frame@cd3cd8deb8227af3f299685e864ef91f",
+      "frameUrl": "http://localhost:7770/tea-zone-2-lb-strawberry-powder.html",
+      "snapshotName": "input@call@d2486388a99bdd670fe0341d9b96a730",
+      "timestamp": 15188.954,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+      "frameId": "frame@cd3cd8deb8227af3f299685e864ef91f",
+      "frameUrl": "http://localhost:7770/tea-zone-2-lb-strawberry-powder.html",
+      "snapshotName": "after@call@d2486388a99bdd670fe0341d9b96a730",
+      "timestamp": 15197.761,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+      "frameId": "frame@cd3cd8deb8227af3f299685e864ef91f",
+      "frameUrl": "http://localhost:7770/tea-zone-2-lb-strawberry-powder.html",
+      "snapshotName": "before@call@320e215eb77d077d7c6987950ac5aac0",
+      "timestamp": 19687.067,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+      "frameId": "frame@cd3cd8deb8227af3f299685e864ef91f",
+      "frameUrl": "http://localhost:7770/tea-zone-2-lb-strawberry-powder.html",
+      "snapshotName": "input@call@320e215eb77d077d7c6987950ac5aac0",
+      "timestamp": 19712.009,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+      "frameId": "frame@cd3cd8deb8227af3f299685e864ef91f",
+      "frameUrl": "http://localhost:7770/tea-zone-2-lb-strawberry-powder.html",
+      "snapshotName": "after@call@320e215eb77d077d7c6987950ac5aac0",
+      "timestamp": 19746.753,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+      "timestamp": 22315.793,
+      "resource": "page@e1bc451ebb42ebca36906dd5e4ca16a7-1703218787.291707.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_303__page0.jpg",
+      "sha256": "c22ac6e767902615111a364249ac1383a13c12a76110a607c69e088b3678f3e1",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_303__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

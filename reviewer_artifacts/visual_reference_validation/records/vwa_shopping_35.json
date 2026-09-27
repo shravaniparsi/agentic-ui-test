@@ -1,0 +1,148 @@
+{
+  "instance_id": "vwa_shopping_35",
+  "domain": "shopping",
+  "filename_task_id": 35,
+  "source_url": "https://drive.usercontent.google.com/download?id=1IpKzcGvGMxJGrtJzpuhHzRpQCIs4taqz&export=download&confirm=t",
+  "source_file_id": "1IpKzcGvGMxJGrtJzpuhHzRpQCIs4taqz",
+  "archive_sha256": "e8cedd486594db87ed1e3a3c4490ce7d23fffb2c452644cf1422dfb1746ef702",
+  "archive_bytes": 10393827,
+  "event_types": {
+    "context-options": 1,
+    "event": 74,
+    "screencast-frame": 150,
+    "before": 3,
+    "frame-snapshot": 8,
+    "input": 3,
+    "after": 3,
+    "object": 10
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1703272773121,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@cc67e18494ebd91386538ad9668d1f88",
+      "frameId": "frame@a51046de6c171191f30decb70b8dac5b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "before@call@a32b2ee59ee012f8a4fd5f6469c9058a",
+      "timestamp": 10794.046,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc67e18494ebd91386538ad9668d1f88",
+      "frameId": "frame@a51046de6c171191f30decb70b8dac5b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/",
+      "snapshotName": "input@call@a32b2ee59ee012f8a4fd5f6469c9058a",
+      "timestamp": 10832.616,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc67e18494ebd91386538ad9668d1f88",
+      "frameId": "frame@a51046de6c171191f30decb70b8dac5b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/patio-lawn-garden/patio-furniture-accessories.html",
+      "snapshotName": "after@call@a32b2ee59ee012f8a4fd5f6469c9058a",
+      "timestamp": 12440.678,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc67e18494ebd91386538ad9668d1f88",
+      "frameId": "frame@a51046de6c171191f30decb70b8dac5b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/patio-lawn-garden/patio-furniture-accessories.html?product_list_order=price",
+      "snapshotName": "input@call@4ffc30be2db47a6fdfac54663f6f3df3",
+      "timestamp": 18052.81,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc67e18494ebd91386538ad9668d1f88",
+      "frameId": "frame@a51046de6c171191f30decb70b8dac5b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/patio-lawn-garden/patio-furniture-accessories.html?product_list_order=price",
+      "snapshotName": "after@call@4ffc30be2db47a6fdfac54663f6f3df3",
+      "timestamp": 18087.864,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc67e18494ebd91386538ad9668d1f88",
+      "frameId": "frame@a51046de6c171191f30decb70b8dac5b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/patio-lawn-garden/patio-furniture-accessories.html?product_list_order=price",
+      "snapshotName": "before@call@de6b5c01e472923ab4c3ec9304eb6a21",
+      "timestamp": 41761.065,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc67e18494ebd91386538ad9668d1f88",
+      "frameId": "frame@a51046de6c171191f30decb70b8dac5b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/patio-lawn-garden/patio-furniture-accessories.html?product_list_order=price",
+      "snapshotName": "input@call@de6b5c01e472923ab4c3ec9304eb6a21",
+      "timestamp": 41803.712,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@cc67e18494ebd91386538ad9668d1f88",
+      "frameId": "frame@a51046de6c171191f30decb70b8dac5b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/pillow-perfect-495552-outdoor-indoor-risa-lemonade-tufted-seat-cushions-round-back-19-x-19-gold-2-pack.html",
+      "snapshotName": "after@call@de6b5c01e472923ab4c3ec9304eb6a21",
+      "timestamp": 43745.302,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@cc67e18494ebd91386538ad9668d1f88",
+      "timestamp": 91020.18,
+      "resource": "page@cc67e18494ebd91386538ad9668d1f88-1703272863.366127.jpeg",
+      "path": "reference_validation/frames/vwa_shopping_35__page0.jpg",
+      "sha256": "4ee78a77f38e9087722ad0ab7b373edfcb50eab600df70b29eacfb7b8feabfe9",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_shopping_35__page0.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

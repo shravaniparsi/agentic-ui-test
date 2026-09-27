@@ -1,0 +1,3768 @@
+[
+  {
+    "target_instance_id": "vwa_classifieds_101",
+    "source_instance_id": "vwa_classifieds_101",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "Pittsburgh skyline painting is visible, with the Pittsburgh title and price $6420; task city image inspected and consistent.",
+    "frame_sha256": "e96e0fb1f37bc2a3e8cb9272fa21226d6fb5131b9048cd2147a255672eb33759",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "Explore the \"Art + crafts\" category, and find the most expensive painting of the city in this image.",
+      "start_url": "__CLASSIFIEDS__",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__CLASSIFIEDS__/index.php?page=item&id=83533",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_101.jpg",
+    "archive_sha256": "866cd58eea764be75fd989694844104fc94a1f5108cec173832e35021b8f3063",
+    "source_file_id": "1C5TYuckKAmw2bFOK5rea6ztoDQTR3Dya",
+    "frame_resource": "page@739b8b64f2bb91fdf4ed9eedeb08b705-1704175970.547317.jpeg",
+    "frame_page_id": "page@739b8b64f2bb91fdf4ed9eedeb08b705",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_101__page0.jpg",
+    "frame_timestamp": 52687.136,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_11",
+    "source_instance_id": "vwa_classifieds_11",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Blue bicycle and description explicitly stating 26-inch wheels are visible; recorded page is benchmark item 66613.",
+    "completion_evidence": "Blue bicycle and description explicitly stating 26-inch wheels are visible; recorded page is benchmark item 66613.",
+    "frame_sha256": "56682389c323db101b21983a94e1d80a89f285b86a1b5b6ed6d14e07a21332c2",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "What is the size of the wheels in inches of the first blue bike on this page?",
+      "start_url": "__CLASSIFIEDS__/index.php?page=search&sCategory=7",
+      "evaluation": {
+        "eval_types": [
+          "string_match"
+        ],
+        "reference_answers": {
+          "must_include": [
+            "26"
+          ]
+        },
+        "reference_url": "__CLASSIFIEDS__/index.php?page=item&id=66613",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": ""
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@baa98dbed82dac6a73687583eee2b2ea",
+      "frameId": "frame@8a9e836976b6208c7a7df19a799b2e3d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=66613",
+      "snapshotName": "after@call@107815b5dcdbebb8be95adaf7f620c80",
+      "timestamp": 10142.684,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_11.jpg",
+    "archive_sha256": "94a30bc5809d78865f6eb51ea731a841e61de5aedf65584a9d47280a19f70571",
+    "source_file_id": "1Dm_awBzfNcjJW2QmuPsE7zdIKL1_Zghp",
+    "frame_resource": "page@baa98dbed82dac6a73687583eee2b2ea-1704258512.284432.jpeg",
+    "frame_page_id": "page@baa98dbed82dac6a73687583eee2b2ea",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_11__page0.jpg",
+    "frame_timestamp": 35773.712,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_123",
+    "source_instance_id": "vwa_classifieds_123",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "Yellow Mini Cooper product page is visible; task image shows a yellow condiment bottle. Target URL and color agree.",
+    "frame_sha256": "514dd01b434debf9ee79585fb909811959091883a56aba76e8b59dc3fd79ea6f",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "Navigate to the item on this page which matches the color of the object being used by the person in the given image.",
+      "start_url": "__CLASSIFIEDS__/index.php?page=search&sPattern=clothes&sOrder=i_price&iOrderType=desc&sShowAs=gallery",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__CLASSIFIEDS__/index.php?page=item&id=48074",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_123.jpg",
+    "archive_sha256": "1bf54350cfdf5411173934da80ff5be95b93cae59012be3923effe520db4d685",
+    "source_file_id": "1mKpdWL67xXjCY1pERAKaLZyLdxxdh90v",
+    "frame_resource": "page@3c5363b5aefffcc3d258006969b47261-1704257576.614037.jpeg",
+    "frame_page_id": "page@3c5363b5aefffcc3d258006969b47261",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_123__page0.jpg",
+    "frame_timestamp": 15459.991,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_14",
+    "source_instance_id": "vwa_classifieds_14",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Fox painting page visibly shows the exact benchmark seller email olga.jones341@example.com; painting and seller identity agree with the requested lookup.",
+    "completion_evidence": "Fox painting page visibly shows the exact benchmark seller email olga.jones341@example.com; painting and seller identity agree with the requested lookup.",
+    "frame_sha256": "a98f29f859c4eddd0cb6cac7f8d552861a60e1bd424e66e88ea05432a5ac20b1",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "What is the email of the seller of the painting in the second row?",
+      "start_url": "__CLASSIFIEDS__/index.php?page=search&sCategory=4&iPage=2&sShowAs=gallery",
+      "evaluation": {
+        "eval_types": [
+          "string_match"
+        ],
+        "reference_answers": {
+          "must_include": [
+            "olga.jones341@example.com"
+          ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": ""
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@ad7c25bf2a536f0370c4759ac14820d3",
+      "frameId": "frame@69f99fa532f31f08ea8e36e5452ea59b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=32385",
+      "snapshotName": "after@call@a62456422ba09a7847928ff9cb01389e",
+      "timestamp": 9602.487,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_14.jpg",
+    "archive_sha256": "9bd702af94ea36d7d40a5395d03eca3a8148799a7e52dcc0a1d79ebdd3184beb",
+    "source_file_id": "1z8l4Iik9H_kq0EgNQ9RLzaCB4_OYDBLN",
+    "frame_resource": "page@ad7c25bf2a536f0370c4759ac14820d3-1704258538.260339.jpeg",
+    "frame_page_id": "page@ad7c25bf2a536f0370c4759ac14820d3",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_14__page0.jpg",
+    "frame_timestamp": 15323.229,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_140",
+    "source_instance_id": "vwa_classifieds_140",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "NASCAR jacket page visibly shows the exact benchmark answer juan_ortiz@example.com and the named jacket; specific target and lookup evidence agree.",
+    "completion_evidence": "NASCAR jacket page visibly shows the exact benchmark answer juan_ortiz@example.com and the named jacket; specific target and lookup evidence agree.",
+    "frame_sha256": "493499c6b3f6df32ae3edcd44fbcf11ee7c79097f88fa5778b5f6386cfb9bdbd",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "I recall seeing this exact item on the site, tell me the email of the most recent lister of the item. I recall it was a Nascar jacket in the Collectibles section.",
+      "start_url": "__CLASSIFIEDS__",
+      "evaluation": {
+        "eval_types": [
+          "string_match"
+        ],
+        "reference_answers": {
+          "must_include": [
+            "juan_ortiz@example.com"
+          ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": ""
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@5f66c394afc8ef1b42d1a1b382d6fa4b",
+      "frameId": "frame@b383a1b5702c2e7322ce037e963d0b0a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=3984",
+      "snapshotName": "after@call@f531e2c833e3cb8a8b83ba325f2cc7a1",
+      "timestamp": 15558.375,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_140.jpg",
+    "archive_sha256": "656ca88a26ff3f3deb95dbc42a9fb10c258920a45d7dbc4d6af2b1eea166aaf6",
+    "source_file_id": "1ZM2tkTyU-CMbqsZPoPNzzrJVRogb59mp",
+    "frame_resource": "page@5f66c394afc8ef1b42d1a1b382d6fa4b-1704258723.806189.jpeg",
+    "frame_page_id": "page@5f66c394afc8ef1b42d1a1b382d6fa4b",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_140__page0.jpg",
+    "frame_timestamp": 24273.087,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_144",
+    "source_instance_id": "vwa_classifieds_144",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Posted comment shows Commentary by Blake Sullivan and exact text How funky...; target-page URL must match item 41127 in export validation.",
+    "completion_evidence": "Posted comment shows Commentary by Blake Sullivan and exact text How funky...; target-page URL must match item 41127 in export validation.",
+    "frame_sha256": "223f7ef3ba33bda20a4cb5160b5df4f6639db807eaccb4beb1403de538b3db9c",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "I recall seeing this exact item of pillows in the Household section on the site, add a comment on its listing with the title \"Commentary\" and text \"How funky...\".",
+      "start_url": "__CLASSIFIEDS__",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__CLASSIFIEDS__/index.php?page=item&id=41127",
+            "locator": "func:get_query_text(__page__, '.comments_list h3')",
+            "required_contents": {
+              "must_include": [
+                "Commentary by Blake Sullivan"
+              ]
+            }
+          },
+          {
+            "url": "__CLASSIFIEDS__/index.php?page=item&id=41127",
+            "locator": "func:get_query_text(__page__, '.comments_list')",
+            "required_contents": {
+              "must_include": [
+                "How funky..."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@1d5d7679142b25a9e6b4d27d7df5156f",
+      "frameId": "frame@0427fbfa2b93cd7514d2eb45d391b900",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=41127",
+      "snapshotName": "after@call@3f768b320230e765f8ce7e89d8f31406",
+      "timestamp": 71720.806,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_144.jpg",
+    "archive_sha256": "1ca495b1d9f4fc7d27e2124e737ecb3bfccef19097e3c8e57ca1251dc60d214f",
+    "source_file_id": "1ZSvMNbh6sI2OY1LzXzFYf_-aaAIjopV3",
+    "frame_resource": "page@1d5d7679142b25a9e6b4d27d7df5156f-1704257658.348679.jpeg",
+    "frame_page_id": "page@1d5d7679142b25a9e6b4d27d7df5156f",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_144__page0.jpg",
+    "frame_timestamp": 74208.818,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_15",
+    "source_instance_id": "vwa_classifieds_15",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Guitar in a red-lined case and the exact benchmark seller email haruto_abdullah497@example.com are visible.",
+    "completion_evidence": "Guitar in a red-lined case and the exact benchmark seller email haruto_abdullah497@example.com are visible.",
+    "frame_sha256": "0980b1c159ffd5e8c23cd93c9b43fb06c29cc5b835b3ee8136fc6a8860616d57",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "What is the email of the seller of the guitar in the red case on this page?",
+      "start_url": "__CLASSIFIEDS__/index.php?page=search&sCategory=21",
+      "evaluation": {
+        "eval_types": [
+          "string_match"
+        ],
+        "reference_answers": {
+          "must_include": [
+            "haruto_abdullah497@example.com"
+          ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": ""
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@bcce9278154b3e5e12077318b8acac68",
+      "frameId": "frame@f7b3facc9abeb44627fc46182c51a076",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=67527",
+      "snapshotName": "after@call@084bcb3f1f482b56ee9e4deba3821e74",
+      "timestamp": 12509.421,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_15.jpg",
+    "archive_sha256": "bffc47a70595a93232783dfdb04f0a3759de756938ce2a0c4c677455dc0520a8",
+    "source_file_id": "1z11-3I7kjH1li2rUb2YENbmlF9lff6wN",
+    "frame_resource": "page@bcce9278154b3e5e12077318b8acac68-1704258560.188761.jpeg",
+    "frame_page_id": "page@bcce9278154b3e5e12077318b8acac68",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_15__page0.jpg",
+    "frame_timestamp": 15881.172,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_151",
+    "source_instance_id": "vwa_classifieds_151",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "Books ONE DOLLAR page visibly shows pink sticky notes; target URL is item 22560.",
+    "frame_sha256": "069e52fa886efa7f7b428c3867560cad1ccb729560b8a1e39d88c8b934d9a92e",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "Navigate to the item on this page whose image has pink sticky notes.",
+      "start_url": "__CLASSIFIEDS__/index.php?page=search&sCategory=9&iPage=2&sShowAs=gallery",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__CLASSIFIEDS__/index.php?page=item&id=22560",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_151.jpg",
+    "archive_sha256": "3e6ad5e5235fee89f464675e352ef083c821d3cbcba4b6b2f0eba00930ca3e84",
+    "source_file_id": "1K8SRLPVK39j8XTJEbCR2LzZZABhoxw8l",
+    "frame_resource": "page@325419abfb92040aecf5414a127a21d2-1704257680.677631.jpeg",
+    "frame_page_id": "page@325419abfb92040aecf5414a127a21d2",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_151__page0.jpg",
+    "frame_timestamp": 13929.414,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_162",
+    "source_instance_id": "vwa_classifieds_162",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "Court-Side Glides package and tennis ball are visible through the recorder highlight; target URL agrees. Overlay remains a presentation limitation.",
+    "frame_sha256": "f3cc0ef9d7cebee99ea0c328f9ba0c7e9d3e31aab83a89898f2ff4e8dc239a91",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "Explore the \"Beauty + Health\" category, and find the most recent item that shows a tennis ball.",
+      "start_url": "__CLASSIFIEDS__/",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__CLASSIFIEDS__/index.php?page=item&id=61809",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_162.jpg",
+    "archive_sha256": "8c6446bb93f7c175043b6530f531573661a322d2e866962e1407622f9985c239",
+    "source_file_id": "1nvkPOohlbqKEVbxeyxAHPK5vTU_GZgUV",
+    "frame_resource": "page@a2037b3b83ee6b97a37d65f3236a9847-1704257708.420868.jpeg",
+    "frame_page_id": "page@a2037b3b83ee6b97a37d65f3236a9847",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_162__page0.jpg",
+    "frame_timestamp": 21497.603,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_163",
+    "source_instance_id": "vwa_classifieds_163",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Amazon screenshot within the listing visibly shows $40.92, matching the task-specific answer; reference supports the price lookup.",
+    "completion_evidence": "Amazon screenshot within the listing visibly shows $40.92, matching the task-specific answer; reference supports the price lookup.",
+    "frame_sha256": "3a9cd2678d0e91d783b002e7e37bc6059cc0dadc1fbafe598658a05933ceec64",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "For the item on this page with the Amazon webpage in its image, tell me the price in dollars displayed on the Amazon site.",
+      "start_url": "__CLASSIFIEDS__/index.php?page=search&sCategory=18",
+      "evaluation": {
+        "eval_types": [
+          "string_match"
+        ],
+        "reference_answers": {
+          "must_include": [
+            "40.92"
+          ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": ""
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@ff0870634ff39497505edb0f3b95750f",
+      "frameId": "frame@ed7c6fc7bf7d34fcd17941d6e8ac85b4",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=52143",
+      "snapshotName": "after@call@74db6b7bd964ba5bf6981b5e10361b16",
+      "timestamp": 8970.351,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_163.jpg",
+    "archive_sha256": "7ff3682b3944b0a60cfa8153ed90b598b7c96807ae214e9ac15d5b8687e18d03",
+    "source_file_id": "1DlEfljEzfhmKhfpRQ10nQx_HKq5oeoMD",
+    "frame_resource": "page@ff0870634ff39497505edb0f3b95750f-1704258751.949095.jpeg",
+    "frame_page_id": "page@ff0870634ff39497505edb0f3b95750f",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_163__page0.jpg",
+    "frame_timestamp": 21333.662,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_169",
+    "source_instance_id": "vwa_classifieds_169",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "Listing shows black phones, title Multiple cell phones AND some unknown remotes, and $10 price; exact benchmark target reached.",
+    "frame_sha256": "b9d4ec917b94f34605e85e12e418af0e4c0c9be0a390c1ae5d18b233d3243525",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "Navigate to the cheapest listing in the \"Cell phones\" category with a black phone that costs more than $1.",
+      "start_url": "__CLASSIFIEDS__",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__CLASSIFIEDS__/index.php?page=item&id=50277",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_169.jpg",
+    "archive_sha256": "4288b20a148eb1a5af8467fe4104c3804bc2da3416a6d7b95288524b4e7edc9b",
+    "source_file_id": "16wPwLMBU9NfV2Th2DRaMErszqTUK1AgE",
+    "frame_resource": "page@eb6c4c26775bd6cb41dd17197c2906cb-1704257794.30127.jpeg",
+    "frame_page_id": "page@eb6c4c26775bd6cb41dd17197c2906cb",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_169__page0.jpg",
+    "frame_timestamp": 81714.654,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_170",
+    "source_instance_id": "vwa_classifieds_170",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "recovered_recorded_frame",
+    "historical_pool": true,
+    "identity_evidence": "Samsung Star Wars phone listing shows Kylo Ren packaging, matching the inspected task image, with $1300 price and exact target URL 36313.",
+    "completion_evidence": "Samsung Star Wars phone listing shows Kylo Ren packaging, matching the inspected task image, with $1300 price and exact target URL 36313.",
+    "frame_sha256": "e2252b05afabcfa38df06cdc39de248da5c1e30c4b96e9f071ad195ca3aed089",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "recorded_page_context": {
+      "pageId": "page@f4c0c7138068241107345b4063a781f8",
+      "frameId": "frame@8ea916be80b3c94848ddd1b2c4d0abf2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=36313",
+      "snapshotName": "after@call@54a55a46065c2564aebe02312444a098",
+      "timestamp": 28428.398,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "selection_rationale": "Earlier unmodified recorded frame on the accepted target page, after arrival and before scrolling to less informative content. This curated-frame rule differs from historical global-last-frame extraction.",
+    "validation_scope": "Benchmark-target correspondence and visible content; viewport completeness is not guaranteed.",
+    "task_definition": {
+      "task": "Navigate to the most expensive item in the \"Cell phones\" category which includes in its design the character in this image.",
+      "start_url": "__CLASSIFIEDS__",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__CLASSIFIEDS__/index.php?page=item&id=36313",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_170.jpg",
+    "archive_sha256": "a4240133a900f5daae1fd3d114128fb3b1169ae4ca35860db21c7cda2b495623",
+    "source_file_id": "1VxKUjpSUSzCyqFfulLYn_IMPrFOKDgzm",
+    "frame_resource": "page@f4c0c7138068241107345b4063a781f8-1704257827.872513.jpeg",
+    "frame_page_id": "page@f4c0c7138068241107345b4063a781f8",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_170__candidate135.jpg",
+    "frame_timestamp": 28808.264,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_186",
+    "source_instance_id": "vwa_classifieds_186",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Yellow car on the THUNDERBIRD book cover is visible, with Books listing and date; task-specific color agrees with published answer.",
+    "completion_evidence": "Yellow car on the THUNDERBIRD book cover is visible, with Books listing and date; task-specific color agrees with published answer.",
+    "frame_sha256": "bee39a06875b9b1f5ac6740992a749098f5bfeb53406d9db80c0588e7a65bde2",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "For the most recently listed item in the \"Books\" category of a single book with a car on the cover, tell me the color of the car.",
+      "start_url": "__CLASSIFIEDS__",
+      "evaluation": {
+        "eval_types": [
+          "string_match"
+        ],
+        "reference_answers": {
+          "must_include": [
+            "yellow"
+          ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": ""
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@def2e06cdf5b758019aeb08cd22589e2",
+      "frameId": "frame@2f844745e1b6cd0c74bbcf60c9a1b4f7",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=9146",
+      "snapshotName": "after@call@f9278e98f612ce2c1fc01f57000f9d18",
+      "timestamp": 73790.929,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_186.jpg",
+    "archive_sha256": "a17f249dc0fbfd8793201489dfa177e3e99af60be372c9098f6162c5dbb766aa",
+    "source_file_id": "1xOS1rZuQa0b7710nee-BOztZ5edv6ODR",
+    "frame_resource": "page@def2e06cdf5b758019aeb08cd22589e2-1704177339.666079.jpeg",
+    "frame_page_id": "page@def2e06cdf5b758019aeb08cd22589e2",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_186__page0.jpg",
+    "frame_timestamp": 80840.839,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_202",
+    "source_instance_id": "vwa_classifieds_202",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "PS2 Happy Feet listing visibly shows a penguin, $2 price and West Virginia location; exact target URL reached.",
+    "frame_sha256": "9662a7c4905a89f13c8b2c02ad62f39c2d88341579fa37cb682028a1428f56a1",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "Show me the cheapest penguin-themed item in West Virginia.",
+      "start_url": "__CLASSIFIEDS__",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__CLASSIFIEDS__/index.php?page=item&id=6247",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_202.jpg",
+    "archive_sha256": "fab2cfb6577a0fd51d2bbb23fcd878024d25ede370d2df0e833a1a410c5f5d46",
+    "source_file_id": "1yyTliJxZFXhdubM4mpNqKBAbSQIQazG3",
+    "frame_resource": "page@849eb4bb97d03f1d48ca461a190af9fe-1704176259.739657.jpeg",
+    "frame_page_id": "page@849eb4bb97d03f1d48ca461a190af9fe",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_202__page0.jpg",
+    "frame_timestamp": 67899.976,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_21",
+    "source_instance_id": "vwa_classifieds_21",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "recovered_recorded_frame",
+    "historical_pool": true,
+    "identity_evidence": "Dark Zora B the Bus is visible with listing title and exact target URL 33164.",
+    "completion_evidence": "Dark Zora B the Bus is visible with listing title and exact target URL 33164.",
+    "frame_sha256": "2fc9c74c7ec19ab362b55786640951d5ea7d6ff392212b981cff1c7ccc9288f9",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "recorded_page_context": {
+      "pageId": "page@e30211008d0052c989d70a8774c12162",
+      "frameId": "frame@1ee22b2106b899760f1622aebedfcd19",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=33164",
+      "snapshotName": "after@call@789d47b8656a7c030d1826b4a3c2a1cf",
+      "timestamp": 20729.551,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "selection_rationale": "Earlier unmodified recorded frame on the accepted target page, after arrival and before scrolling to less informative content. This curated-frame rule differs from historical global-last-frame extraction.",
+    "validation_scope": "Benchmark-target correspondence and visible content; viewport completeness is not guaranteed.",
+    "task_definition": {
+      "task": "Show me the newest \"RVs + campers\" listing that is in a dark color.",
+      "start_url": "__CLASSIFIEDS__",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__CLASSIFIEDS__/index.php?page=item&id=33164",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_21.jpg",
+    "archive_sha256": "e38a61f8d1a3ab63f869f113e51fd76b38c9510d2959954b9bc17d9489f0c3d7",
+    "source_file_id": "183HygUDa6WTwBKqhXeUN2w8EKmaV0z3N",
+    "frame_resource": "page@e30211008d0052c989d70a8774c12162-1704257099.607329.jpeg",
+    "frame_page_id": "page@e30211008d0052c989d70a8774c12162",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_21__candidate124.jpg",
+    "frame_timestamp": 21420.148,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_22",
+    "source_instance_id": "vwa_classifieds_22",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Red Porsche and its description stating 103K miles are visible, matching the task-specific answer.",
+    "completion_evidence": "Red Porsche and its description stating 103K miles are visible, matching the task-specific answer.",
+    "frame_sha256": "7daaba6f1c4b0b604789920e067925bcd4edf8819bb22a83e28cabc65e5298a3",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "How many miles does the red car in the second row have?",
+      "start_url": "__CLASSIFIEDS__/index.php?page=search&sCategory=10&sShowAs=gallery",
+      "evaluation": {
+        "eval_types": [
+          "string_match"
+        ],
+        "reference_answers": {
+          "must_include": [
+            "103K |OR| 103,000 |OR| 103000"
+          ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": ""
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@e13c3921be60df46238302201e6af699",
+      "frameId": "frame@c291aabf31ab0c0e886f75da5f03c848",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=66091",
+      "snapshotName": "after@call@11c92c340993245c1e335de0feca277e",
+      "timestamp": 3784.43,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_22.jpg",
+    "archive_sha256": "d5bc15c7fdff5fb7b7fdef3e639bf3eaf9ffc78fa24a971463705c4024c70680",
+    "source_file_id": "1bneMGthUm37LShjo1NaqZ6rDYg5AaYK_",
+    "frame_resource": "page@e13c3921be60df46238302201e6af699-1704258583.64444.jpeg",
+    "frame_page_id": "page@e13c3921be60df46238302201e6af699",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_22__page0.jpg",
+    "frame_timestamp": 17001.953,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_31",
+    "source_instance_id": "vwa_classifieds_31",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Posted counter-offer by Blake Sullivan visibly says can I get this for $250? on the benchmark target listing.",
+    "completion_evidence": "Posted counter-offer by Blake Sullivan visibly says can I get this for $250? on the benchmark target listing.",
+    "frame_sha256": "6890bd9f145ab9a2b01aafccb3ccb8541936d976e7f761ce9a984f7281891561",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Find the latest listing of a white Google Pixel phone and post a comment offering $10 less than their asking price.",
+      "start_url": "__CLASSIFIEDS__",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__CLASSIFIEDS__/index.php?page=item&id=47273",
+            "locator": "func:get_query_text(__page__, '.comments_list')",
+            "required_contents": {
+              "must_include": [
+                "$250"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@e69b31e58dd275c3c939050acb3b7f74",
+      "frameId": "frame@54b95f813ac9ccc942079bf70f382c33",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=47273",
+      "snapshotName": "after@call@3dfd57e887aa51467ba4705913fb637c",
+      "timestamp": 40034.216,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_31.jpg",
+    "archive_sha256": "2f3b5390d59eb6aa86daba27ba4980e442321457b615ca9fd188e5f1afe6a7bf",
+    "source_file_id": "1vP_kb-Ju9CWa0lZ0XQ8Z1Yw9zs4gaK2a",
+    "frame_resource": "page@e69b31e58dd275c3c939050acb3b7f74-1704257150.82088.jpeg",
+    "frame_page_id": "page@e69b31e58dd275c3c939050acb3b7f74",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_31__page0.jpg",
+    "frame_timestamp": 41934.824,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_46",
+    "source_instance_id": "vwa_classifieds_46",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "Yamaha jet ski in final frame matches the supplied task photograph; exact benchmark target URL reached. Recorder tint remains.",
+    "frame_sha256": "3dc78a368811d69e50708c01258688d22d2140d161aa83d4d5e922d4a9054815",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "I recall seeing this exact item on the site, help me find the most recent post of it.",
+      "start_url": "__CLASSIFIEDS__",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__CLASSIFIEDS__/index.php?page=item&id=66067",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_46.jpg",
+    "archive_sha256": "81108a1d33ff2ac907db0b61f68897eb2bf88e25596e7c29a8de1ceb9398a434",
+    "source_file_id": "1-KdYfg-_hNZfYy41tGh9B_szEMfZgh0G",
+    "frame_resource": "page@cfed74e29e55a38fa61162bafaeea7bc-1704257195.647812.jpeg",
+    "frame_page_id": "page@cfed74e29e55a38fa61162bafaeea7bc",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_46__page0.jpg",
+    "frame_timestamp": 35023.106,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_47",
+    "source_instance_id": "vwa_classifieds_47",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "1977 57-foot Pacemaker yacht image matches the task photograph, with $300000 price and target URL.",
+    "frame_sha256": "43519215539d34d5d1cf3831923e911d275627a26b2f0a35b0c5eac0873afb85",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "I recall seeing this exact item on the site, help me find the most recent post of it. I recall that it was very expensive.",
+      "start_url": "__CLASSIFIEDS__",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__CLASSIFIEDS__/index.php?page=item&id=7434",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_47.jpg",
+    "archive_sha256": "a9158bf95a41fa0979151bad233ac70dc79c07eedc19da90ee93ba7d27169312",
+    "source_file_id": "1-vmiXBCM7ohTxTCOcptGzTA_xSwevPKt",
+    "frame_resource": "page@6454aef348b2c842873c4373ad4e2c30-1704257243.399176.jpeg",
+    "frame_page_id": "page@6454aef348b2c842873c4373ad4e2c30",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_47__page0.jpg",
+    "frame_timestamp": 42719.117,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_55",
+    "source_instance_id": "vwa_classifieds_55",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "Wright Brothers character mug is visible and matches the aircraft-inventor request and supplied historical aircraft image; exact target URL reached.",
+    "frame_sha256": "947ed6d2960cecfc8747fa33f12dd19fb2786a4b793801c62d3c956732c7c4ba",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "Find the most recently listed item in the \"Collectibles\" category that depicts the inventors of this.",
+      "start_url": "__CLASSIFIEDS__",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__CLASSIFIEDS__/index.php?page=item&id=78765",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_55.jpg",
+    "archive_sha256": "ce867d5cef7dbfd7d0d06a442e70992a8e73bc90965dc897edd994f8f5d3f706",
+    "source_file_id": "1h98I7XIJ36eJfrnibVctN9JLGTzeKCuE",
+    "frame_resource": "page@3953109975bbd6df6b7b81d0060d8339-1704174604.712779.jpeg",
+    "frame_page_id": "page@3953109975bbd6df6b7b81d0060d8339",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_55__page0.jpg",
+    "frame_timestamp": 120380.786,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_78",
+    "source_instance_id": "vwa_classifieds_78",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "Pittsburgh Magazines title and covers are visible; supplied skyline photograph is consistent with Pittsburgh and target URL agrees.",
+    "frame_sha256": "175310a5ea11ee744dba70907dc42f0ef8fdaacc5a4eaba98096ad52df727ded",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "Find me an item on this page that references the city in the image.",
+      "start_url": "__CLASSIFIEDS__/index.php?page=search&sCategory=9&sOrder=dt_pub_date&iOrderType=desc&iPage=4",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__CLASSIFIEDS__/index.php?page=item&id=14342",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_78.jpg",
+    "archive_sha256": "ee8fc499deb2bb0d95fbb748ee7eff977e6ce52690d53901b3019bc8a69c33cb",
+    "source_file_id": "19NV5RR9o-510hng_FA1YlcAjm5hrEnxF",
+    "frame_resource": "page@6053a7788d72c6702829612bd60dd133-1704175375.6611.jpeg",
+    "frame_page_id": "page@6053a7788d72c6702829612bd60dd133",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_78__page0.jpg",
+    "frame_timestamp": 32977.412,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_8",
+    "source_instance_id": "vwa_classifieds_8",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Published Nintendo Switch photograph was visually compared and matches new listing image; $270 price, Blake Sullivan ownership and Edit item are visible.",
+    "completion_evidence": "Published Nintendo Switch photograph was visually compared and matches new listing image; $270 price, Blake Sullivan ownership and Edit item are visible.",
+    "frame_sha256": "c7bafb2b3c4c393100717d28d683b41431bf65d0d68d78fd62f8ce5fea95c591",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Help me make a post selling this item and navigate to it. Price it at $10 cheaper than the most similar item on the site between $250-300 (of the same color). If there are multiple similar items, use the most recent posting.",
+      "start_url": "__CLASSIFIEDS__",
+      "evaluation": {
+        "eval_types": [
+          "program_html",
+          "page_image_query"
+        ],
+        "reference_answers": null,
+        "program_html": [
+          {
+            "url": "last",
+            "locator": "func:get_query_text(__page__, '.price')",
+            "required_contents": {
+              "must_include": [
+                "270.00"
+              ]
+            }
+          }
+        ],
+        "page_image_query": [
+          {
+            "eval_image_url": "last",
+            "eval_image_class": ".item-photos",
+            "eval_fuzzy_image_match": "https://images.pexels.com/photos/6869207/pexels-photo-6869207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@3250420f6b987c917e28fdaab9492a52",
+      "frameId": "frame@3628359c1b93579d023d7b0fdd81264f",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=84155",
+      "snapshotName": "after@call@d51354a27f7481d9eb49de1dba774d83",
+      "timestamp": 226632.419,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_8.jpg",
+    "archive_sha256": "a2cc54e0420e79d09e90f1215ce3fcdd8e23ed0d62b1cb93122955b247f7319f",
+    "source_file_id": "1EJfazOi-ctFxE4NewllwO7B_gtpWxtAS",
+    "frame_resource": "page@3250420f6b987c917e28fdaab9492a52-1704257020.03947.jpeg",
+    "frame_page_id": "page@3250420f6b987c917e28fdaab9492a52",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_8__page4.jpg",
+    "frame_timestamp": 228292.804,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_83",
+    "source_instance_id": "vwa_classifieds_83",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Rabbit photograph and publisher Sarah Nowak are visible; exact task-specific surname and target listing corroborate identity.",
+    "completion_evidence": "Rabbit photograph and publisher Sarah Nowak are visible; exact task-specific surname and target listing corroborate identity.",
+    "frame_sha256": "ad0ffc19774d6cfa2cf138f1f70a5673a331c2006a2eaf64aa0d780212740579",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Tell me the last name of the lister who posted the item on the page that does not include jewelry in its image?",
+      "start_url": "__CLASSIFIEDS__/index.php?page=search&sCategory=19&sOrder=i_price&iOrderType=desc&iPage=2",
+      "evaluation": {
+        "eval_types": [
+          "string_match"
+        ],
+        "reference_answers": {
+          "must_include": [
+            "Nowak"
+          ]
+        },
+        "reference_url": "__CLASSIFIEDS__/index.php?page=item&id=6407",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": ""
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@14e996ca80b8c1f63b5f093699fb78a4",
+      "frameId": "frame@3976bd80e879a274ed3efa147d2f78cb",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980/index.php?page=item&id=6407",
+      "snapshotName": "after@call@c12cd3d1fc1a55baa9fe03138362619e",
+      "timestamp": 27932.954,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_83.jpg",
+    "archive_sha256": "25bc7dedfe5d450848ffe16d203a8394e49fed172b860469245124b8e76a2ff6",
+    "source_file_id": "1faULDNWo43_hdz6mi2_MztcziBWRwLlL",
+    "frame_resource": "page@14e996ca80b8c1f63b5f093699fb78a4-1704177947.649943.jpeg",
+    "frame_page_id": "page@14e996ca80b8c1f63b5f093699fb78a4",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_83__page0.jpg",
+    "frame_timestamp": 41330.152,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_classifieds_87",
+    "source_instance_id": "vwa_classifieds_87",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "Golf cart is visible and is the benchmark target for the similar-item request; supplied golf-cart image inspected.",
+    "frame_sha256": "68389ecfbe72ccd55307ac2665175bf01608ba5411e114da5bac8a9ffd0fde5b",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "5d7322cc3bef21c755abc966624530d15121ad73403f64177d2f06014dbfb14f",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "Find the most similar item on this page as shown in this image.",
+      "start_url": "__CLASSIFIEDS__/index.php?page=search&sCategory=15&sOrder=i_price&iOrderType=desc&iPage=5",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__CLASSIFIEDS__/index.php?page=item&id=34463",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_classifieds_87.jpg",
+    "archive_sha256": "94b799edb58abbe4bfbed281be4d92bb29c73ab969280850b0e990e4ae44a13e",
+    "source_file_id": "17PAzotwdPDUYZ_T9R5aR19Xo65IU5vwS",
+    "frame_resource": "page@42313fd8f879cc7a20d5529f0c37db5e-1704175590.029979.jpeg",
+    "frame_page_id": "page@42313fd8f879cc7a20d5529f0c37db5e",
+    "frame_source_path": "reference_validation/frames/vwa_classifieds_87__page0.jpg",
+    "frame_timestamp": 36876.331,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_102",
+    "source_instance_id": "vwa_shopping_102",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Supplied cat image shows a beanie; wishlist visibly contains Fashionable Rainbow Knitted Beanie Hats, satisfying published beanie criterion.",
+    "completion_evidence": "Supplied cat image shows a beanie; wishlist visibly contains Fashionable Rainbow Knitted Beanie Hats, satisfying published beanie criterion.",
+    "frame_sha256": "e6be9c36deede981665f44b9ad5c4a39f84d7f8efaf7ba95311020276b966a09",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "I need one of what its wearing for the winter, can you add one to my wishlist?",
+      "start_url": "__SHOPPING__/",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/wishlist/?limit=50",
+            "locator": "document.querySelector('.products-grid.wishlist').textContent",
+            "required_contents": {
+              "must_include": [
+                "beanie"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@b8d81f595d7d4f7ae799a6743efc7de0",
+      "frameId": "frame@201b10693a633d251f00a5e8af46b810",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@cb5bd0f07960a80a660e6443328ba368",
+      "timestamp": 38265.515,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_102.jpg",
+    "archive_sha256": "67b269423a42cc935f314c40f21a016334b36fd9c3985c95d91d29c5ce109a01",
+    "source_file_id": "1AZgLRl0ceCTdR_KnQZ07T_oydWzPabV-",
+    "frame_resource": "page@b8d81f595d7d4f7ae799a6743efc7de0-1703275989.151491.jpeg",
+    "frame_page_id": "page@b8d81f595d7d4f7ae799a6743efc7de0",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_102__page2.jpg",
+    "frame_timestamp": 64603.79,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_11",
+    "source_instance_id": "vwa_shopping_11",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "recovered_recorded_frame",
+    "historical_pool": true,
+    "identity_evidence": "Recorded target product page shows the Skinny Cow round-cookie sandwich in its manufacturer illustration; exact accepted product URL corroborates identity. This is an illustration lower on the product page, not the primary product photo.",
+    "completion_evidence": "Recorded target product page shows the Skinny Cow round-cookie sandwich in its manufacturer illustration; exact accepted product URL corroborates identity. This is an illustration lower on the product page, not the primary product photo.",
+    "frame_sha256": "6e9aedc1bf015bc52bedb8f98c6289d2c038e08efb71eab48ad9150c107539bb",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "recorded_page_context": {
+      "pageId": "page@49981bd22db8597cb5e37260eb9eeaa4",
+      "frameId": "frame@0d33924a258d832a6a72ae9ab1ca8cac",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/skinny-cow-gone-wild-low-fat-ice-cream-sandwiches-box-vanilla-24-fl-oz-pack-of-6.html",
+      "snapshotName": "after@call@f0f364355d2692eca0146af899767681",
+      "timestamp": 111554.644,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "selection_rationale": "Earlier unmodified recorded frame on the accepted target page, after arrival and before scrolling to less informative content. This curated-frame rule differs from historical global-last-frame extraction.",
+    "validation_scope": "Benchmark-target correspondence and visible content; viewport completeness is not guaranteed.",
+    "task_definition": {
+      "task": "Show me the first item with round cookies in the \"ice cream sandwiches\" search results by descending relevance.",
+      "start_url": "__SHOPPING__/",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__SHOPPING__/skinny-cow-gone-wild-low-fat-ice-cream-sandwiches-box-vanilla-24-fl-oz-pack-of-6.html",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_11.jpg",
+    "archive_sha256": "7aa8291af76c60d134080c837dd0a40819b01031d0fabfe157232fc7daead079",
+    "source_file_id": "1RAwxZH-T0WsOxzGtTY2-ZM1y7GANX5b8",
+    "frame_resource": "page@49981bd22db8597cb5e37260eb9eeaa4-1703274754.693568.jpeg",
+    "frame_page_id": "page@49981bd22db8597cb5e37260eb9eeaa4",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_11__candidate355.jpg",
+    "frame_timestamp": 113496.28,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_14",
+    "source_instance_id": "vwa_shopping_14",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "All four products in the last row and their prices are visible: $7.99, $14.98, $4.95 and $43.00, supporting the required range.",
+    "completion_evidence": "All four products in the last row and their prices are visible: $7.99, $14.98, $4.95 and $43.00, supporting the required range.",
+    "frame_sha256": "69c96b8cf4627dbe00423694761ee8bd46f95d71b01876a5bccd3ea1b46d801a",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "What is the price range for products in the last row of this page?",
+      "start_url": "__SHOPPING__/video-games/nintendo-switch.html",
+      "evaluation": {
+        "eval_types": [
+          "string_match"
+        ],
+        "reference_answers": {
+          "must_include": [
+            "4.95",
+            "43.00"
+          ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": "$4.95 - $43.00"
+      }
+    },
+    "recorded_page_context": null,
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_14.jpg",
+    "archive_sha256": "50f897026c82bfe1f25be52fd1019a584f7782cf723cf1c75d726a67a20c24cf",
+    "source_file_id": "12VGDxnYjivoehSppFCZkk6nBD4fILWq7",
+    "frame_resource": "page@4e1c81012a5165ef4c7bea90f0fe2761-1703272503.238801.jpeg",
+    "frame_page_id": "page@4e1c81012a5165ef4c7bea90f0fe2761",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_14__page0.jpg",
+    "frame_timestamp": 27468.247,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_154",
+    "source_instance_id": "vwa_shopping_154",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "SONY H900N headphone title and headphone image visible; brand and product type match both published task evaluation constraints. Input brand is corroborated through published evaluation, not a fresh input-image comparison.",
+    "completion_evidence": "SONY H900N headphone title and headphone image visible; brand and product type match both published task evaluation constraints. Input brand is corroborated through published evaluation, not a fresh input-image comparison.",
+    "frame_sha256": "d36a3ccd6715163c4ce1508a14890b78746c581241f36ea49ea083048d3c1404",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Find me a set of headphones of the same brand as the product in this picture.",
+      "start_url": "__SHOPPING__",
+      "evaluation": {
+        "eval_types": [
+          "program_html",
+          "page_image_query"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "last",
+            "locator": "func:shopping_get_product_attributes(__page__, 'manufacturer |OR| brand name')",
+            "required_contents": {
+              "must_include": [
+                "Sony"
+              ]
+            }
+          }
+        ],
+        "page_image_query": [
+          {
+            "eval_image_url": "last",
+            "eval_image_class": ".fotorama__stage__frame",
+            "eval_vqa": [
+              {
+                "question": "Is this a headphone? (yes/no)",
+                "answer": "yes"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@fa6e020b66ab0e855fb28b241baffe67",
+      "frameId": "frame@c3419b28b1cf3e33fbdd8f199d6083d2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/sony-h900n-hi-res-noise-cancelling-wireless-headphone-grayish-black-renewed.html",
+      "snapshotName": "after@call@f6cac96bcc3576642d12289d5dbfde34",
+      "timestamp": 46964.768,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_154.jpg",
+    "archive_sha256": "594613f7cf85dd682973f73dc3cba73ae979288658902fcacb70dde3173ba620",
+    "source_file_id": "1muJg-xc6fuI9Pylg3DhlIh9F_PSONC5s",
+    "frame_resource": "page@fa6e020b66ab0e855fb28b241baffe67-1703276597.011462.jpeg",
+    "frame_page_id": "page@fa6e020b66ab0e855fb28b241baffe67",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_154__page0.jpg",
+    "frame_timestamp": 52773.318,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_156",
+    "source_instance_id": "vwa_shopping_156",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "White HP Deskjet F380 page visibly shows 12 reviews and a rating above four stars; task image is an HP cartridge; exact target URL reached.",
+    "frame_sha256": "4597d427fa7718f997b028a5c2bafb0db8ce92a47b1d4819ebbd41733d1705be",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "Find me a printer of the same brand as the product in this picture. It needs to be white and have at least 11 reviews with an average rating greater than 4.",
+      "start_url": "__SHOPPING__",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__SHOPPING__/hp-deskjet-f380-all-in-one-printer-scanner-copier.html",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_156.jpg",
+    "archive_sha256": "83f25c49da85a40732eb93f1370a6398421eb888299fadf418f67d599e46f1ce",
+    "source_file_id": "1fTPNr8bglihZxCrMU1sWPbkjCmzjaWi0",
+    "frame_resource": "page@0c41fc7ca989cff06f5786292b045e19-1703276652.347104.jpeg",
+    "frame_page_id": "page@0c41fc7ca989cff06f5786292b045e19",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_156__page0.jpg",
+    "frame_timestamp": 46054.676,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_162",
+    "source_instance_id": "vwa_shopping_162",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Supplied picture shows phone protection; full wishlist success banner names exact KSELF ring-kickstand case required by benchmark.",
+    "completion_evidence": "Supplied picture shows phone protection; full wishlist success banner names exact KSELF ring-kickstand case required by benchmark.",
+    "frame_sha256": "76ccb90bd92a9198050dd348bf6467fa9194c4305fb7dbb3188a676a402217da",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Add something like what is used to protect the phone in the picture, but one with a ring kickstand, from this page to my wish list.",
+      "start_url": "__SHOPPING__/cell-phones-accessories/cases-holsters-sleeves/basic-cases.html?p=2",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/wishlist/?limit=50",
+            "locator": "document.querySelector('.products-grid.wishlist').textContent",
+            "required_contents": {
+              "must_include": [
+                "KSELF for iPhone 11 Case with [2 Pack] Tempered Glass Screen Protector, Hard PC Slim Cover with Ring Kickstand, Full Protective Shockproof Dual Layer Hybrid Bumper Case for iPhone 11 6.1 inch (Blue)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@eb2af137ba063ce6c552cf398edde0f5",
+      "frameId": "frame@9955a723dd5ecfac6b5872e0be35a235",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@e9574e347c3b512a1e0d80ffdf2db50b",
+      "timestamp": 27844.559,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_162.jpg",
+    "archive_sha256": "a6723a7a23b7b86cdd21b9387b8ee2d83e777de59817aec6d2e8fb81ed39f69e",
+    "source_file_id": "1z_7IsIf1Te8ZQ5D9i6-FoOZPurJq2YKq",
+    "frame_resource": "page@eb2af137ba063ce6c552cf398edde0f5-1703276689.914528.jpeg",
+    "frame_page_id": "page@eb2af137ba063ce6c552cf398edde0f5",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_162__page0.jpg",
+    "frame_timestamp": 28647.12,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_166",
+    "source_instance_id": "vwa_shopping_166",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Adidas basketball sneaker title and visibly red shoe jointly satisfy all published brand, sport and color constraints. Input-image semantics corroborated through published evaluation.",
+    "completion_evidence": "Adidas basketball sneaker title and visibly red shoe jointly satisfy all published brand, sport and color constraints. Input-image semantics corroborated through published evaluation.",
+    "frame_sha256": "8a26ddc5e9c060a9662de1be596d1c6688b2c459f25b24f96bc1295c242255ce",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Find me a shoe that is designed for the sport depicted in the first picture and has the same brand as products in the second picture. It needs to have the same color as the flower in the third picture.",
+      "start_url": "__SHOPPING__",
+      "evaluation": {
+        "eval_types": [
+          "program_html",
+          "page_image_query"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "last",
+            "locator": "func:shopping_get_product_attributes(__page__, 'manufacturer |OR| brand name')",
+            "required_contents": {
+              "must_include": [
+                "adidas"
+              ]
+            }
+          },
+          {
+            "url": "last",
+            "locator": "lambda:(() => { try { return document.querySelector('#maincontent > div.page-title-wrapper.product > h1 > span').textContent } catch (e) { return '' }})()",
+            "required_contents": {
+              "must_include": [
+                "Basketball",
+                "Sneaker |OR| Shoe"
+              ]
+            }
+          }
+        ],
+        "page_image_query": [
+          {
+            "eval_image_url": "last",
+            "eval_image_class": ".fotorama__stage__frame",
+            "eval_vqa": [
+              {
+                "question": "Is the shoe red? (yes/no)",
+                "answer": "yes"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@50feb842cdaa0eaa5a277762c9e28ec1",
+      "frameId": "frame@1679e2cef1d183d42f4de8f0840ef2b1",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/adidas-mens-sm-d-o-n-issue-2-team-basketball-sneakers-shoes-casual-red.html",
+      "snapshotName": "after@call@2dcb10c78c09c66ce6977546d1fedf63",
+      "timestamp": 73389.904,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_166.jpg",
+    "archive_sha256": "dce32b2e6e1ff48414bc8bb974ebbc005aaba2c9d3571634302535958e5af726",
+    "source_file_id": "1JPxekNpTq9YaWzKLFWGOCoQ5pA0u3f15",
+    "frame_resource": "page@50feb842cdaa0eaa5a277762c9e28ec1-1703276777.674955.jpeg",
+    "frame_page_id": "page@50feb842cdaa0eaa5a277762c9e28ec1",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_166__page0.jpg",
+    "frame_timestamp": 78813.069,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_173",
+    "source_instance_id": "vwa_shopping_173",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Visible banner confirms Jo Malone Grapefruit Cologne Spray 1 Ounce added; selected 1 Fl Oz option agrees with published item/size criteria. Input fruit corroborated through named benchmark target.",
+    "completion_evidence": "Visible banner confirms Jo Malone Grapefruit Cologne Spray 1 Ounce added; selected 1 Fl Oz option agrees with published item/size criteria. Input fruit corroborated through named benchmark target.",
+    "frame_sha256": "8d37d3092efe07f4aa970842e100967ddc65677f7f0d32054c1f902e8b17dee5",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "I really like this fruit. Can you find me a 1 fl oz fragrance that has the same smell and add it to my shopping cart?",
+      "start_url": "__SHOPPING__",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/checkout/cart/",
+            "locator": "lambda:(() => { try { return Array.from(document.querySelectorAll('.item-info')).find(el => el.textContent.includes('Jo Malone Grapefruit Cologne Spray for Women, 1 Ounce')).querySelector('td.col.item > div > dl > dd').textContent.trim() } catch (e) { return '' }})()",
+            "required_contents": {
+              "exact_match": "1 Fl Oz (Pack of 1)"
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@9648d02e0acc9469686694584423408f",
+      "frameId": "frame@80286a91170a8da750758069af709818",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/jo-malone-grapefruit-cologne-spray-for-women-1-ounce.html",
+      "snapshotName": "after@call@cc906a84d15d8db4272345fe94f03938",
+      "timestamp": 23653.961,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_173.jpg",
+    "archive_sha256": "d1ba7fa1fbc5b371621572262c9a0d27824e8c893b8259028aa7930578d1ab9b",
+    "source_file_id": "1yjL9ZB78ScPCLL_h30K9iT7EnjNXSzxz",
+    "frame_resource": "page@9648d02e0acc9469686694584423408f-1703277801.806862.jpeg",
+    "frame_page_id": "page@9648d02e0acc9469686694584423408f",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_173__page0.jpg",
+    "frame_timestamp": 29954.226,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_187",
+    "source_instance_id": "vwa_shopping_187",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Exact benchmark Asuwish iPhone X wallet-case title and full successful add-to-cart banner visible; cheapest-item correspondence relies on published target.",
+    "completion_evidence": "Exact benchmark Asuwish iPhone X wallet-case title and full successful add-to-cart banner visible; cheapest-item correspondence relies on published target.",
+    "frame_sha256": "cbf0e53d37c4a13d273f07cddfbc0068a239e2c2d7b0e82023947d3487eed5bd",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Add the least expensive opaque phone case that can hold an iPhone X to my shopping cart.",
+      "start_url": "__SHOPPING__/",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/checkout/cart",
+            "locator": "",
+            "required_contents": {
+              "must_include": [
+                "Asuwish Compatible with iPhone Xs X 10 10s Wallet Case Tempered Glass Screen Protector Leather Flip Cover Card Holder Phone Cases for iPhoneX iPhoneXs iPhone10 i PhoneX SX 10x 10xs X\u2019s Women Men Black"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@039db90f6aae8eb6eb48eaf2098418ae",
+      "frameId": "frame@4b80943e3c39953e9fd3fa98724e491d",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/asuwish-compatible-with-iphone-xs-x-10-10s-wallet-case-tempered-glass-screen-protector-leather-flip-cover-card-holder-phone-cases-for-iphonex-iphonexs-iphone10-i-phonex-sx-10x-10xs-x-s-women-men-black.html",
+      "snapshotName": "after@call@5ed113ded04338ffe2f509a0b527fb66",
+      "timestamp": 194461.493,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_187.jpg",
+    "archive_sha256": "2ec8bbfdb27e745c95fddb73ed0882833a7f9a9cca944b2cd0d0b6e29591fbdb",
+    "source_file_id": "1eFaMwwf1yQPb2oAVupaW4T94aAFSzoJn",
+    "frame_resource": "page@039db90f6aae8eb6eb48eaf2098418ae-1703278755.192599.jpeg",
+    "frame_page_id": "page@039db90f6aae8eb6eb48eaf2098418ae",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_187__page0.jpg",
+    "frame_timestamp": 200182.421,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_195",
+    "source_instance_id": "vwa_shopping_195",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Black shoes worn with black pants and $26.99 price visible, matching task-specific answer.",
+    "completion_evidence": "Black shoes worn with black pants and $26.99 price visible, matching task-specific answer.",
+    "frame_sha256": "a1149546cd6686e7982b0c029ec4af202b5b03e760ec08a174d587eb731c2667",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "How much is the shoe with black pants in the picture on this page?",
+      "start_url": "__SHOPPING__/sports-outdoors/fan-shop/footwear.html?p=5",
+      "evaluation": {
+        "eval_types": [
+          "string_match"
+        ],
+        "reference_answers": {
+          "must_include": [
+            "$26.99"
+          ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": "$26.99"
+      }
+    },
+    "recorded_page_context": null,
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_195.jpg",
+    "archive_sha256": "a6dab45b5535d3ebc8042ce9e2608d61c38e1dcdb200101cc4e3c364aa3f2842",
+    "source_file_id": "1SlJ8Z4Xkqc4d8_Yy715y998MfAWE82iB",
+    "frame_resource": "page@0ba4b8f59bc7154a6e9ae35e1dc3abd1-1703285677.662002.jpeg",
+    "frame_page_id": "page@0ba4b8f59bc7154a6e9ae35e1dc3abd1",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_195__page0.jpg",
+    "frame_timestamp": 16745.623,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_210",
+    "source_instance_id": "vwa_shopping_210",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Unicorn cereal box and text Fortified with 12 vitamins and minerals visible, matching task-specific answer.",
+    "completion_evidence": "Unicorn cereal box and text Fortified with 12 vitamins and minerals visible, matching task-specific answer.",
+    "frame_sha256": "8e54ce547a853562a28599bf7dda7d4dc151867c91e439d815c4cfe2468fff31",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "How many vitamins and minerals does the box with the unicorn have?",
+      "start_url": "__SHOPPING__/grocery-gourmet-food/breakfast-foods/cereals.html?p=9",
+      "evaluation": {
+        "eval_types": [
+          "string_match"
+        ],
+        "reference_answers": {
+          "must_include": [
+            "12"
+          ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": "12 vitamins and minerals"
+      }
+    },
+    "recorded_page_context": null,
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_210.jpg",
+    "archive_sha256": "275c5584a6f227bc96ae34c9a18f239eaed0ccb5cefec9d6ff89d3141bc716ae",
+    "source_file_id": "1Yt9-qla2wjlhvqfgf7AFXIbAo9geThCY",
+    "frame_resource": "page@6e5b32627f914ef2a8345568dc5dc085-1703218593.466387.jpeg",
+    "frame_page_id": "page@6e5b32627f914ef2a8345568dc5dc085",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_210__page0.jpg",
+    "frame_timestamp": 13223.261,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_212",
+    "source_instance_id": "vwa_shopping_212",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Full success banner names exact Red Roselle Seeds benchmark item; approximately four-star rating visible.",
+    "completion_evidence": "Full success banner names exact Red Roselle Seeds benchmark item; approximately four-star rating visible.",
+    "frame_sha256": "95c22501139ffb0f00af37df4dd7618bb1379754e7551431fd51cd3f7cc79bb2",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Can you add the red flower seeds with around 4 stars to my cart?",
+      "start_url": "__SHOPPING__/patio-lawn-garden/gardening-lawn-care.html?p=4",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/checkout/cart",
+            "locator": "",
+            "required_contents": {
+              "must_include": [
+                "Red Roselle Seeds (Hibiscus sabdariffa) 50+ Tropical Hibiscus Seeds Packed in FROZEN SEED CAPSULES for Growing Seeds Now or Saving Seeds for Years"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@fc5f06589a3d9a92f84e2cbd66b6aae8",
+      "frameId": "frame@e07a945f33d296d9ba2dce112d5db046",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/red-roselle-seeds-hibiscus-sabdariffa-50-tropical-hibiscus-seeds-packed-in-frozen-seed-capsules-for-growing-seeds-now-or-saving-seeds-for-years.html",
+      "snapshotName": "after@call@83ed35a4bf46e0eec65c71933f6c3713",
+      "timestamp": 48592.964,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_212.jpg",
+    "archive_sha256": "d3b7054eddbafdd8a467e04502c286721ff3881c9023ee1646d7da60a7446204",
+    "source_file_id": "1zca6MkoTIuCMy1v6yX2Qu2Jg8YNacz7Y",
+    "frame_resource": "page@fc5f06589a3d9a92f84e2cbd66b6aae8-1703278934.732718.jpeg",
+    "frame_page_id": "page@fc5f06589a3d9a92f84e2cbd66b6aae8",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_212__page0.jpg",
+    "frame_timestamp": 51341.472,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_216",
+    "source_instance_id": "vwa_shopping_216",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Wishlist shows exact JJ CARE sterilizer product and microwave-like image with Remove item control.",
+    "completion_evidence": "Wishlist shows exact JJ CARE sterilizer product and microwave-like image with Remove item control.",
+    "frame_sha256": "53b54b7385aafe21a2359da90cf8a3e0a165efde06aa4a89f184dd763df1038c",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Can you add the one that looks like a microwave to my wishlist?",
+      "start_url": "__SHOPPING__/beauty-personal-care/foot-hand-nail-care/nail-art-polish.html?p=5",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/wishlist/?limit=50",
+            "locator": "document.querySelector('.products-grid.wishlist').textContent",
+            "required_contents": {
+              "must_include": [
+                "JJ CARE Sterilizer for Salon 15L Capacity, 2-in1 Sanitizer Box and Dry Heat Sterilizer Cabinet Tabletop with Stainless Tray, Sterilizer Cabinet Sanitizing Machine"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@e24e29c5120a6a3d5c2448e9dd5dd016",
+      "frameId": "frame@49c7aacf55ac960fee78d0e60af62cf9",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@7770a75b2c49316bcefc46f5bd76b3c4",
+      "timestamp": 33120.023,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_216.jpg",
+    "archive_sha256": "14ccf5351415e7df0a4b3966351fd499da73f936625c6c77f753749bbda5ddcc",
+    "source_file_id": "12LTUAi3g1yzXRF8Ge_tAHULjqUsAeotJ",
+    "frame_resource": "page@e24e29c5120a6a3d5c2448e9dd5dd016-1703278996.120158.jpeg",
+    "frame_page_id": "page@e24e29c5120a6a3d5c2448e9dd5dd016",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_216__page0.jpg",
+    "frame_timestamp": 37088.923,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_219",
+    "source_instance_id": "vwa_shopping_219",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Colorful shirt visibly includes toucan and parrots, consistent with both required bird types. Fine details are small at native resolution.",
+    "completion_evidence": "Colorful shirt visibly includes toucan and parrots, consistent with both required bird types. Fine details are small at native resolution.",
+    "frame_sha256": "bad3fddfce4bc2256b2116ecc23b3724d3edd1071b16cd5fb9d2fcad694ff057",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "What are the two types of birds on the front of that colorful shirt?",
+      "start_url": "__SHOPPING__/clothing-shoes-jewelry/men/uniforms-work-safety.html",
+      "evaluation": {
+        "eval_types": [
+          "string_match"
+        ],
+        "reference_answers": {
+          "must_include": [
+            "toucan",
+            "parrot"
+          ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": "A toucan and parrots"
+      }
+    },
+    "recorded_page_context": null,
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_219.jpg",
+    "archive_sha256": "ce1dffb244c00116d04161e93dfd867a01097e547a7a4d28fcbff1557094125e",
+    "source_file_id": "1tA2TCbm8VQoGOg6YPSQJs56S_B3wVNx1",
+    "frame_resource": "page@4349a2ea6d938e04a7db40522818aa51-1703218616.33019.jpeg",
+    "frame_page_id": "page@4349a2ea6d938e04a7db40522818aa51",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_219__page0.jpg",
+    "frame_timestamp": 6174.857,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_222",
+    "source_instance_id": "vwa_shopping_222",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Full add-to-cart banner names exact 8Bitdo adapter benchmark target; $19.99 and USB Adapter 1 option visible.",
+    "completion_evidence": "Full add-to-cart banner names exact 8Bitdo adapter benchmark target; $19.99 and USB Adapter 1 option visible.",
+    "frame_sha256": "c2f131337d897e2188c17945f2fc8e57c5a419bf23c2c5f0fd7695f3747e91a2",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Can you add the most expensive USB adapter for a Switch to my cart that is less than $113 and looks like bricks?",
+      "start_url": "__SHOPPING__/",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/checkout/cart",
+            "locator": "",
+            "required_contents": {
+              "must_include": [
+                "8Bitdo Wireless USB Adapter 1 for Switch, Switch OLED, Windows, Mac & Raspberry Pi, Compatible with Switch Pro, Switch Joy-con, PS5 PS4 Controller and More"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@e0b3febea306678a318296c3819c2f2b",
+      "frameId": "frame@f2f68127beccf09829d9e2b6b32b112a",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/8bitdo-wireless-usb-adapter-1-for-switch-switch-oled-windows-mac-raspberry-pi-compatible-with-switch-pro-switch-joy-con-ps5-ps4-controller-and-more.html",
+      "snapshotName": "after@call@a55b9369433a5210daa45162882764cf",
+      "timestamp": 210729.337,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_222.jpg",
+    "archive_sha256": "18d48ae3181f5ebeb6ab7d383d36686fa8cfe06a667d82184b6affd18675110b",
+    "source_file_id": "1e68bSt6bM0xpYCEh6F3rwcHNUdPzjR2t",
+    "frame_resource": "page@e0b3febea306678a318296c3819c2f2b-1703279323.062984.jpeg",
+    "frame_page_id": "page@e0b3febea306678a318296c3819c2f2b",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_222__page0.jpg",
+    "frame_timestamp": 214819.978,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_237",
+    "source_instance_id": "vwa_shopping_237",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Saved-address banner and default billing address visibly contain all requested street, city, state, ZIP and phone fields.",
+    "completion_evidence": "Saved-address banner and default billing address visibly contain all requested street, city, state, ZIP and phone fields.",
+    "frame_sha256": "19da982bc25776c9a2b3e96b430dd34f9a60d3f097c864cc31a7cb034bf15219",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Can you set the left side address to 201 N Goodwin Ave in Urbana Illinois 61801? My phone number is also 2173333426.",
+      "start_url": "__SHOPPING__/customer/account/",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/customer/account/",
+            "locator": "lambda:(() => { try { return document.querySelector('#maincontent > div.columns > div.column.main > div.block.block-dashboard-addresses > div.block-content > div.box.box-billing-address > div.box-content > address').textContent } catch (e) { return '' }})()",
+            "required_contents": {
+              "must_include": [
+                "201 N Goodwin Ave",
+                "Urbana",
+                "Illinois",
+                "61801",
+                "(217) 333-3426 |OR| 2173333426 |OR| 217-333-3426"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@213aad6b25ae9f8c6c87b045a71caca5",
+      "frameId": "frame@6aebbfa37b7ade906bf6c0ce35e32487",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/customer/address/index/",
+      "snapshotName": "after@call@67dbc0fc11c3e573ce838c21baa2854b",
+      "timestamp": 79287.339,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_237.jpg",
+    "archive_sha256": "8a807dfd35272e615424a778af9123dce6681990cfde97c1f18c048601b8285d",
+    "source_file_id": "1k3UiCroIJCnL6cq7TgAUUKzn89Ght1fd",
+    "frame_resource": "page@213aad6b25ae9f8c6c87b045a71caca5-1703279793.284629.jpeg",
+    "frame_page_id": "page@213aad6b25ae9f8c6c87b045a71caca5",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_237__page0.jpg",
+    "frame_timestamp": 88357.569,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_245",
+    "source_instance_id": "vwa_shopping_245",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Spenco Mens Tribal Elite Sandal title and successful add-to-cart banner match exact benchmark target; supplied destination image is corroborated through benchmark mapping.",
+    "completion_evidence": "Spenco Mens Tribal Elite Sandal title and successful add-to-cart banner match exact benchmark target; supplied destination image is corroborated through benchmark mapping.",
+    "frame_sha256": "27a9ee0e55397fc2d28124dfff27c5f3fb3246202e7252e4e0dac5d24812794d",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "I am going to this place soon. Can you add the most practical footwear for my trip on this page to my cart?",
+      "start_url": "__SHOPPING__/health-household/health-care.html?p=7",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/checkout/cart",
+            "locator": "",
+            "required_contents": {
+              "must_include": [
+                "Spenco Men's Tribal Elite Sandal"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@98226013a909364708b84b6aedefc315",
+      "frameId": "frame@e7db5862468dbcceeb2fd20c6c7ce373",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/spenco-men-s-tribal-elite-sandal.html",
+      "snapshotName": "after@call@cca585ec4349f2c30ef313d21138717d",
+      "timestamp": 30510.233,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_245.jpg",
+    "archive_sha256": "b2c7340a16130d351265ed8bfe1365c4732113287d1dae63cdd908a672837833",
+    "source_file_id": "1mW-y0bE3mJff2yhG3_DsohZQamo97c7h",
+    "frame_resource": "page@98226013a909364708b84b6aedefc315-1703280208.494959.jpeg",
+    "frame_page_id": "page@98226013a909364708b84b6aedefc315",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_245__page0.jpg",
+    "frame_timestamp": 34350.482,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_26",
+    "source_instance_id": "vwa_shopping_26",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "Target plush-seat product page visibly shows a pink plush chair; exact benchmark target URL reached.",
+    "frame_sha256": "c36fd37ad954ac02c726165bdd7e12baa3be701a07708ca3a4be0936717287a1",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "Search for \"plush toy\" and show me the first item that is pink in color",
+      "start_url": "__SHOPPING__/",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__SHOPPING__/olpchee-foldable-plush-children-s-sofa-backrest-chair-cute-cartoon-infant-baby-seat-for-living-room-bedroom-corgi.html",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_26.jpg",
+    "archive_sha256": "3639a0aeca0b9f0874bfae85d09bc731b33b4620082bb065cc6d82542444baab",
+    "source_file_id": "1pDXjVLb7PP7gXm45lE2NhvgYqD3h7EGs",
+    "frame_resource": "page@23508433033c080a480331c6996c17d1-1703274789.670992.jpeg",
+    "frame_page_id": "page@23508433033c080a480331c6996c17d1",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_26__page0.jpg",
+    "frame_timestamp": 24986.996,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_27",
+    "source_instance_id": "vwa_shopping_27",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "recovered_recorded_frame",
+    "historical_pool": true,
+    "identity_evidence": "Exact accepted white-table title and white three-legged table diagram are visible on target product page. The diagram is partly below viewport; it is not a complete product photograph.",
+    "completion_evidence": "Exact accepted white-table title and white three-legged table diagram are visible on target product page. The diagram is partly below viewport; it is not a complete product photograph.",
+    "frame_sha256": "6eec1513b027b3b8fd2e845a92315333024d20f2904683d67abd3bce83d371d6",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "recorded_page_context": {
+      "pageId": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+      "frameId": "frame@b2bdfd0dc9bf39b3b0cd4640350f6593",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/n-a-yyhen-beautiful-three-legged-wooden-coffee-tableiving-room-balcony-simple-end-table-white.html",
+      "snapshotName": "after@call@03c3b5486c97a166b48dc04b4cdf6714",
+      "timestamp": 31325.653,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "selection_rationale": "Earlier unmodified recorded frame on the accepted target page, after arrival and before scrolling to less informative content. This curated-frame rule differs from historical global-last-frame extraction.",
+    "validation_scope": "Benchmark-target correspondence and visible content; viewport completeness is not guaranteed.",
+    "task_definition": {
+      "task": "Show me the first white table in the search results for \"table\".",
+      "start_url": "__SHOPPING__/",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__SHOPPING__/n-a-yyhen-beautiful-three-legged-wooden-coffee-tableiving-room-balcony-simple-end-table-white.html",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_27.jpg",
+    "archive_sha256": "3f71298fb910e0fc13a5aee9744fd6b98ba9e7ed3c24009af66e740bf33211db",
+    "source_file_id": "1SJlJFNtwgejlD_RRK9CT6CJqfrC8X_Ex",
+    "frame_resource": "page@a1820c658dc8f9d450c31ddb77bd30c8-1703274831.925722.jpeg",
+    "frame_page_id": "page@a1820c658dc8f9d450c31ddb77bd30c8",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_27__candidate110.jpg",
+    "frame_timestamp": 36018.837,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_276",
+    "source_instance_id": "vwa_shopping_276",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "Deadpool PS4 controller skins are visible and match the supplied Deadpool shirt image; URL is one of the accepted alternatives.",
+    "frame_sha256": "b7065fd6c92f0481c9f5b6905418d1cad34a8b3c9b19385d27f72e411604b97f",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "Can you take me to the page that has this character on a PS4 controller?",
+      "start_url": "__SHOPPING__/",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__SHOPPING__/vanknight-playstation-4-dualshock-ps4-controller-skin-vinyl-decals-skins-stickers-2-pack-for-ps4-controller-skins-ps4-skins-deadpool.html |OR| __SHOPPING__/ps4-slim-skins-decals-for-ps4-controller-playstation-4-slim-stickers-cover-for-ps4-slim-controller-sony-playstation-four-slim-accessories-with-dualshock-4-two-controllers-skin-deadpool.html",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_276.jpg",
+    "archive_sha256": "93a99cb4ab279394bf0b93e99b699a751ea79428e61a60cb588f444b3705520c",
+    "source_file_id": "1ibbwyMp1jR2t-ASqhBAHiEq2UkFuP4m6",
+    "frame_resource": "page@838c005a8e70870d05ad48dc34a2738a-1703282988.654888.jpeg",
+    "frame_page_id": "page@838c005a8e70870d05ad48dc34a2738a",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_276__page0.jpg",
+    "frame_timestamp": 72247.119,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_294",
+    "source_instance_id": "vwa_shopping_294",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Supplied pillow has red-and-white paisley pattern matching selected shirt; $0.99 is visible.",
+    "completion_evidence": "Supplied pillow has red-and-white paisley pattern matching selected shirt; $0.99 is visible.",
+    "frame_sha256": "38b38571afba433e8ee84b187012f85ba7db83de7a0716b6bd2a8e9db97dca01",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "What is the price of the shirt that has the most similar pattern as the pillow in the picture in this page?",
+      "start_url": "__SHOPPING__/catalogsearch/result/index/?p=5&q=shirt",
+      "evaluation": {
+        "eval_types": [
+          "string_match"
+        ],
+        "reference_answers": {
+          "must_include": [
+            "0.99"
+          ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": "$0.99"
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@c513c6e1a04d82a7982938dea7548b7d",
+      "frameId": "frame@316b65d245bedd37808f8d797988124c",
+      "frameUrl": "http://localhost:7770/mens-t-shirt-men-s-polo-shirts-short-sleeve-tee-basic-sports-t-shirts-floral-zipper-mens-summer-shirt-tops.html",
+      "snapshotName": "after@call@397e78b8af1f1c120dabc9a4778ea584",
+      "timestamp": 30361.601,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_294.jpg",
+    "archive_sha256": "898689c41ce8232f922adeb8eb4efe399945e20044528d6b241e03e667772afe",
+    "source_file_id": "1Qemj9a7VOn4PWS1Oso3Gqj_eRBMfAcQz",
+    "frame_resource": "page@c513c6e1a04d82a7982938dea7548b7d-1703209604.312095.jpeg",
+    "frame_page_id": "page@c513c6e1a04d82a7982938dea7548b7d",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_294__page1.jpg",
+    "frame_timestamp": 31329.44,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_297",
+    "source_instance_id": "vwa_shopping_297",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Visible hoodie bears Champion logo; recorder title also names Champion Hoodie, satisfying published brand and garment constraints.",
+    "completion_evidence": "Visible hoodie bears Champion logo; recorder title also names Champion Hoodie, satisfying published brand and garment constraints.",
+    "frame_sha256": "222936a70d1eb34bcdef49204b4626b0928d5b6efb5fbbfc543d7ba0f5fad6cc",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Find me a hoodie that has the same brand as the one the man is wearing in the picture.",
+      "start_url": "__SHOPPING__",
+      "evaluation": {
+        "eval_types": [
+          "program_html",
+          "page_image_query"
+        ],
+        "page_image_query": [
+          {
+            "eval_image_url": "last",
+            "eval_image_class": ".fotorama__stage__frame",
+            "eval_vqa": [
+              {
+                "question": "Is this a hoodie? (yes/no)",
+                "answer": "yes"
+              }
+            ]
+          }
+        ],
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "last",
+            "locator": "document.querySelector('.page-title').textContent",
+            "required_contents": {
+              "must_include": [
+                "Champion"
+              ]
+            }
+          }
+        ],
+        "string_note": "",
+        "reference_answer_raw_annotation": ""
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@b8073ce58bb25d6bfee704dcf4850469",
+      "frameId": "frame@fe060882f5a13c962b3af56e6e7fc250",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/champion-hoodie-big-and-tall-hoodies-for-men-mens-hoodies-zip-up-hoodie.html",
+      "snapshotName": "after@call@6c1d1f4a4dbdb287f58c7b7b70c31fdc",
+      "timestamp": 22133.36,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_297.jpg",
+    "archive_sha256": "ef30483480102e83431becbb20778b3dbe5a4deeb04fd3f32bb67f37f3080dab",
+    "source_file_id": "1sHMfqFlsggjoF31uh6Vh0WLbGT-Pqa-7",
+    "frame_resource": "page@b8073ce58bb25d6bfee704dcf4850469-1703283420.597636.jpeg",
+    "frame_page_id": "page@b8073ce58bb25d6bfee704dcf4850469",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_297__page0.jpg",
+    "frame_timestamp": 26097.399,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_3",
+    "source_instance_id": "vwa_shopping_3",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "DualShock 4 Magma Red controller, selected Magma Red color and product title are visible; exact benchmark target reached.",
+    "frame_sha256": "e775148f907c1e4152bd263c6a1e03f20da9028ec8494b36ab4ac2f5f03ba9d0",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "I am doing a market survey for one stop market, show me the most expensive red controller from \"PS4 accessories\" category",
+      "start_url": "__SHOPPING__",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__SHOPPING__/dualshock-4-wireless-controller-for-playstation-4-magma-red.html",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_3.jpg",
+    "archive_sha256": "4c4a39504e9e69c86edde03e402a89b94397cfadad4e6845bbfc38ad433c9b1b",
+    "source_file_id": "1JZfsoGLZ6FEhnQm16eNRuOCXuBX6fPZP",
+    "frame_resource": "page@dbc60e17cb3b00d620833f357c7893e2-1703274328.261571.jpeg",
+    "frame_page_id": "page@dbc60e17cb3b00d620833f357c7893e2",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_3__page1.jpg",
+    "frame_timestamp": 85176.653,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_303",
+    "source_instance_id": "vwa_shopping_303",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Nutrition label visibly states 10 servings per container and 420 calories per serving, supporting 4200 calories.",
+    "completion_evidence": "Nutrition label visibly states 10 servings per container and 420 calories per serving, supporting 4200 calories.",
+    "frame_sha256": "c22ac6e767902615111a364249ac1383a13c12a76110a607c69e088b3678f3e1",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "How many calories are in this item per container?",
+      "start_url": "__SHOPPING__/tea-zone-2-lb-strawberry-powder.html",
+      "evaluation": {
+        "eval_types": [
+          "string_match"
+        ],
+        "reference_answers": {
+          "must_include": [
+            "4200"
+          ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": "4200"
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+      "frameId": "frame@cd3cd8deb8227af3f299685e864ef91f",
+      "frameUrl": "http://localhost:7770/tea-zone-2-lb-strawberry-powder.html",
+      "snapshotName": "after@call@320e215eb77d077d7c6987950ac5aac0",
+      "timestamp": 19746.753,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_303.jpg",
+    "archive_sha256": "9ad4bef1f6d2cf46b8d98c17e7b5b2e34321cdb741678a210bf34a1d19106896",
+    "source_file_id": "1ce8GPw6NydfCzWw5x9ZqoAx4jgeFMBaj",
+    "frame_resource": "page@e1bc451ebb42ebca36906dd5e4ca16a7-1703218787.291707.jpeg",
+    "frame_page_id": "page@e1bc451ebb42ebca36906dd5e4ca16a7",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_303__page0.jpg",
+    "frame_timestamp": 22315.793,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_306",
+    "source_instance_id": "vwa_shopping_306",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "Trader Joe cookie-butter sandwich-cookie product and title are visible; exact benchmark target for the 10 oz request reached. Net weight is not independently readable in this frame, so verification relies on the benchmark target mapping.",
+    "frame_sha256": "2d75eb5d2783cada5090fd0375b86ca33eac2ed82ebda92522581e7c1d9cd259",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "Show me the product page of the 10 oz net weight cookie.",
+      "start_url": "__SHOPPING__/catalogsearch/result/index/?q=cookie",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__SHOPPING__/trader-joe-s-cookie-butter-sandwich-cookies.html",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_306.jpg",
+    "archive_sha256": "bbcd38bc31a0a2db8c03c98b89b1c7616c9729f9b16b7f5c41021d7483d1c0ed",
+    "source_file_id": "1PZ5ozumoaAvoh7Bv-UciSU-cjS-9ygTm",
+    "frame_resource": "page@941a1af118ad560f39b880cfdb66568c-1703283473.604701.jpeg",
+    "frame_page_id": "page@941a1af118ad560f39b880cfdb66568c",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_306__page0.jpg",
+    "frame_timestamp": 36510.626,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_314",
+    "source_instance_id": "vwa_shopping_314",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "MacBook USB-C adapter title explicitly includes USB 3.0; supplied images show USB-A and a MacBook. Exact benchmark target reached, though the product image is partially below the viewport.",
+    "frame_sha256": "27abf1499a44e493cc306108c4486b6c6e1c2d3fd57cd128230bd113332d526b",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "Find me an adapter to connect these devices from the two images from this page.",
+      "start_url": "__SHOPPING__/catalogsearch/result/?q=adapter",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__SHOPPING__/adapters-for-macbook-pro-usb-hdmi-adapter-multiport-usb-c-hub-macbook-pro-adapter-dongle-7-in-2-macbook-pro-usb-c-docking-station-dual-monitor-hdmi-adapter-with-dual-hdmi-2-usb-3-0-tf-sd-usb-c-100w.html",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_314.jpg",
+    "archive_sha256": "78bc59ca46e5b9152147cb1dcdfb753b8cdb7d1ac6d18a484a9cae07aaaf7f79",
+    "source_file_id": "1a5RCxkZ_HEfhLsw4wy7jr9fp2cTu_Ebv",
+    "frame_resource": "page@94b7ce147eaff504f44bdd18d745048d-1703283555.12351.jpeg",
+    "frame_page_id": "page@94b7ce147eaff504f44bdd18d745048d",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_314__page0.jpg",
+    "frame_timestamp": 30730.915,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_320",
+    "source_instance_id": "vwa_shopping_320",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Cart visibly shows exact Protein Wafer Peanut Butter box of 12 with quantity 4, supporting 48 bars; successful addition banner present.",
+    "completion_evidence": "Cart visibly shows exact Protein Wafer Peanut Butter box of 12 with quantity 4, supporting 48 bars; successful addition banner present.",
+    "frame_sha256": "0c2b07e9bceeebb38dbac350b51e1a95868f3d8937427a25448bbc3b9fd6e57f",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Add enough to have 48 bars of the item that most looks like the image from this page to my shopping cart.",
+      "start_url": "__SHOPPING__/grocery-gourmet-food/breads-bakery/cookies.html",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/checkout/cart/",
+            "locator": "lambda:(() => {try {return Array.from(document.querySelectorAll('.item-info')).find(el => el.textContent.includes('Protein Wafer Peanut Butter - Box of 12 Bars, Peanut Butter, 12 Count')).querySelector('input').getAttribute('data-item-qty')} catch (e) {return ' '}})()",
+            "required_contents": {
+              "must_include": [
+                "4"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@1945ac84e9e76e85805e3b47ed5413a6",
+      "frameId": "frame@1944410a57b2ab7c6847993f6818e456",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/protein-wafer-peanut-butter-box-of-12-bars-peanut-butter-12-count.html",
+      "snapshotName": "before@call@58213548dd1cc8bd49c7e51f39a57fcd",
+      "timestamp": 66158.364,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_320.jpg",
+    "archive_sha256": "640fc6fcb599e0532ac1b1a7b30771b3882a29aacf0b58d9625887161309a0e4",
+    "source_file_id": "1GvLArTYqnE0_hYOnb6e75gQvldEocQX5",
+    "frame_resource": "page@1945ac84e9e76e85805e3b47ed5413a6-1703283640.235176.jpeg",
+    "frame_page_id": "page@1945ac84e9e76e85805e3b47ed5413a6",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_320__page0.jpg",
+    "frame_timestamp": 69285.829,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_346",
+    "source_instance_id": "vwa_shopping_346",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Saved-address banner and default billing phone visibly begin +65, agreeing with published country-code criterion; original number follows.",
+    "completion_evidence": "Saved-address banner and default billing phone visibly begin +65, agreeing with published country-code criterion; original number follows.",
+    "frame_sha256": "c6b38e7ebb964e1a9288586e38b014e07344fb348e7d81d5c41c8a5e69113400",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Prepend the country code of the country shown in the image to the phone number of my account profile.",
+      "start_url": "__SHOPPING__",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/customer/address/",
+            "locator": "document.querySelector(\".box-address-billing > div.box-content > address > a\").outerText.substring(0, 3)",
+            "required_contents": {
+              "must_include": [
+                "65 |OR| +65"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@eb8fe0c086ceb19de56b65d6aa2072b9",
+      "frameId": "frame@995f12abdb30d42ca29a604d5960a3f2",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/customer/address/index/",
+      "snapshotName": "after@call@d8c972d8674ccefd841035b71fdb88bc",
+      "timestamp": 113030.503,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_346.jpg",
+    "archive_sha256": "3e149f82910103593b86a9e5faeeeeb7284d34d52b2cc740ac24b9d0d60e8cf4",
+    "source_file_id": "1puaakLwsh3V0sCC-TIUb_r6J5uRrH8jU",
+    "frame_resource": "page@eb8fe0c086ceb19de56b65d6aa2072b9-1703284636.1855.jpeg",
+    "frame_page_id": "page@eb8fe0c086ceb19de56b65d6aa2072b9",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_346__page0.jpg",
+    "frame_timestamp": 120628.504,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_370",
+    "source_instance_id": "vwa_shopping_370",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Order detail visibly contains exact target SKU B07NVKVYZR, car-shaped phone title and Ordered: 1.",
+    "completion_evidence": "Order detail visibly contains exact target SKU B07NVKVYZR, car-shaped phone title and Ordered: 1.",
+    "frame_sha256": "c846061f5d3209a8ab5d0a64d0d401fe07038089fab11b87564de972012697a0",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Buy me a phone (from the \"Cell Phones\" category) that looks the most like the items in the image.",
+      "start_url": "__SHOPPING__",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "func:shopping_get_latest_order_url()",
+            "locator": "document.querySelector(\".order-details-items.ordered\").outerText",
+            "required_contents": {
+              "must_include": [
+                "B07NVKVYZR"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": null,
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_370.jpg",
+    "archive_sha256": "c4e34e835bb4e69d6f34fa5305ca1d32aff98baf80a2796391892297bfcd4fe5",
+    "source_file_id": "1tOIvYmurXcXubQW0BNENUWI4MEPKoB-q",
+    "frame_resource": "page@cd76319bd9734d9d5356b9bd6a6202c2-1703208919.137986.jpeg",
+    "frame_page_id": "page@cd76319bd9734d9d5356b9bd6a6202c2",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_370__page0.jpg",
+    "frame_timestamp": 41845.039,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_373",
+    "source_instance_id": "vwa_shopping_373",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Chargers category is visibly sorted by ascending price; first car charger is black with blue trim and $5.99 price, supporting required black color.",
+    "completion_evidence": "Chargers category is visibly sorted by ascending price; first car charger is black with blue trim and $5.99 price, supporting required black color.",
+    "frame_sha256": "9c20d7c67306b14f8b76f1a1ea45f8186a13b430b3732d572afba8953085f97b",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "What is the color of the cheapest car charger item in the \"Chargers & Power Adapters\" category?",
+      "start_url": "__SHOPPING__/",
+      "evaluation": {
+        "eval_types": [
+          "string_match"
+        ],
+        "reference_answers": {
+          "must_include": [
+            "black"
+          ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": "black"
+      }
+    },
+    "recorded_page_context": null,
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_373.jpg",
+    "archive_sha256": "46c1d4aa36375036502174367a18e3e61cf77dfac434503151c737363a0c8920",
+    "source_file_id": "1ZV8lsw54FeR6skjd1m2qFtmzC25qxsbz",
+    "frame_resource": "page@bad1c014c1bbf5d069777726dc40a3fa-1703218949.839793.jpeg",
+    "frame_page_id": "page@bad1c014c1bbf5d069777726dc40a3fa",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_373__page0.jpg",
+    "frame_timestamp": 25217.213,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_377",
+    "source_instance_id": "vwa_shopping_377",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Order detail visibly contains exact SKU B07P9R993T and Red option, with Ordered: 1. Graphic identity relies on benchmark SKU mapping.",
+    "completion_evidence": "Order detail visibly contains exact SKU B07P9R993T and Red option, with Ordered: 1. Graphic identity relies on benchmark SKU mapping.",
+    "frame_sha256": "2536b0033fb806511b56b11809b7955184eda9047b28bcbc45f4c4429b0e82eb",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Buy me a red phone case with an Iron Man graphic.",
+      "start_url": "__SHOPPING__",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "func:shopping_get_latest_order_url()",
+            "locator": "document.querySelector(\".order-details-items.ordered\").outerText",
+            "required_contents": {
+              "must_include": [
+                "B07P9R993T",
+                "Red"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@a86c0c414a68aa1d824cbb3a38993e7e",
+      "frameId": "frame@dca36f4b10c20d90d41543650e5c4ed0",
+      "frameUrl": "http://localhost:7770/cell-phones-accessories/cases-holsters-sleeves.html?p=10&product_list_limit=36",
+      "snapshotName": "after@call@f93236ada44d035f20a7a90f9c6e2b0d",
+      "timestamp": 67503.746,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_377.jpg",
+    "archive_sha256": "0ac69dd457c828d30b92bf589aa80d90c83a437ab7da91aafebdfd98e29dac84",
+    "source_file_id": "1syYrwDD6t6u9ApvqGNDIxJ0zPWWY1ain",
+    "frame_resource": "page@a86c0c414a68aa1d824cbb3a38993e7e-1703209188.096888.jpeg",
+    "frame_page_id": "page@a86c0c414a68aa1d824cbb3a38993e7e",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_377__page0.jpg",
+    "frame_timestamp": 101920.383,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_383",
+    "source_instance_id": "vwa_shopping_383",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Order detail visibly contains exact benchmark SKU B081ZNFZZJ and Ordered: 1. Theme identity relies on benchmark SKU mapping.",
+    "completion_evidence": "Order detail visibly contains exact benchmark SKU B081ZNFZZJ and Ordered: 1. Theme identity relies on benchmark SKU mapping.",
+    "frame_sha256": "07f0c62a0d0f1f31dc9eadedb944fdf0c90ff82558f54e57a230b4b76d0dcb13",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Buy the item on the page with Rick and Morty themes.",
+      "start_url": "__SHOPPING__/video-games/xbox-one.html?p=13",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "func:shopping_get_latest_order_url()",
+            "locator": "document.querySelector(\".order-details-items.ordered\").outerText",
+            "required_contents": {
+              "must_include": [
+                "B081ZNFZZJ"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": null,
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_383.jpg",
+    "archive_sha256": "a0e4447aff7b3415dc77dc8a4d4749c45363ac8ed6c4e249b08d94602a0efaf4",
+    "source_file_id": "1195nhXVWMzZet5aIbNrWTAg7-La62p_e",
+    "frame_resource": "page@0ed1d2e2cdef9484c348b00b53126826-1703209321.364219.jpeg",
+    "frame_page_id": "page@0ed1d2e2cdef9484c348b00b53126826",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_383__page0.jpg",
+    "frame_timestamp": 17266.94,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_43",
+    "source_instance_id": "vwa_shopping_43",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_benchmark_target",
+    "historical_pool": true,
+    "identity_evidence": "Recorded final-page URL matches an accepted benchmark target; native task image checked where supplied.",
+    "completion_evidence": "Ocean\u2019s Halo No Chicken Broth page visibly shows rectangular cartons and $2.20 price; exact benchmark target reached.",
+    "frame_sha256": "23c9a54e7aeead29661ff9457c03ad9ad76f2242146e1a069cfe7b0dbf2aa95e",
+    "selection_rationale": "Unmodified final screencast frame for the page with the benchmark target URL.",
+    "validation_scope": "Benchmark-target correspondence and visible reference content; not a fresh execution of the benchmark evaluator.",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "eligible_for_screened_set": true,
+    "task_definition": {
+      "task": "Find me the cheapest item in the \"Soups, Stocks & Broths\" category that comes in rectangular packaging.",
+      "start_url": "__SHOPPING__/",
+      "evaluation": {
+        "eval_types": [
+          "url_match"
+        ],
+        "reference_answers": null,
+        "reference_url": "__SHOPPING__/ocean-s-halo-organic-and-vegan-no-chicken-broth-32-oz-per-unit-2-pack.html",
+        "program_html": [],
+        "url_note": "EXACT"
+      }
+    },
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_43.jpg",
+    "archive_sha256": "08da7ee2c95d19820c05067f43f49c9e57c1b1c66c9ff5dba6057b959c7c5cf9",
+    "source_file_id": "1ipfCpI2HtNZpbCchbNG1y6ODk7X998ph",
+    "frame_resource": "page@9e5488fe54d3b25968a0066a5b488d71-1703275073.165574.jpeg",
+    "frame_page_id": "page@9e5488fe54d3b25968a0066a5b488d71",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_43__page0.jpg",
+    "frame_timestamp": 72413.87,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_434",
+    "source_instance_id": "vwa_shopping_434",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Successful add-to-cart banner explicitly names exact REESES pack-of-2-pounds benchmark item; search and ascending price context visible.",
+    "completion_evidence": "Successful add-to-cart banner explicitly names exact REESES pack-of-2-pounds benchmark item; search and ascending price context visible.",
+    "frame_sha256": "3df429c7f74ed8ba880e4367bcfb2998e71c6af93cd173a64ba2ad9326cb7e9e",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Find me the cheapest thick, original version of the thing in this image and add it to my cart please.",
+      "start_url": "__SHOPPING__",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/checkout/cart",
+            "locator": "",
+            "required_contents": {
+              "must_include": [
+                "REESE'S Peanut Butter Cups, Milk Chocolate, Snack Size (Pack of 2 Pounds)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": null,
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_434.jpg",
+    "archive_sha256": "e7dfe49a447b1355faef9e2a1ccb52120f66495cd3c765684d07417a1500f836",
+    "source_file_id": "11noHkfoiR-gmXU-Po3g_j3bXB_KgotUc",
+    "frame_resource": "page@f967de994d982745a48b085324ff9190-1703217243.429854.jpeg",
+    "frame_page_id": "page@f967de994d982745a48b085324ff9190",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_434__page0.jpg",
+    "frame_timestamp": 148296.667,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_436",
+    "source_instance_id": "vwa_shopping_436",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Exact Sony VPL-VW1000ES benchmark title, $7.21 price and complete add-to-cart banner visible.",
+    "completion_evidence": "Exact Sony VPL-VW1000ES benchmark title, $7.21 price and complete add-to-cart banner visible.",
+    "frame_sha256": "265e678a1750e28e5d2740d3dd301f8ffc2bde001eea62752a7a6d93428b6804",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Find me the cheapest item that costs more than $6 and can project onto a screen like in the image shown and add it to my cart.",
+      "start_url": "__SHOPPING__",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/checkout/cart",
+            "locator": "",
+            "required_contents": {
+              "must_include": [
+                "Sony VPL-VW1000ES 4K Home Theater ES Projector (2012 Model)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@7fa1eda72216cc41a254b86d60eebebb",
+      "frameId": "frame@455cae90fca2d6a7ce971ff3d220c0d0",
+      "frameUrl": "http://localhost:7770/electronics/video-projectors.html?product_list_order=price",
+      "snapshotName": "after@call@840777c2bd442fdfbb27a67615522c36",
+      "timestamp": 47476.969,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_436.jpg",
+    "archive_sha256": "1021e0862dcd4259fd3e04f9a4611922a83dd1d68686bb809bc42330ba3696fc",
+    "source_file_id": "1Vx74aG2v_ZoLvFicpdHZ2ZMJns88-5rK",
+    "frame_resource": "page@7fa1eda72216cc41a254b86d60eebebb-1703217331.333737.jpeg",
+    "frame_page_id": "page@7fa1eda72216cc41a254b86d60eebebb",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_436__page0.jpg",
+    "frame_timestamp": 66988.438,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_439",
+    "source_instance_id": "vwa_shopping_439",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Full add-to-cart banner names exact Action Camera target; ascending-price results also show it at $3.71.",
+    "completion_evidence": "Full add-to-cart banner names exact Action Camera target; ascending-price results also show it at $3.71.",
+    "frame_sha256": "5ae4e8288e8b6209be5dcde6824d09b646ce618910662beb15eaf6513895df35",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Navigate to the category where I can find camera that can help me take photos like this. Add the cheapest one to my cart.",
+      "start_url": "__SHOPPING__",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/checkout/cart",
+            "locator": "",
+            "required_contents": {
+              "must_include": [
+                "Action Camera Ultra HD 4K Action Camera 10m Waterproof 2.0' Screen 1080p Sport Camera Cam Driving Recorder Tachograph HD (Bundle : Camera Add 64GB Card, Color : Blue)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@d9378e5b0a4a1c3b9fce07d2fb7c42fb",
+      "frameId": "frame@aa8b9c8b6ee6d1edc40f1098bb475730",
+      "frameUrl": "http://localhost:7770/electronics/camera-photo/underwater-photography.html?product_list_dir=desc",
+      "snapshotName": "after@call@06e58d415090f2d72e353dc97c0f7c33",
+      "timestamp": 27194.749,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_439.jpg",
+    "archive_sha256": "e89d38c745be958f506de90307a93686f40d040ad38de2f687a26d097ccf0f93",
+    "source_file_id": "1YfjHSG2GD71KngQaI-OCtRRas6YNL1ti",
+    "frame_resource": "page@d9378e5b0a4a1c3b9fce07d2fb7c42fb-1703217385.139996.jpeg",
+    "frame_page_id": "page@d9378e5b0a4a1c3b9fce07d2fb7c42fb",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_439__page0.jpg",
+    "frame_timestamp": 43028.61,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_443",
+    "source_instance_id": "vwa_shopping_443",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Wishlist success banner names exact Deadpool controller-skins benchmark target and matching item image visible.",
+    "completion_evidence": "Wishlist success banner names exact Deadpool controller-skins benchmark target and matching item image visible.",
+    "frame_sha256": "858eeb1ea9bd6efe6d78a41936d4f92dc68a3a92a9d7beb8771a8b612a2fe665",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Put the least expensive item that has the thing in the first image imprinted on the thing in the second image in my wishlist",
+      "start_url": "__SHOPPING__",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/wishlist/?limit=50",
+            "locator": "document.querySelector('.products-grid.wishlist').textContent",
+            "required_contents": {
+              "must_include": [
+                "Vanknight Playstation 4 Dualshock PS4 Controller Skin Vinyl Decals Skins Stickers 2 Pack for PS4 Controller Skins PS4 Skins Deadpool"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@b0f67506db64c0723edaea85cb3cb24a",
+      "frameId": "frame@b5bad84696782928f6feae2d214221f7",
+      "frameUrl": "http://localhost:7770/catalogsearch/result/index/?q=deadpool+controller",
+      "snapshotName": "after@call@068baf0d3315947240cc83cf3c23aab6",
+      "timestamp": 85568.749,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_443.jpg",
+    "archive_sha256": "ced3bc5334effb6d18db0d367695dc3debb797761d9ce04783d486d673f90ec9",
+    "source_file_id": "1tABiBNjzo45dXT9o9hUI4_51GYokD-ou",
+    "frame_resource": "page@b0f67506db64c0723edaea85cb3cb24a-1703217496.36973.jpeg",
+    "frame_page_id": "page@b0f67506db64c0723edaea85cb3cb24a",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_443__page0.jpg",
+    "frame_timestamp": 100566.693,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_444",
+    "source_instance_id": "vwa_shopping_444",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Successful add-to-cart banner names exact Garden Of Life Fit Bar Smores Organic 1.9 Ounce target; highest-protein correspondence relies on benchmark mapping.",
+    "completion_evidence": "Successful add-to-cart banner names exact Garden Of Life Fit Bar Smores Organic 1.9 Ounce target; highest-protein correspondence relies on benchmark mapping.",
+    "frame_sha256": "4d56e4fdb9ffbdff2b261c9816bafe63da889db1012e2ed7ff97d630f5353b58",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Place the item with the highest amount of protein per bar on this page into my cart",
+      "start_url": "__SHOPPING__/health-household/diet-sports-nutrition/nutrition-bars-drinks.html?price=40-50",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/checkout/cart",
+            "locator": "",
+            "required_contents": {
+              "must_include": [
+                "Garden Of Life, Fit Bar Smores Organic, 1.9 Ounce"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": null,
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_444.jpg",
+    "archive_sha256": "c51ef106657b0016838b0223c9d1f47212b9c759f7dd4324c25c20858b198235",
+    "source_file_id": "1gVjs8wl8sq2GxYztpIWrSHuavNu77rL6",
+    "frame_resource": "page@bac44685e87d088c693b36e9d54c1a8d-1703217614.612458.jpeg",
+    "frame_page_id": "page@bac44685e87d088c693b36e9d54c1a8d",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_444__page0.jpg",
+    "frame_timestamp": 87167.651,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_453",
+    "source_instance_id": "vwa_shopping_453",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Cart visibly contains exact HUTSENDOX slippers with Green option and quantity one, matching benchmark target.",
+    "completion_evidence": "Cart visibly contains exact HUTSENDOX slippers with Green option and quantity one, matching benchmark target.",
+    "frame_sha256": "ce279220c2819d90956478c5e4bcedf07469c3e4433340fa7d66b37766ec1f4d",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Find me a product in the Shoes tab that has the closest color to the sneakers in the other tab. Add one (in any size) to my cart.",
+      "start_url": "__SHOPPING__/sweetshopz-beer-irish-wallpaper-st-patrick-day-active-running-walking-sneakers-shoes-for-women-men-unisex-kids-adults-fashion-sports-black.html |AND| __SHOPPING__/clothing-shoes-jewelry/men/shoes.html?p=4&product_list_order=price",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/checkout/cart",
+            "locator": "",
+            "required_contents": {
+              "must_include": [
+                "HUTSENDOX Pillow Slippers Slides for Women Men House Cloud Slipper Shower Slide Sandals Anti-Slip Summer Slippers for Indoor Outdoor",
+                "Green"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@4c53b3a5aaff23701af279fd80a76088",
+      "frameId": "frame@da22b766fdb9b8dc3c249b667f066d94",
+      "frameUrl": "http://localhost:7770/clothing-shoes-jewelry/men/shoes.html?p=5&product_list_order=price",
+      "snapshotName": "after@call@a524edeb0c7bd1a48b7a52e92c9fec12",
+      "timestamp": 40586.391,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_453.jpg",
+    "archive_sha256": "6ef3899b930026d0683b5948dc6b1317164a20d91436ea42b6e6121cf45a6020",
+    "source_file_id": "1ogmxdGOCHgcA0ZS1blOAWrioTD1pkLvf",
+    "frame_resource": "page@4c53b3a5aaff23701af279fd80a76088-1703218250.747738.jpeg",
+    "frame_page_id": "page@4c53b3a5aaff23701af279fd80a76088",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_453__page1.jpg",
+    "frame_timestamp": 111813.259,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_461",
+    "source_instance_id": "vwa_shopping_461",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Exact Hatsune Miku wig title, $98 price, selected option and full successful add-to-cart banner visible.",
+    "completion_evidence": "Exact Hatsune Miku wig title, $98 price, selected option and full successful add-to-cart banner visible.",
+    "frame_sha256": "311e26c58058aeef4577c1f4562badee339c6dad721f36387f03f3f7eb2d858c",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Add to my cart a wig that costs between $50 and $100 and can help me cosplay the character in the image.",
+      "start_url": "__SHOPPING__",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/checkout/cart",
+            "locator": "",
+            "required_contents": {
+              "must_include": [
+                "Anime Vocaloid Hatsune Miku Synthetic Wig Costume Game Play Wigs Cosplay miku Long wavy blue Hair Wigs + wig cap One Size PL-823"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@278b7291f6fe85acb1f08118c9252ae2",
+      "frameId": "frame@12b71c8c31eb86e7f24d5faf761c5a6b",
+      "frameUrl": "http://localhost:7770/anime-vocaloid-hatsune-miku-synthetic-wig-costume-game-play-wigs-cosplay-miku-long-wavy-blue-hair-wigs-wig-cap-one-size-pl-823.html",
+      "snapshotName": "after@call@5a702bf3d2123c46a53fc3f05660b3f4",
+      "timestamp": 65909.263,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_461.jpg",
+    "archive_sha256": "40d44fbd36f6c28010c9f1a4c0e1df8c52924cf9cbd07c4e0c9364e6881e2059",
+    "source_file_id": "1BOQX7H-qy5CrunsaNBRNISxbF7v9zbON",
+    "frame_resource": "page@278b7291f6fe85acb1f08118c9252ae2-1703218338.836428.jpeg",
+    "frame_page_id": "page@278b7291f6fe85acb1f08118c9252ae2",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_461__page0.jpg",
+    "frame_timestamp": 69969.051,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_64",
+    "source_instance_id": "vwa_shopping_64",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "First Cookies row visibly contains green GrandShell apple-cookie box with $25.99 price.",
+    "completion_evidence": "First Cookies row visibly contains green GrandShell apple-cookie box with $25.99 price.",
+    "frame_sha256": "02d06537ef34be585ff471d6892dacaaecf1366e5811bf0a766709e1b7705893",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Tell me the price of the green one in the first row.",
+      "start_url": "__SHOPPING__/grocery-gourmet-food/breads-bakery/cookies.html",
+      "evaluation": {
+        "eval_types": [
+          "string_match"
+        ],
+        "reference_answers": {
+          "must_include": [
+            "25.99"
+          ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": "$25.99"
+      }
+    },
+    "recorded_page_context": null,
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_64.jpg",
+    "archive_sha256": "4bab52a943b7f3df574cf92d393ee3d609b6920e9b5d6c071ff87f22771401df",
+    "source_file_id": "1aZuUi1M82QAe6x9_tg-of04HuAVrDzE8",
+    "frame_resource": "page@b8e327dca865f05d8fd1f17f28da1d04-1703273017.725834.jpeg",
+    "frame_page_id": "page@b8e327dca865f05d8fd1f17f28da1d04",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_64__page0.jpg",
+    "frame_timestamp": 11469.214,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_72",
+    "source_instance_id": "vwa_shopping_72",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Orange pumpkin pants and exact target title visible with complete successful add-to-cart banner.",
+    "completion_evidence": "Orange pumpkin pants and exact target title visible with complete successful add-to-cart banner.",
+    "frame_sha256": "33bef9087474c52ee85b1e79fe03a9fd00b0d37505025ab661b31175d5c6dfc2",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "Add this to my cart if it comes in orange",
+      "start_url": "__SHOPPING__/mens-sweatpants-halloween-pumpkin-face-sport-pants-joggers-pants-soft-casual-pants.html",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/checkout/cart",
+            "locator": "",
+            "required_contents": {
+              "must_include": [
+                "Mens Sweatpants Halloween Pumpkin Face Sport Pants Joggers Pants Soft Casual Pants"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@ba7a777d4ae22e65804fc87513a514d4",
+      "frameId": "frame@7c007ecb1671f1d14e8e01b3855b4810",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/mens-sweatpants-halloween-pumpkin-face-sport-pants-joggers-pants-soft-casual-pants.html",
+      "snapshotName": "after@call@a66db9257e04fec6c6f79fe0649f21e7",
+      "timestamp": 11068.907,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_72.jpg",
+    "archive_sha256": "42ed63d1eb76354ce582dcde16faad68c324a2a28d2df6dd8b393aaa3c8a0161",
+    "source_file_id": "1xOsJrrXIUffc7KaVMm4ylc8I1M08aNP8",
+    "frame_resource": "page@ba7a777d4ae22e65804fc87513a514d4-1703275193.28693.jpeg",
+    "frame_page_id": "page@ba7a777d4ae22e65804fc87513a514d4",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_72__page0.jpg",
+    "frame_timestamp": 13976.39,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  },
+  {
+    "target_instance_id": "vwa_shopping_98",
+    "source_instance_id": "vwa_shopping_98",
+    "status": "approved",
+    "identity_verified": true,
+    "completion_supported": true,
+    "reviewer": "Codex AI visual review (not independent human annotation)",
+    "review_level": "visual_and_task_criteria",
+    "historical_pool": true,
+    "identity_evidence": "Complete banner confirms wall clock added to wishlist; clock images and wishlist state visible, matching published clock criterion.",
+    "completion_evidence": "Complete banner confirms wall clock added to wishlist; clock images and wishlist state visible, matching published clock criterion.",
+    "frame_sha256": "8b70650937bca1f1a5baca7a1b8b61f38f2a809f191a10b49dccb5dc715ae981",
+    "configuration_sha256": "beb9fc27d90406131f11442cc9518facdefc2c4845b5648f4934921aee4afa90",
+    "selection_rationale": "Unmodified global last recorded screencast frame; task-specific content adjudicated against published criteria.",
+    "validation_scope": "Screening for benchmark correspondence and visible evidence; not an independent human validation or fresh benchmark evaluator execution.",
+    "task_definition": {
+      "task": "I need something like this for my apartment. Can you add one to my wishlist?",
+      "start_url": "__SHOPPING__/",
+      "evaluation": {
+        "eval_types": [
+          "program_html"
+        ],
+        "reference_answers": null,
+        "reference_url": "",
+        "program_html": [
+          {
+            "url": "__SHOPPING__/wishlist/?limit=50",
+            "locator": "document.querySelector('.products-grid.wishlist').textContent",
+            "required_contents": {
+              "must_include": [
+                "clock"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "recorded_page_context": {
+      "pageId": "page@4dd172dbb2f00cc009fb272f6cabb039",
+      "frameId": "frame@f317b6e954c1f590c8bab4c0fa9ac64b",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/wishlist/index/index/wishlist_id/5/",
+      "snapshotName": "after@call@e594aa88343cbbff5b70507e33feab51",
+      "timestamp": 173607.903,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    "eligible_for_screened_set": true,
+    "acquisition_caveat": "Native recorded encoding/viewport/recorder overlays retained. Identity screening does not equalize acquisition with agent screenshots.",
+    "reference_screenshot_path": "/Users/shravaniparsi/Documents/ChatGPT/IEEE/audit/r2-3/reference_validation/approved_references/vwa_shopping_98.jpg",
+    "archive_sha256": "1cc27d9b830703ef5b18c3edfe2849b26d93701e7a9ec74b64f5be1b0363b2d4",
+    "source_file_id": "1NmTOlzP8BfZPvr2k-6PR5nPRSxGBfb6R",
+    "frame_resource": "page@4dd172dbb2f00cc009fb272f6cabb039-1703275915.960785.jpeg",
+    "frame_page_id": "page@4dd172dbb2f00cc009fb272f6cabb039",
+    "frame_source_path": "reference_validation/frames/vwa_shopping_98__page1.jpg",
+    "frame_timestamp": 174495.151,
+    "frame_dimensions": [
+      800,
+      446
+    ],
+    "frame_format": "JPEG"
+  }
+]

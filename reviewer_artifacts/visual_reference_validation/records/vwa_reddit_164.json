@@ -1,0 +1,316 @@
+{
+  "instance_id": "vwa_reddit_164",
+  "domain": "reddit",
+  "filename_task_id": 164,
+  "source_url": "https://drive.usercontent.google.com/download?id=1J9tnrSmA1VMo0GIKBQIItItaE3X5E0gf&export=download&confirm=t",
+  "source_file_id": "1J9tnrSmA1VMo0GIKBQIItItaE3X5E0gf",
+  "archive_sha256": "af24f289d63dbc56ad606c6eacaaff456e4ea4ab6903bd7ed9971a96090dae43",
+  "archive_bytes": 6645311,
+  "event_types": {
+    "context-options": 1,
+    "event": 141,
+    "screencast-frame": 141,
+    "object": 52,
+    "before": 7,
+    "frame-snapshot": 21,
+    "input": 7,
+    "after": 7
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704270307536,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@c0346957b1b10b3050f3a27b994ceaa0",
+      "timestamp": 17943.763,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@c0346957b1b10b3050f3a27b994ceaa0",
+      "timestamp": 18005.912,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "after@call@c0346957b1b10b3050f3a27b994ceaa0",
+      "timestamp": 18018.722,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "before@call@617ed539c9c76b7096e8ac6a56140bd4",
+      "timestamp": 18884.977,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/",
+      "snapshotName": "input@call@617ed539c9c76b7096e8ac6a56140bd4",
+      "timestamp": 18917.358,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/all/hot",
+      "snapshotName": "after@call@617ed539c9c76b7096e8ac6a56140bd4",
+      "timestamp": 19408.648,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/all/hot",
+      "snapshotName": "before@call@8db253fac32540a259bddc90a91600e1",
+      "timestamp": 20156.121,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/all/hot",
+      "snapshotName": "input@call@8db253fac32540a259bddc90a91600e1",
+      "timestamp": 20227.156,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/all/hot",
+      "snapshotName": "after@call@8db253fac32540a259bddc90a91600e1",
+      "timestamp": 20264.429,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/all/hot",
+      "snapshotName": "before@call@e7866e0c9e0442ee2751f85ea85f13bb",
+      "timestamp": 21112.822,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/all/hot",
+      "snapshotName": "input@call@e7866e0c9e0442ee2751f85ea85f13bb",
+      "timestamp": 21176.767,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/all/top?t=day",
+      "snapshotName": "after@call@e7866e0c9e0442ee2751f85ea85f13bb",
+      "timestamp": 21575.941,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/all/top?t=day",
+      "snapshotName": "before@call@e05f195fd8141814c262fbef8be72bfb",
+      "timestamp": 22286.159,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/all/top?t=day",
+      "snapshotName": "input@call@e05f195fd8141814c262fbef8be72bfb",
+      "timestamp": 22319.729,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/all/top?t=day",
+      "snapshotName": "after@call@e05f195fd8141814c262fbef8be72bfb",
+      "timestamp": 22329.925,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/all/top?t=day",
+      "snapshotName": "before@call@55b73e6c38a911ebe1d5e9c1dbeb3959",
+      "timestamp": 23119.168,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/all/top?t=day",
+      "snapshotName": "input@call@55b73e6c38a911ebe1d5e9c1dbeb3959",
+      "timestamp": 23153.229,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/all/top?t=all",
+      "snapshotName": "after@call@55b73e6c38a911ebe1d5e9c1dbeb3959",
+      "timestamp": 23599.026,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/all/top?t=all",
+      "snapshotName": "before@call@1284f25a5c9bdf519e8861466cfee1d5",
+      "timestamp": 25860.417,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/all/top?t=all",
+      "snapshotName": "input@call@1284f25a5c9bdf519e8861466cfee1d5",
+      "timestamp": 25909.547,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@b596e021f8da36baaa07f02b3940de1a",
+      "frameId": "frame@68a57323c4edd3a36d16cb3c89baba38",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/photoshopbattles/45340/psbattle-halloween-costume",
+      "snapshotName": "after@call@1284f25a5c9bdf519e8861466cfee1d5",
+      "timestamp": 27399.298,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@260dd91ef48c47c6ff5ea8ce64259140",
+      "timestamp": 15746.241,
+      "resource": "page@260dd91ef48c47c6ff5ea8ce64259140-1704270322.591589.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_164__page0.jpg",
+      "sha256": "b3efc083aa5dbe3e59a68ff66c645421ba81239765ca043883cb323b1029b4c6",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        450
+      ]
+    },
+    {
+      "page_id": "page@b596e021f8da36baaa07f02b3940de1a",
+      "timestamp": 34889.256,
+      "resource": "page@b596e021f8da36baaa07f02b3940de1a-1704270341.739975.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_164__page1.jpg",
+      "sha256": "e648657c8ed93818b08635e0934f600e96a3497165051ca3116c38d8fdab2f00",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_164__page1.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}

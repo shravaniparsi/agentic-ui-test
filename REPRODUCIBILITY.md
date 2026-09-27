@@ -13,7 +13,7 @@ pip install -r requirements.txt
 Copy `.env.example` to `.env` and fill in:
 
 - `OPENAI_API_KEY` — GPT-4.1, GPT-4.1 Mini, GPT-4.1 Nano
-- `ANTHROPIC_API_KEY` — Claude Sonnet 4
+- `ANTHROPIC_API_KEY` — the currently configured Claude endpoint
 - `GEMINI_API_KEY` — Gemini 3.6 Flash
 
 `.env` is gitignored and must never be committed.
@@ -39,14 +39,20 @@ image data**. The steps below are only needed to re-run verification from scratc
 3. Download the human Playwright traces
    ([Google Drive folder](https://drive.google.com/drive/folders/1S_fDzB1VUTwUphWPKZ0DdjJOAXjGz94g)),
    233 `<task_id>.trace.zip` files under `human_trajectories_<domain>/`, then extract the
-   final screencast frame of each:
+   last screencast-frame candidate from each:
 
    ```bash
    python3 scripts/extract_human_references.py --human-dir path/to/vwa_human_trajectories
    ```
 
-   Writes 233 PNGs to `data/references/`. The 147 instances listed in
-   `data/visual_subset_ids.txt` are the visual-reference subset used by Conditions C and D.
+   Writes unvalidated candidates to `data/reference_candidates/`. The 147 instances in
+   `data/visual_subset_ids.txt` are the historical C/D analysis pool; membership alone does
+   not establish task identity, successful completion or adequate visual evidence.
+
+   The disclosed screen and its 67 approved native JPEGs are in
+   `reviewer_artifacts/visual_reference_validation/`. To prepare a new dataset, use its
+   hash-verified manifest with `scripts/prepare_validated_visual_dataset.py`. A changed
+   reference set requires new model calls; historical predictions cannot be reassigned to it.
 
 4. Text references are already committed
    (`data/verification_dataset_textref.jsonl` and the two ablation variants). To regenerate:
@@ -94,6 +100,17 @@ python3 scripts/make_manuscript_figures.py
 
 `scripts/recompute_final.py` is the single source of truth for the reported statistics.
 
+The new matched reference-information control can be recomputed without API calls:
+
+```bash
+python3 experiments/reference_information/analyze.py
+```
+
+The package retains the exact generation and verification records, including requested and
+provider-returned model identifiers, timestamps, request IDs, token usage, prompt text and
+content hashes. `experiments/reference_information/README.md` distinguishes the preserved
+as-executed files from portable analysis.
+
 ## Inter-annotator agreement
 
 ```bash
@@ -112,6 +129,8 @@ independently and without discussion.
   404 for newly issued keys. Results use `gemini-3.6-flash`. Aggregate statistics for the
   retired model are preserved in `archive/original_submission_gemini25/`.
 - **Conditions C and D**: the prompt described the reference image as the page *before* the
-  agent started, when it is in fact a successful human *final* state. Both conditions were
-  re-run with the prompt corrected to match Appendix A of the manuscript; pre-correction runs
-  are in `archive/cd_original_prompt/`.
+  agent started. It was corrected to describe the intended successful human end state, and
+  both conditions were re-run. The public trace audit later showed that a filename match and
+  final recorded frame do not by themselves certify a valid successful reference. Historical
+  C/D results are therefore reported with that provenance limitation; pre-correction runs are
+  in `archive/cd_original_prompt/`.

@@ -1,0 +1,292 @@
+{
+  "instance_id": "vwa_reddit_34",
+  "domain": "reddit",
+  "filename_task_id": 34,
+  "source_url": "https://drive.usercontent.google.com/download?id=1w8qIP3tZUpE0sJrIqImiDy4QJgI7xBet&export=download&confirm=t",
+  "source_file_id": "1w8qIP3tZUpE0sJrIqImiDy4QJgI7xBet",
+  "archive_sha256": "30baac33264c7724cdff1d965834065aceb2fbc4b8b2444e97710c0eea27c890",
+  "archive_bytes": 10167992,
+  "event_types": {
+    "context-options": 1,
+    "event": 128,
+    "screencast-frame": 182,
+    "object": 41,
+    "before": 6,
+    "frame-snapshot": 18,
+    "input": 6,
+    "after": 6
+  },
+  "contexts": [
+    {
+      "version": 4,
+      "browserName": "chromium",
+      "platform": "darwin",
+      "wallTime": 1704321374140,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "deviceScaleFactor": 2
+    }
+  ],
+  "snapshots": [
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "before@call@e7d51c9da7f8a2d1d7095c5517523522",
+      "timestamp": 6367.195,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/forums/all",
+      "snapshotName": "input@call@e7d51c9da7f8a2d1d7095c5517523522",
+      "timestamp": 6403.88,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston",
+      "snapshotName": "after@call@e7d51c9da7f8a2d1d7095c5517523522",
+      "timestamp": 6796.475,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston",
+      "snapshotName": "before@call@a40cce9b3a2ea1ec6840b414002ec089",
+      "timestamp": 9107.998,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston",
+      "snapshotName": "input@call@a40cce9b3a2ea1ec6840b414002ec089",
+      "timestamp": 9143.395,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston",
+      "snapshotName": "after@call@a40cce9b3a2ea1ec6840b414002ec089",
+      "timestamp": 9166.476,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston",
+      "snapshotName": "before@call@e792083020084480edb15fc8c1f0a144",
+      "timestamp": 10308.704,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston",
+      "snapshotName": "input@call@e792083020084480edb15fc8c1f0a144",
+      "timestamp": 10365.372,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=day",
+      "snapshotName": "after@call@e792083020084480edb15fc8c1f0a144",
+      "timestamp": 10694.038,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=day",
+      "snapshotName": "before@call@64bf04f76b8655ad79616a8f42de9496",
+      "timestamp": 11917.26,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=day",
+      "snapshotName": "input@call@64bf04f76b8655ad79616a8f42de9496",
+      "timestamp": 11958.831,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=day",
+      "snapshotName": "after@call@64bf04f76b8655ad79616a8f42de9496",
+      "timestamp": 11968.562,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=day",
+      "snapshotName": "before@call@2deaf6d45a865f14e52c062e81773a8f",
+      "timestamp": 12860.798999999999,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=day",
+      "snapshotName": "input@call@2deaf6d45a865f14e52c062e81773a8f",
+      "timestamp": 12896.265,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all",
+      "snapshotName": "after@call@2deaf6d45a865f14e52c062e81773a8f",
+      "timestamp": 13212.767,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all",
+      "snapshotName": "before@call@6c5f2fa1a4913e603dd88f91eb1e4cdb",
+      "timestamp": 34442.319,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/top?t=all",
+      "snapshotName": "input@call@6c5f2fa1a4913e603dd88f91eb1e4cdb",
+      "timestamp": 34503.161,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    },
+    {
+      "pageId": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "frameId": "frame@400df6fa180cd0a6666ed37999b45d01",
+      "frameUrl": "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9999/f/boston/124422/i-guess-ugliest-depends-on-the-weather-looks-pretty-handsome",
+      "snapshotName": "after@call@6c5f2fa1a4913e603dd88f91eb1e4cdb",
+      "timestamp": 37416.608,
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "isMainFrame": true
+    }
+  ],
+  "final_frames": [
+    {
+      "page_id": "page@800f017279676c01b83399243cdb3730",
+      "timestamp": 25427.479,
+      "resource": "page@800f017279676c01b83399243cdb3730-1704321398.813742.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_34__page0.jpg",
+      "sha256": "d0a7def2eee6e5b32021df932d841e04fe7740e054c09c105b329d86fe97e7fa",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@c447fe7a5581976822d06d71f547fc53",
+      "timestamp": 29679.213,
+      "resource": "page@c447fe7a5581976822d06d71f547fc53-1704321403.066103.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_34__page1.jpg",
+      "sha256": "e3f3a02e224d7bdbd8ae35d5a3acabbc752f64e89404c4cba6e85b18caa6f29a",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    },
+    {
+      "page_id": "page@4f8d9ca20c98bac7b726a4d6284acb11",
+      "timestamp": 39292.802,
+      "resource": "page@4f8d9ca20c98bac7b726a4d6284acb11-1704321412.681503.jpeg",
+      "path": "reference_validation/frames/vwa_reddit_34__page2.jpg",
+      "sha256": "cff993dfb8428c09506197ca69f48e35b63334804f62844d0bca25f06f8d6d0f",
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        446
+      ]
+    }
+  ],
+  "default_last_frame": "reference_validation/frames/vwa_reddit_34__page2.jpg",
+  "identity_status": "unreviewed",
+  "completion_status": "unreviewed",
+  "eligible_for_model_run": false
+}
