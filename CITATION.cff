@@ -2,6 +2,9 @@ cff-version: 1.2.0
 title: "Can Multimodal Models Verify Web-Agent Work? The Role of Visual and Textual References in Post-Hoc Verification"
 message: "If you use this software, please cite it using the metadata from this file."
 type: software
+version: "v1.2-ieee-access-reviewer-evidence"
+doi: "10.5281/zenodo.22990531"
+date-released: 2026-09-27
 authors:
   - family-names: Thatikonda
     given-names: Vishwak

@@ -1,5 +1,7 @@
 # Can Multimodal Models Verify Web-Agent Work?
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22990531.svg)](https://doi.org/10.5281/zenodo.22990531)
+
 Replication package for *Can Multimodal Models Verify Web-Agent Work? The Role of Visual
 and Textual References in Post-Hoc Verification* (IEEE Access, manuscript Access-2026-32332,
 under revision).
@@ -12,9 +14,10 @@ agent.
 
 ## Review release
 
-The stable reviewer-evidence release is tagged **`v1.2-ieee-access-reviewer-evidence`**. It
-adds the matched reference-information experiment, the visual-reference audit and the
-offline robustness tables used in the revision. The earlier **`v1.1-ieee-access-r1`** tag
+The stable reviewer-evidence release is archived at **[10.5281/zenodo.22990531](https://doi.org/10.5281/zenodo.22990531)**
+and tagged **`v1.2-ieee-access-reviewer-evidence`**. It adds the matched
+reference-information experiment, the visual-reference audit and the offline robustness
+tables used in the revision. The earlier **`v1.1-ieee-access-r1`** tag
 is preserved as the historical R1 snapshot. See [`PROVENANCE.md`](PROVENANCE.md) for the
 scope and limitations of each release.
 

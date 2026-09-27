@@ -44,8 +44,9 @@ or domain composition. No new C/D model outputs are claimed for the repaired 67-
 
 ## Release policy
 
-The reviewer-evidence tag is `v1.2-ieee-access-reviewer-evidence`. A SHA-256 manifest at the
-repository root covers the evidence package. API credentials, raw browser traces, working
+The reviewer-evidence tag is `v1.2-ieee-access-reviewer-evidence` and its version-specific
+archival DOI is [10.5281/zenodo.22990531](https://doi.org/10.5281/zenodo.22990531). A SHA-256
+manifest at the repository root covers the evidence package. API credentials, raw browser traces, working
 manuscripts, peer-review correspondence, temporary reports and the 537 MB intermediate action
 state export are excluded. The obsolete files were removed from all public history. A private local rollback bundle was
 created before the authorized history rewrite and is not part of the release.
