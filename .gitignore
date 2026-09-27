@@ -43,3 +43,6 @@ Thumbs.db
 # Peer-review correspondence stays out of the repository
 Response_to_Reviewers*.docx
 Resubmission_Checklist*.docx
+
+# Keep independent text-reference ratings private until both authors finish
+reviewer_artifacts/text_reference_validation/text_reference_audit_author_*.json
